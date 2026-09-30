@@ -37,7 +37,7 @@ jobs:
 
       - name: Diagnóstico
         if: github.event_name == 'push' || inputs.probe
-        run: node scripts/precios/probe.mjs
+        run: node scripts/precios/probe-variants.mjs && node scripts/precios/probe.mjs
 
       - name: Obtener precios
         if: ${{ !inputs.probe }}

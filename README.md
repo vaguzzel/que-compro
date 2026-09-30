@@ -1,11 +1,12 @@
 # ¿Qué compro? 🛒
 
-Asistente para las compras del supermercado. Eliges un escenario (asado, cosas para el pan, picoteo o cumpleaños) y te guía paso a paso por todas las variantes posibles. Al final te dice **qué comprar, cuánto** y **cuánto te va a costar**, con el **mínimo, la media y el máximo** en pesos chilenos.
+Asistente para las compras del supermercado. Eliges qué vas a hacer (asado, cosas para el pan, picoteo o cumpleaños, completos, carrete, tabla de quesos o brunch) y te guía paso a paso por todas las variantes posibles. Al final te dice **qué comprar, cuánto** y **cuánto te va a costar**, con el **mínimo, la media y el máximo**, calculados con **precios reales** de Jumbo, Unimarc, Tottus y Lider.
 
 - Sin IA y sin servidor: todo se calcula en el navegador.
 - HTML, CSS y JavaScript puro, sin build ni dependencias.
 - Pensada para el celular, porque se usa en el súper.
-- Estilo kawaii del portafolio: letras globo, tarjetas sticker, fondo de lunares y los mismos íconos pastel.
+- Estilo kawaii del portafolio: letras globo, tarjetas sticker, washi tape, fondo de lunares y más de 100 íconos pastel.
+- En el asado, cada corte tiene una **ficha** (botón ⓘ) con un dibujo del animal que marca de dónde sale, para qué sirve, cómo se cocina, cuánto demora y en qué platos queda mejor.
 
 ## Cómo usarla
 
@@ -15,11 +16,37 @@ Abre `index.html` directo en el navegador (funciona con `file://`) o sírvela en
 npx serve .            # o: python -m http.server
 ```
 
+Para publicarla en Vercel, importa el repo con el preset **Other**, sin comando de build ni carpeta de salida.
+
 1. **Inicio**: elige qué vas a hacer.
-2. **Asistente**: un paso por pregunta (personas, carnes, pan, bebestibles…). Cada opción muestra su rango de precio, y abajo queda fijo el total estimado, que se actualiza en vivo. **Lo típico** marca la combinación chilena clásica del paso. **Armar con lo típico**, en el paso de personas, arma la lista completa de una vez.
+2. **Asistente**: un paso por pregunta. Cada opción muestra su rango de precio, y abajo queda fijo el total estimado, que se actualiza en vivo. **Lo típico** marca la combinación chilena clásica del paso. **Armar con lo típico**, en el paso de personas, arma la lista completa de una vez.
 3. **Tu lista**: los tres totales (mínimo, media y máximo), el costo por persona y la lista agrupada por pasillo. Puedes subir o bajar cada cantidad (el total se recalcula), copiar la lista, mandarla por WhatsApp o imprimirla.
 
 Las respuestas se guardan en `localStorage`, así que no se pierden al recargar.
+
+## Precios reales (scraper)
+
+`scripts/precios/` busca cada producto del catálogo en los supermercados y calcula su mínimo, su media (mediana) y su máximo, siempre en la unidad del catálogo (por kg, por litro o por envase). Corre en GitHub Actions (`.github/workflows/precios.yml`):
+
+- **Todos los lunes** en la madrugada, y también **a mano** desde la pestaña *Actions → Precios reales → Run workflow*. En `main` hace commit de `data/prices.js` y `data/prices-report.md`, y Vercel redespliega solo.
+- **En otras ramas** corre en modo *dry-run*: muestra los precios en el log y el detalle de los productos sospechosos, sin hacer commit.
+- **Frenos de seguridad**: primero corren los tests. Si calza menos del 60 % del catálogo no se escribe nada, y un producto con menos de 2 precios encontrados conserva su precio de respaldo (la lista lo marca como "precio referencial").
+
+| Súper | Cómo se consulta |
+|---|---|
+| Jumbo | HTML de la búsqueda (JSON-LD y precio por unidad de cada tarjeta) |
+| Unimarc | API del sitio (BFF) con headers de navegador |
+| Tottus | API JSON del buscador |
+| Lider | GraphQL del sitio; tiene anti-bot, así que se reintenta y, si bloquea, se sigue sin él |
+| Santa Isabel | Hoy bloquea a GitHub (403); se activa con `PRECIOS_SANTA_ISABEL=1` |
+
+Para revisar que los precios tengan sentido, abre `data/prices-report.md`: por cada producto lista qué ítems calzaron en cada súper, con precio y link.
+
+```sh
+node scripts/precios/index.mjs --dry                 # necesita acceso a los sitios
+node scripts/precios/index.mjs --only=croissant,entrana
+node scripts/precios/probe.mjs croissant "entraña"   # muestra la respuesta cruda de cada súper
+```
 
 ## Tests
 
@@ -27,89 +54,63 @@ Las respuestas se guardan en `localStorage`, así que no se pierden al recargar.
 node --test
 ```
 
-Prueban el motor de cálculo (`js/calc.js`): el reparto de los pools, el redondeo al envase, las reglas por persona, fijas y solo para adultos, las cantidades editadas y la consistencia del catálogo y los escenarios (que exista cada producto y cada ícono, y que se cumpla mín ≤ media ≤ máx).
-
-> Con Node 22, `node --test tests/` no acepta una carpeta como argumento. Usa `node --test`, que encuentra solo los `*.test.js`.
+- `tests/calc.test.js`: el motor (pools, redondeo al envase, reglas, pasos condicionales, completos) y la consistencia del catálogo, los escenarios y las fichas.
+- `tests/scraper.test.mjs`: la normalización del scraper, con nombres y precios reales vistos en los súper (tamaños como "1,5 L" o "6 x 350 cc", productos a granel por kg, exclusión de mascotas y cosméticos, etc.).
 
 ## Estructura
 
 ```
-index.html            estructura: header, <main id="app">, footer y scripts
-css/base.css          paleta, tipografías, letras globo, tarjetas y botones (del portafolio)
-css/app.css           tarjetas de opción, stepper, minitotal, resumen e impresión
-js/icons.js           QC.icon(name): íconos SVG pastel con contorno café
-js/util.js            formato de pesos y cantidades, helpers
-js/calc.js            motor de cantidades y precios (funciones puras, también corre en Node)
-js/app.js             router por hash: #/ → #/e/<escenario>/<paso> → #/e/<escenario>/resumen
-data/products.js      catálogo con precios mín/medio/máx y pasillos
-data/scenarios/*.js   un archivo por escenario
-tests/calc.test.js    tests con node:test
-docs/PLAN.md          plan original del proyecto
-docs/referencia-estilo/  íconos y estilos del portafolio usados como referencia
+index.html              estructura, <dialog> de la ficha y scripts (clásicos, sin módulos ES)
+css/base.css            paleta, tipografías, letras globo, tarjetas, washi tape (del portafolio)
+css/app.css             pantallas, tarjetas de opción, ficha, resumen e impresión
+js/icons.js             QC.icon(name): íconos SVG pastel con contorno café
+js/diagrams.js          QC.diagram(animal, zona): vaca, cerdo, cordero, pollo y pescado
+js/util.js              formato de pesos, cantidades y fechas
+js/calc.js              motor de cantidades y precios (funciones puras, también corre en Node)
+js/app.js               router por hash: #/ → #/e/<escenario>/<paso> → #/e/<escenario>/resumen
+data/products/*.js      catálogo por pasillo: precios de respaldo y reglas de búsqueda
+data/prices.js          precios reales (lo genera el scraper)
+data/prices-report.md   detalle de dónde salió cada precio
+data/cuts.js            fichas de los cortes
+data/scenarios/*.js     un archivo por escenario
+scripts/precios/        scraper (Node 22, sin dependencias)
+tests/                  node:test
+docs/                   plan original y referencias de estilo del portafolio
 ```
 
-Los scripts son clásicos (no módulos ES) y cuelgan todo del objeto global `QC`, como en el portafolio. Así la página funciona abriendo el archivo directo.
-
-## Actualizar precios
-
-Los precios están en `data/products.js`. Cada producto tiene `min`, `avg` y `max` **por unidad de compra** (`unit`): por kg, por litro o por envase. Son precios de referencia de Lider, Jumbo, Unimarc, Tottus y Santa Isabel:
-
-- `min`: el más barato (marca propia u oferta)
-- `avg`: el precio típico
-- `max`: el más caro (marca premium o el súper más caro)
-
-Después de actualizarlos, cambia `QC.PRICES_UPDATED` (por ejemplo, a `"2027-03"`). Esa fecha aparece en el header y en la lista.
+## Catálogo (`data/products/*.js`)
 
 ```js
-entrana: { name: "Entraña", cat: "carniceria", unit: "kg", step: 0.5,
-           min: 17990, avg: 21990, max: 27990, icon: "steak", hint: "…" }
+croissant: { name: "Croissant", cat: "panaderia", unit: "croissant", plural: "croissants", step: 1,
+             min: 690, avg: 890, max: 1290, icon: "croissant",
+             q: "croissant", not: ["relleno", "mini", "jamon"], pack: { un: 1, g: 70 } }
 ```
 
 | Campo | Qué es |
 |---|---|
 | `cat` | pasillo, uno de `QC.AISLES` (ordena la lista de compras) |
-| `unit` | `"kg"`, `"L"` o una unidad contable (`"frasco"`, `"botella de 3 L"`…) |
-| `plural` | plural de la unidad si no basta con agregar "s" |
-| `step` | lo mínimo que se puede comprar: la cantidad se redondea hacia arriba a un múltiplo (0,5 kg, 1 frasco, packs de 6 latas…) |
-| `size` | solo si el producto participa en un pool en kg: cuánto aporta una unidad (una bolsa de pan de molde ≈ 0,6 kg) |
-| `icon` | nombre del ícono en `js/icons.js` (si no existe, se usa una canasta) |
+| `unit` / `plural` | unidad de compra y de precio: `"kg"`, `"L"` o una unidad contable (`"frasco"`, `"botella de 3 L"`…) |
+| `step` | lo mínimo que se puede comprar: la cantidad se redondea hacia arriba a un múltiplo |
+| `size` | kg que aporta 1 unidad a un pool (una bolsa de pan de molde ≈ 0,6 kg) |
+| `min` / `avg` / `max` | precios de **respaldo**: `data/prices.js` los reemplaza por los reales |
+| `q` | texto que el scraper busca en cada súper |
+| `must` / `not` | palabras obligatorias o excluidas en el nombre (`[["a", "b"]]` = a o b; `"gorr*"` = prefijo) |
+| `pack` | a qué equivale 1 unidad: `{ g }`, `{ ml }`, `{ un, g? }`; si falta, 1 kg, 1 L o el envase tal cual |
+| `start`, `minSize`, `tol` | la palabra debe ir primero; envase mínimo en g; tolerancia de tamaño (por defecto 0,55 a 1,8) |
+| `scrape: false` | no buscarlo (se queda con el precio de respaldo) |
 
-## Agregar un escenario
+## Escenarios (`data/scenarios/*.js`)
 
-Crea `data/scenarios/<id>.js`, inclúyelo en `index.html` antes de `js/calc.js` y súmalo a los `require` de `tests/calc.test.js`. Un escenario es una lista de pasos declarativos:
+Un escenario es una lista de pasos declarativos. Para agregar uno, crea el archivo, inclúyelo en `index.html` y en `tests/calc.test.js`.
 
-```js
-QC.SCENARIOS.push({
-  id: "asado", name: "Asado", icon: "grill", color: "pink", tagline: "…",
-  pools: { carne: { perPerson: 0.4 } },          // kg por persona a repartir
-  steps: [
-    { id: "personas", type: "people", title: "¿Cuántos van?" },
-    { id: "comida", type: "choice", title: "¿Para qué es?", options: [
-        { id: "once", name: "Once", icon: "tea", factor: 1, typical: true },
-        { id: "ambos", name: "Desayuno y once", icon: "sparkle", factor: 2 } ] },
-    { id: "carnes", type: "pick", title: "…", min: 1, groups: [
-        { name: "Vacuno", options: [
-            { product: "entrana", pool: "carne", typical: true },
-            { product: "longaniza", pool: "carne", weight: 0.5 } ] } ] }
-  ]
-});
-```
-
-**Tipos de paso**
-
-- `people`: adultos y niños. Los niños cuentan como media persona (personas efectivas = adultos + 0,5 × niños).
-- `choice`: se elige una sola opción. Su `factor` multiplica las cantidades por persona (desayuno y once = ×2).
-- `pick`: opciones de selección múltiple agrupadas por subcategoría. Con `min: 1`, obliga a elegir al menos una.
+- `people`: adultos y niños (cuentan como media persona). Con `kids: false` es solo para adultos (carrete).
+- `choice`: se elige una opción. Su `factor` multiplica las cantidades por persona (desayuno y once ×2, carrete largo ×1,8).
+- `pick`: opciones de selección múltiple agrupadas. Acepta `min: 1`, `info: true` (botón ⓘ con la ficha de `data/cuts.js`) y `when: { step, any: [...] }` (el paso solo aparece si en otro se eligió alguna de esas opciones).
 
 **Reglas de cantidad de una opción**
 
-- `perPerson: 0.1`: 0,1 unidades por persona efectiva (× el factor). Con `adultsOnly: true`, se calcula solo para los adultos (cerveza, vino).
-- `pool: "carne"`: se reparte el total del pool entre las opciones elegidas del mismo pool. `weight` cambia la proporción (los embutidos cuentan 0,5).
-- `fixed: 1, every: 8`: 1 unidad por cada 8 personas (o 1 fija si no hay `every`).
-- `items: [...]`: un combo de varios productos con su regla cada uno (ensalada chilena = tomate + cebolla). Si dos opciones usan el mismo producto, las cantidades se suman.
-- `typical: true`: la marca el botón **Lo típico**.
-
-## Pendiente
-
-- Publicarla (GitHub Pages o Vercel).
-- Contrastar los precios con los sitios de los supermercados. Desde el entorno donde se implementó no se podía acceder a ellos, así que son valores de referencia curados a mano para septiembre de 2026.
+- `perPerson: 0.1`: por persona efectiva (× el factor). Con `adultsOnly: true`, solo para adultos.
+- `pool: "carne"`: se reparte el total del pool entre las opciones elegidas; `weight` cambia la proporción.
+- `fixed: 1, every: 8`: 1 unidad cada 8 personas (o 1 fija si no hay `every`).
+- `items: [...]`: combo de varios productos (ensalada chilena = tomate + cebolla). Si el combo tiene su propio `pool`, sus ítems usan `per` (cantidad por unidad del pool): así, cada tipo de completo trae 1 pan, 1 vienesa, 50 g de palta…
+- `typical: true`: la marca **Lo típico**.

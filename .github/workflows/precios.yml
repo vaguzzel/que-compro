@@ -36,6 +36,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Tests
+        run: node --test
+
       - name: Diagnóstico
         if: inputs.probe
         run: node scripts/precios/probe.mjs

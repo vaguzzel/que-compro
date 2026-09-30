@@ -1,0 +1,62 @@
+name: Precios reales
+
+# Actualiza data/prices.js con precios de Jumbo, Santa Isabel, Unimarc, Tottus y Lider.
+# - Los lunes en la madrugada (hora de Chile) y a mano desde la pestaña Actions: actualiza y hace commit en main.
+# - En cualquier otra rama: solo muestra el resultado en el log (dry-run), sin commit.
+on:
+  schedule:
+    - cron: "17 8 * * 1"
+  workflow_dispatch:
+    inputs:
+      probe:
+        description: "Solo diagnóstico (muestra la respuesta cruda de cada súper)"
+        type: boolean
+        default: false
+  push:
+    branches-ignore: [main]
+    paths:
+      - "scripts/precios/**"
+      - ".github/workflows/precios.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: precios-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  precios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Diagnóstico
+        if: github.event_name == 'push' || inputs.probe
+        run: node scripts/precios/probe.mjs
+
+      - name: Obtener precios
+        if: ${{ !inputs.probe }}
+        run: |
+          if [ "${{ github.ref }}" = "refs/heads/main" ]; then
+            node scripts/precios/index.mjs
+          else
+            node scripts/precios/index.mjs --dry
+          fi
+
+      - name: Commit de los precios
+        if: github.ref == 'refs/heads/main' && !inputs.probe
+        run: |
+          git config user.name "precios-bot"
+          git config user.email "precios-bot@users.noreply.github.com"
+          git add data/prices.js data/prices-report.md
+          if git diff --cached --quiet; then
+            echo "Sin cambios de precios."
+          else
+            git commit -m "Precios reales: $(date -u +%Y-%m-%d)"
+            git push
+          fi

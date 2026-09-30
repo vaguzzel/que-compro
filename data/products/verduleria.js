@@ -22,7 +22,7 @@
     repollo: v("Repollo", "repollo", 1, 990, 1490, 2190, "cabbage", { q: "repollo", not: PROC.concat(["morado", "rojo", "chucrut", "precocido"]) }),
     zanahoria: v("Zanahoria", "kg", 0.5, 690, 1090, 1590, "carrot", { q: "zanahoria", minSize: 500, not: PROC.concat(["baby", "rallada"]) }),
     apio: v("Apio", "unidad", 1, 990, 1490, 2190, "herb", { plural: "unidades", q: "apio", not: ["sal", "seco"] }),
-    pimenton: v("Pimentón", "kg", 0.5, 1490, 2290, 3490, "pepper", { q: "pimenton rojo", must: ["pimenton"], not: PROC.concat(["dulce", "ahumado", "molido", "merken", "specia", "frasco", "mermelada"]) }),
+    pimenton: v("Pimentón", "kg", 0.5, 1490, 2290, 3490, "pepper", { q: "pimenton rojo", must: ["pimenton"], minSize: 300, not: PROC.concat(["dulce", "ahumado", "molido", "merken", "specia", "carmencita", "picante", "frasco", "mermelada"]) }),
     berenjena: v("Berenjena", "kg", 0.5, 1290, 1990, 2790, "eggplant", { q: "berenjena", not: PROC }),
     zapallo_italiano: v("Zapallo italiano", "kg", 0.5, 1290, 1890, 2690, "zucchini", { q: "zapallo italiano", must: ["zapallo", "italiano"], not: PROC }),
     champinones: v("Champiñones", "bandeja", 1, 1190, 1590, 2290, "mushroom", { hint: "Bandeja de ≈ 250 g", q: "champiñon", must: [["champinon", "champinones"]], not: PROC.concat(["lata", "laminado en"]), pack: { g: 250 } }),

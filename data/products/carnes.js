@@ -33,7 +33,7 @@
     costillar: kg("Costillar de cerdo", 5990, 7490, 9490, "ribs", { q: "costillar cerdo", must: ["costillar"], not: ["vacuno", "cordero", "ahumado", "bbq"] }),
     pulpa_cerdo: kg("Pulpa de cerdo", 5490, 6490, 7990, "steak", { q: "pulpa cerdo", must: ["pulpa", "cerdo"] }),
     chuleta: kg("Chuleta de cerdo", 4990, 5990, 7490, "steak", { q: "chuleta cerdo", must: ["chuleta"], not: ["cordero", "vacuno", "ahumada"] }),
-    malaya_cerdo: kg("Malaya de cerdo", 5490, 6990, 8490, "steak", { q: "malaya cerdo", must: ["malaya", "cerdo"] }),
+    malaya_cerdo: kg("Malaya de cerdo", 12990, 14990, 16990, "steak", { q: "malaya cerdo", must: ["malaya", "cerdo"] }),
     lomo_cerdo: kg("Lomo de cerdo", 5990, 7490, 9490, "steak", { q: "lomo de cerdo", must: ["lomo", "cerdo"], not: ["ahumado", "lomito", "tocino"] }),
     lomito_cerdo: kg("Lomito de cerdo (para as)", 7990, 9990, 12990, "ham", { hint: "Cocido y laminado, para el as y el barros luco", q: "lomito cerdo", must: [["lomito", "lomitos"]], not: ["pollo", "pavo"] }),
     panceta: kg("Panceta de cerdo", 6990, 8490, 10990, "ribs", { q: "panceta cerdo", must: ["panceta"], not: ["ahumada", "tocino", "laminada"] }),
@@ -41,7 +41,7 @@
     /* ---------- Pollo ---------- */
     trutro: kg("Trutro entero de pollo", 2990, 3790, 4990, "chickenLeg", { q: "trutro entero pollo", must: ["trutro"], not: ["pavo", "apanado", "cocido", "deshuesado", "corto"] }),
     trutro_corto: kg("Trutro corto de pollo", 2990, 3990, 5290, "chickenLeg", { q: "trutro corto pollo", must: ["trutro", "corto"], not: ["pavo", "apanado"] }),
-    alitas: kg("Alitas de pollo", 3490, 4490, 5990, "chickenLeg", { q: "alitas pollo", must: [["alitas", "alas"]], not: ["pavo", "apanadas", "bbq", "crocante", "crocantes", "golden", "mix"] }),
+    alitas: kg("Alitas de pollo", 3490, 4490, 5990, "chickenLeg", { q: "alitas pollo", must: [["alitas", "alas"]], not: ["pavo", "apanadas", "rebozadas", "bbq", "barbecue", "sabor", "surena", "chilena", "chilenas", "crocante", "crocantes", "golden", "mix"] }),
     pechuga: kg("Pechuga de pollo deshuesada", 5490, 6990, 8990, "chickenLeg", { q: "pechuga pollo deshuesada", must: ["pechuga"], not: ["pavo", "apanada", "cocida", "laminada", "nuggets"] }),
     pollo_entero: kg("Pollo entero", 2490, 2990, 3990, "chickenLeg", { q: "pollo entero", must: ["pollo", "entero"], not: ["asado", "rostizado", "trutro"] }),
 

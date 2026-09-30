@@ -1,33 +1,41 @@
-// Diagnóstico temporal: prueba variantes de headers/endpoints para los súper que responden 403.
+// Diagnóstico temporal (ronda 2): Jumbo HTML, Santa Isabel apis y forma de la API de Tottus.
 import { UA } from "./http.mjs";
-const BROWSER = {
-  "user-agent": UA, "accept-language": "es-CL,es;q=0.9,en;q=0.8",
-  "sec-ch-ua": '"Chromium";v="131", "Not_A Brand";v="24", "Google Chrome";v="131"',
-  "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": '"Windows"'
-};
-const J = (domain, key) => ({ ...BROWSER, "content-type": "application/json", accept: "application/json, text/plain, */*", apikey: key, "x-api-key": key, origin: domain, referer: domain + "/", "sec-fetch-dest": "empty", "sec-fetch-mode": "cors", "sec-fetch-site": "same-site" });
-const plp = (store, q) => ({ store, collections: [], fullText: q, brands: [], hideUnavailableItems: false, from: 0, to: 11, orderBy: "", selectedFacets: [], promotionalCards: false, sponsoredProducts: false });
-const JK = "be-reg-groceries-jumbo-catalog-w54byfvkmju5", SK = "be-reg-groceries-sisa-catalog-wdhhq5a2fken";
-const tests = [
-  ["jumbo plp browser", "https://bff.jumbo.cl/catalog/plp", { method: "POST", headers: J("https://www.jumbo.cl", JK), body: JSON.stringify(plp("jumboclj512", "croissant")) }],
-  ["jumbo search GET", "https://bff.jumbo.cl/catalog/search?term=croissant", { headers: J("https://www.jumbo.cl", JK) }],
-  ["jumbo home html", "https://www.jumbo.cl/busqueda?ft=croissant", { headers: { ...BROWSER, accept: "text/html" } }],
-  ["jumbo old api", "https://apijumboweb.smdigital.cl/catalog/api/v1/search/croissant?page=1", { headers: { ...BROWSER, "x-api-key": "IuimuMneIKJd3tapno2Ag1c1WcAES97j" } }],
-  ["jumbo sm-web-api", "https://sm-web-api.ecomm.cencosud.com/catalog/api/v4/products/search/croissant?page=1&sc=11", { headers: { ...BROWSER, apikey: "WlVnnB7c1BblmgUPOfg" } }],
-  ["sisa plp browser", "https://bff.santaisabel.cl/catalog/plp", { method: "POST", headers: J("https://www.santaisabel.cl", SK), body: JSON.stringify(plp("pedrofontova", "croissant")) }],
-  ["sisa html", "https://www.santaisabel.cl/busqueda?ft=croissant", { headers: { ...BROWSER, accept: "text/html" } }],
-  ["tottus html browser", "https://www.tottus.cl/tottus-cl/buscar?Ntt=croissant", { headers: { ...BROWSER, accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8", "sec-fetch-dest": "document", "sec-fetch-mode": "navigate", "sec-fetch-site": "none", "sec-fetch-user": "?1", "upgrade-insecure-requests": "1" } }],
-  ["tottus api", "https://www.tottus.cl/s/browse/v1/search/cl?Ntt=croissant&page=1", { headers: { ...BROWSER, accept: "application/json" } }],
-  ["tottus lista", "https://www.tottus.cl/tottus-cl/lista/CATG10196/Promociones", { headers: { ...BROWSER, accept: "text/html" } }],
-  ["lider html", "https://super.lider.cl/search?q=croissant", { headers: { ...BROWSER, accept: "text/html" } }],
-  ["acuenta", "https://www.acuenta.cl/search?name=croissant", { headers: { ...BROWSER, accept: "text/html" } }]
-];
-for (const [label, url, opts] of tests) {
-  try {
-    const r = await fetch(url, { ...opts, redirect: "follow", signal: AbortSignal.timeout(25000) });
-    const t = await r.text();
-    console.log(`\n### ${label} → ${r.status} (${t.length} bytes) server=${r.headers.get("server")}`);
-    console.log("   " + t.slice(0, 400).replace(/\s+/g, " "));
-  } catch (e) { console.log(`\n### ${label} → ERROR ${e.message}`); }
-  await new Promise((r) => setTimeout(r, 800));
+const BROWSER = { "user-agent": UA, "accept-language": "es-CL,es;q=0.9", "sec-ch-ua": '"Chromium";v="131", "Not_A Brand";v="24"', "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": '"Windows"' };
+const get = async (url, headers = {}) => { const r = await fetch(url, { headers: { ...BROWSER, ...headers }, signal: AbortSignal.timeout(30000) }); return { status: r.status, text: await r.text() }; };
+const around = (t, needle, n = 700) => { const i = t.indexOf(needle); return i < 0 ? "(no aparece " + needle + ")" : t.slice(Math.max(0, i - 200), i + n).replace(/\s+/g, " "); };
+
+try {
+  const j = await get("https://www.jumbo.cl/busqueda?ft=croissant", { accept: "text/html" });
+  console.log("\n### JUMBO html", j.status, j.text.length);
+  console.log("has __NEXT_DATA__:", j.text.includes("__NEXT_DATA__"), "| __next_f:", (j.text.match(/__next_f\.push/g) || []).length);
+  for (const k of ['"listPrice"', '"price"', "ppum", '"sellingPrice"', "Croissant"]) console.log(`\n-- ${k}:`, around(j.text, k));
+  const scripts = [...j.text.matchAll(/https?:\/\/[a-z0-9.-]*(?:jumbo|cencosud|smdigital)[a-z0-9./_-]*/gi)].map((m) => m[0]);
+  console.log("\n-- hosts:", [...new Set(scripts.map((u) => u.split("/").slice(0, 3).join("/")))].join(" "));
+} catch (e) { console.log("JUMBO err", e.message); }
+
+try {
+  const s = await get("https://www.santaisabel.cl/busqueda?ft=croissant", { accept: "text/html" });
+  console.log("\n### SISA html", s.status);
+  console.log("-- scripts:", [...s.text.matchAll(/<script[^>]+src="([^"]+)"/g)].map((m) => m[1]).join(" "));
+  console.log("-- apis:", around(s.text, "apis.santaisabel.cl", 300));
+  const js = [...s.text.matchAll(/<script[^>]+src="([^"]+app[^"]*\.js)"/g)].map((m) => m[1])[0];
+  if (js) {
+    const b = await get(js.startsWith("http") ? js : "https://www.santaisabel.cl" + js);
+    console.log("-- bundle", js, b.status, b.text.length);
+    for (const k of ["x-api-key", "apis.santaisabel.cl", "catalog/api", "/search/"]) console.log(`   ${k}:`, around(b.text, k, 300));
+  }
+} catch (e) { console.log("SISA err", e.message); }
+
+for (const u of [
+  "https://apis.santaisabel.cl:8443/catalog/api/v2/pedrofontova/search/croissant?page=1",
+  "https://apis.santaisabel.cl:8443/catalog/api/v1/pedrofontova/search/croissant?page=1"
+]) {
+  try { const r = await get(u, { accept: "application/json", "x-api-key": "5CIqbUOvJhdpZp4bIE5jpiuFY3kLdq2z", origin: "https://www.santaisabel.cl", referer: "https://www.santaisabel.cl/" }); console.log("\n### ", u, r.status, r.text.slice(0, 600)); } catch (e) { console.log("\n### ", u, "ERR", e.message); }
 }
+
+try {
+  const t = await get("https://www.tottus.cl/s/browse/v1/search/cl?Ntt=croissant&page=1", { accept: "application/json" });
+  const j = JSON.parse(t.text);
+  console.log("\n### TOTTUS api keys:", Object.keys(j.data || {}).join(","), "| results:", (j.data?.results || []).length);
+  console.log(JSON.stringify(j.data?.results?.[0]).slice(0, 2500));
+} catch (e) { console.log("TOTTUS err", e.message); }

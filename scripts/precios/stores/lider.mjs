@@ -33,6 +33,7 @@ export function parseLiderItems(items) {
       name: p.name || "", brand: p.brand || "",
       price, listPrice: Math.max(list, price),
       ppum: pi.unitPrice?.priceString ? { text: pi.unitPrice.priceString } : null,
+      priceText: pi.currentPrice?.priceString || "",
       url: p.canonicalUrl ? "https://super.lider.cl" + p.canonicalUrl : "",
       available: true
     };
@@ -52,7 +53,12 @@ export function lider() {
     async search(q) {
       const errors = [];
       if (mode !== "html") {
-        const res = await request(ENDPOINT, { method: "POST", headers: headers(), wait, body: { query: QUERY, variables: { query: q, page: 1, ps: 40, prg: "desktop" } } });
+        let res;
+        for (let attempt = 0; attempt < 3; attempt++) {
+          res = await request(ENDPOINT, { method: "POST", headers: headers(), wait, body: { query: QUERY, variables: { query: q, page: 1, ps: 40, prg: "desktop" } } });
+          if (res.status !== 412) break;
+          await new Promise((r) => setTimeout(r, 4000 * (attempt + 1))); // PerimeterX: esperar y reintentar
+        }
         if (res.status === 200) {
           const j = res.json();
           const items = itemsFromSearch(j?.data?.search?.searchResult);

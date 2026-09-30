@@ -27,6 +27,7 @@ export function parseUnimarc(json) {
       brand: it.brand || "",
       price, listPrice: Math.max(list, price),
       ppum: pr.ppum ? { text: String(pr.ppum) } : null,
+      content: it.netContent || "",
       measure: it.measurementUnit ? { unit: it.measurementUnit, multiplier: +it.unitMultiplier || 1 } : null,
       url: it.slug ? DOMAIN + (it.slug.startsWith("/") ? "" : "/") + it.slug : "",
       available: true

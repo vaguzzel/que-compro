@@ -16,6 +16,7 @@ on:
     branches-ignore: [main]
     paths:
       - "scripts/precios/**"
+      - "data/products/**"
       - ".github/workflows/precios.yml"
 
 permissions:
@@ -36,8 +37,8 @@ jobs:
           node-version: 22
 
       - name: Diagnóstico
-        if: github.event_name == 'push' || inputs.probe
-        run: node scripts/precios/probe-variants.mjs && node scripts/precios/probe.mjs
+        if: inputs.probe
+        run: node scripts/precios/probe.mjs
 
       - name: Obtener precios
         if: ${{ !inputs.probe }}

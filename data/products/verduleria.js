@@ -1,0 +1,38 @@
+// Frutas y verduras
+(function (root) {
+  var QC = root.QC;
+  function v(name, unit, step, min, avg, max, icon, extra) {
+    var p = { name: name, cat: "verduleria", unit: unit, step: step, min: min, avg: avg, max: max, icon: icon };
+    for (var k in extra) p[k] = extra[k];
+    return p;
+  }
+  var PROC = ["salsa", "jugo", "pasta", "deshidratado", "conserva", "congelado", "congelada", "chips", "polvo"];
+  QC.addProducts({
+    tomate: v("Tomate", "kg", 0.5, 990, 1590, 2490, "tomato", { q: "tomate", not: PROC.concat(["cherry", "triturado", "pure", "ketchup"]) }),
+    tomate_cherry: v("Tomate cherry", "bandeja", 1, 1290, 1790, 2490, "tomato", { hint: "Bandeja de ≈ 250 g", q: "tomate cherry", must: ["cherry"], not: PROC, pack: { g: 250 } }),
+    cebolla: v("Cebolla", "kg", 0.5, 690, 1090, 1590, "onion", { q: "cebolla", not: PROC.concat(["morada", "escabeche", "perla", "frita"]) }),
+    cebolla_morada: v("Cebolla morada", "kg", 0.5, 990, 1490, 1990, "onion", { q: "cebolla morada", must: ["cebolla", "morada"], not: PROC }),
+    ajo: v("Ajo", "cabeza", 1, 290, 490, 790, "garlic", { q: "ajo", must: ["ajo"], not: PROC.concat(["pan", "sal", "molido", "pasta"]), pack: { un: 1, g: 50 } }),
+    cilantro: v("Cilantro", "atado", 1, 390, 690, 990, "herb", { q: "cilantro", not: ["seco", "deshidratado", "semilla"] }),
+    perejil: v("Perejil", "atado", 1, 390, 690, 990, "herb", { q: "perejil", not: ["seco", "deshidratado"] }),
+    lechuga: v("Lechuga", "lechuga", 1, 690, 1090, 1590, "lettuce", { q: "lechuga", not: ["mix", "bolsa", "ensalada"] }),
+    repollo: v("Repollo", "repollo", 1, 990, 1490, 2190, "cabbage", { q: "repollo", not: ["morado", "chucrut"] }),
+    zanahoria: v("Zanahoria", "kg", 0.5, 690, 1090, 1590, "carrot", { q: "zanahoria", not: PROC.concat(["baby", "rallada"]) }),
+    apio: v("Apio", "unidad", 1, 990, 1490, 2190, "herb", { plural: "unidades", q: "apio", not: ["sal", "seco"] }),
+    pimenton: v("Pimentón", "kg", 0.5, 1490, 2290, 3490, "pepper", { q: "pimenton rojo", must: ["pimenton"], not: PROC.concat(["dulce", "ahumado", "molido", "merken"]) }),
+    berenjena: v("Berenjena", "kg", 0.5, 1290, 1990, 2790, "eggplant", { q: "berenjena", not: PROC }),
+    zapallo_italiano: v("Zapallo italiano", "kg", 0.5, 1290, 1890, 2690, "zucchini", { q: "zapallo italiano", must: ["zapallo", "italiano"], not: PROC }),
+    champinones: v("Champiñones", "bandeja", 1, 1190, 1590, 2290, "mushroom", { hint: "Bandeja de ≈ 250 g", q: "champiñon", must: [["champinon", "champinones"]], not: PROC.concat(["lata", "laminado en"]), pack: { g: 250 } }),
+    choclo: v("Choclo", "choclo", 1, 450, 690, 990, "corn", { q: "choclo", not: PROC.concat(["grano", "desgranado", "lata", "pastelera", "humita"]) }),
+    papa: v("Papas", "kg", 1, 890, 1390, 1990, "potato", { hint: "Mallas de 1 a 2 kg", q: "papa", must: [["papa", "papas"]], not: PROC.concat(["fritas", "prefritas", "hash", "duquesa"]) }),
+    palta: v("Palta", "kg", 0.5, 3990, 5990, 8990, "avocado", { hint: "≈ 4 o 5 paltas por kg", q: "palta hass", must: ["palta"], not: PROC.concat(["guacamole", "crema"]) }),
+    limon: v("Limón", "kg", 0.5, 1290, 1990, 2990, "lemon", { q: "limon", not: PROC.concat(["soda", "bebida", "helado", "sucedaneo"]) }),
+    frutillas: v("Frutillas", "bandeja", 1, 1990, 2790, 3990, "strawberry", { hint: "Bandeja de ≈ 500 g", q: "frutilla", must: [["frutilla", "frutillas"]], not: PROC.concat(["mermelada", "yogur", "helado", "leche"]), pack: { g: 500 } }),
+    platano: v("Plátano", "kg", 0.5, 990, 1390, 1990, "banana", { q: "platano", not: PROC }),
+    manzana: v("Manzana", "kg", 0.5, 990, 1490, 2190, "apple", { q: "manzana", not: PROC.concat(["compota", "vinagre", "nectar"]) }),
+    uvas: v("Uvas", "kg", 0.5, 1990, 2990, 4490, "grapes", { q: "uva", must: [["uva", "uvas"]], not: PROC.concat(["pasa", "pasas", "vino"]) }),
+    sandia: v("Sandía", "sandía", 1, 2990, 4490, 6990, "watermelon", { hint: "Entera, de 6 a 8 kg", q: "sandia", not: PROC }),
+    melon: v("Melón", "melón", 1, 1990, 2990, 3990, "melon", { q: "melon", not: PROC.concat(["tuna"]) }),
+    fruta: v("Fruta de la estación", "kg", 0.5, 990, 1690, 2490, "apple", { scrape: false })
+  });
+})(typeof window !== "undefined" ? window : globalThis);

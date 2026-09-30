@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>¿Qué compro?</title>
+  <meta name="description" content="Asistente para las compras del súper: elige un escenario (asado, cosas para el pan, picoteo) y te dice qué comprar, cuánto y cuánto te va a costar.">
+  <meta name="theme-color" content="#F9DDE3">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M3 5h3.5l3 15h15.5l2.5-10.5H8' fill='none' stroke='%233B2218' stroke-width='2.4' stroke-linejoin='round' stroke-linecap='round'/%3E%3Cpath d='M8.2 9.5h19.3L25 20H10.3z' fill='%23C9B6F2' stroke='%233B2218' stroke-width='2.4' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='25.5' r='2.4' fill='%23F7A1C4' stroke='%233B2218' stroke-width='2'/%3E%3Ccircle cx='23' cy='25.5' r='2.4' fill='%23F7A1C4' stroke='%233B2218' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&family=Pacifico&family=Special+Elite&family=Titan+One&display=swap">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido</a>
+
+  <header class="site-header">
+    <a class="logo" href="#/"><span class="logo__ico" data-icon="cart"></span>¿Qué compro?</a>
+    <span class="tape tape--sm tape--mint header__prices">Precios <span id="prices-date">2026-09</span></span>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <noscript><p class="card">¿Qué compro? necesita JavaScript para calcular tu lista.</p></noscript>
+  </main>
+
+  <div class="lace" aria-hidden="true"></div>
+  <footer class="site-footer wood">
+    <p class="logo logo--footer">¿Qué compro?</p>
+    <p class="muted-light">Precios de referencia de Lider, Jumbo, Unimarc, Tottus y Santa Isabel. En tu súper pueden variar.</p>
+    <p class="muted-light">Hecho con ♡ por Valentina · sin IA, todo se calcula en tu navegador</p>
+  </footer>
+
+  <div class="toast" id="toast" aria-hidden="true"></div>
+  <p class="sr-only" id="live" aria-live="polite"></p>
+
+  <!-- Scripts clásicos (sin módulos ES) para que funcione abriendo el archivo directo -->
+  <script src="js/icons.js"></script>
+  <script src="js/util.js"></script>
+  <script src="data/products.js"></script>
+  <script src="data/scenarios/asado.js"></script>
+  <script src="data/scenarios/pan.js"></script>
+  <script src="data/scenarios/picoteo.js"></script>
+  <script src="js/calc.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

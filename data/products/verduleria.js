@@ -19,7 +19,7 @@
     repollo: v("Repollo", "repollo", 1, 990, 1490, 2190, "cabbage", { q: "repollo", not: ["morado", "chucrut"] }),
     zanahoria: v("Zanahoria", "kg", 0.5, 690, 1090, 1590, "carrot", { q: "zanahoria", not: PROC.concat(["baby", "rallada"]) }),
     apio: v("Apio", "unidad", 1, 990, 1490, 2190, "herb", { plural: "unidades", q: "apio", not: ["sal", "seco"] }),
-    pimenton: v("Pimentón", "kg", 0.5, 1490, 2290, 3490, "pepper", { q: "pimenton rojo", must: ["pimenton"], not: PROC.concat(["dulce", "ahumado", "molido", "merken"]) }),
+    pimenton: v("Pimentón", "kg", 0.5, 1490, 2290, 3490, "pepper", { q: "pimenton rojo", must: ["pimenton", ["rojo", "verde", "amarillo", "tricolor"]], not: PROC.concat(["dulce", "ahumado", "molido", "merken", "especia", "frasco"]) }),
     berenjena: v("Berenjena", "kg", 0.5, 1290, 1990, 2790, "eggplant", { q: "berenjena", not: PROC }),
     zapallo_italiano: v("Zapallo italiano", "kg", 0.5, 1290, 1890, 2690, "zucchini", { q: "zapallo italiano", must: ["zapallo", "italiano"], not: PROC }),
     champinones: v("Champiñones", "bandeja", 1, 1190, 1590, 2290, "mushroom", { hint: "Bandeja de ≈ 250 g", q: "champiñon", must: [["champinon", "champinones"]], not: PROC.concat(["lata", "laminado en"]), pack: { g: 250 } }),
@@ -31,8 +31,8 @@
     platano: v("Plátano", "kg", 0.5, 990, 1390, 1990, "banana", { q: "platano", not: PROC }),
     manzana: v("Manzana", "kg", 0.5, 990, 1490, 2190, "apple", { q: "manzana", not: PROC.concat(["compota", "vinagre", "nectar"]) }),
     uvas: v("Uvas", "kg", 0.5, 1990, 2990, 4490, "grapes", { q: "uva", must: [["uva", "uvas"]], not: PROC.concat(["pasa", "pasas", "vino"]) }),
-    sandia: v("Sandía", "sandía", 1, 2990, 4490, 6990, "watermelon", { hint: "Entera, de 6 a 8 kg", q: "sandia", not: PROC }),
-    melon: v("Melón", "melón", 1, 1990, 2990, 3990, "melon", { q: "melon", not: PROC.concat(["tuna"]) }),
+    sandia: v("Sandía", "sandía", 1, 2990, 4490, 6990, "watermelon", { hint: "Entera, de 6 a 8 kg", q: "sandia", not: PROC.concat(["trozo", "cubos", "picada"]), pack: { un: 1, g: 7000 } }),
+    melon: v("Melón", "melón", 1, 1990, 2990, 3990, "melon", { q: "melon", not: PROC.concat(["tuna", "trozo", "cubos"]), pack: { un: 1, g: 1600 } }),
     fruta: v("Fruta de la estación", "kg", 0.5, 990, 1690, 2490, "apple", { scrape: false })
   });
 })(typeof window !== "undefined" ? window : globalThis);

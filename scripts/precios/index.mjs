@@ -111,6 +111,14 @@ for (const r of report.slice(0, 400)) {
   console.log(`  ${r.id.padEnd(22)} ${tag}`);
 }
 
+// Productos sospechosos: rango muy amplio o muy lejos del precio curado → se muestra el detalle
+const suspicious = report.filter((r) => r.obs.length && (!r.usable || r.s.max / r.s.min > 4 || r.s.avg / r.p.avg > 2 || r.s.avg / r.p.avg < 0.5));
+console.log(`\nDetalle de ${suspicious.length} productos para revisar:`);
+for (const r of suspicious) {
+  console.log(`\n# ${r.id} (${r.p.unit}, curado ${fmt(r.p.avg)})`);
+  for (const o of r.obs.slice(0, 14)) console.log(`   ${o.store}: ${o.name} → ${fmt(o.price)}`);
+}
+
 if (args.dry) {
   console.log("\n--dry: no se escribieron archivos.");
 } else if (coverage < MIN_COVERAGE && !args.only) {

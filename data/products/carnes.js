@@ -56,7 +56,7 @@
     prietas: kg("Prietas", 4990, 6490, 8490, "sausage", { hint: "Morcilla chilena", q: "prietas", must: [["prieta", "prietas"]] }),
     vienesas: { name: "Vienesas", cat: "carniceria", unit: "paquete de 20", plural: "paquetes de 20", step: 1, min: 2490, avg: 3490, max: 5490, icon: "sausage", hint: "Para completos: 1 o 2 por completo", q: "vienesas 20 unidades", must: [["vienesa", "vienesas", "salchicha", "salchichas"]], not: ["coctel", "cocktail", "mini", "pollo", "vegana", "veggie"], pack: { un: 20 } },
     vienesas_coctel: { name: "Vienesas de cóctel", cat: "carniceria", unit: "paquete", step: 1, min: 1990, avg: 2690, max: 3990, icon: "sausage", hint: "Paquete de ≈ 250 g", q: "vienesas coctel", must: [["coctel", "cocktail"]], pack: { g: 250 } },
-    hamburguesa_veggie: { name: "Hamburguesa veggie", cat: "congelados", unit: "caja de 4", plural: "cajas de 4", step: 1, min: 3490, avg: 4490, max: 5990, icon: "steak", hint: "Media por persona", q: "hamburguesa vegetal", must: ["hamburguesa", ["vegetal", "veggie", "vegana", "plant"]], pack: { un: 4 } },
+    hamburguesa_veggie: { name: "Hamburguesa veggie", cat: "congelados", unit: "caja de 4", plural: "cajas de 4", step: 1, min: 3490, avg: 4490, max: 5990, icon: "steak", hint: "Media por persona", q: "hamburguesa vegetal", must: ["hamburguesa", ["vegetal", "veggie", "vegana", "plant", "vegetariana"]] },
     queso_asar: { name: "Queso para asar (provoleta)", cat: "fiambreria", unit: "kg", step: 0.25, min: 11990, avg: 14990, max: 19990, icon: "cheese", q: "queso provoleta", must: [["provoleta", "parrilla", "asar"]], not: ["rallado"] },
 
     /* ---------- Pescadería ---------- */

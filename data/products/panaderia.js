@@ -16,10 +16,10 @@
     croissant: { name: "Croissant", cat: "panaderia", unit: "croissant", plural: "croissants", step: 1, size: 0.07, min: 690, avg: 890, max: 1290, icon: "croissant", q: "croissant", not: ["relleno", "rellena", "mini", "sandwich", "jamon", "queso", "chocolate", "pistacho", "avellana", "manzana", "chicken"], pack: { un: 1, g: 70 } },
     baguette: { name: "Baguette", cat: "panaderia", unit: "baguette", step: 1, min: 990, avg: 1490, max: 2290, icon: "loaf", q: "baguette", not: ["ajo", "mini"], pack: { un: 1, g: 250 } },
     pan_ajo: { name: "Pan de ajo", cat: "panaderia", unit: "unidad", plural: "unidades", step: 1, min: 1490, avg: 2190, max: 2990, icon: "loaf", q: "pan de ajo", must: ["pan", "ajo"] },
-    panqueques: { name: "Panqueques", cat: "panaderia", unit: "paquete de 10", plural: "paquetes de 10", step: 1, min: 1990, avg: 2690, max: 3490, icon: "pancake", q: "panqueques", must: [["panqueque", "panqueques", "crepes"]], not: ["mezcla", "harina", "relleno"], pack: { un: 10 } },
+    panqueques: { name: "Panqueques", cat: "panaderia", unit: "paquete de 10", plural: "paquetes de 10", step: 1, min: 1990, avg: 2690, max: 3490, icon: "pancake", q: "panqueques", must: [["panqueque", "panqueques", "crepes"]], not: ["mezcla", "harina", "relleno"], },
     kuchen: { name: "Kuchen", cat: "postres", unit: "kuchen", step: 1, min: 5990, avg: 8490, max: 12990, icon: "cake", hint: "De 8 a 10 porciones", q: "kuchen", not: ["mezcla", "porcion"] },
     torta: { name: "Torta", cat: "postres", unit: "torta", step: 1, min: 12990, avg: 17990, max: 24990, icon: "cake", hint: "De 15 porciones", q: "torta 15 personas", must: ["torta"], not: ["porcion", "mezcla", "harina", "vela", "decoracion"] },
-    muffins: { name: "Muffins", cat: "postres", unit: "paquete de 4", plural: "paquetes de 4", step: 1, min: 2490, avg: 3290, max: 4490, icon: "muffin", q: "muffin", must: [["muffin", "muffins", "queque"]], not: ["mezcla"], pack: { un: 4 } },
-    brownies: { name: "Brownies", cat: "postres", unit: "caja", step: 1, min: 2990, avg: 3990, max: 5490, icon: "chocolate", hint: "Caja de ≈ 6 porciones", q: "brownie", must: [["brownie", "brownies"]], not: ["mezcla", "harina"] }
+    muffins: { name: "Muffins", cat: "postres", unit: "paquete de 4", plural: "paquetes de 4", step: 1, min: 2490, avg: 3290, max: 4490, icon: "muffin", q: "muffin", must: [["muffin", "muffins", "queque"]], not: ["mezcla"] },
+    brownies: { name: "Brownies", cat: "postres", unit: "caja", step: 1, min: 2990, avg: 3990, max: 5490, icon: "chocolate", hint: "Caja de ≈ 6 porciones", q: "brownie", must: [["brownie", "brownies"]], not: ["mezcla", "harina", "helado", "galleta"], pack: { g: 300 } }
   });
 })(typeof window !== "undefined" ? window : globalThis);

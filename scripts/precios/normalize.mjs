@@ -13,8 +13,9 @@ export function rulesFor(id, p) {
   const q = p.q || p.name;
   const must = (p.must || fold(q).split(" ").filter((w) => w.length > 2 && !STOP.has(w)).slice(0, 2)).map((m) => (Array.isArray(m) ? m : [m]).map(fold));
   const not = (p.not || []).map(fold);
+  // Por defecto: 1 kg, 1 L o "el envase tal como se vende" (sin dividir por su contenido)
   let pack = p.pack;
-  if (!pack) pack = p.unit === "kg" ? { g: 1000 } : p.unit === "L" ? { ml: 1000 } : { un: 1 };
+  if (!pack) pack = p.unit === "kg" ? { g: 1000 } : p.unit === "L" ? { ml: 1000 } : { pkg: 1 };
   return { id, q, must, not, pack, tol: p.tol || [0.55, 1.8], perMeasure: p.unit === "kg" || p.unit === "L" };
 }
 
@@ -108,6 +109,8 @@ export function normalize(item, rules) {
       return out(unitPrice * want, unitPrice * want * ratio);
     }
   }
+  // Envase tal cual (bolsa, frasco, paquete…): el precio del ítem sin dividir
+  if (pack.pkg) return perKg ? null : out(item.price, item.listPrice);
   // Unidades contables (con peso opcional por pieza para lo que se vende a granel)
   const n = pack.un || 1;
   if (perKg) return pack.g ? out((item.price * pack.g) / 1000 * n, (item.price * pack.g) / 1000 * n * ratio) : null;

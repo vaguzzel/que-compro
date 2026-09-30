@@ -2,7 +2,7 @@
 (function (root) {
   var QC = root.QC;
   function s(name, unit, min, avg, max, icon, extra) {
-    var p = { name: name, cat: "snacks", unit: unit, step: 1, min: min, avg: avg, max: max, icon: icon };
+    var p = { name: name, cat: "snacks", unit: unit, step: 1, min: min, avg: avg, max: max, icon: icon, tol: [0.4, 2.6] };
     for (var k in extra) p[k] = extra[k];
     return p;
   }
@@ -20,9 +20,9 @@
     galletas_dulces: s("Galletas dulces", "paquete", 790, 1290, 1890, "cookie", { q: "galletas dulces", must: [["galleta", "galletas"]], not: ["soda", "agua", "saladas", "crackers", "perro", "gato"], pack: { g: 150 } }),
     chocolates: s("Chocolates", "bolsa", 1990, 2990, 4490, "chocolate", { hint: "Bolsa surtida de ≈ 200 g", q: "chocolates surtidos", must: ["chocolate*"], not: ["leche en polvo", "galleta", "helado", "cacao", "bebida"], pack: { g: 200 } }),
     gomitas: s("Gomitas", "bolsa", 990, 1490, 2190, "candy", { hint: "Bolsa de ≈ 200 g", q: "gomitas", must: [["gomitas", "gomita", "gomas"]], pack: { g: 200 } }),
-    alfajores: s("Alfajores", "caja", 1990, 2990, 4290, "cookie", { hint: "Caja de ≈ 6", q: "alfajores", must: [["alfajor", "alfajores"]], pack: { un: 6 } }),
-    empanaditas: { name: "Empanaditas de queso (congeladas)", cat: "congelados", unit: "caja", step: 1, min: 2990, avg: 3990, max: 5490, icon: "empanada", hint: "Caja de ≈ 12 cóctel", q: "empanadas coctel queso", must: [["empanada", "empanadas", "empanaditas"], "queso"], pack: { un: 12 } },
-    mini_pizzas: { name: "Mini pizzas (congeladas)", cat: "congelados", unit: "caja", step: 1, min: 2990, avg: 3990, max: 5290, icon: "pizza", hint: "Caja de ≈ 8 a 12", q: "mini pizzas", must: ["pizza*"], not: ["masa", "salsa"], pack: { un: 10 } },
+    alfajores: s("Alfajores", "caja", 1990, 2990, 4290, "cookie", { hint: "Caja de ≈ 6", q: "alfajores", must: [["alfajor", "alfajores"]] }),
+    empanaditas: { name: "Empanaditas de queso (congeladas)", cat: "congelados", unit: "caja", step: 1, min: 2990, avg: 3990, max: 5490, icon: "empanada", hint: "Caja de ≈ 12 cóctel", q: "empanadas coctel queso", must: [["empanada", "empanadas", "empanaditas"], "queso"], not: ["masa", "tapas"] },
+    mini_pizzas: { name: "Mini pizzas (congeladas)", cat: "congelados", unit: "caja", step: 1, min: 2990, avg: 3990, max: 5290, icon: "pizza", hint: "Caja de ≈ 8 a 12", q: "mini pizzas", must: ["pizza*"], not: ["masa", "salsa", "familiar", "horno"] },
     papas_congeladas: { name: "Papas prefritas congeladas", cat: "congelados", unit: "bolsa", step: 1, min: 1990, avg: 2790, max: 3790, icon: "potato", hint: "Bolsa de ≈ 1 kg", q: "papas prefritas congeladas", must: ["papas", ["prefritas", "congeladas", "fritas"]], not: ["chips", "lisas", "onduladas"], pack: { g: 1000 } },
     helado: { name: "Helado", cat: "postres", unit: "L", step: 1, min: 2490, avg: 3690, max: 5490, icon: "icecream", hint: "Potes de 1 L", q: "helado 1 litro", must: ["helado"], not: ["paleta", "cono", "barquillo", "mix", "polvo"] }
   });

@@ -2,11 +2,16 @@
 const test = require("node:test");
 const assert = require("node:assert/strict");
 
-require("../data/products.js");
-require("../data/scenarios/asado.js");
-require("../data/scenarios/pan.js");
-require("../data/scenarios/picoteo.js");
+const fs = require("node:fs");
+const path = require("node:path");
+
+// Se cargan los mismos scripts que index.html, en el mismo orden
+const dir = (d) => fs.readdirSync(path.join(__dirname, "..", d)).filter((f) => f.endsWith(".js")).sort();
+for (const f of dir("data/products")) require("../data/products/" + f);
+for (const f of ["asado", "pan", "picoteo", "completos", "carrete", "tabla", "brunch"]) require("../data/scenarios/" + f + ".js");
+require("../data/cuts.js");
 require("../js/icons.js");
+require("../js/diagrams.js");
 const calc = require("../js/calc.js");
 
 const QC = globalThis.QC;
@@ -67,7 +72,7 @@ test("reglas fixed y adultsOnly", () => {
     picks: { bebestibles: ["cerveza"], fuego: ["carbon", "encendedor"] }
   }, P);
   assert.equal(item(res, "cerveza").qty, 18); // 6 adultos × 3 latas, packs de 6
-  assert.equal(item(res, "carbon").qty, 2); // 10 personas → 1 saco cada 8
+  assert.equal(item(res, "carbon").qty, 2); // 10 personas → 1 bolsa cada 5
   assert.equal(item(res, "encendedor").qty, 1);
 });
 
@@ -124,12 +129,34 @@ test("sin personas no hay nada que comprar", () => {
   assert.deepEqual(res.perPerson, { min: 0, avg: 0, max: 0 });
 });
 
+test("pasos condicionales: los extras de desayuno solo cuentan si es desayuno", () => {
+  const s = scenario("pan");
+  const picks = { comida: ["once"], panes: ["marraqueta"], extras_desayuno: ["yogur"] };
+  const once = calc.calculate(s, { people: { adults: 4, kids: 0 }, picks }, P);
+  assert.equal(item(once, "yogur"), undefined);
+  assert.equal(calc.visibleSteps(s, { picks }).some((st) => st.id === "extras_desayuno"), false);
+  const desayuno = calc.calculate(s, { people: { adults: 4, kids: 0 }, picks: { ...picks, comida: ["desayuno"] } }, P);
+  assert.equal(item(desayuno, "yogur").qty, 4);
+});
+
+test("completos: los tipos se reparten los completos y cada uno trae sus ingredientes", () => {
+  const s = scenario("completos");
+  const solo = calc.calculate(s, { people: { adults: 4, kids: 0 }, picks: { cuantos: ["dos"], tipos: ["italiano"] } }, P);
+  assert.equal(item(solo, "pan_completo").qty, 8); // 4 personas × 2
+  assert.equal(item(solo, "vienesas").qty, 1); // 8 vienesas → 1 paquete de 20
+  assert.equal(item(solo, "palta").qty, 0.5); // 8 × 50 g = 400 g → 0,5 kg
+  const mix = calc.calculate(s, { people: { adults: 4, kids: 0 }, picks: { cuantos: ["dos"], tipos: ["italiano", "as_churrasco"] } }, P);
+  assert.equal(item(mix, "pan_completo").qty, 8); // mismos panes en total
+  assert.equal(item(mix, "churrasco").qty, 0.5); // 4 as × 80 g = 320 g → 0,5 kg
+});
+
 test("catálogo y escenarios consistentes", () => {
   for (const [id, p] of Object.entries(P)) {
     assert.ok(p.min <= p.avg && p.avg <= p.max, `precios de ${id}`);
     assert.ok(p.step > 0, `step de ${id}`);
     assert.ok(QC.AISLES.some((a) => a.id === p.cat), `pasillo de ${id}`);
     assert.ok(QC.hasIcon(p.icon), `ícono de ${id}: ${p.icon}`);
+    assert.ok(p.scrape === false || p.q, `búsqueda para el scraper de ${id}`);
   }
   for (const s of QC.SCENARIOS) {
     assert.ok(QC.hasIcon(s.icon), `ícono del escenario ${s.id}`);
@@ -154,5 +181,30 @@ test("catálogo y escenarios consistentes", () => {
     const res = calc.calculate(s, { people: { adults: 6, kids: 2 }, picks: calc.typicalPicks(s) }, P);
     assert.ok(res.items.length > 0, `lo típico de ${s.id}`);
     assertOrdered(res);
+    // Cada paso "pick" obligatorio tiene algo típico, para que "Armar con lo típico" siempre sirva
+    for (const step of s.steps) if (step.min) assert.ok(calc.typicalPicks(s, step.id)[step.id].length >= step.min, `típico en ${s.id}/${step.id}`);
   }
+});
+
+test("fichas de cortes completas y con zona en el dibujo", () => {
+  const asado = scenario("asado");
+  const carnes = asado.steps.find((st) => st.id === "carnes");
+  for (const o of calc.allOptions(carnes)) {
+    if (P[o.product].cat === "verduleria" || o.perPerson != null) continue; // veggie: sin ficha
+    const c = QC.CUTS[o.product];
+    assert.ok(c, `ficha de ${o.product}`);
+    for (const k of ["animal", "from", "use", "cook", "time", "tip"]) assert.ok(c[k], `${o.product}.${k}`);
+    assert.ok(Array.isArray(c.dishes) && c.dishes.length >= 2, `${o.product}.dishes`);
+    if (c.zone) assert.ok(QC.diagramZones(c.animal).includes(c.zone), `zona ${c.zone} en ${c.animal}`);
+    assert.match(QC.diagram(c.animal, c.zone), /^<svg/);
+  }
+});
+
+test("carrete: sin niños y el alcohol solo para adultos", () => {
+  const s = scenario("carrete");
+  assert.equal(s.steps.find((st) => st.type === "people").kids, false);
+  const res = calc.calculate(s, { people: { adults: 10, kids: 0 }, picks: { duracion: ["previa"], tragos: ["piscola"] } }, P);
+  assert.equal(item(res, "pisco").qty, 3); // 10 × 0,25 botella = 2,5 → 3
+  const largo = calc.calculate(s, { people: { adults: 10, kids: 0 }, picks: { duracion: ["carrete"], tragos: ["piscola"] } }, P);
+  assert.equal(item(largo, "pisco").qty, 5); // × 1,8 = 4,5 → 5
 });

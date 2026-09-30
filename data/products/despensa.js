@@ -18,7 +18,7 @@
     mayonesa: d("Mayonesa", "despensa", "frasco", 1790, 2490, 3290, "jar", { hint: "De ≈ 400 g", q: "mayonesa", not: ["light", "vegana", "ajo", "palta", "sachet"], pack: { g: 400 } }),
     ketchup: d("Ketchup", "despensa", "envase", 1490, 1990, 2790, "sauce", { hint: "De ≈ 400 g", q: "ketchup", not: ["sachet"], pack: { g: 400 } }),
     mostaza: d("Mostaza", "despensa", "envase", 990, 1490, 2190, "sauce", { hint: "De ≈ 250 g", q: "mostaza", not: ["dijon", "miel", "sachet", "grano"], pack: { g: 250 } }),
-    salsa_americana: d("Salsa americana", "despensa", "frasco", 1490, 1990, 2690, "jar", { hint: "De ≈ 300 g", q: "salsa americana", must: ["americana"], pack: { g: 300 } }),
+    salsa_americana: d("Salsa americana", "despensa", "frasco", 1490, 1990, 2690, "jar", { hint: "De ≈ 300 g", q: "salsa americana", must: ["americana"], not: ["mayonesa"], pack: { g: 300 } }),
     aji: d("Ají pebre", "despensa", "frasco", 990, 1490, 2190, "pepper", { hint: "De ≈ 200 g", q: "aji pebre", must: ["aji"], not: ["verde entero", "polvo", "merken", "papas"], pack: { g: 200 } }),
     chimichurri: d("Chimichurri", "despensa", "frasco", 1490, 1990, 2690, "herb", { hint: "De ≈ 200 g", q: "chimichurri", pack: { g: 200 } }),
     salsa_queso: d("Salsa de queso (para nachos)", "despensa", "frasco", 1990, 2690, 3490, "jar", { hint: "De ≈ 300 g", q: "salsa queso cheddar", must: ["salsa", ["queso", "cheddar"]], pack: { g: 300 } }),
@@ -27,7 +27,7 @@
     palmitos: d("Palmitos", "despensa", "tarro", 1990, 2790, 3790, "jar", { hint: "De ≈ 400 g", q: "palmitos", pack: { g: 400 } }),
     arvejas: d("Arvejas", "despensa", "tarro", 890, 1290, 1790, "jar", { hint: "De ≈ 300 g", q: "arvejas", not: ["congeladas"], pack: { g: 300 } }),
     mote_huesillo: d("Mote con huesillo (listo)", "postres", "botella de 1 L", 1990, 2690, 3490, "jar", { plural: "botellas de 1 L", q: "mote con huesillo", must: ["mote", "huesillo"], pack: { ml: 1000 } }),
-    papel_aluminio: d("Papel aluminio", "bazar", "rollo", 1290, 1890, 2790, "foil", { q: "papel aluminio", must: ["aluminio"], not: ["bandeja", "molde"] }),
+    papel_aluminio: d("Papel aluminio", "bazar", "rollo", 1290, 1890, 2790, "foil", { q: "papel aluminio", must: ["aluminio"], not: ["bandeja", "molde", "estuche", "protector"] }),
 
     /* ---------- Para untar ---------- */
     mermelada: d("Mermelada", "desayuno", "frasco", 1290, 1990, 2890, "jam", { hint: "De ≈ 250 g", q: "mermelada", not: ["light", "higo", "diet", "sachet"], pack: { g: 250 } }),
@@ -47,8 +47,8 @@
     cacao: d("Cacao en polvo para leche", "desayuno", "tarro", 2490, 3490, 4790, "chocolate", { hint: "De ≈ 400 g (tipo Milo o Nesquik)", q: "cacao polvo leche", must: [["cacao", "chocolate", "milo", "nesquik"]], not: ["amargo", "barra", "galleta"], pack: { g: 400 } }),
     azucar: d("Azúcar", "desayuno", "kg", 1090, 1490, 1990, "sugar", { q: "azucar blanca 1 kg", must: ["azucar"], not: ["flor", "rubia", "morena", "sin", "light", "glass"] }),
     endulzante_liquido: d("Endulzante líquido", "desayuno", "frasco", 1290, 1990, 2990, "sugar", { hint: "De ≈ 270 ml", q: "endulzante liquido", must: ["endulzante", "liquido"], pack: { ml: 270 } }),
-    stevia: d("Stevia en sobres", "desayuno", "caja", 1990, 2990, 4290, "sugar", { hint: "Caja de ≈ 100 sobres", q: "stevia sobres", must: ["stevia"], not: ["liquido", "liquida", "planta"], pack: { un: 100 } }),
-    sucralosa: d("Sucralosa en sobres", "desayuno", "caja", 1990, 2790, 3990, "sugar", { hint: "Caja de ≈ 100 sobres", q: "sucralosa sobres", must: ["sucralosa"], not: ["liquida", "liquido"], pack: { un: 100 } }),
+    stevia: d("Stevia en sobres", "desayuno", "caja", 1990, 2990, 4290, "sugar", { hint: "Caja de ≈ 100 sobres", q: "stevia sobres", must: ["stevia"], not: ["liquido", "liquida", "planta", "recarga", "miel", "azucar", "granulado", "tableta"] }),
+    sucralosa: d("Sucralosa en sobres", "desayuno", "caja", 1990, 2790, 3990, "sugar", { hint: "Caja de ≈ 100 sobres", q: "sucralosa sobres", must: ["sucralosa"], not: ["liquida", "liquido", "recarga", "azucar"] }),
 
     /* ---------- Desayuno ---------- */
     cereal: d("Cereal", "desayuno", "caja", 2490, 3490, 4990, "cereal", { hint: "De ≈ 400 g", q: "cereal", must: ["cereal"], not: ["barra", "barras"], pack: { g: 400 } }),

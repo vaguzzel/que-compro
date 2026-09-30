@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>¿Qué compro?</title>
-  <meta name="description" content="Asistente para las compras del súper: elige un escenario (asado, cosas para el pan, picoteo) y te dice qué comprar, cuánto y cuánto te va a costar.">
+  <meta name="description" content="Asistente para las compras del súper: elige qué vas a hacer (asado, once, completos, carrete, tabla de quesos…) y te dice qué comprar, cuánto y cuánto te va a costar con precios reales.">
   <meta name="theme-color" content="#F9DDE3">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M3 5h3.5l3 15h15.5l2.5-10.5H8' fill='none' stroke='%233B2218' stroke-width='2.4' stroke-linejoin='round' stroke-linecap='round'/%3E%3Cpath d='M8.2 9.5h19.3L25 20H10.3z' fill='%23C9B6F2' stroke='%233B2218' stroke-width='2.4' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='25.5' r='2.4' fill='%23F7A1C4' stroke='%233B2218' stroke-width='2'/%3E%3Ccircle cx='23' cy='25.5' r='2.4' fill='%23F7A1C4' stroke='%233B2218' stroke-width='2'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -28,20 +28,41 @@
   <div class="lace" aria-hidden="true"></div>
   <footer class="site-footer wood">
     <p class="logo logo--footer">¿Qué compro?</p>
-    <p class="muted-light">Precios de referencia de Lider, Jumbo, Unimarc, Tottus y Santa Isabel. En tu súper pueden variar.</p>
+    <p class="muted-light" id="footer-prices">Precios de Jumbo, Unimarc, Tottus y Lider. En tu súper pueden variar.</p>
     <p class="muted-light">Hecho con ♡ por Valentina · sin IA, todo se calcula en tu navegador</p>
   </footer>
 
   <div class="toast" id="toast" aria-hidden="true"></div>
   <p class="sr-only" id="live" aria-live="polite"></p>
 
+  <!-- Ficha de un corte (botón ⓘ en el paso de carnes) -->
+  <dialog class="sheet" id="sheet" aria-labelledby="sheet-title"></dialog>
+
   <!-- Scripts clásicos (sin módulos ES) para que funcione abriendo el archivo directo -->
   <script src="js/icons.js"></script>
   <script src="js/util.js"></script>
-  <script src="data/products.js"></script>
+  <!-- Catálogo (precios de respaldo) y, encima, los precios reales del scraper -->
+  <script src="data/products/_base.js"></script>
+  <script src="data/products/bazar.js"></script>
+  <script src="data/products/bebidas.js"></script>
+  <script src="data/products/carnes.js"></script>
+  <script src="data/products/despensa.js"></script>
+  <script src="data/products/fiambreria.js"></script>
+  <script src="data/products/lacteos.js"></script>
+  <script src="data/products/panaderia.js"></script>
+  <script src="data/products/snacks.js"></script>
+  <script src="data/products/verduleria.js"></script>
+  <script src="data/prices.js"></script>
+  <!-- Escenarios (en el orden en que aparecen en el inicio) -->
   <script src="data/scenarios/asado.js"></script>
   <script src="data/scenarios/pan.js"></script>
   <script src="data/scenarios/picoteo.js"></script>
+  <script src="data/scenarios/completos.js"></script>
+  <script src="data/scenarios/carrete.js"></script>
+  <script src="data/scenarios/tabla.js"></script>
+  <script src="data/scenarios/brunch.js"></script>
+  <script src="data/cuts.js"></script>
+  <script src="js/diagrams.js"></script>
   <script src="js/calc.js"></script>
   <script src="js/app.js"></script>
 </body>

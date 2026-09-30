@@ -24,12 +24,25 @@
   // Personas efectivas = adultos + 0,5 × niños
   function effectivePeople(answers) { return people(answers).effective; }
 
+  // Un paso con `when: { step, any:[…] }` solo se muestra (y solo cuenta) si en
+  // ese otro paso se eligió alguna de esas opciones.
+  function isStepVisible(step, answers) {
+    if (!step.when) return true;
+    var chosen = ((answers && answers.picks) || {})[step.when.step] || [];
+    return step.when.any.some(function (id) { return chosen.indexOf(id) !== -1; });
+  }
+
+  function visibleSteps(scenario, answers) {
+    return scenario.steps.filter(function (s) { return isStepVisible(s, answers); });
+  }
+
   // Recorre las opciones elegidas en los pasos "pick" y las de los pasos
   // "choice" (que solo aportan un factor multiplicador, p. ej. desayuno y once).
   function selection(scenario, answers) {
     var picks = (answers && answers.picks) || {};
     var chosen = [], factor = 1;
     scenario.steps.forEach(function (step) {
+      if (!isStepVisible(step, answers)) return;
       var ids = picks[step.id] || [];
       if (step.type === "choice") {
         step.options.forEach(function (o) {
@@ -61,26 +74,33 @@
     var sel = selection(scenario, answers);
     var pools = scenario.pools || {};
 
-    // Peso total elegido en cada pool, para repartirlo
+    // Peso total elegido en cada pool, para repartirlo. Un combo con `pool` propio
+    // (p. ej. "Completo italiano") cuenta como una sola parte del pool.
     var poolWeight = {};
+    function addWeight(pool, w) { poolWeight[pool] = (poolWeight[pool] || 0) + (w || 1); }
     sel.options.forEach(function (o) {
-      parts(o).forEach(function (r) {
-        if (r.pool) poolWeight[r.pool] = (poolWeight[r.pool] || 0) + (r.weight || 1);
-      });
+      if (o.pool && o.items) addWeight(o.pool, o.weight);
+      else parts(o).forEach(function (r) { if (r.pool) addWeight(r.pool, r.weight); });
     });
+    function poolTotal(name) {
+      var pool = pools[name];
+      if (!pool) throw new Error("Pool desconocido: " + name);
+      return (pool.adultsOnly ? ppl.adults : ppl.effective) * pool.perPerson * sel.factor;
+    }
 
     var raw = {}, order = [];
     sel.options.forEach(function (o) {
+      // Parte del pool que le toca al combo completo; cada ítem lleva `per` unidades por cada una
+      var share = o.pool && o.items ? poolTotal(o.pool) * (o.weight || 1) / poolWeight[o.pool] : null;
       parts(o).forEach(function (r) {
         var p = products[r.product];
         if (!p) throw new Error("Producto desconocido: " + r.product);
         var base = r.adultsOnly ? ppl.adults : ppl.effective;
         var q = 0;
-        if (r.pool) {
-          var pool = pools[r.pool];
-          if (!pool) throw new Error("Pool desconocido: " + r.pool);
-          var total = (pool.adultsOnly ? ppl.adults : ppl.effective) * pool.perPerson * sel.factor;
-          q = total * (r.weight || 1) / poolWeight[r.pool] / (p.size || 1);
+        if (share != null && r.per != null) {
+          q = share * r.per / (p.size || 1);
+        } else if (r.pool) {
+          q = poolTotal(r.pool) * (r.weight || 1) / poolWeight[r.pool] / (p.size || 1);
         } else if (r.perPerson != null) {
           q = base * r.perPerson * sel.factor;
         } else if (r.fixed != null) {
@@ -168,6 +188,8 @@
     calculate: calculate,
     estimateOption: estimateOption,
     typicalPicks: typicalPicks,
+    isStepVisible: isStepVisible,
+    visibleSteps: visibleSteps,
     allOptions: allOptions,
     optionId: optionId
   };

@@ -25,6 +25,8 @@
     a.people = a.people || { adults: 4, kids: 0 };
     a.picks = a.picks || {};
     a.overrides = a.overrides || {};
+    // Escenarios solo para adultos (p. ej. carrete): no hay niños
+    if (sc.steps.some(function (st) { return st.type === "people" && st.kids === false; })) a.people.kids = 0;
     return a;
   }
 
@@ -76,7 +78,7 @@
 
   // Titan One dibuja la "í" minúscula sin tilde: en los textos con esa fuente
   // se envuelve en un <span class="acc"> que usa Nunito.
-  var TITAN = ".bubble, .btn, .step-title, .scenario__name, .aisle__name, .counter__label, .total__value, .minibar__avg";
+  var TITAN = ".bubble, .btn, .step-title, .scenario__name, .aisle__name, .counter__label, .total__value, .minibar__avg, .sheet__title, .sheet__block h3";
   function fixAccents(rootEl) {
     U.$$(TITAN, rootEl).forEach(function (el) {
       var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), nodes = [], n;
@@ -135,7 +137,7 @@
     }).join("");
     return '<section class="home">' +
       '<h1 class="home__title" tabindex="-1" data-autofocus><span class="bubble bubble--lavender">¿Qué</span> <span class="bubble bubble--choco">compro?</span></h1>' +
-      '<p class="home__lead">Elige qué vas a hacer y te digo <strong>qué comprar, cuánto</strong> y <strong>cuánto te va a salir</strong>, con el mínimo, la media y el máximo del súper.</p>' +
+      '<p class="home__lead washi">Elige qué vas a hacer y te digo <strong>qué comprar, cuánto</strong> y <strong>cuánto te va a salir</strong>, con el mínimo, la media y el máximo del súper.</p>' +
       '<h2 class="home__ask"><span class="tape tape--tilt-left">¿Qué vas a hacer?</span></h2>' +
       '<ul class="scenarios" role="list">' + cards + "</ul>" +
       "</section>";
@@ -151,14 +153,28 @@
     return "";
   }
 
+  // Índices (en sc.steps) de los pasos visibles según las respuestas actuales
+  function visibleIdx(sc, a) {
+    return sc.steps.map(function (s, k) { return calc.isStepVisible(s, a) ? k : -1; }).filter(function (k) { return k >= 0; });
+  }
+
   function viewStep(sc, i) {
-    var step = sc.steps[i], a = answersFor(sc), total = sc.steps.length;
+    var step = sc.steps[i], a = answersFor(sc);
+    var vis = visibleIdx(sc, a), pos = vis.indexOf(i), total = vis.length;
+    // Paso oculto (p. ej. extras de desayuno si es solo once): se salta al siguiente visible
+    if (pos === -1) {
+      var after = vis.filter(function (k) { return k > i; })[0];
+      setTimeout(function () { location.replace(after != null ? stepHref(sc, after) : summaryHref(sc)); }, 0);
+      return "";
+    }
     var res = calc.calculate(sc, a, P);
     var err = stepError(sc, step, a);
-    var last = i === total - 1;
+    var last = pos === total - 1;
+    var prev = pos > 0 ? stepHref(sc, vis[pos - 1]) : "#/";
+    var nextHref = last ? summaryHref(sc) : stepHref(sc, vis[pos + 1]);
 
     var body;
-    if (step.type === "people") body = viewPeople(sc, a);
+    if (step.type === "people") body = viewPeople(sc, a, step);
     else if (step.type === "choice") body = viewChoice(step, a);
     else body = viewPick(sc, step, a, res);
 
@@ -170,23 +186,21 @@
         "</div>";
     }
 
-    var pct = Math.round(((i + 1) / (total + 1)) * 100);
+    var pct = Math.round(((pos + 1) / (total + 1)) * 100);
     return '<section class="wizard">' +
       '<div class="wizard__top">' +
       '<a class="crumb" href="#/">' + icon("arrowLeft") + "Escenarios</a>" +
       '<span class="tape tape--sm tape--tilt-right">' + icon(sc.icon) + " " + esc(sc.name) + "</span>" +
       "</div>" +
-      '<div class="progress" role="progressbar" aria-label="Avance" aria-valuemin="1" aria-valuemax="' + total + '" aria-valuenow="' + (i + 1) + '" aria-valuetext="Paso ' + (i + 1) + " de " + total + '">' +
+      '<div class="progress" role="progressbar" aria-label="Avance" aria-valuemin="1" aria-valuemax="' + total + '" aria-valuenow="' + (pos + 1) + '" aria-valuetext="Paso ' + (pos + 1) + " de " + total + '">' +
       '<span class="progress__bar" style="width:' + pct + '%"></span></div>' +
-      '<p class="progress__label">Paso ' + (i + 1) + " de " + total + "</p>" +
+      '<p class="progress__label washi washi--right">Paso ' + (pos + 1) + " de " + total + "</p>" +
       '<h1 class="step-title" tabindex="-1" data-autofocus>' + esc(step.title) + "</h1>" +
-      (step.help ? '<p class="step-help">' + esc(step.help) + "</p>" : "") +
+      (step.help ? '<p class="step-help washi">' + esc(step.help) + "</p>" : "") +
       tools + body +
       '<nav class="wizard__nav" aria-label="Pasos">' +
-      (i > 0
-        ? '<a class="btn" href="' + stepHref(sc, i - 1) + '">' + icon("arrowLeft") + "Atrás</a>"
-        : '<a class="btn" href="#/">' + icon("arrowLeft") + "Atrás</a>") +
-      '<button type="button" class="btn btn--pink" data-action="next" data-next="' + (last ? summaryHref(sc) : stepHref(sc, i + 1)) + '"' +
+      '<a class="btn" href="' + prev + '">' + icon("arrowLeft") + "Atrás</a>" +
+      '<button type="button" class="btn btn--pink" data-action="next" data-next="' + nextHref + '"' +
       (err ? ' disabled aria-describedby="step-error"' : "") + ">" +
       (last ? "Ver mi lista" + icon("cart") : "Siguiente" + icon("arrowRight")) + "</button>" +
       "</nav>" +
@@ -208,7 +222,7 @@
       "</aside>";
   }
 
-  function viewPeople(sc, a) {
+  function viewPeople(sc, a, step) {
     function counter(field, label, sub, ico, min) {
       var v = a.people[field] || 0;
       return '<div class="counter card card--small">' +
@@ -222,7 +236,7 @@
     }
     return '<div class="people">' +
       counter("adults", "Adultos", "", "people", 0) +
-      counter("kids", "Niños", "cuentan como media porción", "child", 0) +
+      (step.kids === false ? "" : counter("kids", "Niños", "cuentan como media porción", "child", 0)) +
       "</div>" +
       '<div class="typical-all card card--small">' +
       '<p><strong>¿No tienes idea?</strong> Te armo la lista con lo típico chileno y después la ajustas.</p>' +
@@ -267,11 +281,17 @@
             price = "≈ " + range(est.min, est.max) + " en total";
             extra = '<span class="opt__hint">' + esc(o.items.map(function (r) { return P[r.product].name; }).join(", ")) + "</span>";
           }
-          return '<button type="button" class="opt" data-action="toggle" data-step="' + step.id + '" data-opt="' + id + '" aria-pressed="' + on + '">' +
+          var card = '<button type="button" class="opt" data-action="toggle" data-step="' + step.id + '" data-opt="' + id + '" aria-pressed="' + on + '">' +
             '<span class="opt__ico">' + icon(ico) + "</span>" +
             '<span class="opt__body"><span class="opt__name">' + esc(name) + "</span>" +
             '<span class="opt__price">' + price + "</span>" + extra + "</span>" +
             '<span class="opt__check">' + icon("check") + "</span></button>";
+          // Ficha del corte: botón hermano (no anidado) que abre el <dialog>
+          if (step.info && p && QC.CUTS && QC.CUTS[o.product]) {
+            return '<div class="opt-wrap">' + card +
+              '<button type="button" class="opt-info" data-action="info" data-step="' + step.id + '" data-opt="' + id + '" aria-haspopup="dialog" aria-label="¿Qué es ' + esc(name.toLowerCase()) + '?">' + icon("info") + "<span>¿Qué es?</span></button></div>";
+          }
+          return card;
         }).join("") +
         "</div></div>";
     }).join("");
@@ -287,7 +307,7 @@
       '<a class="crumb" href="' + stepHref(sc, 0) + '">' + icon("pencil") + "Editar respuestas</a>" +
       '<span class="tape tape--sm tape--tilt-right">' + icon(sc.icon) + " " + esc(sc.name) + "</span></div>" +
       '<h1 class="summary__title" tabindex="-1" data-autofocus><span class="bubble bubble--lavender">Tu lista</span></h1>' +
-      '<p class="summary__who">' + icon("people") + " " + esc(sc.name) + (choice ? " · " + esc(choice) : "") + " para " + esc(peopleText(ppl)) + "</p>";
+      '<p class="summary__who washi">' + icon("people") + " " + esc(sc.name) + (choice ? " · " + esc(choice) : "") + " para " + esc(peopleText(ppl)) + "</p>";
 
     if (!res.items.length) {
       return '<section class="summary">' + head +
@@ -301,7 +321,7 @@
       totalCard("avg", "Media", t.avg, "precio típico") +
       totalCard("max", "Máximo", t.max, "si todo sale caro") +
       "</div>" +
-      '<p class="per-person">' + icon("people") + " <span>≈ <strong>" + fmt(pp.avg) + "</strong> por persona <small>(entre " + range(pp.min, pp.max) + ")</small></span></p>";
+      '<p class="per-person washi washi--butter">' + icon("people") + " <span>≈ <strong>" + fmt(pp.avg) + "</strong> por persona <small>(entre " + range(pp.min, pp.max) + ")</small></span></p>";
 
     var actions = '<div class="actions">' +
       '<button type="button" class="btn btn--sm btn--lavender" data-action="copy">' + icon("copy") + "Copiar lista</button>" +
@@ -326,8 +346,15 @@
       (anyEdited ? '<button type="button" class="btn btn--sm" data-action="reset-qty">' + icon("redo") + "Volver a las cantidades calculadas</button>" : "") +
       '<button type="button" class="btn btn--sm" data-action="restart">' + icon("redo") + "Empezar de nuevo</button>" +
       "</div>" +
-      '<p class="summary__note">Precios de referencia de ' + esc(U.formatMonth(QC.PRICES_UPDATED)) + " (Lider, Jumbo, Unimarc, Tottus y Santa Isabel). Las cantidades se redondean hacia arriba al envase que se puede comprar.</p>" +
+      '<p class="summary__note washi">' + esc(pricesNote()) + " Las cantidades se redondean hacia arriba al envase que se puede comprar.</p>" +
       "</section>";
+  }
+
+  // Texto sobre el origen de los precios
+  function pricesNote() {
+    return QC.PRICES_LIVE
+      ? "Precios reales de Jumbo, Unimarc, Tottus y Lider, actualizados el " + U.formatMonth(QC.PRICES_UPDATED) + "."
+      : "Precios de referencia de " + U.formatMonth(QC.PRICES_UPDATED) + ".";
   }
 
   function totalCard(kind, label, value, sub) {
@@ -343,7 +370,8 @@
       '<div class="item__main">' +
       '<span class="item__name">' + esc(it.name) + "</span>" +
       '<span class="item__meta">' + range(p.min, p.max) + " " + U.priceUnit(p.unit) +
-      (it.edited ? ' · <em>calculado: ' + esc(U.formatQty(it.auto, it.unit, it.plural)) + "</em>" : (p.hint ? " · " + esc(p.hint) : "")) + "</span>" +
+      (it.edited ? ' · <em>calculado: ' + esc(U.formatQty(it.auto, it.unit, it.plural)) + "</em>" : (p.hint ? " · " + esc(p.hint) : "")) +
+      (QC.PRICES_LIVE && !p.live ? ' · <span class="ref-tag">precio referencial</span>' : "") + "</span>" +
       "</div>" +
       '<div class="item__qty stepper stepper--sm">' +
       '<button type="button" class="stepper__btn" data-action="qty" data-id="' + it.id + '" data-delta="-1" aria-label="Quitar ' + esc(stepTxt) + " de " + esc(it.name) + '"' + (it.qty <= 0 ? " disabled" : "") + ">" + icon("minus") + "</button>" +
@@ -370,7 +398,7 @@
     lines.push("Total estimado: " + fmt(res.totals.avg));
     lines.push("Rango: " + range(res.totals.min, res.totals.max));
     lines.push("≈ " + fmt(res.perPerson.avg) + " por persona");
-    lines.push("Precios de referencia de " + U.formatMonth(QC.PRICES_UPDATED) + " · ¿Qué compro?");
+    lines.push(pricesNote() + " · ¿Qué compro?");
     return lines.join("\n");
   }
 
@@ -395,6 +423,8 @@
       a.picks[stepId] = list;
       rerender('[data-opt="' + opt + '"][data-step="' + stepId + '"]');
       announceTotal(sc);
+    } else if (act === "info") {
+      openSheet(sc, btn.getAttribute("data-step"), btn.getAttribute("data-opt"), btn);
     } else if (act === "typical") {
       var sid = btn.getAttribute("data-step");
       a.picks[sid] = calc.typicalPicks(sc, sid)[sid];
@@ -519,8 +549,79 @@
     toastTimer = setTimeout(function () { el.classList.remove("is-visible"); }, 2400);
   }
 
+  /* ---------------- Ficha de un corte (<dialog>) ---------------- */
+  var sheet = document.getElementById("sheet"), sheetCtx = null;
+
+  function sheetHTML(sc, stepId, optId) {
+    var step = sc.steps.filter(function (s) { return s.id === stepId; })[0];
+    var o = calc.allOptions(step).filter(function (x) { return calc.optionId(x) === optId; })[0];
+    var p = P[o.product], c = QC.CUTS[o.product], a = answersFor(sc);
+    var on = (a.picks[stepId] || []).indexOf(optId) !== -1;
+    var zone = QC.diagramLabel(c.animal, c.zone);
+    function block(ico, title, body) {
+      return '<section class="sheet__block"><h3>' + icon(ico) + esc(title) + "</h3>" + body + "</section>";
+    }
+    return '<div class="sheet__inner">' +
+      '<header class="sheet__head">' +
+      '<span class="sheet__ico">' + icon(p.icon) + "</span>" +
+      '<div><h2 id="sheet-title" class="sheet__title">' + esc(p.name) + "</h2>" +
+      (c.aka ? '<p class="sheet__aka">' + esc(c.aka) + "</p>" : "") +
+      '<p class="sheet__price">' + range(p.min, p.max) + " " + U.priceUnit(p.unit) + "</p></div>" +
+      '<button type="button" class="sheet__close" data-sheet="close" aria-label="Cerrar">' + icon("close") + "</button>" +
+      "</header>" +
+      '<figure class="sheet__figure">' + QC.diagram(c.animal, c.zone) +
+      (zone ? '<figcaption><span class="tape tape--sm">' + esc(zone) + "</span></figcaption>" : "") + "</figure>" +
+      block("map", "De dónde viene", "<p>" + esc(c.from) + "</p>") +
+      block("bulb", "Para qué sirve", "<p>" + esc(c.use) + "</p>") +
+      block("flame", "Cómo se cocina", "<p>" + esc(c.cook) + '</p><p class="sheet__time">' + icon("timer") + esc(c.time) + "</p>") +
+      block("sparkle", "Queda mejor en", '<ul class="chips-list" role="list">' + c.dishes.map(function (d) { return "<li>" + esc(d) + "</li>"; }).join("") + "</ul>") +
+      (c.tip ? '<p class="sheet__tip washi washi--butter"><strong>Tip:</strong> ' + esc(c.tip) + "</p>" : "") +
+      '<div class="sheet__actions">' +
+      '<button type="button" class="btn ' + (on ? "" : "btn--pink") + '" data-sheet="toggle">' + (on ? icon("check") + "Quitar de la lista" : icon("plus") + "Agregar al " + esc(sc.name.toLowerCase())) + "</button>" +
+      '<button type="button" class="btn btn--sm" data-sheet="close">Cerrar</button>' +
+      "</div></div>";
+  }
+
+  function openSheet(sc, stepId, optId, opener) {
+    sheetCtx = { sc: sc, stepId: stepId, optId: optId, opener: opener };
+    sheet.innerHTML = sheetHTML(sc, stepId, optId);
+    fixAccents(sheet);
+    if (typeof sheet.showModal === "function") sheet.showModal(); else sheet.setAttribute("open", "");
+    var first = U.$(".sheet__title", sheet);
+    if (first) { first.setAttribute("tabindex", "-1"); first.focus(); }
+  }
+
+  function closeSheet() {
+    if (!sheetCtx) return;
+    var ctx = sheetCtx;
+    sheetCtx = null;
+    if (sheet.open && typeof sheet.close === "function") sheet.close(); else sheet.removeAttribute("open");
+    // el botón ⓘ se volvió a pintar: se busca de nuevo para devolverle el foco
+    var info = U.$('[data-action="info"][data-opt="' + ctx.optId + '"]', app);
+    if (info) info.focus();
+  }
+
+  sheet.addEventListener("click", function (ev) {
+    if (ev.target === sheet) return closeSheet(); // clic en el fondo
+    var b = ev.target.closest("[data-sheet]");
+    if (!b || !sheetCtx) return;
+    if (b.getAttribute("data-sheet") === "close") return closeSheet();
+    var a = answersFor(sheetCtx.sc), list = (a.picks[sheetCtx.stepId] || []).slice(), at = list.indexOf(sheetCtx.optId);
+    if (at === -1) list.push(sheetCtx.optId); else list.splice(at, 1);
+    a.picks[sheetCtx.stepId] = list;
+    rerender();
+    sheet.innerHTML = sheetHTML(sheetCtx.sc, sheetCtx.stepId, sheetCtx.optId);
+    fixAccents(sheet);
+    U.$('[data-sheet="toggle"]', sheet).focus();
+    announce(at === -1 ? "Agregado a la lista" : "Quitado de la lista");
+    announceTotal(sheetCtx.sc);
+  });
+  sheet.addEventListener("cancel", function (ev) { ev.preventDefault(); closeSheet(); }); // tecla Esc
+  window.addEventListener("hashchange", function () { if (sheetCtx) closeSheet(); });
+
   /* ---------------- Arranque ---------------- */
   document.getElementById("prices-date").textContent = U.formatMonth(QC.PRICES_UPDATED, true);
+  document.getElementById("footer-prices").textContent = pricesNote() + " En tu súper pueden variar.";
   U.$$("[data-icon]").forEach(function (el) { el.innerHTML = icon(el.getAttribute("data-icon")); });
   window.addEventListener("hashchange", render);
   render();

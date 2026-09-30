@@ -8,15 +8,23 @@ export function fold(s) {
 
 const STOP = new Set(["de", "del", "la", "el", "los", "las", "con", "para", "en", "y", "al", "a", "x"]);
 
+// Nunca es comida para personas (aunque el nombre diga "cordero", "leña" o "sandía")
+const GLOBAL_NOT = ["perro", "perros", "gato", "gatos", "mascota", "mascotas", "dog", "purina", "whiskas", "pedigree",
+  "shampoo", "acondicionador", "desodorante", "antitranspirante", "tratamiento", "jabon", "colonia", "perfume", "old spice"];
+
 // Reglas de búsqueda de un producto del catálogo (con valores por defecto)
 export function rulesFor(id, p) {
   const q = p.q || p.name;
   const must = (p.must || fold(q).split(" ").filter((w) => w.length > 2 && !STOP.has(w)).slice(0, 2)).map((m) => (Array.isArray(m) ? m : [m]).map(fold));
-  const not = (p.not || []).map(fold);
+  const not = (p.not || []).concat(GLOBAL_NOT).map(fold);
   // Por defecto: 1 kg, 1 L o "el envase tal como se vende" (sin dividir por su contenido)
   let pack = p.pack;
   if (!pack) pack = p.unit === "kg" ? { g: 1000 } : p.unit === "L" ? { ml: 1000 } : { pkg: 1 };
-  return { id, q, must, not, pack, tol: p.tol || [0.55, 1.8], perMeasure: p.unit === "kg" || p.unit === "L" };
+  return {
+    id, q, must, not, pack, tol: p.tol || [0.55, 1.8], perMeasure: p.unit === "kg" || p.unit === "L",
+    start: !!p.start,          // la primera palabra del nombre debe ser la buscada (frutas y verduras)
+    minSize: p.minSize || 0     // descarta envases más chicos que esto (g), p. ej. tomates gourmet de 300 g
+  };
 }
 
 // Palabra completa (o prefijo de palabra si termina en *)
@@ -30,6 +38,7 @@ export function matches(item, rules) {
   const t = fold(item.name + " " + (item.brand || ""));
   const name = fold(item.name);
   if (!rules.must.every((alts) => alts.some((w) => hasWord(name, w)))) return false;
+  if (rules.start && !rules.must[0].some((w) => hasWord(name.split(" ")[0], w))) return false;
   if (rules.not.some((w) => hasWord(t, w))) return false;
   return true;
 }
@@ -61,7 +70,7 @@ export function parsePpum(ppum) {
 // Contenido desde el nombre: "Cerveza lata 470 cc pack 6" → { count:6, size:{ ml:470 } }
 export function parseContent(name) {
   const t = fold(name).replace(/(\d),(\d)/g, "$1.$2");
-  let count = 1, size = null;
+  let count = 1, size = null, countFound = false;
   const sizeRe = /(\d+(?:\.\d+)?)\s*(kgs?|kilos?|grs?|gramos|grm|g|lts?|litros?|l|ml|cc|cm3)(?![a-z])/g;
   let m, sizes = [];
   while ((m = sizeRe.exec(t))) sizes.push(m);
@@ -75,8 +84,8 @@ export function parseContent(name) {
     /pack\s*(?:de\s*)?(\d+)/.exec(t) ||
     /(?:^| )x\s*(\d+)(?:\s*(?:un|u|unid\w*))?(?: |$)/.exec(t) || // "x6"
     /(\d+)\s*(?:un|u|uni|und|unid|unidades|latas|botellas|sobres|bolsitas|rollos|piezas|porciones)(?![a-z])/.exec(t);
-  if (c) count = Math.max(1, parseInt(c[1], 10));
-  return { count, size };
+  if (c) { count = Math.max(1, parseInt(c[1], 10)); countFound = true; }
+  return { count, size, countFound };
 }
 
 // Precio del ítem expresado en la unidad del catálogo (o null si no se puede comparar)
@@ -88,6 +97,7 @@ export function normalize(item, rules) {
   const perKg = item.perKg || (item.priceText && /\/\s*kg/i.test(item.priceText));
   const out = (price, list) => ({ price: Math.round(price), list: Math.round(Math.max(list, price)) });
   const ratio = item.listPrice && item.price ? item.listPrice / item.price : 1;
+  if (rules.minSize && content.size && content.size.g && content.size.g * content.count < rules.minSize) return null;
 
   if (pack.g || pack.ml) {
     const kind = pack.g ? "g" : "ml", want = pack.g || pack.ml;
@@ -113,6 +123,8 @@ export function normalize(item, rules) {
   if (pack.pkg) return perKg ? null : out(item.price, item.listPrice);
   // Unidades contables (con peso opcional por pieza para lo que se vende a granel)
   const n = pack.un || 1;
+  // "Caja de 20" sin que el nombre diga cuántas trae: no se puede comparar
+  if (n > 1 && !content.countFound && !perKg) return null;
   if (perKg) return pack.g ? out((item.price * pack.g) / 1000 * n, (item.price * pack.g) / 1000 * n * ratio) : null;
   if (pack.ml || pack.g) {
     const kind = pack.ml ? "ml" : "g";

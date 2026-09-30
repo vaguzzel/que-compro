@@ -28,12 +28,13 @@
     return "c/u";
   }
 
-  // "2026-09" → "septiembre de 2026" (o "sep 2026" en corto)
+  // "2026-09" → "septiembre de 2026" · "2026-09-30" → "30 de septiembre de 2026"
+  // (en corto: "sep 2026" · "30 sep 2026")
   function formatMonth(ym, short) {
-    var m = /^(\d{4})-(\d{2})$/.exec(ym || "");
+    var m = /^(\d{4})-(\d{2})(?:-(\d{2}))?$/.exec(ym || "");
     if (!m) return ym;
-    var name = MONTHS[+m[2] - 1];
-    return short ? name.slice(0, 3) + " " + m[1] : name + " de " + m[1];
+    var name = MONTHS[+m[2] - 1], day = m[3] ? +m[3] + " " : "";
+    return short ? day + name.slice(0, 3) + " " + m[1] : (day ? day + "de " : "") + name + " de " + m[1];
   }
 
   function esc(s) {

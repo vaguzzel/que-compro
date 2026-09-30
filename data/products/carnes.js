@@ -41,23 +41,23 @@
     /* ---------- Pollo ---------- */
     trutro: kg("Trutro entero de pollo", 2990, 3790, 4990, "chickenLeg", { q: "trutro entero pollo", must: ["trutro"], not: ["pavo", "apanado", "cocido", "deshuesado", "corto"] }),
     trutro_corto: kg("Trutro corto de pollo", 2990, 3990, 5290, "chickenLeg", { q: "trutro corto pollo", must: ["trutro", "corto"], not: ["pavo", "apanado"] }),
-    alitas: kg("Alitas de pollo", 3490, 4490, 5990, "chickenLeg", { q: "alitas pollo", must: [["alitas", "alas"]], not: ["pavo", "apanadas", "bbq"] }),
+    alitas: kg("Alitas de pollo", 3490, 4490, 5990, "chickenLeg", { q: "alitas pollo", must: [["alitas", "alas"]], not: ["pavo", "apanadas", "bbq", "crocante", "crocantes", "golden", "mix"] }),
     pechuga: kg("Pechuga de pollo deshuesada", 5490, 6990, 8990, "chickenLeg", { q: "pechuga pollo deshuesada", must: ["pechuga"], not: ["pavo", "apanada", "cocida", "laminada", "nuggets"] }),
     pollo_entero: kg("Pollo entero", 2490, 2990, 3990, "chickenLeg", { q: "pollo entero", must: ["pollo", "entero"], not: ["asado", "rostizado", "trutro"] }),
 
     /* ---------- Cordero ---------- */
-    pierna_cordero: kg("Pierna de cordero", 9990, 12990, 16990, "steak", { q: "pierna cordero", must: ["pierna", "cordero"] }),
-    costillar_cordero: kg("Costillar de cordero", 10990, 13990, 18990, "ribs", { q: "costillar cordero", must: ["cordero"], not: ["pierna", "paleta"] }),
+    pierna_cordero: kg("Pierna de cordero", 11990, 15990, 24990, "steak", { q: "pierna cordero", must: ["pierna", "cordero"] }),
+    costillar_cordero: kg("Costillar de cordero", 10990, 13990, 18990, "ribs", { q: "costillar cordero", must: ["cordero"], not: ["pierna", "paleta", "brocheta", "alimento", "snack"] }),
 
     /* ---------- Embutidos ---------- */
     longaniza: kg("Longaniza", 5990, 7990, 10990, "sausage", { hint: "≈ 8 a 10 unidades por kg", q: "longaniza", not: ["pollo", "vegana", "veggie", "cocktail", "coctel"] }),
     chorizo: kg("Chorizo parrillero", 5490, 7490, 9990, "sausage", { q: "chorizo parrillero", must: ["chorizo"], not: ["pollo", "vegano", "espanol", "cantimpalo", "laminado", "rebanado"] }),
     choricillo: kg("Choricillo", 5990, 7990, 10990, "sausage", { hint: "Chorizo chico, ideal para picar", q: "choricillo", must: [["choricillo", "choricillos"]] }),
     prietas: kg("Prietas", 4990, 6490, 8490, "sausage", { hint: "Morcilla chilena", q: "prietas", must: [["prieta", "prietas"]] }),
-    vienesas: { name: "Vienesas", cat: "carniceria", unit: "paquete de 20", plural: "paquetes de 20", step: 1, min: 2490, avg: 3490, max: 5490, icon: "sausage", hint: "Para completos: 1 o 2 por completo", q: "vienesas 20 unidades", must: [["vienesa", "vienesas", "salchicha", "salchichas"]], not: ["coctel", "cocktail", "mini", "pollo", "vegana", "veggie"], pack: { un: 20 } },
+    vienesas: { name: "Vienesas", cat: "carniceria", unit: "paquete de 20", plural: "paquetes de 20", step: 1, min: 2490, avg: 3490, max: 5490, icon: "sausage", hint: "Para completos: 1 o 2 por completo", q: "vienesas 20 unidades", must: [["vienesa", "vienesas", "salchicha", "salchichas"]], not: ["coctel", "cocktail", "mini", "pollo", "vegana", "veggie", "sachet"], pack: { un: 20 } },
     vienesas_coctel: { name: "Vienesas de cóctel", cat: "carniceria", unit: "paquete", step: 1, min: 1990, avg: 2690, max: 3990, icon: "sausage", hint: "Paquete de ≈ 250 g", q: "vienesas coctel", must: [["coctel", "cocktail"]], pack: { g: 250 } },
-    hamburguesa_veggie: { name: "Hamburguesa veggie", cat: "congelados", unit: "caja de 4", plural: "cajas de 4", step: 1, min: 3490, avg: 4490, max: 5990, icon: "steak", hint: "Media por persona", q: "hamburguesa vegetal", must: ["hamburguesa", ["vegetal", "veggie", "vegana", "plant", "vegetariana"]] },
-    queso_asar: { name: "Queso para asar (provoleta)", cat: "fiambreria", unit: "kg", step: 0.25, min: 11990, avg: 14990, max: 19990, icon: "cheese", q: "queso provoleta", must: [["provoleta", "parrilla", "asar"]], not: ["rallado"] },
+    hamburguesa_veggie: { name: "Hamburguesa veggie", cat: "congelados", unit: "caja de 4", plural: "cajas de 4", step: 1, min: 3490, avg: 4490, max: 5990, icon: "steak", hint: "Media por persona", q: "hamburguesa vegetal", must: ["hamburguesa", ["vegetal", "veggie", "vegana", "plant", "vegetariana"]], pack: { g: 400 }, tol: [0.2, 2.2] },
+    queso_asar: { name: "Provoleta (queso para asar)", cat: "fiambreria", unit: "provoleta", plural: "provoletas", step: 1, min: 3990, avg: 4990, max: 5990, icon: "cheese", hint: "De ≈ 130 g, para 3 personas", q: "queso provoleta", must: ["provoleta"], not: ["rallado"], pack: { g: 130 }, tol: [0.4, 2.5] },
 
     /* ---------- Pescadería ---------- */
     salmon: { name: "Salmón (filete)", cat: "pescaderia", unit: "kg", step: 0.5, min: 10990, avg: 13990, max: 17990, icon: "fish", q: "salmon filete", must: ["salmon"], not: ["ahumado", "lata", "hamburguesa", "apanado"] },

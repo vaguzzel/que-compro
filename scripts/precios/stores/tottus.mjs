@@ -49,6 +49,7 @@ export function parseTottusApi(json) {
       price, listPrice: Math.max(num(normal?.price) || price, price),
       ppum: pum && pum.price ? { text: `$${[].concat(pum.price)[0]} x ${pum.label}` } : null,
       content: p.measurements?.format || "",
+      perKg: /^kg$/i.test(p.measurements?.unit || ""), // a granel: el precio es por kg
       url: p.url || "", available: true
     };
   }).filter((x) => x.price > 0);

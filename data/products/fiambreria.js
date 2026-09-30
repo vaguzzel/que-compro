@@ -9,7 +9,7 @@
   QC.addProducts({
     /* ---------- Fiambres (por kg, se piden por cuarto) ---------- */
     jamon_pierna: fi("Jamón de pierna", 7990, 10490, 13990, "ham", { hint: "Pide por cuarto (250 g)", q: "jamon pierna", must: ["jamon", "pierna"], not: ["serrano", "acaramelado"] }),
-    jamon_pavo: fi("Jamón de pavo", 6990, 8990, 11990, "ham", { q: "jamon pavo", must: ["jamon", "pavo"], not: ["pechuga"] }),
+    jamon_pavo: fi("Jamón de pavo", 6990, 8990, 11990, "ham", { q: "jamon pavo", must: ["jamon", "pavo"], not: ["pechuga", "acaramelado", "ahumado"] }),
     jamon_acaramelado: fi("Jamón acaramelado", 8990, 11490, 14990, "ham", { q: "jamon acaramelado", must: ["jamon", "acaramelado"] }),
     pechuga_pavo: fi("Pechuga de pavo", 9990, 12990, 16990, "ham", { q: "pechuga pavo laminada", must: ["pechuga", "pavo"], not: ["cruda", "entera"] }),
     jamon_serrano: fi("Jamón serrano", 24990, 34990, 49990, "ham", { hint: "Viene en sobres de 100 g", q: "jamon serrano", must: ["serrano"] }),
@@ -31,6 +31,6 @@
     queso_cabra: { name: "Queso de cabra", cat: "fiambreria", unit: "unidad", plural: "unidades", step: 1, size: 0.15, min: 3290, avg: 4290, max: 5990, icon: "cheese", hint: "De ≈ 150 g", q: "queso de cabra", must: ["cabra"], pack: { g: 150 } },
     queso_azul: { name: "Queso azul", cat: "fiambreria", unit: "unidad", plural: "unidades", step: 1, size: 0.15, min: 2990, avg: 3990, max: 5490, icon: "cheese", hint: "De ≈ 150 g", q: "queso azul", must: [["azul", "roquefort"]], pack: { g: 150 } },
     queso_parmesano: { name: "Queso parmesano (trozo)", cat: "fiambreria", unit: "trozo", step: 1, size: 0.2, min: 3990, avg: 5490, max: 7990, icon: "cheese", hint: "De ≈ 200 g", q: "queso parmesano", must: [["parmesano", "reggianito", "grana"]], not: ["rallado"], pack: { g: 200 } },
-    mozzarella: { name: "Queso mozzarella", cat: "fiambreria", unit: "kg", step: 0.25, min: 7990, avg: 9990, max: 12990, icon: "cheese", q: "queso mozzarella", must: ["mozzarella"], not: ["bocconcini", "palitos", "rallado", "apanados"] }
+    mozzarella: { name: "Queso mozzarella", cat: "fiambreria", unit: "kg", step: 0.25, min: 7990, avg: 9990, max: 12990, icon: "cheese", q: "queso mozzarella", must: ["mozzarella"], not: ["bocconcini", "palitos", "rallado", "apanados", "granulado", "granulada", "hebras", "burrata", "bufala", "ciliegine", "ovoline", "fresca", "laminado"] }
   });
 })(typeof window !== "undefined" ? window : globalThis);

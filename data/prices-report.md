@@ -1,23 +1,23 @@
-# Precios reales: 2026-09-30
+# Precios reales: 2026-10-05
 
-Generado por `scripts/precios/index.mjs`. 202 de 214 productos (94 %) con al menos 2 precios encontrados; el resto conserva el precio curado del catálogo.
+Generado por `scripts/precios/index.mjs`. 204 de 214 productos (95 %) con al menos 2 precios encontrados; el resto conserva el precio curado del catálogo.
 
 | Súper | Búsquedas OK | Con error |
 |---|---|---|
-| Lider | 26 | 188 (bloqueado) |
-| Unimarc | 214 | 0 |
 | Tottus | 214 | 0 |
+| Lider | 214 | 0 |
 | Jumbo | 214 | 0 |
+| Unimarc | 213 | 1 |
 
 ## Carbón `carbon` · por bolsa de 2,5 kg
-**$3.390 · $4.260 · $10.980** (mín · media · máx, 18 precios)
-- Tottus: [Carbón Vegetal Premium El Gaucho 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/154023729/carbon-vegetal-premium-el-gaucho-2-5k) → $3.790
+**$3.390 · $4.260 · $10.980** (mín · media · máx, 20 precios)
 - Tottus: [Carbón Premium Alto Poder Calórico Tottus 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/110613531/carbon-premium-tottus-2.5kg) → $3.490
 - Tottus: [Carbón Vegetal Ruta 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/157616157/carbon-vegetal-ruta-5-2-5k) → $3.990
 - Tottus: [Carbón Vegetal Javierita 2 kg](https://www.tottus.cl/tottus-cl/articulo/157616166/carbon-vegetal-javierita-2-kg) → $4.238
 - Tottus: [Carbón Profesional La Loma 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/157418086/carbon-profesional-la-loma-2-5k) → $4.290
-- Tottus: [Carbón Tradicional La Loma 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/156851958/carbon-tradicional-la-loma-2-5-kg) → $3.690
-- Tottus: [Carbón Premium La Loma 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/156853217/carbon-premium-quebracho-la-loma-2-5-kg) → $3.990
+- Tottus: [Carbón Altos Cantillana 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/157688903/carbon-altos-cantillana-2-5k) → $3.990
+- Tottus: [Carbón Vegetal Premium El Gaucho 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/154023729/carbon-vegetal-premium-el-gaucho-2-5k) → $3.790
+- Tottus: [Carbon Premium Quincho](https://www.tottus.cl/tottus-cl/articulo/110615192/carbon-premium-quincho-2-5-kg-fp) → $4.390
 - Jumbo: [Carbón Premium Quincho 2.5 kg](https://www.jumbo.cl/carbon-premium-quincho-25-kg-1721162/p) → $4.390
 - Jumbo: [Carbón Premium Quincho 2.5 kg](https://www.jumbo.cl/carbon-premium-quincho-25-kg-1721162/p) → $10.975
 - Jumbo: [Carbón Premium Andes 2.5 kg](https://www.jumbo.cl/carbon-andes-2-5kg-2054499/p) → $4.290
@@ -28,13 +28,13 @@ Generado por `scripts/precios/index.mjs`. 202 de 214 productos (94 %) con al men
 **$5.420 · $6.390 · $13.960** (mín · media · máx, 9 precios)
 - Tottus: [Carbón Briquetas 100% Natural Color Duradero Tottus 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/110612361/briqueta-de-carbon-100-natural-fp) → $5.424
 - Tottus: [Carbón Briqueta Hexa Mr Gutierrez 2.5 kg](https://www.tottus.cl/tottus-cl/articulo/157616165/briqueta-carbon-hexa-mr-gutierrez-2-5k) → $6.704
-- Unimarc: [Carbón briquetas Black Steak & comp 2.5 Kg](https://www.unimarc.cl/carbon-briquetas-black-steak-comp-2-5kg/p) → $5.424
 - Jumbo: [Briquetas para Asado Dark Fire 4 kg](https://www.jumbo.cl/briquetas-de-carbon-dark-fire-dark-fire-1907962/p) → $9.990
 - Jumbo: [Briquetas para Asado Dark Fire 4 kg](https://www.jumbo.cl/briquetas-de-carbon-dark-fire-dark-fire-1907962/p) → $9.990
 - Jumbo: [Briqueta de Carbón Vegetal La Hacienda 5 kg](https://www.jumbo.cl/briqueta-de-carbon-vegetal-5-kg-2030141/p) → $6.392
 - Jumbo: [Briqueta de Carbón Vegetal La Hacienda 5 kg](https://www.jumbo.cl/briqueta-de-carbon-vegetal-5-kg-2030141/p) → $6.392
 - Jumbo: [Briquetas Quincho 2.5 kg](https://www.jumbo.cl/briquetas-quincho-2-5-kg-1672838/p) → $5.584
 - Jumbo: [Briquetas Quincho 2.5 kg](https://www.jumbo.cl/briquetas-quincho-2-5-kg-1672838/p) → $13.960
+- Unimarc: [Carbón briquetas Black Steak & comp 2.5 Kg](https://www.unimarc.cl/carbon-briquetas-black-steak-comp-2-5kg/p) → $5.744
 
 ## Leña `lena` · por malla
 _Referencial_: se mantiene $2.990 · $3.990 · $5.490 (0 precios encontrados)
@@ -42,73 +42,73 @@ _Referencial_: se mantiene $2.990 · $3.990 · $5.490 (0 precios encontrados)
 ## Encendedor de carbón `encendedor` · por unidad
 **$1.990 · $2.370 · $3.490** (mín · media · máx, 6 precios)
 - Tottus: [Iniciador de Fuego Andes 16 un](https://www.tottus.cl/tottus-cl/articulo/150441903/iniciador-de-fuego-andes-1-und) → $2.350
+- Jumbo: [Iniciador de Fuego Andes Volcán 16 un.](https://www.jumbo.cl/iniciador-de-fuego-volcan-16-piezas-andes-hogar-1884657/p) → $2.390
+- Jumbo: [Iniciador de Fuego Andes Volcán 16 un.](https://www.jumbo.cl/iniciador-de-fuego-volcan-16-piezas-andes-hogar-1884657/p) → $2.390
+- Jumbo: [Encendedor Eléctrico para Carbón Quincho](https://www.jumbo.cl/encendedor-electrico-carbon-quincho/p) → $18.990
+- Jumbo: [Encendedor Eléctrico para Carbón Quincho](https://www.jumbo.cl/encendedor-electrico-carbon-quincho/p) → $18.990
+- Jumbo: [Iniciador de Fuego Quincho Café 32 un.](https://www.jumbo.cl/iniciador-de-fuego-cafe-quincho-32-unid/p) → $1.990
+- Jumbo: [Iniciador de Fuego Quincho Café 32 un.](https://www.jumbo.cl/iniciador-de-fuego-cafe-quincho-32-unid/p) → $1.990
 - Unimarc: [Encendedor tubo corto negro Ronson 1 un (color al azar)](https://www.unimarc.cl/encendedor-tubo-corto-neg-ronson/p) → $3.490
-- Jumbo: [Iniciador de Fuego Andes Volcán 16 un.](https://www.jumbo.cl/iniciador-de-fuego-volcan-16-piezas-andes-hogar-1884657/p) → $2.390
-- Jumbo: [Iniciador de Fuego Andes Volcán 16 un.](https://www.jumbo.cl/iniciador-de-fuego-volcan-16-piezas-andes-hogar-1884657/p) → $2.390
-- Jumbo: [Encendedor Eléctrico para Carbón Quincho](https://www.jumbo.cl/encendedor-electrico-carbon-quincho/p) → $18.990
-- Jumbo: [Encendedor Eléctrico para Carbón Quincho](https://www.jumbo.cl/encendedor-electrico-carbon-quincho/p) → $18.990
-- Jumbo: [Iniciador de Fuego Quincho Café 32 un.](https://www.jumbo.cl/iniciador-de-fuego-cafe-quincho-32-unid/p) → $1.990
-- Jumbo: [Iniciador de Fuego Quincho Café 32 un.](https://www.jumbo.cl/iniciador-de-fuego-cafe-quincho-32-unid/p) → $1.990
 
 ## Fósforos `fosforos` · por paquete
 **$590 · $1.720 · $2.850** (mín · media · máx, 29 precios)
-- Unimarc: [Fósforos Copihue hogar 250 un](https://www.unimarc.cl/fosforos-copihue-hogar-250-und/p) → $1.850
-- Unimarc: [Pack Fósforos Copihue tradicional 10 cajas](https://www.unimarc.cl/fosforos-copihue-10-un/p) → $1.950
-- Unimarc: [Pack fósforos Merkat 10 cajas de 38 un](https://www.unimarc.cl/fosforos-merkat-10x38/p) → $1.150
-- Unimarc: [Fósforos Gran Copihue tradicional 150 un](https://www.unimarc.cl/fosforos-gran-copihue-1-un/p) → $840
-- Unimarc: [Fósforos Andes hogar gigante 250 un](https://www.unimarc.cl/fosforos-andes-hogar-gigante-250-unidades/p) → $1.990
-- Unimarc: [Fósforos Merkat 150 un](https://www.unimarc.cl/fosforos-merkat-150-palitos/p) → $590
-- Unimarc: [Fósforos Copihue 5 cajas de 38 palitos](https://www.unimarc.cl/fosforos-copihue-5x38-palitos/p) → $900
-- Unimarc: [Pack Fósforos Los Andes 10 cajas](https://www.unimarc.cl/fosforos-andes-1-pqte/p) → $2.850
 - Tottus: [Pack Fósforos de Seguridad](https://www.tottus.cl/tottus-cl/articulo/110610913/fosforos-de-seguridad-10-x-40) → $1.590
+- Tottus: [Caja Fósforos](https://www.tottus.cl/tottus-cl/articulo/110616264/fosforos-andes-hogar-250) → $1.940
 - Tottus: [Fósforos de Seguridad](https://www.tottus.cl/tottus-cl/articulo/110612639/fosforos-de-seguridad-tottus-150un) → $690
 - Tottus: [Fósforos Gran Copihue](https://www.tottus.cl/tottus-cl/articulo/113512285/fosforos-gran-copihue-caja-150un) → $820
 - Tottus: [Fósforos](https://www.tottus.cl/tottus-cl/articulo/110619750/fosforos-copihue-10x38) → $1.820
+- Tottus: [Fósforos de Seguridad](https://www.tottus.cl/tottus-cl/articulo/110611173/fosforos-de-seguridad-tottus-250-un) → $1.590
+- Tottus: [Fósforo Hogar](https://www.tottus.cl/tottus-cl/articulo/110616410/fosforo-copihue-hogar-250) → $1.720
+- Lider: [Fósforos de Seguridad Grandes Caja](https://super.lider.cl/ip/accesorios-aseo/00780630001011) → $810
+- Lider: [Fósforos de Seguridad Chicos Pack 10 Caja](https://super.lider.cl/ip/accesorios-aseo/00780630001001) → $2.550
+- Lider: [Fósforos de Seguridad Chicos Pack 10 Caja](https://super.lider.cl/ip/accesorios-aseo/00780630001002) → $1.890
+- Lider: [Fósforos de Seguridad Tradicional Caja](https://super.lider.cl/ip/accesorios-aseo/00780630010020) → $830
+- Lider: [Fósforos de Seguridad Extra Grandes Caja](https://super.lider.cl/ip/accesorios-aseo/00780630010022) → $1.790
 
 ## Servilletas `servilletas` · por paquete
-**$990 · $1.670 · $3.150** (mín · media · máx, 21 precios)
-- Unimarc: [Servilleta cóctel nubelin 300u](https://www.unimarc.cl/servilleta-coctel-nubelin-300-un/p) → $1.690 (normal $2.250)
-- Unimarc: [Servilleta cóctel nubelin 200u](https://www.unimarc.cl/servilleta-coctel-nubelin-200-un/p) → $1.500 (normal $1.990)
-- Unimarc: [Servilleta Nubelin mesa 200 un](https://www.unimarc.cl/servilleta-mesa-nubelin-200-un/p) → $2.890
-- Unimarc: [Servilleta Atelier diseño mesa 20 un](https://www.unimarc.cl/servilleta-diseno-atelier-20-un-mesa/p) → $2.490
-- Unimarc: [Servilleta Atelier diseño fiesta 20 un](https://www.unimarc.cl/servilleta-diseno-atelier-20-un-fiesta/p) → $2.490
-- Unimarc: [Servilleta cóctel Merkat hoja simple 40 un](https://www.unimarc.cl/servilleta-coctel-hs-merkat-40-un/p) → $270
-- Lider: [Servilleta de gato, 1 un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038711) → $1.290
+**$990 · $1.490 · $3.190** (mín · media · máx, 21 precios)
 - Lider: [Servilleta nova clásica cóctel x 180, 180 Un](https://super.lider.cl/ip/papeles/00780650022460) → $1.000 (normal $1.590)
 - Lider: [Servilleta cóctel, 300 Un](https://super.lider.cl/ip/papeles/00780650024120) → $2.290
+- Lider: [Servilleta de gato, 1 un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038711) → $1.290
+- Lider: [Servilleta negra](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005098057) → $1.490
+- Lider: [Servilleta celeste](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005098026) → $1.490
 - Lider: [Servilleta rosada](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005098025) → $1.490
 - Lider: [Servilleta tricolor](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005098030) → $1.490
-- Lider: [Servilleta celeste](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005098026) → $1.490
+- Lider: [Servilleta futbol](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005098037) → $1.290
+- Jumbo: [Servilleta Nova Clásica Cóctel 300 un.](https://www.jumbo.cl/servilleta-nova-2069596/p) → $1.764
+- Jumbo: [Servilleta Nova Clásica Cóctel 300 un.](https://www.jumbo.cl/servilleta-nova-2069596/p) → $1.764 (normal $2.450)
+- Jumbo: [Servilleta Elite Cóctel 200 un.](https://www.jumbo.cl/servilleta-elite-c-2086277/p) → $1.670
+- Jumbo: [Servilleta Elite Cóctel 200 un.](https://www.jumbo.cl/servilleta-elite-c-2086277/p) → $1.670 (normal $2.190)
 
 ## Toalla de papel `toalla_papel` · por paquete
-**$1.000 · $2.840 · $5.890** (mín · media · máx, 32 precios)
-- Unimarc: [Toalla de papel Nova clásica doble hoja 3 un de 12 m](https://www.unimarc.cl/toalla-papel-clasica-dh-nova-3x12-mt/p) → $1.690 (normal $2.590)
-- Unimarc: [Toalla de papel Nova ultra absorb mega rollo 2 un 26 mt](https://www.unimarc.cl/toalla-papel-megarollo-ultra-nova-2x26mt/p) → $3.010 (normal $3.750)
-- Unimarc: [Toalla de papel Abolengo XL 100 mt x 1 un](https://www.unimarc.cl/toalla-de-papel-abolengo-xl-100-m/p) → $3.150 (normal $3.990)
-- Unimarc: [Toalla de papel Nova ultra absorb mega rollo 1 un 26 mt](https://www.unimarc.cl/toalla-papel-megarollo-ultra-nova-1x26mt/p) → $1.000 (normal $1.890)
-- Unimarc: [Toalla de papel Merkat gigante doble hoja 100 m](https://www.unimarc.cl/toalla-papel-gigante-dh-merkat-100mtx1/p) → $2.690
-- Unimarc: [Toalla de papel doble hoja NUBELIN 2x14m](https://www.unimarc.cl/toalla-papel-dh-nubelin-14mtx2/p) → $1.000 (normal $1.490)
-- Unimarc: [Toalla de papel Nova ultra gigante 70 m](https://www.unimarc.cl/toalla-papel-ultra-gigante-dh-nova-70-mt/p) → $3.100 (normal $3.990)
-- Unimarc: [Toalla de papel Nova doble hoja clásica 1 un 70 mt](https://www.unimarc.cl/toalla-papel-clasica-gigante-nova-1x70mt/p) → $3.000 (normal $4.290)
-- Tottus: [Toalla de Papel XL Abolengo 1 un](https://www.tottus.cl/tottus-cl/articulo/117637295/tp-abolengo-xl-abolengo-und) → $3.650 (normal $4.190)
-- Tottus: [Toalla de Papel Nova Doble Hoja 2 x 26 mts](https://www.tottus.cl/tottus-cl/articulo/110621018/toalla-de-papel-nova-ultra-mr-x2) → $3.150 (normal $3.750)
-- Tottus: [Toalla de Papel Ultra Nova 70 Mts](https://www.tottus.cl/tottus-cl/articulo/124677756/toalla-papel-utra-70m-nova) → $3.490 (normal $3.790)
-- Tottus: [Toalla de Papel](https://www.tottus.cl/tottus-cl/articulo/117637291/tp-abolengo-10m-x3-abolengo-und) → $1.490
+**$940 · $2.520 · $6.490** (mín · media · máx, 32 precios)
+- Tottus: [Toalla de Papel XL Abolengo 1 un](https://www.tottus.cl/tottus-cl/articulo/117637295/tp-abolengo-xl-abolengo-und) → $2.590 (normal $4.190)
+- Tottus: [Toalla de Papel Nova Doble Hoja 2 x 26 mts](https://www.tottus.cl/tottus-cl/articulo/110621018/toalla-de-papel-nova-ultra-mr-x2) → $2.190 (normal $3.750)
+- Tottus: [Toalla de Papel](https://www.tottus.cl/tottus-cl/articulo/117637291/tp-abolengo-10m-x3-abolengo-und) → $940 (normal $1.490)
+- Tottus: [Toalla de Papel Ultra Nova 70 Mts](https://www.tottus.cl/tottus-cl/articulo/124677756/toalla-papel-utra-70m-nova) → $3.090 (normal $3.790)
+- Tottus: [Toalla de Papel Desechable Scott Multiuso 2 Rollos 110 Hojas](https://www.tottus.cl/tottus-cl/articulo/110616594/rollo-cocina-multiuso-scott-2-un) → $2.500 (normal $3.190)
+- Tottus: [Toalla de Papel Estilo](https://www.tottus.cl/tottus-cl/articulo/119445658/toalla-de-papel-estilo-favorita-2x24-mt) → $2.450 (normal $3.450)
+- Tottus: [Toalla de Papel Mega Gigante Doble Hoja Nova 1 un](https://www.tottus.cl/tottus-cl/articulo/110613483/toa-papel-gigante-dh-1-rollo-100-mt-nova) → $3.790 (normal $6.390)
+- Tottus: [Toalla de Papel Clásica](https://www.tottus.cl/tottus-cl/articulo/116158602/toalla-de-papel-una-hoja-precio-un-80-mt) → $2.290
+- Lider: [Toalla de Papel Ultra Megarollo Doble Hoja 26 m, 2 Un](https://super.lider.cl/ip/papeles/00780650040684) → $2.541 (normal $2.990)
+- Lider: [Toalla de Papel Doble Hoja 100 m Gigante Bolsa, 1 Un](https://super.lider.cl/ip/papeles/00780650040682) → $3.782 (normal $4.450)
+- Lider: [Toalla de Papel Clásica Doble Hoja 12 m, 12 Un](https://super.lider.cl/ip/papeles/00780650040671) → $5.431 (normal $6.390)
+- Lider: [Toalla de Papel  Clásica Gigante XL   Doble Hoja 40 Metros, 1 Un](https://super.lider.cl/ip/papeles/00780650040680) → $1.606 (normal $1.890)
 
 ## Platos desechables `platos` · por paquete
 **$1.000 · $2.240 · $5.290** (mín · media · máx, 16 precios)
 - Tottus: [Platos Medianos Cartón Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110361974/plato-mediano-carton-tottus-12-un) → $1.790
 - Tottus: [Plato Grande Plastico Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577124/vcr-plato-grande-plastico-tottus-12-un) → $2.690
+- Tottus: [Plato Mediano Carton Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577128/vcr-plato-mediano-carton-tottus-12-un) → $1.790
 - Tottus: [Platos Grandes Cartón Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362127/plato-grande-carton-tottus-12-un) → $2.490
 - Tottus: [Platos Grandes Plásticos Tottus 24 Un](https://www.tottus.cl/tottus-cl/articulo/115838195/plato-grande-plastico-tottus-24-un) → $4.690
 - Tottus: [Plato Grande Carton Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577142/vcr-plato-grande-carton-tottus-12-un) → $2.490
-- Tottus: [Platos Grandes Plásticos Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362121/plato-grande-plastico-tottus-12-un) → $2.690
+- Tottus: [Platos Medianos Plásticos Tottus 24 Un](https://www.tottus.cl/tottus-cl/articulo/115844813/plato-mediano-plastico-tottus-24-un) → $3.290
 - Tottus: [Plato Mediano Plastico Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577136/vcr-plato-mediano-plastico-tottus-12-un) → $1.790
-- Tottus: [Plato Mediano Carton Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577128/vcr-plato-mediano-carton-tottus-12-un) → $1.790
-- Lider: [Plato Rojo Biodegradable 17 cm, 10 Un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780547500881) → $1.990
 - Lider: [Plato mediano cartón 6u](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780547500979) → $1.000
+- Lider: [Plato Biodegradable 17 cm, 10 Un](https://super.lider.cl/ip/marcas-destacadas/00780547500879) → $1.890
 - Lider: [Plato mediano cartón 12 unidades](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780547501566) → $1.490
-- Lider: [Plato Biodegradable 25 cm, 20 Un](https://super.lider.cl/ip/marcas-destacadas/00780547500749) → $5.290
+- Lider: [Plato Biodegradable 17 cm, 20 Un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780547500880) → $2.990
 
 ## Vasos desechables `vasos` · por paquete
 **$890 · $1.940 · $2.190** (mín · media · máx, 18 precios)
@@ -117,20 +117,20 @@ _Referencial_: se mantiene $2.990 · $3.990 · $5.490 (0 precios encontrados)
 - Tottus: [Vasos Transparentes Plásticos Tottus 300 ml 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362628/vaso-transp-300cc-plastico-tottus-12-un) → $1.290
 - Tottus: [VASO PLASTICO ROJO 20UN.](https://www.tottus.cl/tottus-cl/articulo/148466390/vaso-plastico-rojo-20un) → $1.990
 - Tottus: [Vaso Plástico Luminoso](https://www.tottus.cl/tottus-cl/articulo/122626617/vaso-plastico-luminoso) → $490
-- Jumbo: [Vaso Desechable Bicolor Negro 500 cc 10 un.](https://www.jumbo.cl/vaso-bicolor-negro-500cc-10-un-1997566/p) → $2.190
-- Jumbo: [Vaso Desechable Bicolor Negro 500 cc 10 un.](https://www.jumbo.cl/vaso-bicolor-negro-500cc-10-un-1997566/p) → $2.190
-- Jumbo: [Vaso Desechable Bicolor Dorado 500 cc 10 un.](https://www.jumbo.cl/vaso-bicolor-dorado-500cc-10-un-1997564/p) → $2.190
-- Jumbo: [Vaso Desechable Bicolor Dorado 500 cc 10 un.](https://www.jumbo.cl/vaso-bicolor-dorado-500cc-10-un-1997564/p) → $2.190
-- Jumbo: [Vaso Desechable Bicolor Plateado 500 cc 10 un.](https://www.jumbo.cl/vaso-bicolor-plateado-500cc-10-un-1997565/p) → $2.190
-- Jumbo: [Vaso Desechable Bicolor Plateado 500 cc 10 un.](https://www.jumbo.cl/vaso-bicolor-plateado-500cc-10-un-1997565/p) → $2.190
 - Lider: [6 Vaso Plastico Spider](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780465603633) → $1.590 (normal $1.890)
+- Lider: [Set de vasos plásticos rojo 500cc, 20 un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040000706012) → $1.990
+- Lider: [Vaso Biodegradable 500 cc, 10 Un](https://super.lider.cl/ip/marcas-destacadas/00780547500878) → $1.890
+- Lider: [Vaso Biodegradable 350 cc, 10 Un](https://super.lider.cl/ip/marcas-destacadas/00780547500740) → $1.690
+- Lider: [Vaso biodegradable rojo 500 cc, 1 Un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780547500750) → $1.890
+- Lider: [Set de 6 vasos plásticos transparente 300cc, 1 Un](https://super.lider.cl/ip/marcas-destacadas/00040000646879) → $890
+- Lider: [Set de 6 vasos biodegradable transparente 300cc, 1 Un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040000626337) → $890
 
 ## Cubiertos desechables `cubiertos` · por paquete
 **$560 · $690 · $990** (mín · media · máx, 11 precios)
 - Tottus: [Mix Cubiertos Plásticos Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362263/set-mix-cubiertos-plastico-tottus-12-un) → $990
 - Tottus: [Mix Cubiertos  Plastico Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577139/vcr-mix-cubiertos%C2%A0-plastico-tottus-12-un) → $990
-- Tottus: [Tenedores Plásticos Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362782/set-tenedores-plastico-tottus-12-un) → $990
 - Tottus: [Set Cucharas  Plastico Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577137/vcr-set-cucharas%C2%A0-plastico-tottus-12-un) → $990
+- Tottus: [Tenedores Plásticos Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362782/set-tenedores-plastico-tottus-12-un) → $990
 - Tottus: [Set Tenedores Plastico Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/120577134/vcr-set-tenedores%C2%A0-plastico-tottus-12-un) → $990
 - Lider: [Set Cubiertos Desechables 9 Piezas, 1 Un](https://super.lider.cl/ip/marcas-destacadas/00040000626340) → $690
 - Lider: [Cucharas Desechables Transparentes 10 Unidades, 1 Un](https://super.lider.cl/ip/marcas-destacadas/00040000626339) → $690
@@ -145,308 +145,315 @@ _Referencial_: se mantiene $2.990 · $3.990 · $5.490 (0 precios encontrados)
 - Jumbo: [Mantel Cumpleaños Celebraciones Ely Display Blanco 20 un.](https://www.jumbo.cl/mantel-cumpleanos-celebreaciones-ely-display-blanco-20-un-celebraciones-ely-281375/p) → $2.090
 - Lider: [Mantel celeste plástico](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005124006) → $1.490
 - Lider: [Mantel rosado plástico](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005124005) → $1.490
-- Lider: [Mantel de cumpleaños tematica gamer](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038732) → $1.290
 - Lider: [Mantel de cumpleaños tematica dinosaurios](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038717) → $1.290
+- Lider: [Mantel de cumpleaños tematica gamer](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038732) → $1.290
 
 ## Bolsas de basura `bolsas_basura` · por rollo
-**$520 · $1.000 · $4.490** (mín · media · máx, 31 precios)
-- Unimarc: [Bolsa de basura Virutex mediana (70x90 cm) rollo 10 un](https://www.unimarc.cl/bolsa-virutex-bio-70-x-90-cm-rollo-10-u/p) → $1.150 (normal $1.190)
-- Unimarc: [Bolsa de basura Superior 70 cm X 90 cm rollo 10 un](https://www.unimarc.cl/bolsa-superior-70-x-90-cm-rollo-10-u/p) → $850 (normal $990)
-- Unimarc: [Bolsa de basura Superior 50 cm x 70 cm rollo 10 un](https://www.unimarc.cl/bolsa-basura-50x70-superior-10-un/p) → $870
-- Unimarc: [Bolsa de basura Virutex grande (80x110 cm) rollo 10 un](https://www.unimarc.cl/bolsa-basura-biodeg-80x110-virutex-10-un/p) → $1.650 (normal $1.850)
-- Unimarc: [Bolsa de basura Smart Clean baño 45 x 50 cm rollo 20 un](https://www.unimarc.cl/bolsa-basura-bano-45x50-smart-clean-20un/p) → $1.000 (normal $1.290)
-- Unimarc: [Bolsa de basura Smart Clean S 50 x 70 cm 10 un](https://www.unimarc.cl/bolsa-basura-s-50x70-smart-clean-10-un/p) → $590
-- Unimarc: [Bolsa de basura Smart Clean XL 80 x 120 cm 10 un](https://www.unimarc.cl/bolsa-basura-xl-80x120-smart-clean-10-un/p) → $2.000 (normal $2.890)
-- Unimarc: [Bolsa de basura Smart Clean tamaño L 80 x 110 cm 10 un](https://www.unimarc.cl/bolsa-basura-l-80x110-smart-clean-10-un/p) → $1.000 (normal $1.150)
+**$360 · $880 · $3.250** (mín · media · máx, 32 precios)
 - Tottus: [Bolsa de Basura Superior Chica 50 x 65 cms](https://www.tottus.cl/tottus-cl/articulo/110615128/bolsa-con-asas-rollo-superior-10-un) → $520
 - Tottus: [Bolsa de Basura Mediana 70 x 90 cms Superior 10 un](https://www.tottus.cl/tottus-cl/articulo/110615515/bolsa-70-x-90-con-asas-superior-10-und) → $890 (normal $1.110)
-- Tottus: [Bolsa de Basura Superior Chica 50 x 70 cms](https://www.tottus.cl/tottus-cl/articulo/110616438/bolsa-b-rollo-50x70-cm-superior) → $770
 - Tottus: [Bolsa de Basura Superior Grande 80 x 110 cms](https://www.tottus.cl/tottus-cl/articulo/110618575/bolsa-b-rollo-80x110-cm-superior) → $1.290 (normal $1.630)
+- Tottus: [Bolsa de Basura Superior Chica 50 x 70 cms](https://www.tottus.cl/tottus-cl/articulo/110616438/bolsa-b-rollo-50x70-cm-superior) → $590 (normal $770)
+- Tottus: [Bolsa de Basura Mediana 70 x 90 cms Superior 10 un](https://www.tottus.cl/tottus-cl/articulo/110616082/bolsa-b-rollo-70x90-cm-superior) → $850 (normal $1.190)
+- Tottus: [Bolsa de Basura Grande 80x120 cm Superior 10 un](https://www.tottus.cl/tottus-cl/articulo/110615027/bolsa-b-rollo-80x120-cm-superior) → $2.070 (normal $3.250)
+- Tottus: [Bolsa de Basura Chica 45 x 55 cms Superior 20 un](https://www.tottus.cl/tottus-cl/articulo/110618038/bolsa-b-bano-45x55.20un-superior) → $1.390
+- Tottus: [Bolsas de Basura Tottus Pequeña 50 x 70 cm](https://www.tottus.cl/tottus-cl/articulo/110610689/bolsa-b-rollo-50x70-tottus-fp) → $560
+- Lider: [Bolsa de Basura Grande 80x110 cm, 10 Un](https://super.lider.cl/ip/mas-sustentables/00780681080045) → $1.650
+- Lider: [Bolsa de Basura Pequeña 50x70 cm, 10 Un](https://super.lider.cl/ip/mas-sustentables/00780681080043) → $790
+- Lider: [Bolsa de Basura Mediana 70x90 cm, 10 Un](https://super.lider.cl/ip/mas-sustentables/00780681080044) → $1.000 (normal $1.190)
+- Lider: [Bolsa de Basura Pequeña Blanca 50x55 cm, 20 Un](https://super.lider.cl/ip/mas-sustentables/00780681080031) → $1.790
 
 ## Velas de cumpleaños `velas` · por paquete
 **$790 · $1.080 · $2.390** (mín · media · máx, 16 precios)
 - Tottus: [Vela Feliz Cumpleaños  15 Un](https://www.tottus.cl/tottus-cl/articulo/110362471/vela-feliz-cumpleanos-tottus-15-un) → $2.390
+- Jumbo: [Set 24 Velas Cumpleaños Palms](https://www.jumbo.cl/set-24-velas-cumpleanos-palms-1929175/p) → $790
+- Jumbo: [Set 24 Velas Cumpleaños Palms](https://www.jumbo.cl/set-24-velas-cumpleanos-palms-1929175/p) → $790
+- Jumbo: [Vela Cumpleaños Glitter N°1 - 1 un.](https://www.jumbo.cl/vela-para-cumpleanos-drop-it-glit-n-1/p) → $870
+- Jumbo: [Vela Cumpleaños Glitter N°1 - 1 un.](https://www.jumbo.cl/vela-para-cumpleanos-drop-it-glit-n-1/p) → $870
+- Jumbo: [Vela Cumpleaños Drop It! Glitter N°3 - 1 un.](https://www.jumbo.cl/vela-cumpleanos-drop-it-glitter-nro3---1-un-drop-it-1566315/p) → $870
+- Jumbo: [Vela Cumpleaños Drop It! Glitter N°3 - 1 un.](https://www.jumbo.cl/vela-cumpleanos-drop-it-glitter-nro3---1-un-drop-it-1566315/p) → $870
+- Jumbo: [Vela Cumpleaños Drop It! Glitter N°7 - 1 un.](https://www.jumbo.cl/vela-cumpleanos-drop-it-glitter-nro7---1-un-drop-it-1566319/p) → $870
+- Jumbo: [Vela Cumpleaños Drop It! Glitter N°7 - 1 un.](https://www.jumbo.cl/vela-cumpleanos-drop-it-glitter-nro7---1-un-drop-it-1566319/p) → $870
+- Lider: [Velas cumpleaños doradas](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038746) → $1.290
 - Lider: [Velas de Cumpleaños Caja, 1 Un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780461500451) → $1.990
 - Lider: [Velas cumpleaños glitter](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038744) → $1.290
-- Lider: [Velas cumpleaños doradas](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038746) → $1.290
-- Lider: [Velas Feliz cumpleaños rosa](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038739) → $1.290
-- Lider: [Velas Feliz cumpleaños azul](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038738) → $1.290
-- Lider: [Set de velas de cumpleaños plateada, 1 un](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038745) → $1.290
-- Lider: [Vela Feliz Cumpleaños Dorado](https://super.lider.cl/ip/cumpleanos-y-cotillon/00040005038736) → $1.290
-- Jumbo: [Set 24 Velas Cumpleaños Palms](https://www.jumbo.cl/set-24-velas-cumpleanos-palms-1929175/p) → $790
-- Jumbo: [Set 24 Velas Cumpleaños Palms](https://www.jumbo.cl/set-24-velas-cumpleanos-palms-1929175/p) → $790
-- Jumbo: [Vela Cumpleaños Glitter N°1 - 1 un.](https://www.jumbo.cl/vela-para-cumpleanos-drop-it-glit-n-1/p) → $870
-- Jumbo: [Vela Cumpleaños Glitter N°1 - 1 un.](https://www.jumbo.cl/vela-para-cumpleanos-drop-it-glit-n-1/p) → $870
 
 ## Vela con número `vela_numero` · por unidad
-**$790 · $1.090 · $1.590** (mín · media · máx, 16 precios)
-- Unimarc: [Vela Dkora glitter número siete 1 un VELA NUMERO GLITTER DKORA, SIETE](https://www.unimarc.cl/vela-numero-glitter-dkora-siete/p) → $790
+**$790 · $1.090 · $1.390** (mín · media · máx, 16 precios)
+- Jumbo: [Vela Arcoíris Palms Número 3](https://www.jumbo.cl/vela-arcoiris-palms-numero-3-palms-1929179/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 3](https://www.jumbo.cl/vela-arcoiris-palms-numero-3-palms-1929179/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 1](https://www.jumbo.cl/vela-arcoiris-palms-numero-1-palms-1929177/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 1](https://www.jumbo.cl/vela-arcoiris-palms-numero-1-palms-1929177/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 6](https://www.jumbo.cl/vela-arcoiris-palms-numero-6-palms-1929182/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 6](https://www.jumbo.cl/vela-arcoiris-palms-numero-6-palms-1929182/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 9](https://www.jumbo.cl/vela-arcoiris-palms-numero-9-palms-1929185/p) → $1.390
+- Jumbo: [Vela Arcoíris Palms Número 9](https://www.jumbo.cl/vela-arcoiris-palms-numero-9-palms-1929185/p) → $1.390
 - Unimarc: [Vela Dkora glitter número cinco 1 un VELA NUMERO GLITTER DKORA, CINCO](https://www.unimarc.cl/vela-numero-glitter-dkora-cinco/p) → $790
 - Unimarc: [Vela Dkora glitter número ocho 1 un VELA NUMERO GLITTER DKORA, OCHO](https://www.unimarc.cl/vela-numero-glitter-dkora-ocho/p) → $790
 - Unimarc: [Vela Dkora glitter número seis 1 un VELA NUMERO GLITTER DKORA, SEIS](https://www.unimarc.cl/vela-numero-glitter-dkora-seis/p) → $790
-- Unimarc: [Vela Dkora glitter número cero 1 un VELA NUMERO GLITTER DKORA, CERO](https://www.unimarc.cl/vela-numero-glitter-dkora-cero/p) → $790
-- Unimarc: [Vela Dkora glitter número uno 1 un VELA NUMERO GLITTER DKORA, UNO](https://www.unimarc.cl/vela-numero-glitter-dkora-uno/p) → $790
-- Unimarc: [Vela Dkora glitter número cuatro 1 un VELA NUMERO GLITTER DKORA, CUATRO](https://www.unimarc.cl/vela-numero-glitter-dkora-cuatro/p) → $790
-- Unimarc: [Vela Dkora glitter número dos 1 un VELA NUMERO GLITTER DKORA, DOS](https://www.unimarc.cl/vela-numero-glitter-dkora-dos/p) → $790
-- Jumbo: [Vela Arcoíris Palms Número 3](https://www.jumbo.cl/vela-arcoiris-palms-numero-3-palms-1929179/p) → $1.390
-- Jumbo: [Vela Arcoíris Palms Número 3](https://www.jumbo.cl/vela-arcoiris-palms-numero-3-palms-1929179/p) → $1.390
-- Jumbo: [Vela Arcoíris Palms Número 1](https://www.jumbo.cl/vela-arcoiris-palms-numero-1-palms-1929177/p) → $1.390
-- Jumbo: [Vela Arcoíris Palms Número 1](https://www.jumbo.cl/vela-arcoiris-palms-numero-1-palms-1929177/p) → $1.390
+- Unimarc: [Vela Dkora glitter número siete 1 un VELA NUMERO GLITTER DKORA, SIETE](https://www.unimarc.cl/vela-numero-glitter-dkora-siete/p) → $790
 
 ## Globos `globos` · por bolsa
-**$1.090 · $2.090 · $3.950** (mín · media · máx, 31 precios)
+**$1.000 · $2.290 · $4.490** (mín · media · máx, 31 precios)
+- Tottus: [Bouquet 10 Globos Calipso Liso Y Confeti](https://www.tottus.cl/tottus-cl/articulo/124088927/bouquet-10-globos-calipso-liso-y-confeti) → $2.490
+- Tottus: [Globo Feliz Cumpleaños N9 Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362526/globo-feliz-cumpleanos-n9-tottus-12-un) → $1.690
 - Tottus: [Bouquet 10 Globos Fucsia](https://www.tottus.cl/tottus-cl/articulo/124088929/bouquet-10-globos-fucsia) → $2.490
 - Tottus: [Globo Metalizado N9 Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362187/globo-metalizado-n9-tottus-12-un) → $1.390
+- Tottus: [PACK 3 FESTONES  6 GLOBOS NINA](https://www.tottus.cl/tottus-cl/articulo/124878032/pack-3-festones6-globos-nina) → $1.990
 - Tottus: [Globo Decorativo Feliz Cumple](https://www.tottus.cl/tottus-cl/articulo/130091486/globo-decorativo-feliz-cumple) → $2.690
-- Tottus: [Bouquet 10 Globos Calipso Liso Y Confeti](https://www.tottus.cl/tottus-cl/articulo/124088927/bouquet-10-globos-calipso-liso-y-confeti) → $2.490
-- Tottus: [Globo Liso N9 Tottus 25 Un](https://www.tottus.cl/tottus-cl/articulo/110362647/globo-liso-n9-tottus-25-un) → $2.090
-- Tottus: [Globo Liso N9 Tottus 50 Un](https://www.tottus.cl/tottus-cl/articulo/110362871/globo-liso-n9-tottus-50-un) → $3.890
 - Tottus: [Globo Liso N9 Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362985/globo-liso-n9-tottus-12-un) → $1.290
-- Tottus: [Globo Feliz Cumpleaños N9 Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110362526/globo-feliz-cumpleanos-n9-tottus-12-un) → $1.690
-- Unimarc: [Globo Unimarc N° 9 metalizado liso 25 un](https://www.unimarc.cl/globo-liso-n-9-metal-unimarc-b-25-un/p) → $1.790
-- Unimarc: [globo aluminio feliz cumpleaños palms](https://www.unimarc.cl/globo-aluminio-feliz-cumple-palms/p) → $3.950
-- Unimarc: [Globo Unimarc N° 9 feliz cumpleñaos 25 un](https://www.unimarc.cl/globo-n-9-feliz-cumpleano-unimarc-b-25un/p) → $2.590
-- Unimarc: [Globos Halloween Dkora 1 un (diseño al azar)](https://www.unimarc.cl/globos-foil-surtidos-hw26-dkora/p) → $1.990
+- Tottus: [Globo Liso N9 Tottus 50 Un](https://www.tottus.cl/tottus-cl/articulo/110362871/globo-liso-n9-tottus-50-un) → $3.890
+- Lider: [Globo feliz cumpleaños letras doradas](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780465603556) → $2.590
+- Lider: [Globos Feliz 18](https://super.lider.cl/ip/festeja-al-aire-libre/00040005087216) → $1.000 (normal $2.990)
+- Lider: [Globo papel metal dorado N9](https://super.lider.cl/ip/cumpleanos-y-cotillon/00520155154422) → $1.690
+- Lider: [Globo latex 25 unidades colores surtidos](https://super.lider.cl/ip/cumpleanos-y-cotillon/00780465603544) → $2.490
 
 ## Gorritos de cumpleaños `gorritos` · por paquete
 _Referencial_: se mantiene $990 · $1.590 · $2.490 (0 precios encontrados)
 
 ## Bebida `bebida` · por botella de 3 L
-**$2.000 · $2.420 · $5.490** (mín · media · máx, 29 precios)
+**$2.000 · $2.420 · $5.490** (mín · media · máx, 31 precios)
 - Tottus: [Bebida Coca Cola Original Desechable 3 L](https://www.tottus.cl/tottus-cl/articulo/110609249/bebida-coca-cola-3-lts-des) → $3.291
 - Tottus: [Bebida Coca Cola Zero Azúcar Desechable 3 L](https://www.tottus.cl/tottus-cl/articulo/110611315/bebida-coca-cola-zero-3-lt-des) → $3.291
-- Tottus: [Bebida Pepsi Desechable 3 L](https://www.tottus.cl/tottus-cl/articulo/110614966/bebida-pepsi-3-lts-des) → $2.391 (normal $3.051)
-- Tottus: [Bebida Pepsi Zero Azúcar Desechable 3 L](https://www.tottus.cl/tottus-cl/articulo/110616506/bebida-pepsi-zero-pet-3000-ml) → $2.391 (normal $3.051)
+- Tottus: [Bebida Pepsi Desechable 3 L](https://www.tottus.cl/tottus-cl/articulo/110614966/bebida-pepsi-3-lts-des) → $2.289 (normal $3.049)
+- Tottus: [Bebida Pepsi Zero Azúcar Desechable 3 L](https://www.tottus.cl/tottus-cl/articulo/110616506/bebida-pepsi-zero-pet-3000-ml) → $2.289 (normal $3.049)
 - Tottus: [Bebida Coca Cola Original Desechable 2.5 L](https://www.tottus.cl/tottus-cl/articulo/110606546/bebida-coca-cola-2-5-lts-des) → $3.348
 - Tottus: [Tripack Bebida Coca Cola 2 x 3 Lt + Bebida Fanta 3 Lt](https://www.tottus.cl/tottus-cl/articulo/142099987/gaseosa-three-pack-2mlo-fanta-fs-3-lt) → $2.298 (normal $2.932)
 - Tottus: [Bebida Coca Cola Original Retornable 3 L](https://www.tottus.cl/tottus-cl/articulo/124736920/BEBIDA%20COCA%20COLA%203%20LTS.%20RET.) → $3.291
-- Unimarc: [Bebida Coca Cola original desechable 3 L](https://www.unimarc.cl/beb-coca-cola-3-l-no-retor/p) → $2.691 (normal $3.391)
-- Unimarc: [Bebida Coca Cola zero desechable 3 L](https://www.unimarc.cl/bebida-coca-cola-sin-azucar-no-retornable-3-l/p) → $2.691 (normal $3.391)
-- Unimarc: [Bebida Pepsi zero no retornable 3 L](https://www.unimarc.cl/pepsi-zero-pet-3-l/p) → $2.421 (normal $3.251)
-- Unimarc: [Bebida Pepsi no retornable 3 L](https://www.unimarc.cl/pepsi-desechable-3-lt/p) → $2.421 (normal $3.251)
-- Unimarc: [Bebida Bilz no retornable 3 L](https://www.unimarc.cl/bilz-desechable-3-lt/p) → $2.421 (normal $3.291)
+- Lider: [Bebida Original Botella Retornable, 3 L](https://super.lider.cl/ip/bebidas/00780161033312) → $2.091
+- Lider: [Bebida Original Botella, 3 L](https://super.lider.cl/ip/bebidas/00780161033348) → $2.001 (normal $3.092)
+- Lider: [Bebida Limón y Cola Original Pack 3 Botella, 3 L](https://super.lider.cl/ip/bebidas/00780161035100) → $2.250
+- Lider: [Bebida Ginger Ale Original Botella, 3 L](https://super.lider.cl/ip/bebidas/00780162000189) → $2.391 (normal $3.091)
+- Lider: [Bebida Papaya Original Botella, 3 L](https://super.lider.cl/ip/bebidas/00780162000121) → $3.090
 
 ## Bebida 1,5 L `bebida_15` · por botella de 1,5 L
-**$1.690 · $2.190 · $2.390** (mín · media · máx, 21 precios)
+**$1.990 · $2.190 · $2.390** (mín · media · máx, 23 precios)
 - Tottus: [Bebida Pepsi Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110615504/bebida-pepsi-1500-ml-desech) → $1.991
-- Tottus: [Bebida Bilz Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110616970/bebida-bilz-1500-ml-desech) → $2.051
 - Tottus: [Bebida Fanta Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/140604305/gaseosa-fanta-original-fanta-1-5-lt) → $2.250
 - Tottus: [Bebida Inca Kola Original Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/115807359/bebida-inca-kola-1-5-lt-des) → $2.250
-- Tottus: [Bebida Coca Cola Original Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110610239/bebida-coca-cola-1500-ml-des) → $2.250
+- Tottus: [Bebida Bilz Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110616970/bebida-bilz-1500-ml-desech) → $2.051
 - Tottus: [Bebida Pepsi Zero Azúcar Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110619952/bebida-pepsi-zero-pet-1500-ml) → $1.991
+- Tottus: [Bebida Coca Cola Original Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110610239/bebida-coca-cola-1500-ml-des) → $2.250
 - Tottus: [Bebida Crush Zero Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110620844/bebida-crush-light-1500-ml-des) → $2.051
-- Tottus: [Bebida Fanta Pomelo Zero Azúcar Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/121327358/bebida-pomelo-sa-fanta-1-5-lt) → $2.250
-- Unimarc: [Bebida Fanta sin azúcar 1.5 L](https://www.unimarc.cl/beb-fanta-zero-1-5-l-no-retornable/p) → $2.390
-- Unimarc: [Bebida Schweppes ginger ale desechable 1.5 L](https://www.unimarc.cl/schweppes-ginger-ale-pet-1500/p) → $2.390
-- Unimarc: [Bebida Inca Kola zero 1.5 L](https://www.unimarc.cl/inca-kola-zero-desechable-1-5-lt/p) → $2.390
-- Unimarc: [Bebida Schweppes ginger ale sin azúcar desechable 1.5 L](https://www.unimarc.cl/ginger-ale-s-azucar-schweppes-1-5-lt-pet/p) → $2.390
+- Tottus: [Bebida Crush Desechable 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110620856/bebida-crush-1500-ml-desech) → $2.051
+- Jumbo: [Bebida Kem 1.5 L](https://www.jumbo.cl/bebida-kem-15-l-botella-desechable/p) → $2.190
+- Jumbo: [Bebida Kem 1.5 L](https://www.jumbo.cl/bebida-kem-15-l-botella-desechable/p) → $2.190
+- Jumbo: [Bebida Pap 1.5 L](https://www.jumbo.cl/bebida-pap-15-l-botella-desechable/p) → $2.190
+- Jumbo: [Bebida Pap 1.5 L](https://www.jumbo.cl/bebida-pap-15-l-botella-desechable/p) → $2.190
 
 ## Bebida en lata `bebida_lata` · por lata
 **$670 · $980 · $1.090** (mín · media · máx, 17 precios)
-- Tottus: [Pack Bebida Pap Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/113692934/bebida-pap-lata-6-x-350-ml) → $958
-- Tottus: [Pack Bebida Pepsi Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/110618628/bebida-pepsi-lata-6-x-350-ml) → $958
-- Tottus: [Pack Bebida Coca Cola Light Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/110610703/bebida-coca-cola-light-lata-350-ml-x-6-un-ct) → $667 (normal $982)
-- Tottus: [Pack Bebida Crush Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/115807362/bebida-crush-lata-6-x-350-ml) → $958
-- Tottus: [Pack Bebida Limón Soda Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/112651967/bebida-limon-soda-lata-6-x-350-ml) → $958
 - Tottus: [Pack Bebida Coca Cola Original Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/110612256/bebida-coca-cola-lata-350-ml-x-6-ct) → $667 (normal $982)
-- Tottus: [Pack Bebida Canada Dry Ginger Ale Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/115613796/bebida-ginger-ale-lata-6-x-350-ml) → $958
+- Tottus: [Pack Bebida Coca Cola Light Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/110610703/bebida-coca-cola-light-lata-350-ml-x-6-un-ct) → $667 (normal $982)
+- Tottus: [Pack Bebida Pap Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/113692934/bebida-pap-lata-6-x-350-ml) → $958
 - Tottus: [Pack Bebida Fanta Xbox Sabor Carmesí Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/152429612/sixpack-fanta-xbox-350-ml) → $982
-- Unimarc: [Bebida Fanta halloween ghost lata 350 ml](https://www.unimarc.cl/bebida-haloween-ghost-fanta-350-ml-lata-2/p) → $1.090
+- Tottus: [Pack Bebida Pepsi Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/110618628/bebida-pepsi-lata-6-x-350-ml) → $958
+- Tottus: [Pack Bebida Bilz Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/115613596/bebida-bilz-lata-6-x-350-ml) → $958
+- Tottus: [Pack Bebida Fanta Ghost Face Punch Sabor Frutos Rojos Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/156535263/sixpack-fanta-ghost-face-punch-350-ml) → $667 (normal $982)
+- Tottus: [Pack Bebida Crush Lata 6 x 350 ml](https://www.tottus.cl/tottus-cl/articulo/115807362/bebida-crush-lata-6-x-350-ml) → $958
 - Jumbo: [Pack 6 un. Bebida Fanta Lata 350 cc](https://www.jumbo.cl/beb-fanta-lata-350cc-2019214-pak/p) → $998
 - Jumbo: [Pack 6 un. Bebida Fanta Lata 350 cc](https://www.jumbo.cl/beb-fanta-lata-350cc-2019214-pak/p) → $998
-- Jumbo: [Pack 6 un. Bebida Coca-Cola Zero Lata 350 cc](https://www.jumbo.cl/pack-bebida-coca-cola-zero-6-unid-350-cc-c-u/p) → $998
+- Jumbo: [Pack 6 un. Bebida Bilz Lata 350 ml](https://www.jumbo.cl/pack-bebidad-bilz-6-unid-350-cc-c-u/p) → $975
+- Jumbo: [Pack 6 un. Bebida Bilz Lata 350 ml](https://www.jumbo.cl/pack-bebidad-bilz-6-unid-350-cc-c-u/p) → $975
 
 ## Jugo `jugo` · por caja de 1,5 L
-**$1.050 · $1.790 · $1.950** (mín · media · máx, 24 precios)
+**$1.050 · $1.750 · $1.990** (mín · media · máx, 24 precios)
 - Tottus: [Jugo de Naranja Fresh Del Valle 1.5 L](https://www.tottus.cl/tottus-cl/articulo/120218670/nectar-naranja-fresh-del-valle-1-5-lt) → $1.050
-- Tottus: [Jugo frutilla sin aditivos](https://www.tottus.cl/tottus-cl/articulo/110613501/jugo-frutilla-0-adv-1-5-lts) → $1.751
+- Tottus: [Jugo Multi Frutilla Sin Azúcar Del Valle 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110613501/jugo-frutilla-0-adv-1-5-lts) → $1.751
 - Tottus: [Jugo Frutas Tropicales Fresh Del Valle 1.5 L](https://www.tottus.cl/tottus-cl/articulo/120216981/nectar-f-tropic-0-fresh-del-valle-1-5-lt) → $1.050
 - Tottus: [Néctar de Naranja Andina 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110614858/nectar-andina-naranja-1-5-pet) → $1.751
 - Tottus: [Jugo kiwi](https://www.tottus.cl/tottus-cl/articulo/110613093/jugo-kiwi-0-andina-valle-1-5-lt) → $1.751
 - Tottus: [Néctar de Frutilla Del Valle 1.5 L](https://www.tottus.cl/tottus-cl/articulo/120217207/nectar-frutilla-del-valle-1-5-lt) → $1.751
-- Tottus: [Néctar de Naranja Watts 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110615095/nectar-naranja-1-5-lts-des) → $1.950
 - Tottus: [Néctar de Manzana Del Valle 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110610505/nectar-andina-manzana-1-5-pet) → $1.751
-- Unimarc: [Néctar Watt's durazno boca ancha 1.5 L](https://www.unimarc.cl/nectar-watt-s-durazno-boca-ancha-1-5l/p) → $1.890
-- Unimarc: [Néctar Watt's light naranja boca ancha 1.5 L](https://www.unimarc.cl/nectar-watt-s-light-naranja-boca-ancha-1-5-l/p) → $1.890
-- Unimarc: [Néctar Watt's piña boca ancha 1.5 L](https://www.unimarc.cl/nectar-watt-s-pina-boca-ancha-1-5l/p) → $1.890
-- Unimarc: [Néctar Watt's tutti frutilla boca ancha 1.5 L](https://www.unimarc.cl/nectar-watt-s-tutti-frutilla-boca-ancha-1-5l/p) → $1.890
+- Tottus: [Néctar de Naranja Watts 1.5 L](https://www.tottus.cl/tottus-cl/articulo/110615095/nectar-naranja-1-5-lts-des) → $1.950
+- Jumbo: [Néctar del Valle Naranja 1.5 L](https://www.jumbo.cl/nectar-andina-15-l-naranja-botella-desechable-2/p) → $1.790
+- Jumbo: [Néctar del Valle Naranja 1.5 L](https://www.jumbo.cl/nectar-andina-15-l-naranja-botella-desechable-2/p) → $1.790
+- Jumbo: [Néctar del Valle Durazno 1.5 L](https://www.jumbo.cl/nectar-andina-15-l-durazno-botella-desechable/p) → $1.790
+- Jumbo: [Néctar del Valle Durazno 1.5 L](https://www.jumbo.cl/nectar-andina-15-l-durazno-botella-desechable/p) → $1.790
 
 ## Jugo natural de naranja `jugo_natural` · por botella de 1 L
-**$3.330 · $4.550 · $6.090** (mín · media · máx, 16 precios)
+**$3.330 · $4.490 · $6.090** (mín · media · máx, 16 precios)
 - Tottus: [Jugo de Naranja Natural One Quillayes 1.3 L](https://www.tottus.cl/tottus-cl/articulo/148265967/jugo-naranja-natural-one-1-3-lt) → $4.608
 - Tottus: [Jugo de Naranja Fresco Natural One Quillayes 900 ml](https://www.tottus.cl/tottus-cl/articulo/154745772/jugo-naranja-fresco-natural-one-900-ml) → $4.722
+- Tottus: [Jugo de Naranja Exprimido Watts 1.5 L](https://www.tottus.cl/tottus-cl/articulo/148353938/jugo-naranja-exprimido-watts-1-5-lt) → $3.593 (normal $5.461)
 - Tottus: [Jugo de Naranja Natural Watts Selección 1.5 L](https://www.tottus.cl/tottus-cl/articulo/149058633/nectar-naranja-watts-selemlion-1-5-lt) → $3.967
-- Tottus: [Jugo de Naranja Exprimido Watts 1.5 L](https://www.tottus.cl/tottus-cl/articulo/148353938/jugo-naranja-exprimido-watts-1-5-lt) → $5.460
-- Unimarc: [Jugo de naranja Quillayes natural one 1.3 L](https://www.unimarc.cl/jugo-natural-one-naranja-quillayes-1-3lt/p) → $4.300 (normal $5.300)
-- Unimarc: [Jugo Quillayes natural one sabor naranja 900 ml](https://www.unimarc.cl/jugo-natural-one-naranja-quillayes-900ml/p) → $3.333
-- Lider: [Jugo Naranja Natural One, 900 ml](https://super.lider.cl/ip/refrigerados/00789991691324) → $3.333 (normal $4.433)
-- Lider: [Jugo Naranja Exprimido Caja, 1,5 L](https://super.lider.cl/ip/jugos/00780281001196) → $5.327
-- Jumbo: [Jugo Fresco Naranja Quillayes Natural One 1.3 L](https://www.jumbo.cl/jugo-quillayes-natural-one-naranja-1-3lt-2049113/p) → $5.315
-- Jumbo: [Jugo Fresco Naranja Quillayes Natural One 1.3 L](https://www.jumbo.cl/jugo-quillayes-natural-one-naranja-1-3lt-2049113/p) → $5.315
+- Jumbo: [Jugo Fresco Naranja Quillayes Natural One 1.3 L](https://www.jumbo.cl/jugo-quillayes-natural-one-naranja-1-3lt-2049113/p) → $5.500
+- Jumbo: [Jugo Fresco Naranja Quillayes Natural One 1.3 L](https://www.jumbo.cl/jugo-quillayes-natural-one-naranja-1-3lt-2049113/p) → $5.500
 - Jumbo: [Jugo Natural Exprimido Bless 14 Naranja 1 L](https://www.jumbo.cl/jugo-naranja-exprimido-1-l/p) → $4.490
 - Jumbo: [Jugo Natural Exprimido Bless 14 Naranja 1 L](https://www.jumbo.cl/jugo-naranja-exprimido-1-l/p) → $4.490 (normal $6.090)
+- Jumbo: [Jugo Florida's Natural Naranja 1.5 L](https://www.jumbo.cl/jugo-de-naranja-florida-s-natural-1-5-l/p) → $5.913
+- Jumbo: [Jugo Florida's Natural Naranja 1.5 L](https://www.jumbo.cl/jugo-de-naranja-florida-s-natural-1-5-l/p) → $5.913
+- Jumbo: [Jugo Natural Prensado Bless 21 Mango, Naranja y Manzana 1 L](https://www.jumbo.cl/jugo-prensado-bless-21-mang-nar-manz-1lt-1995679/p) → $4.490
+- Jumbo: [Jugo Natural Prensado Bless 21 Mango, Naranja y Manzana 1 L](https://www.jumbo.cl/jugo-prensado-bless-21-mang-nar-manz-1lt-1995679/p) → $4.490 (normal $6.090)
 
 ## Agua mineral sin gas `agua` · por botella de 1,6 L
 **$640 · $1.090 · $3.020** (mín · media · máx, 22 precios)
 - Tottus: [Agua Mineral sin Gas Vital 1.6 L](https://www.tottus.cl/tottus-cl/articulo/110609245/agua-mineral-vital-sg-1600-ml) → $890 (normal $990)
 - Tottus: [Agua Mineral sin Gas](https://www.tottus.cl/tottus-cl/articulo/110615640/agua-mineral-cachantun-1600-ml-sg-des) → $1.090
 - Tottus: [Agua Mineral Sin Gas](https://www.tottus.cl/tottus-cl/articulo/110620180/agua-mineral-puyehue-sgas-1500-ml) → $1.269
+- Tottus: [Agua Sabor Granada Sin Gas Mas 1.6 L](https://www.tottus.cl/tottus-cl/articulo/110620142/mas-granada-pet-1600ml) → $1.350
 - Tottus: [Agua Mineral Sin Gas](https://www.tottus.cl/tottus-cl/articulo/110613237/agua-mineral-vital-sg-990-ml) → $1.859 (normal $2.021)
 - Tottus: [Agua Mineral Sin Gas](https://www.tottus.cl/tottus-cl/articulo/110616530/agua-mineral-sin-gas-acqua-panna-1-lt) → $3.024
-- Tottus: [Agua sin Gas Manantial 1.5 L](https://www.tottus.cl/tottus-cl/articulo/126564505/aguas-sin-gas-manantial-1-5-lt) → $1.045
-- Unimarc: [Agua mineral Cachantun sin gas 1.6 L](https://www.unimarc.cl/agua-cachantun-s-gas-no-ret-1-6-lt/p) → $1.090
-- Unimarc: [Agua mineral Vital sin gas botella 1.6 L](https://www.unimarc.cl/agua-min-vital-s-gas-1-6-l-no-retor/p) → $930 (normal $990)
-- Lider: [Agua Mineral Botella Con Gas, 1,5 L](https://super.lider.cl/ip/aguas/00780282044152) → $800
-- Lider: [Agua Mineral Sin Gas Botella, 1 L](https://super.lider.cl/ip/aguas/00780162000541) → $2.160
-- Lider: [Agua Mineral Botella Sin Gas, 1,5 L](https://super.lider.cl/ip/aguas/00780282044151) → $800
-- Lider: [Agua Mineral Sin Gas Botella, 2,5 L](https://super.lider.cl/ip/aguas/00780162000589) → $640 (normal $890)
+- Jumbo: [Agua Mineral Cachantun Sin Gas 1.6 L](https://www.jumbo.cl/agua-mineral-sin-gas-cachantun-16-l-botella-desechable/p) → $1.180
+- Jumbo: [Agua Mineral Cachantun Sin Gas 1.6 L](https://www.jumbo.cl/agua-mineral-sin-gas-cachantun-16-l-botella-desechable/p) → $1.181
+- Jumbo: [Agua Mineral Cachantun Light Gas 1.6 L](https://www.jumbo.cl/agua-mineral-light-gas-cachantun-16-l-botella-desechable/p) → $1.180
+- Jumbo: [Agua Mineral Cachantun Light Gas 1.6 L](https://www.jumbo.cl/agua-mineral-light-gas-cachantun-16-l-botella-desechable/p) → $1.181
+- Jumbo: [Agua Benedictino Sin Gas 1.5 L](https://www.jumbo.cl/agua-purificada-sin-gas-benedictino-15-l-botella-desechable/p) → $1.013
+- Jumbo: [Agua Benedictino Sin Gas 1.5 L](https://www.jumbo.cl/agua-purificada-sin-gas-benedictino-15-l-botella-desechable/p) → $1.013
 
 ## Agua mineral con gas `agua_gas` · por botella de 1,6 L
-**$640 · $1.090 · $1.270** (mín · media · máx, 21 precios)
-- Unimarc: [Agua mineral Cachantun strong con gas 1.6 L](https://www.unimarc.cl/agua-min-strong-c-g-cachantun-pet-1-6-lt/p) → $1.090
-- Unimarc: [Agua mineral Cachantun con gas 1.6 L](https://www.unimarc.cl/agua-min-cachantun-c-gas-1-6-l-no-retorn/p) → $1.090
-- Unimarc: [Agua mineral Cachantun light con gas 1.6 L](https://www.unimarc.cl/agua-min-cachantun-light-gas-1-6l-no-ret/p) → $1.090
-- Unimarc: [Agua mineral Vital con gas botella 1.6 L](https://www.unimarc.cl/agua-min-vital-c-gas-1-6-l-no-retor/p) → $930 (normal $990)
+**$640 · $1.090 · $1.270** (mín · media · máx, 22 precios)
 - Tottus: [Agua Mineral con Gas Vital 1.6 L](https://www.tottus.cl/tottus-cl/articulo/110610489/agua-mineral-vital-cg-1600) → $890 (normal $990)
-- Tottus: [Agua Mineral Light Con Gas Cachantun 1.6 L](https://www.tottus.cl/tottus-cl/articulo/110614921/agua-min-cachantun-light-1600-ml) → $1.090
 - Tottus: [Agua Mineral con Gas Cachantun 1.6 L](https://www.tottus.cl/tottus-cl/articulo/110606492/agua-mineral-cachantun-1600-ml-cg-des) → $1.090
+- Tottus: [Agua Mineral Light Con Gas Cachantun 1.6 L](https://www.tottus.cl/tottus-cl/articulo/110614921/agua-min-cachantun-light-1600-ml) → $1.090
 - Tottus: [Agua Mineral Con Gas](https://www.tottus.cl/tottus-cl/articulo/110615220/agua-mineral-puyehue-cgas-1500-ml) → $1.269
 - Tottus: [Agua Mineral con Gas Strong Cachantun 1.6 L](https://www.tottus.cl/tottus-cl/articulo/141654777/aguas-strong-gas-cachantun-1-6-lt) → $1.090
-- Jumbo: [Pack 6 un. Agua Mineral Vital Gasificada 1.6 L](https://www.jumbo.cl/caja-6-un-agua-mineral-vital-gasificada-1-6-l/p) → $798
-- Jumbo: [Pack 6 un. Agua Mineral Vital Gasificada 1.6 L](https://www.jumbo.cl/caja-6-un-agua-mineral-vital-gasificada-1-6-l/p) → $798 (normal $998)
-- Jumbo: [Agua Mineral Vital Gasificada 1.6 L](https://www.jumbo.cl/agua-mineral-con-gas-vital-16-l-botella-desechable/p) → $1.090
+- Tottus: [Agua con Gas Manantial 1.5 L](https://www.tottus.cl/tottus-cl/articulo/126564591/aguas-con-gas-manantial-1-5-lt) → $1.045
+- Jumbo: [Agua Mineral Cachantun Strong con Gas 1.6 L](https://www.jumbo.cl/agua-min-cachantun-strong-gas-1-6cc-2021773/p) → $1.180
+- Jumbo: [Agua Mineral Cachantun Strong con Gas 1.6 L](https://www.jumbo.cl/agua-min-cachantun-strong-gas-1-6cc-2021773/p) → $1.181
+- Jumbo: [Agua Mineral Cachantun Light Gas 1.6 L](https://www.jumbo.cl/agua-mineral-light-gas-cachantun-16-l-botella-desechable/p) → $1.180
+- Jumbo: [Agua Mineral Cachantun Light Gas 1.6 L](https://www.jumbo.cl/agua-mineral-light-gas-cachantun-16-l-botella-desechable/p) → $1.181
+- Jumbo: [Agua Mineral Cachantun Gasificada 1.6 L](https://www.jumbo.cl/agua-mineral-con-gas-cachantun-16-l-botella-desechable/p) → $1.180
+- Jumbo: [Agua Mineral Cachantun Gasificada 1.6 L](https://www.jumbo.cl/agua-mineral-con-gas-cachantun-16-l-botella-desechable/p) → $1.181
 
 ## Hielo `hielo` · por bolsa de 2 kg
 **$1.240 · $1.530 · $1.790** (mín · media · máx, 15 precios)
 - Tottus: [Hielo en Bolsa Tottus 2 Kg](https://www.tottus.cl/tottus-cl/articulo/110622436/hielo-tottus-bolsa-2-kg) → $1.490
-- Unimarc: [Hielo Nuestra Cocina bolsa 2 Kg](https://www.unimarc.cl/hielo-nuestra-cocina-hp-2-kg/p) → $1.590
-- Unimarc: [Hielo Nuestra Cocina cubo bolsa 2 Kg](https://www.unimarc.cl/hielo-cubo-nuestra-cocina-2-kg/p) → $1.590
 - Lider: [Hielo Classic Bolsa, 2 kg](https://super.lider.cl/ip/preparalo-tu-mismo/00780361000001) → $1.490
 - Lider: [Hielo Cubo Bolsa, 2 kg](https://super.lider.cl/ip/preparalo-tu-mismo/00076445114802) → $1.490
-- Lider: [Hielo en Cubo Bolsa, 2 kg](https://super.lider.cl/ip/preparalo-tu-mismo/00060611092024) → $1.490
 - Lider: [Hielo en Cubos de Larga Duración Bolsa, 2 kg](https://super.lider.cl/ip/preparalo-tu-mismo/00780464040004) → $1.790
+- Lider: [Hielo en Cubo Bolsa, 2 kg](https://super.lider.cl/ip/preparalo-tu-mismo/00060611092024) → $1.490
 - Jumbo: [Hielo Campana Cuisine & Co 2.5 kg](https://www.jumbo.cl/hielo-campana-cuisine-y-co-2-5-kg/p) → $1.240
 - Jumbo: [Hielo Campana Cuisine & Co 2.5 kg](https://www.jumbo.cl/hielo-campana-cuisine-y-co-2-5-kg/p) → $1.240
 - Jumbo: [Hielo Rock 1.25 kg](https://www.jumbo.cl/hielo-rock-1-25-kg-2041291/p) → $1.696
 - Jumbo: [Hielo Rock 1.25 kg](https://www.jumbo.cl/hielo-rock-1-25-kg-2041291/p) → $1.696
 - Jumbo: [Hielo Ice Monkey 2 kg](https://www.jumbo.cl/hielo-ice-monkey-2kg-1973829/p) → $1.680
+- Jumbo: [Hielo Ice Monkey 2 kg](https://www.jumbo.cl/hielo-ice-monkey-2kg-1973829/p) → $1.680
+- Jumbo: [Hielo Fiesta 2 kg](https://www.jumbo.cl/hielo-fiesta-2-kg-2/p) → $1.530
 
 ## Cerveza en lata `cerveza` · por lata
-**$780 · $1.550 · $3.490** (mín · media · máx, 31 precios)
-- Tottus: [CERVEZA PCK LT SILVER ESCUDO 5G 6X470 CC](https://www.tottus.cl/tottus-cl/articulo/124154642/cerveza-pck-lt-silver-escudo-5g-6x470-ml) → $782 (normal $932)
+**$610 · $1.450 · $2.290** (mín · media · máx, 30 precios)
+- Tottus: [Cerveza Royal Guard 5° Lata 6 x 470 cc](https://www.tottus.cl/tottus-cl/articulo/124154880/cervez-6pk-lata-royal-guard-5g-470-ml) → $832 (normal $1.198)
 - Tottus: [Cerveza Summer Lucuma Volcanes del Sur Lata 4° 470 ml](https://www.tottus.cl/tottus-cl/articulo/144144965/cerv-summer-lucuma-volc-del-sur-4g-470ml) → $1.450
 - Tottus: [Cerveza Premium Lager Volcanes del Sur Lata 4.6° 470 ml](https://www.tottus.cl/tottus-cl/articulo/144144949/cerv-prem-lager-volc-del-sur-4.6g-470ml) → $1.450
 - Tottus: [CERVEZA PACK LATA CUSQUENA 4.8G 6X473 CC](https://www.tottus.cl/tottus-cl/articulo/124782319/cerveza-pack-lata-cusquena-4.8g-6x473-ml) → $965 (normal $1.132)
-- Tottus: [CERVEZA TOROBAYO LT KNST  5G 470 CC](https://www.tottus.cl/tottus-cl/articulo/110615871/cerveza-torobayo-lt-knst-5g-470-ml) → $1.890
 - Tottus: [Cerveza Cristal Lager Ultra Liviana Lata 3.5° 470 ml](https://www.tottus.cl/tottus-cl/articulo/150361833/cerveza-ultra-3-5g-cristal-470cc) → $1.100
-- Tottus: [Cerveza Loa Lager Entrenubes Lata 4.8° 470 cc](https://www.tottus.cl/tottus-cl/articulo/129053457/cerveza-lager-entrenubes-loa-4.8g-470ml) → $2.290
 - Tottus: [Cerveza Strong Lager Lata Volcanes del Sur 6.5° 470 ml](https://www.tottus.cl/tottus-cl/articulo/148981135/cerv-str-lag-volcanes-del-sur-6.5g-470ml) → $1.450
-- Unimarc: [Cerveza Kunstmann Valdivia pale lager lata 470 cc](https://www.unimarc.cl/cerv-valdivia-p-lager-kunstmann-470-lata/p) → $1.550
-- Unimarc: [Cerveza calafate Austral lata 470 cc](https://www.unimarc.cl/cerveza-calafate-austral-470-cc-lata/p) → $2.250
-- Unimarc: [Cerveza Patagonia austral red lager lata 470 cc](https://www.unimarc.cl/cerv-aust-red-lager-patagonia-470cc-lata-2/p) → $1.550
-- Unimarc: [Cerveza Patagonia austral hoppy lager lata 470 cc](https://www.unimarc.cl/cerv-aust-hoppy-lager-patagonia-470-lata-2/p) → $1.550
+- Tottus: [Cerveza Loa Lager Entrenubes Lata 4.8° 470 cc](https://www.tottus.cl/tottus-cl/articulo/129053457/cerveza-lager-entrenubes-loa-4.8g-470ml) → $2.290
+- Tottus: [Pack Cerveza Corona Lager Lata 4.5° 6 x 473 cc](https://www.tottus.cl/tottus-cl/articulo/138899669/cerveza-corona-4.5g-6x473-ml) → $1.048 (normal $1.148)
+- Lider: [Cerveza Lager 4,9° Pack 24 Lata, 354 ml](https://super.lider.cl/ip/cervezas/00780213000354) → $433 (normal $500)
+- Lider: [Cerveza Lager Premium 5° Pack 18 Lata, 350 ml](https://super.lider.cl/ip/cervezas/00780210000258) → $472 (normal $638)
+- Lider: [Cerveza Lager Latas Pack, 12 Latas 350 ml c/u](https://super.lider.cl/ip/cervezas/00780210000039) → $611 (normal $666)
+- Lider: [Cerveza Limón 2,5° Pack 6 Lata, 350 ml](https://super.lider.cl/ip/cervezas/00780210010609) → $782
 
 ## Cerveza en botella `cerveza_botella` · por botella
-**$600 · $1.140 · $2.550** (mín · media · máx, 20 precios)
-- Tottus: [Pack Cerveza Sol Lager Botella 4.5° 24 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/110617826/cerveza-lager-x24-ln-sol-4.5g-330-ml) → $833 (normal $1.041)
-- Tottus: [Pack Cerveza Botella](https://www.tottus.cl/tottus-cl/articulo/110609633/cerveza-royal-guard-bot-5-gl-6x355ml) → $965 (normal $1.148)
-- Tottus: [Pack Cerveza Corona Cero Alcohol Botella 0° 6 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/121667292/cerveza-0-0-corona-0g-6x330-ml) → $1.048 (normal $1.298)
-- Tottus: [Pack Cerveza Corona Lager 4.5° Botella 12 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/110611839/pack-12-cerveza-corona-4.5g-gl-330-ml) → $999 (normal $1.099)
+**$670 · $1.170 · $2.550** (mín · media · máx, 21 precios)
+- Tottus: [Pack Cerveza Budweiser Botella 5° 24 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/126816307/cerveza-botella-budweiser-5g-24x330-ml) → $666 (normal $958)
+- Tottus: [Pack Cerveza Corona Lager Botella 4.5° 24 x 330 cc](https://www.tottus.cl/tottus-cl/articulo/110354284/cerveza-lager-corona-4.5g-330ml-x-24) → $854 (normal $1.054)
+- Tottus: [Pack Cerveza Heineken Lager Botella 5° 18 x 330 cc](https://www.tottus.cl/tottus-cl/articulo/130975088/cerveza-lager-botella-heineken-18-und) → $1.166
+- Tottus: [Pack Cerveza Modelo Especial Botella 4.5° 4 x 355 cc](https://www.tottus.cl/tottus-cl/articulo/110612381/cerve-modelo-especia-4pack-4.5g-gl-355ml) → $1.248 (normal $1.473)
+- Tottus: [Pack Cerveza Sol Lager Botella 4.5° 24 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/110617826/cerveza-lager-x24-ln-sol-4.5g-330-ml) → $666 (normal $1.041)
+- Tottus: [Pack Cerveza Corona Cero Alcohol Botella 0° 6 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/121667292/cerveza-0-0-corona-0g-6x330-ml) → $998 (normal $1.298)
+- Tottus: [Pack Cerveza Lager Botella](https://www.tottus.cl/tottus-cl/articulo/110609360/cerv-austr-lon-neck-pack-4.2g-gl-4x330ml) → $1.648 (normal $1.748)
 - Tottus: [CERVEZA ESTRELLA DAMM BOTELLA 330CC SIX PACK](https://www.tottus.cl/tottus-cl/articulo/110615602/cerveza-estrella-damm-botella-330ml-six-pack) → $1.248 (normal $1.298)
-- Tottus: [Pack Cerveza Yagán Botella](https://www.tottus.cl/tottus-cl/articulo/110609967/cerv-austr-yagan-long-neck-5g-gl-4x350ml) → $1.648 (normal $1.748)
-- Tottus: [Pack Cerveza Quilmes Clásica Botella 4.9° 24 x 300 ml](https://www.tottus.cl/tottus-cl/articulo/130969290/cerveza-pack-bot-quilmes-4.9g-24x300-ml) → $604 (normal $829)
-- Tottus: [Pack Cerveza Heineken Lager Botella 5° 24 x 330 ml](https://www.tottus.cl/tottus-cl/articulo/110354396/cerveza-lager-x24-ln-heineken-330-ml) → $708 (normal $975)
-- Unimarc: [Cerveza Corona extra botella 330 cc](https://www.unimarc.cl/cerveza-corona-extra-355ml-no-retornable/p) → $1.290
+- Lider: [Cerveza Botella Lager, 6 Un](https://super.lider.cl/ip/cervezas/00780210700170) → $1.082
 - Lider: [Cerveza Botella Erdinger Alkoholfrei, 500 ml](https://super.lider.cl/ip/cervezas/00400210324831) → $2.150 (normal $2.550)
 - Lider: [Cerveza Botella Asahi Pac4Un 5G, 330 ml](https://super.lider.cl/ip/cervezas/00800844054942) → $1.048 (normal $1.248)
-- Lider: [Cerveza Botella Sin Gluten, 6 Un](https://super.lider.cl/ip/cervezas/00841259800618) → $1.198 (normal $1.415)
+- Lider: [Cerveza Botella Golden, 500 ml](https://super.lider.cl/ip/bebidas/00780461534075) → $1.990
 
 ## Vino tinto `vino` · por botella
-**$2.240 · $5.090 · $8.090** (mín · media · máx, 9 precios)
-- Tottus: [Vino Tinto Red](https://www.tottus.cl/tottus-cl/articulo/110606526/vino-casillero-red-bd-bot-13.5g-750-ml) → $4.690 (normal $5.890)
-- Tottus: [Vino Tinto Dark Red Diablo Gran Reserva 13.5° 750 cc](https://www.tottus.cl/tottus-cl/articulo/110610259/vino-diablo-dark-red-12-5-750-ml-diablo) → $6.590 (normal $8.090)
+**$3.390 · $5.770 · $16.760** (mín · media · máx, 14 precios)
+- Tottus: [Vino Tinto Dark Red Diablo Gran Reserva 13.5° 750 cc](https://www.tottus.cl/tottus-cl/articulo/110610259/vino-diablo-dark-red-12-5-750-ml-diablo) → $4.990 (normal $8.090)
+- Tottus: [Vino Tinto Red](https://www.tottus.cl/tottus-cl/articulo/110606526/vino-casillero-red-bd-bot-13.5g-750-ml) → $4.390 (normal $5.890)
+- Tottus: [Vino Tinto Blend Reserva](https://www.tottus.cl/tottus-cl/articulo/110614668/vin-reserva-cabe-syrah-750-ml-mr-14g-gl) → $4.490 (normal $5.850)
 - Tottus: [Vino Tinto](https://www.tottus.cl/tottus-cl/articulo/110615677/vin-estrella-de-oro-tinto-750-ml-14g-gl) → $5.850
-- Tottus: [Vino Tinto](https://www.tottus.cl/tottus-cl/articulo/113571606/vin-tin-tetra-expotacion-13.5g-500-ml) → $2.235
+- Tottus: [Vino Tinto Merlot](https://www.tottus.cl/tottus-cl/articulo/110610131/vino-cono-sur-merlot-14.5g-gl-750-ml) → $3.390 (normal $3.990)
 - Tottus: [Vino Tinto Merlot Petirrojo 13.5° 750 ml](https://www.tottus.cl/tottus-cl/articulo/139644810/vino-merlot-petirrojo-13.5g-750-ml) → $6.350
-- Tottus: [Vino Tinto Cabernet Sauvignon](https://www.tottus.cl/tottus-cl/articulo/110611832/vin-con-su-cabern-sauvig-14.5g-gl-750-ml) → $3.390 (normal $3.990)
-- Tottus: [Vino Tinto Cabernet Sauvignon 7 Colores 13.5° 750 cc](https://www.tottus.cl/tottus-cl/articulo/124047064/vinos-csmu-granres-7col-13.5g-750ml) → $7.690
-- Jumbo: [Vino Santa Carolina Tinto Sweet 750 cc](https://www.jumbo.cl/vino-sta-carolina-res-s-tto-750cc-11-5-2007783/p) → $5.090
-- Jumbo: [Vino Santa Carolina Tinto Sweet 750 cc](https://www.jumbo.cl/vino-sta-carolina-res-s-tto-750cc-11-5-2007783/p) → $5.090
+- Tottus: [Vino Tinto Mision de Rengo Reserva Delicious Sweet 12.1° 750 ml](https://www.tottus.cl/tottus-cl/articulo/153677283/misiones-de-rengo-sweet-750-ml) → $5.990
+- Lider: [Vino Tinto Carmenere Reserva 14° Botella, 750 ml](https://super.lider.cl/ip/vinos/00780294005328) → $4.990 (normal $6.590)
+- Lider: [Vino Tinto Gran Reserva Cabernet Sauvignon Botella, 750 ml](https://super.lider.cl/ip/vinos/00780431900400) → $6.290
+- Lider: [Vino Tinto Syrah Grand Cru Limari 15° Botella, 750 ml](https://super.lider.cl/ip/vinos/00780218000264) → $16.760
+- Lider: [Vino Tinto Botella, 750 mL](https://super.lider.cl/ip/vinos/00780872960905) → $8.390 (normal $13.990)
+- Lider: [Vino Tinto Botella, 750 mL](https://super.lider.cl/ip/vinos/00780430500091) → $5.390
 
 ## Vino blanco `vino_blanco` · por botella
-**$2.540 · $4.690 · $13.290** (mín · media · máx, 8 precios)
+**$2.540 · $6.320 · $16.290** (mín · media · máx, 12 precios)
+- Tottus: [Vino Blanco Lave Harvest Casillero del Diablo 12.5° 750 cc](https://www.tottus.cl/tottus-cl/articulo/124772354/vino-late-harvest-cdd-12.5g-750-ml) → $4.390 (normal $5.890)
 - Tottus: [Vino Blanco Blanco](https://www.tottus.cl/tottus-cl/articulo/110612223/vin-biciclet-gewurtraminer-12g-gl-750-ml) → $3.390 (normal $3.990)
 - Tottus: [Vino Blanco](https://www.tottus.cl/tottus-cl/articulo/113571126/vin-tetra-clos-de-pirq-blan-12g-gl-1-lt) → $2.543
-- Tottus: [Vino Blanco Chardonnay](https://www.tottus.cl/tottus-cl/articulo/110618150/vino-chardonnay-12g-gl-700-ml-sta-emil) → $3.632
 - Tottus: [Vino Blanco Sauvignon Blanc](https://www.tottus.cl/tottus-cl/articulo/113603005/vino-casa-silva-colemli-sb-14g-750-ml) → $5.290
-- Tottus: [Vino Blanco Lave Harvest Casillero del Diablo 12.5° 750 cc](https://www.tottus.cl/tottus-cl/articulo/124772354/vino-late-harvest-cdd-12.5g-750-ml) → $4.690 (normal $5.890)
-- Tottus: [Vino Blanco Sauvignon Blanc](https://www.tottus.cl/tottus-cl/articulo/110606542/vin-cas-del-diab-bla-12g-gl-750-ml-cyt) → $4.690 (normal $5.890)
-- Jumbo: [Vino Humo Blanco Sauvignon Blanc 750 cc](https://www.jumbo.cl/sauvignon-blanc-humo-blanco-vina-la-hacienda/p) → $13.290
-- Jumbo: [Vino Humo Blanco Sauvignon Blanc 750 cc](https://www.jumbo.cl/sauvignon-blanc-humo-blanco-vina-la-hacienda/p) → $13.290
+- Tottus: [Vino Blanco Chardonnay](https://www.tottus.cl/tottus-cl/articulo/110621086/vino-chardonnay-13.5g-gl-750-ml-ma-2002) → $16.290
+- Tottus: [Vino Blanco Sauvignon Blanc Medium Sweet Mision 13° 750cc](https://www.tottus.cl/tottus-cl/articulo/119604675/vino-sb-mision-13.1g-750-ml) → $7.990
+- Lider: [Vino Blanco Sauvignon Blanc Gran Reserva 12.5° Botella, 750 ml](https://super.lider.cl/ip/vinos/00780466012041) → $7.490
+- Lider: [Vino Blanco Chardonnay Gran Reserva 13.5° Botella, 750 ml](https://super.lider.cl/ip/vinos/00780466012042) → $7.490
+- Lider: [Vino Blanco Botella, 750 mL](https://super.lider.cl/ip/vinos/00780466583002) → $7.350
+- Lider: [Vino Blanco Botella, 750 mL](https://super.lider.cl/ip/vinos/00780466583007) → $7.350
+- Lider: [Vino Blanco Botella, 750 mL](https://super.lider.cl/ip/vinos/00780432075390) → $3.890
+- Lider: [Vino Blanco Botella, 750 mL](https://super.lider.cl/ip/vinos/00780433514121) → $2.690 (normal $3.150)
 
 ## Espumante `espumante` · por botella
-**$4.250 · $5.490 · $7.850** (mín · media · máx, 24 precios)
+**$3.930 · $5.010 · $13.590** (mín · media · máx, 32 precios)
 - Tottus: [Espumante U Brut Undurraga 12° 750 cc](https://www.tottus.cl/tottus-cl/articulo/125196619/espumante-brut-u-undurraga-750-ml) → $4.990
 - Tottus: [Espumante Moscato Undurraga 13°  750 cc](https://www.tottus.cl/tottus-cl/articulo/125196748/espumante-moscato-u-undurraga-750-ml) → $4.990
-- Tottus: [Espumante Demi Sec](https://www.tottus.cl/tottus-cl/articulo/110612937/espumante-demi-sec-12g-gl-750-ml-sub) → $5.450
 - Tottus: [Espumante Brut](https://www.tottus.cl/tottus-cl/articulo/110611249/espumante-brut-12g-gl-750-ml-sub) → $5.450
+- Tottus: [Espumante ice](https://www.tottus.cl/tottus-cl/articulo/110612387/espumante-ice-vinamar-12.5g-750-ml) → $12.990
 - Tottus: [Espumante Rose SBX 12° 750 cc](https://www.tottus.cl/tottus-cl/articulo/124775930/espumante-rose-sbx-12g-750-ml) → $5.450
 - Tottus: [Espumante Brut 12°](https://www.tottus.cl/tottus-cl/articulo/110610353/espumante-brut-12g-sensus-750ml) → $4.790 (normal $5.850)
-- Tottus: [Espumante Moscato](https://www.tottus.cl/tottus-cl/articulo/110610179/espumante-moscato-12g-gl-750-ml-sub) → $5.450
-- Tottus: [Espumante Moscato Undurraga 13° 750 cc](https://www.tottus.cl/tottus-cl/articulo/110619330/espumante-undurraga-mocato-13g-750-ml) → $6.390
-- Unimarc: [Espumante Undurraga brut botella 750 cc](https://www.unimarc.cl/espum-brut-u-sparkling-undurraga-750-bot/p) → $4.250 (normal $5.290)
-- Unimarc: [Espumante Undurraga moscato sweet botella 750 cc](https://www.unimarc.cl/espum-moscato-u-sparkl-undurraga-750-bot/p) → $4.250 (normal $5.290)
-- Unimarc: [Espumante Subercaseaux brut 750 cc](https://www.unimarc.cl/espum-brut-suberc-750-cc-bot/p) → $5.490
-- Unimarc: [Espumante Diva brut 750 cc](https://www.unimarc.cl/espumante-brut-diva-750-cc-bot/p) → $5.690
+- Tottus: [Espumante Demi Sec](https://www.tottus.cl/tottus-cl/articulo/110612937/espumante-demi-sec-12g-gl-750-ml-sub) → $5.450
+- Tottus: [ESPUMANTE FREE UNDURRAGA 0G 750CC](https://www.tottus.cl/tottus-cl/articulo/119790522/espumante-free-undurraga-0g-750ml) → $4.790 (normal $7.350)
+- Lider: [Espumante Botella Sparkling Blanc, 750 ml](https://super.lider.cl/ip/espumantes/00780432076383) → $4.610 (normal $7.990)
+- Lider: [Espumante Brut Secco 12° Botella, 750](https://super.lider.cl/ip/espumantes/00780432076204) → $4.130 (normal $6.890)
+- Lider: [Espumante Moscato Dolce 12° Botella, 750](https://super.lider.cl/ip/espumantes/00780432076205) → $4.130 (normal $6.890)
+- Lider: [Espumante Botella Sparkling Rosé, 750 ml](https://super.lider.cl/ip/espumantes/00780432076384) → $4.610 (normal $7.990)
 
 ## Pisco 35° `pisco` · por botella de 750 cc
-**$3.190 · $8.540 · $15.690** (mín · media · máx, 18 precios)
-- Tottus: [Pisco 35° GL](https://www.tottus.cl/tottus-cl/articulo/113640843/bot-pisco-dablo-35g-700-caj) → $10.061
+**$3.410 · $8.790 · $15.690** (mín · media · máx, 25 precios)
 - Tottus: [Pisco Especial 35°](https://www.tottus.cl/tottus-cl/articulo/110610215/alto-del-carmen-35g-especial-750ml) → $8.490
-- Tottus: [Pisco Especial 35°](https://www.tottus.cl/tottus-cl/articulo/110613657/pisco-artesanos-35g-1000ml) → $3.188 (normal $3.893)
+- Tottus: [Pisco 35° GL](https://www.tottus.cl/tottus-cl/articulo/113640843/bot-pisco-dablo-35g-700-caj) → $10.061
+- Tottus: [Pisco Alto de Carmen Apple 35° 750 ml](https://www.tottus.cl/tottus-cl/articulo/139644580/alto-del-carmen-35-apple-750ml) → $11.590 (normal $14.550)
+- Tottus: [Pisco Mal Paso Reposado en Roble 35° 750 ml](https://www.tottus.cl/tottus-cl/articulo/144144983/pisco-roble-mal-paso-35g-750-ml) → $9.990
 - Tottus: [Pisco 35° GL](https://www.tottus.cl/tottus-cl/articulo/115874872/pisco-35-tres-erres-750ml) → $5.990 (normal $7.550)
 - Tottus: [Pisco Mistral 35° 750 cc](https://www.tottus.cl/tottus-cl/articulo/110397170/pisco-mistral-35g-gl-750-ml) → $8.790
+- Tottus: [Pisco Blend Mal Paso Vainilla Velvet 35° 750 ml](https://www.tottus.cl/tottus-cl/articulo/148283882/blendpisco-vainilla-malpaso-35g-750-ml) → $13.990
 - Tottus: [Pisco Apple 35°](https://www.tottus.cl/tottus-cl/articulo/116719004/pisco-apple-mistral-35g-750-ml) → $15.390
-- Tottus: [Pisco Alto de Carmen Apple 35° 750 ml](https://www.tottus.cl/tottus-cl/articulo/139644580/alto-del-carmen-35-apple-750ml) → $11.590 (normal $14.550)
-- Tottus: [Pisco Pedro Jiménez](https://www.tottus.cl/tottus-cl/articulo/113512163/pisco-pedro-jimenez-mal-paso-40g-750ml) → $10.390
-- Unimarc: [Pisco Mistral 35° botella 750 cc](https://www.unimarc.cl/pisco-mistral-35-750-ml/p) → $7.890 (normal $9.290)
-- Unimarc: [Pisco Alto del Carmen especial 35° botella 750 cc](https://www.unimarc.cl/pisco-a-carmen-verde-750-cc-bot/p) → $8.590
-- Jumbo: [Bipack Pisco Mistral Añejado en Roble 35° Botella 750 cc](https://www.jumbo.cl/pisco-mistral-pack-2-unid-750-cc-cu-35/p) → $11.950
-- Jumbo: [Bipack Pisco Mistral Añejado en Roble 35° Botella 750 cc](https://www.jumbo.cl/pisco-mistral-pack-2-unid-750-cc-cu-35/p) → $5.375 (normal $6.473)
+- Lider: [Pisco Manzana Verde 35° Botella, 750](https://super.lider.cl/ip/destilados/00780461714319) → $9.723 (normal $13.890)
+- Lider: [Pisco Malpaso Mango Maracuyá 35° Botella, 750](https://super.lider.cl/ip/destilados/00780461714321) → $9.723 (normal $13.890)
+- Lider: [Pisco Especial 35° Botella, 1L](https://super.lider.cl/ip/destilados/00780461714009) → $5.087 (normal $7.268)
+- Lider: [Pisco 35° Botella, 1 L](https://super.lider.cl/ip/destilados/00780217545405) → $4.718
 
 ## Ron `ron` · por botella de 750 cc
-**$3.000 · $5.740 · $15.390** (mín · media · máx, 22 precios)
-- Tottus: [Ron Blanco Sierra Morena 37.5° 750 ml](https://www.tottus.cl/tottus-cl/articulo/155082653/ron-sierra-morena-750-ml-38g) → $5.890
+**$3.000 · $5.840 · $11.780** (mín · media · máx, 18 precios)
+- Tottus: [Ron de Solera Santa Teresa 1796 40° 750 CC](https://www.tottus.cl/tottus-cl/articulo/120925606/ron-1796-santa-teresa-40-750-ml) → $46.850
+- Tottus: [Ron Havana Club 7 Años 40° Gl](https://www.tottus.cl/tottus-cl/articulo/112643291/ron-havana-club-7-anos-40g-700-ml) → $25.489
+- Tottus: [Ron Añejo 40º Gl](https://www.tottus.cl/tottus-cl/articulo/113512283/ron-anejo-40g-maddero-750ml) → $6.250
+- Tottus: [Ron Añejado Especial Havana Club 37.5° 700 ml](https://www.tottus.cl/tottus-cl/articulo/143601119/ron-anejado-havana-club-37.5g-700-ml) → $5.963 (normal $7.793)
 - Tottus: [Ron Añejado Especial Havana Club 37.5° 1 L](https://www.tottus.cl/tottus-cl/articulo/143601077/ron-anejado-havana-club-37.5g-1-lt) → $8.243
-- Tottus: [Ron Bacardi Carta de Oro 40º Gl](https://www.tottus.cl/tottus-cl/articulo/113692982/ron-bacardi-carta-de-oro-40g-gl-700ml) → $9.953
-- Tottus: [RON GRAN RESERVA SANTA TERESA 40G 750 CC](https://www.tottus.cl/tottus-cl/articulo/119790540/ron-gran-reserva-santa-teresa-40g-750-ml) → $15.390
-- Tottus: [Ron Cabo Viejo Añejado 37.5° 1 lt](https://www.tottus.cl/tottus-cl/articulo/156535505/ron-cabo-viejo-1-lt-38g) → $4.268
-- Tottus: [Ron Dorado Reserva 40º Gl](https://www.tottus.cl/tottus-cl/articulo/110613552/ron-havana-dorado-reserva-40g-gl-1-lt) → $11.363
-- Tottus: [Ron Blanco Pampero 37.5° 700 ml](https://www.tottus.cl/tottus-cl/articulo/152256996/ron-blanco-pampero-700-ml-40g) → $13.918
-- Tottus: [Ron Dorado 40° Gl](https://www.tottus.cl/tottus-cl/articulo/110619266/ron-dorado-40g-maddero-750ml) → $3.850 (normal $4.790)
-- Unimarc: [Ron blanco Maddero botella 750 cc](https://www.unimarc.cl/ron-bco-maddero-750-cc-bot/p) → $3.000 (normal $4.950)
-- Unimarc: [Ron Maddero dorado 40° botella 750 cc](https://www.unimarc.cl/ron-dorado-750-cc/p) → $4.950
-- Unimarc: [Ron blanco Sierra Morena botella 750 cc](https://www.unimarc.cl/ron-blanco-s-morena-750-ml-bot/p) → $6.190
-- Unimarc: [Ron Sierra Morena dorado 39.5° botella 750 cc](https://www.unimarc.cl/ron-dorado-s-morena-750-cc-bot/p) → $5.590
+- Tottus: [Ron Original 3 Años Havana Club 37.5° 1 L](https://www.tottus.cl/tottus-cl/articulo/143601071/ron-3-anos-havana-club-37.5g-1-lt) → $8.813
+- Tottus: [Ron Añejo](https://www.tottus.cl/tottus-cl/articulo/110619508/ron-anejo-barcelo-1000-ml) → $9.218
+- Tottus: [Ron Original 3 Años Havana Club 37.5° 700 ml](https://www.tottus.cl/tottus-cl/articulo/143601140/ron-3-anos-havana-club-37.5g-700-ml) → $11.775
+- Jumbo: [Ron Flor de Caña 12 Años Centenario 40° Botella 750 cc](https://www.jumbo.cl/ron-f-cana-12anos-cent-40g-bot-750cc-585052/p) → $20.990
+- Jumbo: [Ron Flor de Caña 12 Años Centenario 40° Botella 750 cc](https://www.jumbo.cl/ron-f-cana-12anos-cent-40g-bot-750cc-585052/p) → $20.990 (normal $26.250)
+- Jumbo: [Ron Maddero Dorado 40° 750 cc](https://www.jumbo.cl/ron-maddero-750-cc-dorado-anejado-importado/p) → $4.850
+- Jumbo: [Ron Maddero Dorado 40° 750 cc](https://www.jumbo.cl/ron-maddero-750-cc-dorado-anejado-importado/p) → $4.850
 
 ## Pisco sour listo `pisco_sour` · por botella de 1 L
-**$4.840 · $10.390 · $15.650** (mín · media · máx, 15 precios)
+**$4.840 · $10.870 · $16.050** (mín · media · máx, 23 precios)
 - Tottus: [Pisco Sour Limón 14°](https://www.tottus.cl/tottus-cl/articulo/110611295/pisco-sour-artesanos-14g-700-ml) → $4.843 (normal $6.129)
+- Tottus: [Pisco Sour Estrella Del Elqui 14° Gl](https://www.tottus.cl/tottus-cl/articulo/113512322/pisco-sour-estrella-del-elqui-14g-750ml) → $10.387
 - Tottus: [Pisco Sour Limón Gourmet Virrey del Perú 14° 1 L](https://www.tottus.cl/tottus-cl/articulo/130986616/sour-lim-virrey-del-peru-14g-1000-ml) → $5.990
 - Tottus: [Pisco Sour Limón 14°](https://www.tottus.cl/tottus-cl/articulo/110611688/pisco-sour-capel14g-700ml) → $6.643
-- Tottus: [Pisco Sour Artesanos 14G 1000 Cc](https://www.tottus.cl/tottus-cl/articulo/113512406/pisco-sour-artesanos-14g-1000-ml) → $5.350
 - Tottus: [Cóctel Pisco Sour Horcón Quemado 14° 645 ml](https://www.tottus.cl/tottus-cl/articulo/110610744/pisco-sour-14.645ml-horcon-que) → $11.922
-- Tottus: [Pisco Sour Estrella Del Elqui 14° Gl](https://www.tottus.cl/tottus-cl/articulo/113512322/pisco-sour-estrella-del-elqui-14g-750ml) → $10.387
+- Tottus: [Pisco Sour Artesanos 14G 1000 Cc](https://www.tottus.cl/tottus-cl/articulo/113512406/pisco-sour-artesanos-14g-1000-ml) → $5.350
 - Tottus: [Pisco Sour Mango Capel 12° 1 Lt](https://www.tottus.cl/tottus-cl/articulo/131396763/coctel-capel-mango-sour-12.1000ml) → $4.890 (normal $5.990)
-- Unimarc: [Pisco sour La Pizka calafate berries botella 1 L](https://www.unimarc.cl/pisco-sour-calaf-berries-l-pizka-1lt-bot/p) → $15.350
-- Unimarc: [Pisco sour La Pizka chardonnay 1 L](https://www.unimarc.cl/pisco-sour-chardon-cong-la-pizka-1lt-bot/p) → $15.650
-- Jumbo: [Pisco Sour Estrella del Elqui 14° 750 cc](https://www.jumbo.cl/coctel-capel-erella-de-elqui-14-750-cc/p) → $10.867
-- Jumbo: [Pisco Sour Estrella del Elqui 14° 750 cc](https://www.jumbo.cl/coctel-capel-erella-de-elqui-14-750-cc/p) → $10.867
-- Jumbo: [Pisco Sour Artesanos del Cochiguaz 16° 1 L](https://www.jumbo.cl/pisco-sour-artesanos-del-cochiguaz-1-l/p) → $5.590
+- Lider: [Cóctel Pisco Sour Limón Sutil (Clásico) Botella, 1 L](https://super.lider.cl/ip/coctel/00780467116009) → $10.943 (normal $12.890)
+- Lider: [Cóctel Pisco Sour La Pizka Menta Jengibre Botella, 1 L](https://super.lider.cl/ip/coctel/00780467116006) → $10.943 (normal $12.890)
+- Lider: [Cóctel Pisco Sour La Pizka Sin Azúcar Botella, 1 L](https://super.lider.cl/ip/coctel/00780467116008) → $11.790 (normal $16.050)
+- Lider: [Cóctel Pisco Sour Limón 14° Botella, 700 ml](https://super.lider.cl/ip/coctel/00074283246124) → $6.271
+- Lider: [Cóctel Pisco Sour Limón Pica 24° Botella, 1 L](https://super.lider.cl/ip/coctel/00780465847061) → $11.490
 
 ## Lomo vetado `lomo_vetado` · por kg
-**$15.990 · $24.890 · $49.290** (mín · media · máx, 21 precios)
-- Tottus: [Lomo Vetado Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118706548/lomo-vetado-imp-cat-v) → $17.290
+**$7.760 · $21.990 · $49.590** (mín · media · máx, 29 precios)
+- Tottus: [Lomo Vetado Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118706548/lomo-vetado-imp-cat-v) → $13.990 (normal $17.290)
 - Tottus: [Lomo Vetado Black Importado Cat-V al Vacío](https://www.tottus.cl/tottus-cl/articulo/116165222/lomo-vetado-black-imp-cat-v) → $25.990
 - Tottus: [Lomo Vetado Black Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/115882760/lomo-vetado-black-nacional-cat-v) → $25.990
 - Tottus: [Lomo Vetado  Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995911/lomo-vetado-tottus-imp-cat-v) → $18.990
@@ -454,14 +461,14 @@ _Referencial_: se mantiene $990 · $1.590 · $2.490 (0 precios encontrados)
 - Tottus: [Lomo Vetado Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116162305/lomo-vetado-nac-cat-v-tottus) → $18.990
 - Tottus: [Lomo Vetado Trozo Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/140955568/lomo-vetado-imp-cat-v-estancia92) → $17.990
 - Tottus: [Tomahawk de Vacuno (Lomo Vetado con Hueso)](https://www.tottus.cl/tottus-cl/articulo/139317952/tomahawklomo-vetado-con-hueso-nac-cat-v) → $21.990
-- Unimarc: [Lomo vetado vacuno Argentino al vacío 1.5 Kg](https://www.unimarc.cl/lomo-vetado-vacuno-cat-v-argentina-vacio-1-3k/p) → $21.290
-- Unimarc: [Lomo vetado vacuno al vacío 1.5 Kg](https://www.unimarc.cl/lomo-vetado-vac-porcion-kg/p) → $17.790
-- Unimarc: [Lomo vetado vacuno Friboi Black Angus al vacío 1.4 Kg](https://www.unimarc.cl/lomo-vetado-friboi-black-vacio-kg/p) → $28.490
-- Unimarc: [Lomo vetado vacuno angus Azul Natural Beef al vacío 1.5 Kg](https://www.unimarc.cl/lomo-vetado-premium-vacio-kg/p) → $26.690
+- Lider: [Carne de Vacuno Lomo Vetado](https://super.lider.cl/ip/vacuno/00211182000000) → $15.490 (normal $17.290)
+- Lider: [Carne de Vacuno Lomo Vetado Premium](https://super.lider.cl/ip/vacuno/00211298000000) → $17.213 (normal $21.990)
+- Lider: [Carne de Vacuno Lomo Vetado Premium](https://super.lider.cl/ip/vacuno/00211300000000) → $17.213 (normal $21.990)
+- Lider: [Carne de Vacuno Lomo Vetado Premium](https://super.lider.cl/ip/vacuno/00209080000000) → $21.990
 
 ## Lomo liso `lomo_liso` · por kg
-**$15.990 · $23.990 · $49.990** (mín · media · máx, 23 precios)
-- Tottus: [Lomo Liso Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705940/lomo-liso-imp-cat-v) → $16.290
+**$12.590 · $18.080 · $49.690** (mín · media · máx, 30 precios)
+- Tottus: [Lomo Liso Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705940/lomo-liso-imp-cat-v) → $13.490 (normal $16.290)
 - Tottus: [Lomo Liso Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116162303/lomo-liso-nac-cat-v-tottus) → $17.990
 - Tottus: [Lomo Liso  Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995872/lomo-liso-tottus-imp-cat-v) → $17.990
 - Tottus: [Lomo Liso Black Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/115882758/lomo-liso-black-nacional-cat-v) → $23.990
@@ -469,28 +476,28 @@ _Referencial_: se mantiene $990 · $1.590 · $2.490 (0 precios encontrados)
 - Tottus: [Lomo Liso Black Importado Cat-V al Vacío](https://www.tottus.cl/tottus-cl/articulo/116160272/lomo-liso-black-imp-cat-v) → $23.990
 - Tottus: [Lomo Liso Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/140955596/lomo-liso-imp-cat-v-estancia92) → $16.490
 - Tottus: [Chuleta de Lomo Liso Vacuno](https://www.tottus.cl/tottus-cl/articulo/139317950/chuleta-lomo-liso-nac-cat-v) → $16.990
-- Unimarc: [Lomo liso vacuno al vacío 1.9 Kg](https://www.unimarc.cl/lomo-liso-vac-porcion-kg/p) → $17.190
-- Unimarc: [Lomo liso vacuno al vacío 1.9 Kg](https://www.unimarc.cl/lomo-liso-vacio-arg-kg/p) → $20.590
-- Unimarc: [Lomo liso vacuno angus Azul Natural Beef al vacío 1.5 Kg](https://www.unimarc.cl/lomo-liso-vacuno-azul-natural-beef-premium-al-vacio-2-3-kg/p) → $24.090
-- Unimarc: [Lomo liso vacuno Friboi Black Angus al vacío 1.7 Kg](https://www.unimarc.cl/lomo-liso-friboi-black-vacio-kg/p) → $24.090
+- Lider: [Carne de Vacuno Lomo Liso](https://super.lider.cl/ip/vacuno/00210916000000) → $16.890
+- Lider: [Carne de Vacuno Lomo Liso Premium](https://super.lider.cl/ip/vacuno/00211049000000) → $16.093 (normal $21.990)
+- Lider: [Carne de Vacuno Lomo Liso Premium](https://super.lider.cl/ip/vacuno/00209188000000) → $21.991
+- Lider: [Lomo liso  ft premium congelado](https://super.lider.cl/ip/vacuno/00209570000000) → $22.990
 
 ## Filete `filete` · por kg
-**$17.990 · $23.340 · $34.990** (mín · media · máx, 20 precios)
-- Tottus: [Filete Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705938/filete-imp-cat-v) → $17.990
-- Tottus: [Filete  Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995887/filete-tottus-imp-cat-v) → $18.990
+**$14.990 · $23.190 · $34.990** (mín · media · máx, 25 precios)
+- Tottus: [Filete Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705938/filete-imp-cat-v) → $14.990 (normal $17.990)
+- Tottus: [Filete  Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995887/filete-tottus-imp-cat-v) → $15.490 (normal $18.990)
 - Tottus: [Filete Black Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/115882771/filete-black-nacional-cat-v) → $25.990
 - Tottus: [Filete Nacional Cat-V](https://www.tottus.cl/tottus-cl/articulo/116165330/filete-nac-cat-v-tottus) → $18.990
 - Tottus: [Entrecot de Vacuno Trozado (Filete - Lomo Liso)](https://www.tottus.cl/tottus-cl/articulo/139317938/entrecot-troz-nac-catvfilete-lomo-liso) → $23.990
 - Tottus: [Filete Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/141122995/filete-sc-imp-cat-v) → $20.990
-- Tottus: [Porterhouse de Vacuno Trozado (Filete - Lomo Liso)](https://www.tottus.cl/tottus-cl/articulo/139317956/porterho-troz-nac-cat-v-filete-lomo-lis) → $23.990
 - Tottus: [Filete Nacional Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142281496/filete-angus-noble-corral-nac-cat-v) → $25.490
-- Unimarc: [Filete vacuno al vacío 2.1 Kg](https://www.unimarc.cl/filete-vacio-arg-kg/p) → $22.690
-- Unimarc: [Filete vacuno Importado al vacío 2.1 Kg](https://www.unimarc.cl/filete-vacuno-vacio-kg/p) → $18.890
-- Unimarc: [Filete vacuno Friboi Black Angus al vacío 2 Kg](https://www.unimarc.cl/filete-friboi-black-vacio-kg/p) → $30.390
-- Unimarc: [Porterhouse trozado vacuno (filete y lomo liso con hueso) premium al vacío 800 g](https://www.unimarc.cl/porterhouse-trozado-filete-lomo-liso-kg/p) → $22.690
+- Tottus: [Porterhouse de Vacuno Trozado (Filete - Lomo Liso)](https://www.tottus.cl/tottus-cl/articulo/139317956/porterho-troz-nac-cat-v-filete-lomo-lis) → $23.990
+- Lider: [Carne de Vacuno Filete Premium](https://super.lider.cl/ip/vacuno/00210175000000) → $18.893 (normal $23.990)
+- Lider: [Carne de Vacuno Filete Premium](https://super.lider.cl/ip/vacuno/00210238000000) → $18.893 (normal $23.990)
+- Lider: [Carne de Vacuno Filete Premium](https://super.lider.cl/ip/vacuno/00209081000000) → $23.990
+- Lider: [Carne de Vacuno Filete Premium](https://super.lider.cl/ip/vacuno/00209178000000) → $27.990
 
 ## Entraña `entrana` · por kg
-**$17.990 · $27.190 · $39.990** (mín · media · máx, 17 precios)
+**$17.990 · $26.890 · $39.990** (mín · media · máx, 23 precios)
 - Tottus: [Entraña Importado Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/151043215/entrana-imp-cat-v-estancia-92) → $18.490
 - Tottus: [Entraña Importado Cat V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705950/entrana-imp-v-cat-v) → $17.990
 - Tottus: [Entraña Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995913/entrana-tottus-imp-v-cat-v) → $18.990
@@ -499,43 +506,43 @@ _Referencial_: se mantiene $990 · $1.590 · $2.490 (0 precios encontrados)
 - Tottus: [Entraña Nacional Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142281492/entrana-angus-noble-corral-nac-cat-v) → $30.990
 - Tottus: [Entraña Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116166756/entrana-nac-cat-v-tottus) → $18.990
 - Tottus: [Entraña Black Nacional Cat-V al Vacío](https://www.tottus.cl/tottus-cl/articulo/115882755/entrana-black-nacional-cat-v) → $24.990
-- Unimarc: [Entraña vacuno Blue Ribbon al vacío 1.1 Kg](https://www.unimarc.cl/entrana-vac-vcio-canadian-diamond-kg/p) → $32.290
-- Unimarc: [Entraña vacuno Importado al vacío 1.8 Kg](https://www.unimarc.cl/entrana-vacuno-vacio-kg/p) → $19.190
-- Unimarc: [Entraña vacuno Friboi Black Angus al vacío 1.0 Kg](https://www.unimarc.cl/entrana-friboi-black-vacio-kg/p) → $26.990
-- Unimarc: [Entraña vacuno angus Azul Natural Beef al vacío 1.1 Kg](https://www.unimarc.cl/entrana-premium-vac-kg/p) → $32.590
+- Lider: [Carne de Vacuno Entraña](https://super.lider.cl/ip/todas-las-carnes/00210017000000) → $18.390
+- Lider: [Carne de Vacuno Entraña Premium](https://super.lider.cl/ip/vacuno/00218263000000) → $23.990
+- Lider: [Entraña](https://super.lider.cl/ip/vacuno/00209179000000) → $30.990
+- Lider: [Carne de Vacuno Entraña Premium](https://super.lider.cl/ip/vacuno/00209068000000) → $26.990
 
 ## Punta de ganso (picaña) `punta_ganso` · por kg
-**$14.990 · $20.490 · $28.990** (mín · media · máx, 18 precios)
+**$14.990 · $17.990 · $26.990** (mín · media · máx, 26 precios)
 - Tottus: [Punta Ganso Importada Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705448/punta-ganso-imp-cat-v) → $14.990
-- Tottus: [Punta de Ganso Black Importado Cat-V al Vacío](https://www.tottus.cl/tottus-cl/articulo/116167817/punta-de-ganso-black-imp-cat-v) → $21.990
 - Tottus: [Punta Ganso  Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995903/punta-ganso-tottus-imp-cat-v) → $14.990
+- Tottus: [Punta de Ganso Black Importado Cat-V al Vacío](https://www.tottus.cl/tottus-cl/articulo/116167817/punta-de-ganso-black-imp-cat-v) → $21.990
 - Tottus: [Punta de Ganso Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116163154/punta-de-ganso-nac-cat-v-tottus) → $14.990
 - Tottus: [Punta de Ganso Black Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/115882767/punta-ganso-black-nacional-cat-v) → $21.990
 - Tottus: [Punta de Ganso Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/141122962/punta-de-ganso-imp-cat-v-estancia92) → $16.990
-- Tottus: [Punta de Ganso Nacional Cat V Mesón](https://www.tottus.cl/tottus-cl/articulo/143058357/punta-de-ganso-cat-v-meson) → $18.990
+- Tottus: [Punta de Ganso Black Pampamia al Vacío](https://www.tottus.cl/tottus-cl/articulo/145010309/punta-de-ganso-pampamia-carne) → $25.990
 - Tottus: [Punta Ganso Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/129225509/punta-ganso-chilebeef-tottus-nac-cat-v) → $23.990
-- Unimarc: [Punta ganso vacuno angus Azul Natural Beef al vacío 2.0 Kg](https://www.unimarc.cl/punta-ganso-prem-gg-vac-cat-v-kg/p) → $25.490
-- Unimarc: [Punta de ganso vacuno Argentino categoría V al vacío 1.6 Kg](https://www.unimarc.cl/punta-de-ganso-vco-arg-kg/p) → $17.990
-- Unimarc: [Punta ganso vacuno importado al vacío 1.6 Kg](https://www.unimarc.cl/punta-de-ganso-vacuno-vacio/p) → $14.990
-- Unimarc: [Punta de ganso vacuno al vacío Blue Ribbon 1.8 Kg](https://www.unimarc.cl/punta-de-ganso-vac-vcio-can-diam-kg/p) → $26.990
+- Lider: [Punta de Ganso](https://super.lider.cl/ip/vacuno/00209196000000) → $21.990
+- Lider: [Carne de Vacuno Punta de Ganso Premium](https://super.lider.cl/ip/vacuno/00218269000000) → $15.991
+- Lider: [Carne de Vacuno Punta de Ganso](https://super.lider.cl/ip/vacuno/00213050000000) → $23.990
+- Lider: [Carne de Vacuno Punta de Ganso Premium](https://super.lider.cl/ip/vacuno/00213059000000) → $17.991
 
 ## Punta picana `punta_picana` · por kg
-**$13.490 · $17.490 · $29.990** (mín · media · máx, 19 precios)
+**$13.490 · $16.990 · $29.990** (mín · media · máx, 25 precios)
 - Tottus: [Punta Picana Importada Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705990/punta-picana-imp-cat-v) → $13.890
 - Tottus: [Punta Picana Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116162311/punta-picana-nac-cat-v-tottus) → $14.990
 - Tottus: [Punta Picana Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118995909/punta-picana-tottus-imp-cat-v) → $14.990
 - Tottus: [Punta Picana Black Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/115882765/punta-picana-black-nacional-cat-v) → $18.990
 - Tottus: [Punta Picana Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/141122976/punta-de-picana-imp-cat-v-estancia92) → $13.490
 - Tottus: [Punta Picana Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116168072/punta-picana-chilebeef-tottus-nac-cat-v) → $16.990
-- Tottus: [Punta Picana Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142281486/punta-picana-angus-nobl-corral-nac-cat-v) → $17.490
 - Tottus: [Punta Picana Black Pampamia al Vacío](https://www.tottus.cl/tottus-cl/articulo/145010313/punta-de-picana-pampamia-carne) → $25.990
-- Unimarc: [Punta picana vacuno Friboi Black Angus al vacío 1.3 Kg](https://www.unimarc.cl/punta-picana-vac-vco-friboi-black-kg/p) → $22.890
-- Unimarc: [Punta picana vacuno Importado al vacío 1.6 Kg Punta picana vacuno Importado al vacío 1.4 Kg](https://www.unimarc.cl/punta-de-picana-vacuno-al-vacio/p) → $14.290
-- Unimarc: [Punta picana vacuno Argentina al vacío 1.4 Kg](https://www.unimarc.cl/punta-picana-vacuno-cat-v-argentina-vac-1-kg/p) → $17.090
-- Unimarc: [Punta de picana vacuno Blue Ribbon al vacío 2 Kg](https://www.unimarc.cl/punta-de-picana-vacio-cana-diam-kg/p) → $24.290
+- Tottus: [Punta Picana Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142281486/punta-picana-angus-nobl-corral-nac-cat-v) → $17.490
+- Lider: [Carne de Vacuno Punta de Picana Premium](https://super.lider.cl/ip/vacuno/00209253000000) → $15.390
+- Lider: [Carne de Vacuno Punta Picana Premium](https://super.lider.cl/ip/vacuno/00213379000000) → $14.991
+- Lider: [Carne de Vacuno Punta de Picana Premium](https://super.lider.cl/ip/vacuno/00209261000000) → $14.390
+- Lider: [Carne de Vacuno Punta de Picana Premium](https://super.lider.cl/ip/vacuno/00209257000000) → $15.390
 
 ## Asado de tira `asado_tira` · por kg
-**$11.990 · $20.490 · $25.980** (mín · media · máx, 16 precios)
+**$10.210 · $19.990 · $25.980** (mín · media · máx, 20 precios)
 - Tottus: [Asado de Tira Americano Black al Vacío](https://www.tottus.cl/tottus-cl/articulo/110623193/asado-de-tira-americano-500g-tottus-black-cat-v) → $25.980
 - Tottus: [Asado de Tira Americano Black al Vacío](https://www.tottus.cl/tottus-cl/articulo/110623905/asado-de-tira-americano-tottus-black-1-kg-cat-v) → $23.990
 - Tottus: [Asado Tira Plancha Fresco Nac. Cat-V](https://www.tottus.cl/tottus-cl/articulo/115838721/asado-tira-plancha-nac-fresco-cat-v) → $13.990
@@ -544,84 +551,85 @@ _Referencial_: se mantiene $990 · $1.590 · $2.490 (0 precios encontrados)
 - Tottus: [Asado de Tira Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142267767/asado-de-tira-angus-nobl-corra-nac-cat-v) → $16.990
 - Tottus: [Asado de Tira Criollo Nacional Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/147586108/asado-criollo-asado-de-tira-nac-cat-v) → $19.990
 - Tottus: [Asado de Tira Criollito Nacional Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/147586148/criollito-asado-de-tira-nac-cat-v) → $20.990
-- Unimarc: [Asado de tira vacuno Swift Beef banderita 1.1 Kg](https://www.unimarc.cl/asado-de-tira-banderita-kg/p) → $23.990
-- Unimarc: [Asado de tira vacuno Swift Beef criollo congelado 800 g](https://www.unimarc.cl/asado-de-tira-criollo-kg/p) → $22.290
-- Unimarc: [Asado de tira vacuno Swift Beef al vacío 1.9 Kg](https://www.unimarc.cl/asado-de-tira-kg-2/p) → $21.990
-- Unimarc: [Asado de tira Fundo Sur congelado bolsa 1 Kg](https://www.unimarc.cl/asado-de-tira-cong-fundo-sur-1-kg/p) → $12.990
+- Lider: [Chuck short ribs asado de tira banderita](https://super.lider.cl/ip/vacuno/00209392000000) → $22.690
+- Lider: [Carne de Vacuno Asado de Tira Premium](https://super.lider.cl/ip/vacuno/00209209000000) → $20.590
+- Lider: [Carne de Vacuno Asado de Tira Premium](https://super.lider.cl/ip/vacuno/00209214000000) → $19.590
+- Lider: [Carne de Vacuno Asado de Tira Al Palo Premium](https://super.lider.cl/ip/vacuno/00209256000000) → $14.690
 
 ## Punta paleta `punta_paleta` · por kg
-**$10.690 · $13.190 · $24.890** (mín · media · máx, 17 precios)
+**$9.690 · $13.190 · $24.890** (mín · media · máx, 23 precios)
 - Tottus: [Punta Paleta Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705968/punta-paleta-imp-cat-v) → $10.690
 - Tottus: [Punta Paleta Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/119332234/punta-paleta-tottus-imp-cat-v) → $11.790
 - Tottus: [Punta Paleta Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116162312/punta-paleta-nac-cat-v-tottus) → $11.790
 - Tottus: [Punta Paleta Flat Iron Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/140954271/punta-de-paleta-flat-iron-imp-cat-v) → $17.990
 - Tottus: [Punta Paleta en Bistec](https://www.tottus.cl/tottus-cl/articulo/138010505/punta-paleta-nac-cat-v-meson) → $12.990
-- Tottus: [Punta Paleta Flat Iron Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/129226453/punta-de-paleta-flat-iron-nac-cat-v) → $20.990
 - Tottus: [Punta Paleta Trozo Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/141122970/punta-de-paleta-imp-cat-v-trz) → $12.990
 - Tottus: [Punta Paleta Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142281490/punta-paleta-angus-nobl-corral-nac-cat-v) → $15.490
-- Unimarc: [Punta paleta vacuno Importado al vacío 3 Kg](https://www.unimarc.cl/punta-de-paleta-vac-vco-kg/p) → $10.990
-- Unimarc: [Punta paleta vacuno al vacío 3 Kg](https://www.unimarc.cl/punta-paleta-vco-arg-kg/p) → $13.190
-- Unimarc: [Punta paleta vacuno angus Azul natural Beef al vacío 1.3 Kg Punta paleta vacuno angus Azul natural Beef al vacío 2.1 Kg](https://www.unimarc.cl/punta-paleta-premium-vacio-kg/p) → $22.390
-- Unimarc: [Punta paleta vacuno Bagual Negro al vacío 1.8 Kg](https://www.unimarc.cl/punta-de-paleta-porc-vac-b-n-cat-v-kg/p) → $24.890
+- Tottus: [Punta Paleta Flat Iron Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/129226453/punta-de-paleta-flat-iron-nac-cat-v) → $20.990
+- Jumbo: [Punta Paleta al Vacío 1.4 kg aprox.](https://www.jumbo.cl/punta-paleta-cat-v/p) → $11.790
+- Jumbo: [Punta Paleta al Vacío 1.4 kg aprox.](https://www.jumbo.cl/punta-paleta-cat-v/p) → $11.790
+- Jumbo: [Punta Paleta Premium Cerro Azul Al Vacío kg](https://www.jumbo.cl/punta-de-paleta-cerroazul-nac-v-prem-kg-1895112-kg/p) → $17.990
+- Jumbo: [Punta Paleta Premium A Punto Al Vacío kg](https://www.jumbo.cl/punta-paleta-cat-v-21/p) → $20.990
 
 ## Plateada `plateada` · por kg
-**$9.990 · $12.890 · $19.890** (mín · media · máx, 12 precios)
-- Tottus: [Plateada Importada Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705964/plateada-imp-cat-v) → $11.090
+**$8.490 · $11.240 · $19.890** (mín · media · máx, 14 precios)
 - Tottus: [Plateada Importada Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/119332226/plateada-tottus-imp-cat-v) → $11.990
+- Tottus: [Plateada Importada Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705964/plateada-imp-cat-v) → $11.090
 - Tottus: [Plateada Nacional Cat-V](https://www.tottus.cl/tottus-cl/articulo/116166210/plateada-nac-cat-v-tottus) → $11.990
-- Unimarc: [Plateada vacuno angus Azul Natural Beef al vacío 1.5 Kg](https://www.unimarc.cl/plateada-vco-argentina-anb-kg/p) → $19.890
-- Unimarc: [Plateada vacuno Importado al vacío 1.6 Kg](https://www.unimarc.cl/plateada-vacuno-vacio-kg/p) → $11.490
-- Unimarc: [Plateada vacuno Argentina al vacío 1.6 Kg](https://www.unimarc.cl/plateada-vacio-arg-kg/p) → $13.790
-- Unimarc: [Plateada vacuno Bagual Negro al vacío 1.2 Kg](https://www.unimarc.cl/plateada-porc-vac-b-n-cat-v-kg/p) → $17.490
-- Unimarc: [Plateada vacuno Wagyu Beef al vacío 1.6 Kg](https://www.unimarc.cl/plateada-vacuno-wagyu-nacional-granel-aprox-1-kg/p) → $18.690
+- Lider: [Carne de Vacuno Plateada](https://super.lider.cl/ip/vacuno/00211824000000) → $11.390
+- Lider: [V plateada](https://super.lider.cl/ip/vacuno/00209424000000) → $10.490
 - Jumbo: [Plateada al Vacío 2 kg aprox.](https://www.jumbo.cl/plateada-cat-v/p) → $9.990
 - Jumbo: [Plateada al Vacío 2 kg aprox.](https://www.jumbo.cl/plateada-cat-v/p) → $9.990 (normal $12.290)
 - Jumbo: [Carne Plateada Porcionada Granel](https://www.jumbo.cl/carne-plateada-por-2075541-kg/p) → $18.990
 - Jumbo: [Plateada Premium Cerro Azul Al Vacío kg](https://www.jumbo.cl/plateada-cerroazul-nac-v-prem-kg-1895126-kg/p) → $15.990
+- Unimarc: [Plateada vacuno angus Azul Natural Beef al vacío 1.5 Kg](https://www.unimarc.cl/plateada-vco-argentina-anb-kg/p) → $8.490 (normal $19.890)
+- Unimarc: [Plateada vacuno Importado al vacío 1.6 Kg](https://www.unimarc.cl/plateada-vacuno-vacio-kg/p) → $11.490
+- Unimarc: [Plateada vacuno Wagyu Beef al vacío 1.6 Kg](https://www.unimarc.cl/plateada-vacuno-wagyu-nacional-granel-aprox-1-kg/p) → $8.490 (normal $18.690)
 
 ## Sobrecostilla `sobrecostilla` · por kg
-**$8.990 · $11.490 · $15.290** (mín · media · máx, 11 precios)
+**$7.990 · $10.190 · $22.890** (mín · media · máx, 13 precios)
 - Tottus: [Sobrecostilla Importada Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118706480/sobrecostilla-imp-cat-v) → $10.190
 - Tottus: [SOBRECOSTILLA TOTTUS CAT V](https://www.tottus.cl/tottus-cl/articulo/119332238/sobrecostilla-tottus-imp-cat-v) → $11.490
 - Tottus: [Sobrecostilla  Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116163158/sobrecostilla-nac-cat-v-tottus) → $11.490
 - Tottus: [Sobrecostilla (Denver Steak) Importado Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/151043203/denver-steaksobrecostillaimp-cat-v-e92) → $13.990
-- Unimarc: [Sobrecostilla vacuno al vacío 1.4 Kg](https://www.unimarc.cl/sobrecostilla-vac-porc-kg/p) → $10.490
-- Unimarc: [Sobrecostilla vacuno al vacío 1.4 Kg](https://www.unimarc.cl/sobrecostilla-vco-arg-kg/p) → $12.590
-- Unimarc: [Sobrecostilla vacuno nacional al vacío 1.7 Kg](https://www.unimarc.cl/sobrecos-vac-nac-vco-kg/p) → $12.590
-- Unimarc: [Huachalomo sobrecostilla vacuno ANB 1.5 KG](https://www.unimarc.cl/huachalomo-sobrecostilla-vac-vco-anb-kg/p) → $15.290
 - Jumbo: [Sobrecostilla al Vacío 1.3 kg aprox.](https://www.jumbo.cl/sobrecostilla-cat-v/p) → $8.990
 - Jumbo: [Sobrecostilla al Vacío 1.3 kg aprox.](https://www.jumbo.cl/sobrecostilla-cat-v/p) → $8.990 (normal $11.490)
 - Jumbo: [Sobrecostilla Premium Cerro Azul Al Vacío kg](https://www.jumbo.cl/sobrecostilla-cerroazul-nac-v-prem-kg-1895124-kg/p) → $13.590
+- Lider: [Asado Americano Sobrecostilla - Huachalomo](https://super.lider.cl/ip/vacuno/00218409000000) → $16.990
+- Lider: [Chuck flap sobrecostilla](https://super.lider.cl/ip/vacuno/00209401000000) → $22.890
+- Unimarc: [Sobrecostilla vacuno al vacío 1.4 Kg](https://www.unimarc.cl/sobrecostilla-vac-porc-kg/p) → $7.990 (normal $10.490)
+- Unimarc: [Sobrecostilla vacuno al vacío 1.4 Kg](https://www.unimarc.cl/sobrecostilla-vco-arg-kg/p) → $7.990 (normal $12.590)
+- Unimarc: [Sobrecostilla vacuno nacional al vacío 1.7 Kg](https://www.unimarc.cl/sobrecos-vac-nac-vco-kg/p) → $7.990 (normal $12.590)
 
 ## Tapapecho `tapapecho` · por kg
-**$7.990 · $11.790 · $15.390** (mín · media · máx, 9 precios)
-- Tottus: [Tapapecho Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705982/tapapecho-imp-cat-v) → $7.990 (normal $10.190)
+**$8.490 · $10.990 · $15.390** (mín · media · máx, 9 precios)
+- Tottus: [Tapapecho Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705982/tapapecho-imp-cat-v) → $10.190
 - Tottus: [Tapapecho Nacional Cat-V](https://www.tottus.cl/tottus-cl/articulo/116165539/tapapecho-nac-cat-v-tottus) → $11.390
 - Tottus: [Tapapecho Importado Cat V Mesón](https://www.tottus.cl/tottus-cl/articulo/139931617/tapapecho-imp-cat-v-meson) → $8.990
-- Unimarc: [Tapapecho vacuno angus Azul Natural Beef al vacío 1.2 Kg](https://www.unimarc.cl/tapapecho-vco-argentina-anb-kg/p) → $15.390
-- Unimarc: [Tapapecho vacuno Nacional al vacío 1.8 Kg](https://www.unimarc.cl/tapapech-vac-nac-vco-kg/p) → $13.190
+- Lider: [Carne de Vacuno Tapapecho](https://super.lider.cl/ip/vacuno/00213922000000) → $8.490 (normal $10.390)
+- Jumbo: [Tapapecho al Vacío 1.2 kg aprox.](https://www.jumbo.cl/tapapecho-cat-v/p) → $11.790
+- Jumbo: [Tapapecho al Vacío 1.2 kg aprox.](https://www.jumbo.cl/tapapecho-cat-v/p) → $11.790
+- Unimarc: [Tapapecho vacuno angus Azul Natural Beef al vacío 1.2 Kg](https://www.unimarc.cl/tapapecho-vco-argentina-anb-kg/p) → $8.490 (normal $15.390)
 - Unimarc: [Tapapecho vacuno al vacío 2.2 Kg](https://www.unimarc.cl/tapapecho-vacuno-porc-kg/p) → $10.990
 - Unimarc: [Tapapecho vacuno al vacío 2.7 Kg](https://www.unimarc.cl/tapapecho-vco-arg-kg/p) → $13.190
-- Jumbo: [Tapapecho al Vacío 1.2 kg aprox.](https://www.jumbo.cl/tapapecho-cat-v/p) → $11.790
-- Jumbo: [Tapapecho al Vacío 1.2 kg aprox.](https://www.jumbo.cl/tapapecho-cat-v/p) → $11.790
 
 ## Palanca `palanca` · por kg
-**$13.380 · $16.790 · $31.190** (mín · media · máx, 18 precios)
+**$14.590 · $17.990 · $31.190** (mín · media · máx, 21 precios)
 - Tottus: [Palanca Importado Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/151043165/palanca-imp-cat-v-estancia-92) → $14.990
 - Tottus: [Palanca Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118706042/palanca-imp-cat-v) → $14.590
-- Tottus: [Palanca Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/129227810/palanca-chilebeef-tottus-nac-cat-v) → $20.990
 - Tottus: [Palanca Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/142281487/palanca-angus-noble-corral-nac-cat-v) → $20.990
 - Tottus: [Palanca Nacional Cat V Mesón](https://www.tottus.cl/tottus-cl/articulo/143058342/palanca-cat-v-meson) → $17.990
-- Tottus: [Palanca Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/119428427/palanca-tottus-imp-cat-v) → $15.490
 - Tottus: [Palanca Nacional Cat-V](https://www.tottus.cl/tottus-cl/articulo/116160476/palanca-nac-cat-v-tottus) → $15.490
-- Unimarc: [Palanca vacuno Friboi Black Angus al vacío 700 g](https://www.unimarc.cl/palanca-friboi-black-vacio-kg/p) → $21.790
-- Unimarc: [Palanca vacuno Importado al vacío 1.1 Kg](https://www.unimarc.cl/palanca-vacuno-vacio-kg/p) → $15.590
-- Unimarc: [Palanca vacuno Blue Ribbon al vacío 1.2 Kg](https://www.unimarc.cl/palanca-al-vacio-canadian-diamond-kg/p) → $31.190
-- Unimarc: [Palanca vacuno angus Azul Natural Beef al vacío 1.1 Kg](https://www.unimarc.cl/palanca-premium-vacio-kg/p) → $23.390
-- Unimarc: [Palanca vacuno Bagual Negro al vacío 1.0 Kg](https://www.unimarc.cl/palanca-porc-vac-b-n-cat-v-kg/p) → $21.790
+- Tottus: [Palanca Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/129227810/palanca-chilebeef-tottus-nac-cat-v) → $20.990
+- Tottus: [Palanca Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/119428427/palanca-tottus-imp-cat-v) → $15.490
+- Lider: [Carne de Vacuno Palanca Premium](https://super.lider.cl/ip/vacuno/00218268000000) → $16.990
+- Lider: [Carne de Vacuno Palanca  Premium](https://super.lider.cl/ip/vacuno/00209201000000) → $18.991
+- Lider: [Carne de Vacuno Palanca Premium](https://super.lider.cl/ip/vacuno/00211715000000) → $17.991
+- Lider: [Carne de Vacuno Palanca](https://super.lider.cl/ip/vacuno/00211658000000) → $14.590
+- Jumbo: [Palanca al Vacío 1.2 kg aprox.](https://www.jumbo.cl/palanca-cat-v/p) → $14.990
 
 ## Tapabarriga `tapabarriga` · por kg
-**$11.190 · $15.990 · $28.990** (mín · media · máx, 17 precios)
+**$11.190 · $12.990 · $28.990** (mín · media · máx, 22 precios)
 - Tottus: [Tapabarriga Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705459/tapabarriga-imp-cat-v) → $11.290
 - Tottus: [Tapabarriga Nacional Cat-V](https://www.tottus.cl/tottus-cl/articulo/116162319/tapabarriga-nac-cat-v-tottus) → $12.990
 - Tottus: [Tapabarriga al Rojo Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/140954274/tapabarriga-imp-cat-v-estancia-9) → $15.990
@@ -630,236 +638,253 @@ _Referencial_: se mantiene $990 · $1.590 · $2.490 (0 precios encontrados)
 - Tottus: [Tapabarriga Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/140954273/tapabarriga-imp-cat-v-estancia92) → $11.990
 - Tottus: [Tapabarriga Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116166156/tapabarriga-tottus-imp-cat-v) → $11.190
 - Tottus: [Arrachera (Tapabarriga) Nacional Cat V al Vacío](https://www.tottus.cl/tottus-cl/articulo/147586200/arracherafalda-de-tapabarriganac-cat-v) → $18.990
-- Unimarc: [Tapabarriga vacuno Friboi Black Angus al vacío 1.9 Kg](https://www.unimarc.cl/tapabarriga-friboi-black-vacio-kg/p) → $19.490
-- Unimarc: [Tapabarriga vacuno Importado al vacío 2.5 Kg](https://www.unimarc.cl/tapabarriga-vac-vco-kg/p) → $12.190
-- Unimarc: [Tapabarriga vacuno Bagual Negro al vacío 1.9 Kg](https://www.unimarc.cl/tapabarriga-porc-vac-b-n-cat-v-kg/p) → $19.490
-- Unimarc: [Tapabarriga centro vacuno Wagyu Beef al vacío 1.2 Kg](https://www.unimarc.cl/tapabarri-cent-wagyu-kg-2/p) → $25.990
+- Lider: [V tapabarriga](https://super.lider.cl/ip/vacuno/00209498000000) → $11.490
+- Lider: [Carne de Vacuno Tapabarriga](https://super.lider.cl/ip/vacuno/00213780000000) → $12.190
+- Lider: [Tapabarriga](https://super.lider.cl/ip/vacuno/00209207000000) → $11.590
+- Lider: [Carne de Vacuno Arrachera Tapabarriga Premium](https://super.lider.cl/ip/vacuno/00218173000000) → $12.990
 
 ## Malaya de vacuno `malaya` · por kg
-**$9.490 · $9.490 · $9.490** (mín · media · máx, 2 precios)
+**$9.490 · $10.240 · $14.990** (mín · media · máx, 4 precios)
+- Lider: [Carne de Vacuno Malaya Premium](https://super.lider.cl/ip/vacuno/00209169000000) → $14.990
+- Lider: [Carne de Vacuno Malaya Premium](https://super.lider.cl/ip/vacuno/00209082000000) → $10.990
 - Jumbo: [Malaya al Vacío 0.7 kg aprox.](https://www.jumbo.cl/malaya-cat-v/p) → $9.490
 - Jumbo: [Malaya al Vacío 0.7 kg aprox.](https://www.jumbo.cl/malaya-cat-v/p) → $9.490
 
 ## Huachalomo `huachalomo` · por kg
-**$8.990 · $11.490 · $15.290** (mín · media · máx, 10 precios)
+**$7.990 · $9.190 · $16.990** (mín · media · máx, 13 precios)
 - Tottus: [Huachalomo Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705974/huachalomo-imp-cat-v) → $10.190
 - Tottus: [HUACHALOMO TOTTUS IMP V](https://www.tottus.cl/tottus-cl/articulo/119332222/huachalomo-tottus-imp-cat-v) → $11.490
 - Tottus: [Huachalomo  Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116163969/huachalomo-nac-cat-v-tottus) → $11.490
-- Unimarc: [Huachalomo vacuno categoría V al vacío 1.5 Kg](https://www.unimarc.cl/huachalomo-vacuno-porc-kg/p) → $10.490
-- Unimarc: [Huachalomo vacuno al vacío 1.5 Kg](https://www.unimarc.cl/huachalomo-vacio-arg-kg/p) → $12.590
-- Unimarc: [Huachalomo sobrecostilla vacuno ANB 1.5 KG](https://www.unimarc.cl/huachalomo-sobrecostilla-vac-vco-anb-kg/p) → $15.290
-- Unimarc: [Huachalomo vacuno Nacional al vacío 1.5 Kg](https://www.unimarc.cl/huachalo-vac-nac-vco-kg/p) → $12.590
+- Lider: [Carne de Vacuno Huachalomo](https://super.lider.cl/ip/vacuno/00210647000000) → $8.490 (normal $10.190)
+- Lider: [V huachalomo](https://super.lider.cl/ip/vacuno/00209420000000) → $9.190
+- Lider: [Asado Americano Sobrecostilla - Huachalomo](https://super.lider.cl/ip/vacuno/00218409000000) → $16.990
 - Jumbo: [Huachalomo al Vacío 1.4 kg aprox.](https://www.jumbo.cl/huachalomo-cat-v/p) → $8.990
 - Jumbo: [Huachalomo al Vacío 1.4 kg aprox.](https://www.jumbo.cl/huachalomo-cat-v/p) → $8.990 (normal $11.490)
 - Jumbo: [Huachalomo Premium Cerro Azul Al Vacío kg](https://www.jumbo.cl/huachalomo-cerroazul-nac-v-prem-kg-1895125-kg/p) → $13.990
+- Unimarc: [Huachalomo vacuno categoría V al vacío 1.5 Kg](https://www.unimarc.cl/huachalomo-vacuno-porc-kg/p) → $7.990 (normal $10.490)
+- Unimarc: [Huachalomo vacuno al vacío 1.5 Kg](https://www.unimarc.cl/huachalomo-vacio-arg-kg/p) → $7.990 (normal $12.590)
+- Unimarc: [Huachalomo vacuno Nacional al vacío 1.5 Kg](https://www.unimarc.cl/huachalo-vac-nac-vco-kg/p) → $7.990 (normal $12.590)
 
 ## Asado carnicero `asado_carnicero` · por kg
-**$10.490 · $12.040 · $16.790** (mín · media · máx, 6 precios)
-- Unimarc: [Asado carnicero vacuno Importado al vacío 2.8 Kg](https://www.unimarc.cl/asado-carnicero-vacuno-vacio-kg/p) → $10.490
-- Unimarc: [Asado carnicero vacuno Nacional al vacío 2.5 Kg](https://www.unimarc.cl/asado-del-carnicero-nac-vac-vco-kg/p) → $12.590
+**$7.990 · $10.790 · $16.790** (mín · media · máx, 9 precios)
+- Jumbo: [Asado del Carnicero al Vacío 1.3 kg aprox.](https://www.jumbo.cl/asado-del-carnicero-cat-v/p) → $11.490
+- Jumbo: [Asado del Carnicero al Vacío 1.3 kg aprox.](https://www.jumbo.cl/asado-del-carnicero-cat-v/p) → $11.490
+- Lider: [V asado del carnicero](https://super.lider.cl/ip/vacuno/00209396000000) → $9.190
+- Lider: [Carne de Vacuno Asado Carnicero](https://super.lider.cl/ip/vacuno/00209514000000) → $10.790
+- Unimarc: [Asado carnicero vacuno Importado al vacío 2.8 Kg](https://www.unimarc.cl/asado-carnicero-vacuno-vacio-kg/p) → $7.990 (normal $10.490)
+- Unimarc: [Asado carnicero vacuno Nacional al vacío 2.5 Kg](https://www.unimarc.cl/asado-del-carnicero-nac-vac-vco-kg/p) → $7.990 (normal $12.590)
 - Unimarc: [Asado carnicero vacuno angus Azul Natural Beef al vacío 1.5 Kg](https://www.unimarc.cl/asado-del-carnicero-vco-arg-anb-kg/p) → $16.790
 - Unimarc: [Asado carnicero vacuno Wagyu al vacío 2.5 Kg](https://www.unimarc.cl/asado-del-carnicero-wagyu-kg/p) → $16.790
-- Jumbo: [Asado del Carnicero al Vacío 1.3 kg aprox.](https://www.jumbo.cl/asado-del-carnicero-cat-v/p) → $11.490
-- Jumbo: [Asado del Carnicero al Vacío 1.3 kg aprox.](https://www.jumbo.cl/asado-del-carnicero-cat-v/p) → $11.490
+- Unimarc: [Asado carnicero vacuno al vacío 1.8 Kg](https://www.unimarc.cl/asado-carnicero-vacuno-cat-v-argentina-vac-1-kg/p) → $7.990 (normal $12.590)
 
 ## Choclillo `choclillo` · por kg
-**$9.990 · $11.990 · $15.290** (mín · media · máx, 11 precios)
+**$8.490 · $11.640 · $15.290** (mín · media · máx, 12 precios)
 - Tottus: [Choclillo Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118706449/choclillo-imp-cat-v) → $10.990
 - Tottus: [Choclillo Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/119332216/choclillo-tottus-imp-v-cat-v) → $11.990
 - Tottus: [Choclillo Nacional Cat-V](https://www.tottus.cl/tottus-cl/articulo/116166752/choclillo-nac-cat-v-tottus) → $11.990
 - Tottus: [Choclillo Nacional Cat V Mesón](https://www.tottus.cl/tottus-cl/articulo/140376511/choclicllo-nac-cat-v-meson) → $9.990
-- Unimarc: [Choclillo vacuno Importado al vacío 1.3 Kg](https://www.unimarc.cl/choclillo-vacuno-vacio-kg/p) → $10.890
-- Unimarc: [Choclillo vacuno Friboi Black Angus al vacío 1.6 Kg](https://www.unimarc.cl/choclillo-friboi-black-vacio-kg/p) → $15.290
-- Unimarc: [Choclillo vacuno Argentina al vacío 1.3 Kg](https://www.unimarc.cl/choclillo-vacio-arg-kg/p) → $13.090
-- Unimarc: [Choclillo vacuno Nacional al vacío 1.3 Kg](https://www.unimarc.cl/choclilo-vac-nac-vco-kg/p) → $13.090
+- Lider: [V choclillo](https://super.lider.cl/ip/vacuno/00209404000000) → $9.490
+- Lider: [Carne de Vacuno Choclillo](https://super.lider.cl/ip/vacuno/00209680000000) → $11.290
 - Jumbo: [Choclillo al Vacío 1.1 kg aprox.](https://www.jumbo.cl/choclillo-cat-v/p) → $11.990
 - Jumbo: [Choclillo al Vacío 1.1 kg aprox.](https://www.jumbo.cl/choclillo-cat-v/p) → $11.990
 - Jumbo: [Choclillo Premium Cerro Azul Al Vacío kg](https://www.jumbo.cl/choclillo-cerroazul-nac-v-prem-kg-1920036-kg/p) → $14.590
+- Unimarc: [Choclillo vacuno Importado al vacío 1.3 Kg](https://www.unimarc.cl/choclillo-vacuno-vacio-kg/p) → $10.890
+- Unimarc: [Choclillo vacuno Friboi Black Angus al vacío 1.6 Kg](https://www.unimarc.cl/choclillo-friboi-black-vacio-kg/p) → $8.490 (normal $15.290)
+- Unimarc: [Choclillo vacuno Argentina al vacío 1.3 Kg](https://www.unimarc.cl/choclillo-vacio-arg-kg/p) → $13.090
 
 ## Abastero `abastero` · por kg
-**$10.190 · $11.490 · $18.990** (mín · media · máx, 11 precios)
+**$7.990 · $10.990 · $18.990** (mín · media · máx, 14 precios)
 - Tottus: [Abastero Importado Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/118705944/abastero-imp-cat-v) → $10.190
 - Tottus: [ABASTERO TOTTUS IMP. V CAT-V](https://www.tottus.cl/tottus-cl/articulo/119332228/abastero-tottus-imp-v-cat-v) → $11.490
 - Tottus: [Abastero en Bistec](https://www.tottus.cl/tottus-cl/articulo/138010521/abastero-nac-cat-v-meson) → $10.490
 - Tottus: [Abastero Nacional Cat-V Vacío](https://www.tottus.cl/tottus-cl/articulo/116162309/abastero-nac-cat-v-tottus) → $11.490
-- Unimarc: [Abastero vacuno Importado al vacío 1.5 Kg](https://www.unimarc.cl/abastero-vacuno-vacio-kg/p) → $10.490
-- Unimarc: [Abastero vacuno al vacío 1.5 Kg](https://www.unimarc.cl/abastero-vacuno-categoria-v-argentina-vac-1kg/p) → $12.590
-- Unimarc: [Abastero vacuno Nacional al vacío 1.8 Kg](https://www.unimarc.cl/abastero-vac-nac-vac-kg/p) → $12.590
-- Unimarc: [Abastero vacuno angus Azul Natural Beef al vacío 1.4 Kg](https://www.unimarc.cl/abastero-vco-argentina-anb-kg/p) → $16.790
+- Lider: [Carne de Vacuno Abastero](https://super.lider.cl/ip/vacuno/00218103000000) → $8.490 (normal $10.190)
+- Lider: [V abastero](https://super.lider.cl/ip/vacuno/00209389000000) → $9.190
+- Lider: [Carne de Vacuno Abastero](https://super.lider.cl/ip/vacuno/00209047000000) → $16.990
 - Jumbo: [Abastero al Vacío 1.7 kg aprox.](https://www.jumbo.cl/abastero-cat-v/p) → $11.490
 - Jumbo: [Abastero al Vacío 1.7 kg aprox.](https://www.jumbo.cl/abastero-cat-v/p) → $11.490
 - Jumbo: [Abastero Americana Farmers Al Vacío kg](https://www.jumbo.cl/abastero-eeuu-v-va/p) → $18.990
+- Unimarc: [Abastero vacuno Importado al vacío 1.5 Kg](https://www.unimarc.cl/abastero-vacuno-vacio-kg/p) → $7.990 (normal $10.490)
+- Unimarc: [Abastero vacuno al vacío 1.5 Kg](https://www.unimarc.cl/abastero-vacuno-categoria-v-argentina-vac-1kg/p) → $7.990 (normal $12.590)
 
 ## Carne para churrasco `churrasco` · por kg
-**$6.670 · $19.440 · $24.080** (mín · media · máx, 13 precios)
+**$6.670 · $16.440 · $24.080** (mín · media · máx, 21 precios)
 - Tottus: [Churrasco de Vacuno Precio Uno 90 g](https://www.tottus.cl/tottus-cl/articulo/116417688/churrasco-vacuno-90-grs-precio-uno) → $9.889
-- Unimarc: [Churrasco de vacuno Receta del Abuelo 3 un bolsa 120 g](https://www.unimarc.cl/churrasco-vacuno-rda-120-grs/p) → $24.083
-- Unimarc: [Churrasco de vacuno King 90 g](https://www.unimarc.cl/churrasco-de-vacuno-king-90-gr/p) → $12.111
-- Unimarc: [Churrasco vacuno Super Beef 120 g](https://www.unimarc.cl/churrasco-vacuno-superbeef-120-gr/p) → $16.250
-- Unimarc: [Churrasco vacuno Llanquihue 90 g](https://www.unimarc.cl/churrasco-vacuno-llanquihue-90-gr/p) → $19.444
 - Jumbo: [Churrasco Vacuno Llanquihue 90 g 3 un.](https://www.jumbo.cl/churrasco-de-vacuno-llanquihue-bolsa-3-unid-90-g-congelado-2/p) → $6.667
 - Jumbo: [Churrasco Vacuno Llanquihue 90 g 3 un.](https://www.jumbo.cl/churrasco-de-vacuno-llanquihue-bolsa-3-unid-90-g-congelado-2/p) → $20.000
-- Jumbo: [Churrasco Vacuno Llanquihue 540 g](https://www.jumbo.cl/churrasco-llanquihue-de-vacuno-540-g/p) → $21.093
-- Jumbo: [Churrasco Vacuno Llanquihue 540 g](https://www.jumbo.cl/churrasco-llanquihue-de-vacuno-540-g/p) → $21.093
-- Jumbo: [Carne de Churrasco Posta Rosada Cuisine & Co 500 g](https://www.jumbo.cl/carne-chur-posta-r-2073561/p) → $14.980
-- Jumbo: [Carne de Churrasco Posta Rosada Cuisine & Co 500 g](https://www.jumbo.cl/carne-chur-posta-r-2073561/p) → $14.980
+- Jumbo: [Churrasco de Vacuno King 90 g 5 un.](https://www.jumbo.cl/churrasco-vacuno-bolsa-king-5x90g/p) → $11.311
+- Jumbo: [Churrasco de Vacuno King 90 g 5 un.](https://www.jumbo.cl/churrasco-vacuno-bolsa-king-5x90g/p) → $11.311
 - Jumbo: [Churrasco A Punto 120 g](https://www.jumbo.cl/churrasco-a-punto-120gr-2018155/p) → $22.750
+- Jumbo: [Churrasco A Punto 120 g](https://www.jumbo.cl/churrasco-a-punto-120gr-2018155/p) → $22.750
+- Jumbo: [Churrasco de Wagyu Mollendo 135 g](https://www.jumbo.cl/churrasco-de-wagyu-mollendo-envase-135-g-congelado/p) → $23.556
+- Jumbo: [Churrasco de Wagyu Mollendo 135 g](https://www.jumbo.cl/churrasco-de-wagyu-mollendo-envase-135-g-congelado/p) → $23.556
+- Lider: [Churrasco de Vacuno, 120 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780010800202) → $22.417
+- Lider: [Churrasco De Vacuno, 120 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780010800200) → $21.250
+- Lider: [Churrasco de Vacuno, 90 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780197000471) → $18.333
 
 ## Costillar de cerdo `costillar` · por kg
-**$6.990 · $9.640 · $12.590** (mín · media · máx, 20 precios)
-- Tottus: [Costillar de Cerdo Tradicional Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115834644/costillar-vacio-75-mitad-super) → $11.190
-- Tottus: [Costillar de Cerdo a la Chilena Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115816963/costillar-al-vacio-sabor-chileno-kg-super) → $11.190
-- Tottus: [Costillar de Cerdo Congelado Americano Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115942452/costillar-americano-de-cerdo-1-kg-cong) → $7.790
+**$6.590 · $7.690 · $12.590** (mín · media · máx, 28 precios)
+- Tottus: [Costillar de Cerdo Congelado Americano Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115942452/costillar-americano-de-cerdo-1-kg-cong) → $6.590 (normal $7.790)
+- Tottus: [Costillar de Cerdo Tradicional Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115834644/costillar-vacio-75-mitad-super) → $7.990 (normal $11.190)
+- Tottus: [Costillar de Cerdo a la Chilena Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115816963/costillar-al-vacio-sabor-chileno-kg-super) → $7.990 (normal $11.190)
 - Tottus: [Costillar al Vacío Sureño Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115830597/costillar-al-vacio-sureno-kg) → $9.990
 - Tottus: [Costillar al Vacío Chimichurri Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115832556/costillar-al-vacio-chimichurr-kg) → $9.990
 - Tottus: [Costillar de Cerdo Criollo Refrigerado al Vacío Peso Variable](https://www.tottus.cl/tottus-cl/articulo/148386180/costillar-criollo-al-vacio-cerdo-supremo) → $9.290
 - Tottus: [Costillar de Cerdo Clásico Refrigerado al Vacío Peso Variable](https://www.tottus.cl/tottus-cl/articulo/148386176/costillar-clasico-al-vacio-cerdo-supremo) → $9.290
-- Tottus: [Costillar de Cerdo Chimichurri Refrigerado Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/152636218/costillar-chimichurri-super-cerdo) → $11.190
-- Unimarc: [Costillar de cerdo Super Cerdo a la chilena granel 1.5 Kg](https://www.unimarc.cl/costillar-sab-chileno-super-cerdo-env-kg/p) → $9.990 (normal $11.790)
-- Unimarc: [Costillar de cerdo Super Cerdo tradicional 1.5 Kg](https://www.unimarc.cl/costillar-tradicional-super-cerdo-env-kg/p) → $11.790
-- Unimarc: [Costillar Super Cerdo chimichurri granel 1.5 Kg](https://www.unimarc.cl/costillar-sb-chimichurri-supercerdo-kg/p) → $11.790
-- Unimarc: [Costillar cerdo Seara entero envasado 2 Kg](https://www.unimarc.cl/costillar-entero-env-seara-kg/p) → $7.650
+- Tottus: [Costillar de Cerdo Chimichurri Refrigerado Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/152636218/costillar-chimichurri-super-cerdo) → $7.990 (normal $11.190)
+- Lider: [Costillar de Cerdo Congelado](https://super.lider.cl/ip/cerdo/00209148000000) → $7.690
+- Lider: [Costillar de Cerdo Tradicional](https://super.lider.cl/ip/cerdo/00215051000000) → $7.490 (normal $11.190)
+- Lider: [Costillar De Cerdo Tradicional](https://super.lider.cl/ip/cerdo/00209167000000) → $7.536 (normal $9.890)
+- Lider: [Costillar de cerdo americano congelado](https://super.lider.cl/ip/cerdo/00209168000000) → $7.790
 
 ## Pulpa de cerdo `pulpa_cerdo` · por kg
-**$5.690 · $7.770 · $11.230** (mín · media · máx, 22 precios)
-- Tottus: [Pulpa Pierna de Cerdo Sin Hueso a Granel](https://www.tottus.cl/tottus-cl/articulo/118692441/pulpa-pierna-shueso-cerdo) → $5.690
-- Tottus: [Pulpa Pierna Cerdo](https://www.tottus.cl/tottus-cl/articulo/110622288/pulpa-pierna-cerdo57vacio-display-900g) → $7.544
-- Tottus: [Pulpa Pierna de Cerdo Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/125867709/pulpa-pierna-super-cerdo-400g) → $8.475
-- Tottus: [Pulpa Pierna de Cerdo Chimichurri Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/130333033/pulpa-chimichurri-400-gr-sc) → $9.975
+**$3.990 · $6.670 · $11.230** (mín · media · máx, 29 precios)
+- Tottus: [Pulpa Pierna Cerdo](https://www.tottus.cl/tottus-cl/articulo/110622288/pulpa-pierna-cerdo57vacio-display-900g) → $6.100 (normal $7.544)
+- Tottus: [Pulpa Pierna de Cerdo Sin Hueso a Granel](https://www.tottus.cl/tottus-cl/articulo/118692441/pulpa-pierna-shueso-cerdo) → $4.590 (normal $5.690)
+- Tottus: [Pulpa Pierna de Cerdo Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/125867709/pulpa-pierna-super-cerdo-400g) → $6.975 (normal $8.475)
+- Tottus: [Pulpa Pierna de Cerdo Chimichurri Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/130333033/pulpa-chimichurri-400-gr-sc) → $6.975 (normal $9.975)
 - Tottus: [Pulpa Pierna de Cerdo](https://www.tottus.cl/tottus-cl/articulo/116719597/pulpa-pierna-de-cerdo-450-grs-raihuen) → $8.644
-- Tottus: [Pulpa de Cerdo a la Chilena](https://www.tottus.cl/tottus-cl/articulo/115825701/pulpa-cerdo-a-la-chilena-450-gr-sc) → $9.533
+- Tottus: [Pulpa de Cerdo a la Chilena](https://www.tottus.cl/tottus-cl/articulo/115825701/pulpa-cerdo-a-la-chilena-450-gr-sc) → $6.644 (normal $9.533)
 - Tottus: [Pulpa Pierna de Cerdo Chimichurri Raihuen 450 g](https://www.tottus.cl/tottus-cl/articulo/124236862/pulpa-pierna-chimichurri-450-grs-raihuen) → $9.089
-- Tottus: [Pulpa de Cerdo sin Hueso Trozo a Granel](https://www.tottus.cl/tottus-cl/articulo/139979309/pulpa-sin-hueso-meson) → $5.990
-- Unimarc: [Pulpa pierna Super Cerdo sin hueso 1 Kg](https://www.unimarc.cl/pulpa-pierna-sin-hueso-super-cerdo-kg/p) → $5.990
-- Unimarc: [Pulpa pierna Super Cerdo chilena 450 g](https://www.unimarc.cl/pulpa-pierna-chilena-super-cerdo-450-gr/p) → $8.889 (normal $9.533)
-- Unimarc: [Pulpa pierna de cerdo Super Cerdo 900 g](https://www.unimarc.cl/pulpa-pierna-de-cerdo-super-cerdo-900-g/p) → $7.989
-- Unimarc: [Pulpa pierna de cerdo Super Cerdo a la chilena 900 g](https://www.unimarc.cl/pulpa-de-cerdo-a-la-chilena-super-cerdo-900-g/p) → $8.878
+- Tottus: [Pulpa de Cerdo sin Hueso Trozo a Granel](https://www.tottus.cl/tottus-cl/articulo/139979309/pulpa-sin-hueso-meson) → $4.590 (normal $5.990)
+- Lider: [Pulpa de Cerdo Pierna, 900 g](https://super.lider.cl/ip/cerdo/00780961170073) → $5.433 (normal $7.766)
+- Lider: [Pulpa de Cerdo Pierna Chimichurri, 450 g](https://super.lider.cl/ip/cerdo/00780467989053) → $6.667 (normal $9.089)
+- Lider: [Pulpa de Cerdo sin hueso, 1,0 Kg](https://super.lider.cl/ip/cerdo/00218117000000) → $6.290
+- Lider: [Pulpa de Cerdo Pierna, 400 g](https://super.lider.cl/ip/cerdo/00780961172093) → $7.500 (normal $8.475)
 
 ## Chuleta de cerdo `chuleta` · por kg
-**$5.390 · $8.400 · $11.360** (mín · media · máx, 18 precios)
+**$5.200 · $7.650 · $15.380** (mín · media · máx, 26 precios)
 - Tottus: [Chuleta de Cerdo Centro a Granel](https://www.tottus.cl/tottus-cl/articulo/118692431/chuleta-de-centro-marcada) → $5.790
 - Tottus: [Chuleta de Cerdo Vetada a Granel](https://www.tottus.cl/tottus-cl/articulo/118692436/chuleta-vetada-marcada) → $5.390
 - Tottus: [Chuleta Centro de Cerdo](https://www.tottus.cl/tottus-cl/articulo/110624171/chuleta-centro-de-cerdo-pet-550g) → $9.000
 - Tottus: [Chuleta Centro de Cerdo Super Cerdo 140 g](https://www.tottus.cl/tottus-cl/articulo/130333029/chuleta-centro-flowpack-140-gr-sc-cong) → $10.643
 - Tottus: [Chuleta Vetada de Cerdo Congelada Cerdo Supremo 900 gr](https://www.tottus.cl/tottus-cl/articulo/122621414/chuleta-vetada-cong-900gr) → $7.100
-- Unimarc: [Chuleta vetada Super Cerdo porcionado al vacío 1.4 Kg](https://www.unimarc.cl/chuleta-vetada-porcionada-kg/p) → $5.590
-- Unimarc: [Chuleta centro de cerdo Super Cerdo granel 1.4 Kg](https://www.unimarc.cl/chuleta-cent-porc-super-cerdo-kg/p) → $5.890
-- Unimarc: [Chuleta centro de cerdo Super Cerdo bandeja 550 g](https://www.unimarc.cl/chuleta-centro-super-cerdo-550-g/p) → $9.073
-- Unimarc: [Chuleta centro de cerdo Super Cerdo congelado 750 g](https://www.unimarc.cl/chuleta-centro-iqf-super-cerdo-750-gr/p) → $9.853
-- Unimarc: [Chuleta centro Super Cerdo 140 g](https://www.unimarc.cl/chuleta-flow-pack-super-cerdo-140-gr/p) → $11.357
-- Unimarc: [Chuleta vetada porcionada Lo Valledor granel 1 Kg](https://www.unimarc.cl/chuleta-vetada-porc-marin-l-valledor-kg/p) → $5.590
-- Unimarc: [Chuleta centro de cerdo porcionada Lo Valledor granel 1 Kg](https://www.unimarc.cl/chuleta-centro-porc-marin-l-valledor-kg/p) → $5.890
+- Jumbo: [Chuleta Centro Super Cerdo 550 g](https://www.jumbo.cl/chuleta-super-cerdo-centro-550-g/p) → $7.800
+- Jumbo: [Chuleta Centro Super Cerdo 550 g](https://www.jumbo.cl/chuleta-super-cerdo-centro-550-g/p) → $7.800 (normal $9.436)
+- Jumbo: [Chuleta Centro Congelada Super Cerdo 750 G](https://www.jumbo.cl/chuleta-centro-iqf-750-gr-2/p) → $9.853
+- Jumbo: [Chuleta Centro Congelada Super Cerdo 750 G](https://www.jumbo.cl/chuleta-centro-iqf-750-gr-2/p) → $9.853
+- Jumbo: [Chuleta Centro Super Cerdo Cong 140 g](https://www.jumbo.cl/chuleta-centro-iqf-super-cerdo-140-gr-1998597/p) → $7.143
+- Jumbo: [Chuleta Centro Super Cerdo Cong 140 g](https://www.jumbo.cl/chuleta-centro-iqf-super-cerdo-140-gr-1998597/p) → $7.143 (normal $11.357)
+- Lider: [Chuleta de Cerdo Kassler 2 Un, 370 g](https://super.lider.cl/ip/cerdo/00780197000030) → $15.378
 
 ## Malaya de cerdo `malaya_cerdo` · por kg
-**$13.130 · $14.880 · $17.100** (mín · media · máx, 15 precios)
-- Tottus: [Malaya de Cerdo](https://www.tottus.cl/tottus-cl/articulo/110622354/malaya-de-cerd-900g-termoformado-super-c) → $14.878
-- Tottus: [Malaya de Cerdo Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/125868450/malaya-super-cerdo-400g) → $16.725
-- Tottus: [Malaya de Cerdo Congelada](https://www.tottus.cl/tottus-cl/articulo/113420201/malaya-cerdo-900-gr-super-cerdo-cong) → $15.211
+**$9.990 · $12.540 · $17.170** (mín · media · máx, 17 precios)
+- Tottus: [Malaya de Cerdo](https://www.tottus.cl/tottus-cl/articulo/110622354/malaya-de-cerd-900g-termoformado-super-c) → $9.989 (normal $14.878)
+- Tottus: [Malaya de Cerdo Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/125868450/malaya-super-cerdo-400g) → $11.475 (normal $16.725)
+- Tottus: [Malaya de Cerdo Congelada](https://www.tottus.cl/tottus-cl/articulo/113420201/malaya-cerdo-900-gr-super-cerdo-cong) → $12.211 (normal $15.211)
 - Tottus: [Malaya de Cerdo a la Mostaza Refrigerada Super Cerdo 900 g](https://www.tottus.cl/tottus-cl/articulo/152218750/malaya-mostaza-900gr) → $14.878
-- Unimarc: [Malaya de cerdo Super Cerdo 900 g](https://www.unimarc.cl/malaya-de-cerdo-super-cerdo-900-g/p) → $16.433
-- Unimarc: [Malaya congelada Super Cerdo 900 gr](https://www.unimarc.cl/malaya-cong-super-cerdo-900-gr/p) → $16.211
-- Unimarc: [Malaya a la mostaza Super Cerdo 900 gr](https://www.unimarc.cl/malaya-a-la-mostaza-super-cerdo-900g/p) → $16.433
-- Unimarc: [Malaya de cerdo Fundo Rio Alegre congelado 400 gr](https://www.unimarc.cl/malaya-cerdo-fundo-rio-alegre-400-gr/p) → $13.125
 - Jumbo: [Malaya Cerdo Cuisine & Co Congelada kg](https://www.jumbo.cl/malaya-cerdo-cong-cuisine-and-co-kg-1930844-kg/p) → $13.990
+- Jumbo: [Malaya de Cerdo Super Cerdo 900 g](https://www.jumbo.cl/malaya-de-cerdo-super-cerdo-900-g/p) → $11.322
+- Jumbo: [Malaya de Cerdo Super Cerdo 900 g](https://www.jumbo.cl/malaya-de-cerdo-super-cerdo-900-g/p) → $11.322 (normal $16.655)
 - Jumbo: [Malaya Cerdo Cuisine & Co 900 g](https://www.jumbo.cl/malaya-cerdo-cuisine-co-900g-1961676/p) → $15.211
 - Jumbo: [Malaya Cerdo Cuisine & Co 900 g](https://www.jumbo.cl/malaya-cerdo-cuisine-co-900g-1961676/p) → $15.211
-- Jumbo: [Malaya de Cerdo Super Cerdo 900 g](https://www.jumbo.cl/malaya-de-cerdo-super-cerdo-900-g/p) → $13.322
+- Jumbo: [Malaya Mostaza de Cerdo Super Cerdo 900 g](https://www.jumbo.cl/carne-cerdo-malaya-2056659/p) → $12.211
+- Jumbo: [Malaya Mostaza de Cerdo Super Cerdo 900 g](https://www.jumbo.cl/carne-cerdo-malaya-2056659/p) → $12.211 (normal $17.100)
+- Lider: [Malaya de Cerdo a la Mostaza, 900 g](https://super.lider.cl/ip/cerdo/00780873770082) → $13.322 (normal $15.211)
 
 ## Lomo de cerdo `lomo_cerdo` · por kg
-**$6.990 · $9.710 · $13.250** (mín · media · máx, 22 precios)
-- Tottus: [Lomo Centro de Cerdo Vacío](https://www.tottus.cl/tottus-cl/articulo/110622820/lomo-centro-de-cerdo-vacio-display-super-800-g) → $9.113
-- Tottus: [Lomo Centro de Cerdo](https://www.tottus.cl/tottus-cl/articulo/121228900/lomo-centro-de-cerdo-campo-noble-800grs) → $7.488
+**$5.890 · $8.100 · $13.250** (mín · media · máx, 30 precios)
+- Tottus: [Lomo Centro de Cerdo Vacío](https://www.tottus.cl/tottus-cl/articulo/110622820/lomo-centro-de-cerdo-vacio-display-super-800-g) → $6.988 (normal $9.113)
+- Tottus: [Lomo Centro de Cerdo](https://www.tottus.cl/tottus-cl/articulo/121228900/lomo-centro-de-cerdo-campo-noble-800grs) → $6.613 (normal $7.488)
 - Tottus: [Lomo Centro Medallón de Cerdo](https://www.tottus.cl/tottus-cl/articulo/116719468/lomo-centro-medallon-800gr) → $9.363
-- Tottus: [Lomo Vetado de Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115832558/lomo-vetado-termoformado-super-cerdo) → $9.690
-- Tottus: [Lomo Vetado de Cerdo Porcionado Campo Noble 500 g](https://www.tottus.cl/tottus-cl/articulo/129952929/lomo-vetado-porcionado-fresco-500g-cn) → $9.780
-- Tottus: [Plateada de Lomo de Cerdo Super Cerdo 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110624362/plate-de-lomo-cerdo-fresca-1kg-sup-cerdo) → $11.550
 - Tottus: [Medallón de Lomo de Cerdo Super Cerdo 120 g](https://www.tottus.cl/tottus-cl/articulo/130333035/medallon-de-lomo-120-gr-super-cerdo-cong) → $12.417
+- Tottus: [Lomo Vetado de Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115832558/lomo-vetado-termoformado-super-cerdo) → $5.890 (normal $9.690)
+- Tottus: [Lomo Vetado de Cerdo Porcionado Campo Noble 500 g](https://www.tottus.cl/tottus-cl/articulo/129952929/lomo-vetado-porcionado-fresco-500g-cn) → $7.580 (normal $9.780)
+- Tottus: [Plateada de Lomo de Cerdo Super Cerdo 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110624362/plate-de-lomo-cerdo-fresca-1kg-sup-cerdo) → $11.550
 - Tottus: [Plateada de Lomo de Cerdo Criollo Picante Super Cerdo 400 g](https://www.tottus.cl/tottus-cl/articulo/130333039/plateada-de-lomo-criollo-400-gr-sc) → $12.475
-- Unimarc: [Lomo centro de cerdo Super Cerdo al vacío 800 g](https://www.unimarc.cl/lomo-centro-super-cerdo-vacio-800-gr/p) → $9.738
-- Unimarc: [Lomo Vetado Congelado Vacio Super Cerdo 600Gr](https://www.unimarc.cl/lomo-vetado-cong-vacio-super-cerd-600gr/p) → $10.317 (normal $10.984)
-- Unimarc: [Medallón lomo centro Super Cerdo 120 g](https://www.unimarc.cl/lomo-centro-flow-pack-super-cerdo-120-gr/p) → $8.333 (normal $13.249)
-- Unimarc: [Medallones de lomo congelado Super Cerdo 750 g](https://www.unimarc.cl/medallones-de-lomo-iqf-super-cerdo-750gr/p) → $8.787 (normal $9.187)
+- Lider: [Lomo de Cerdo Centro, 800 g](https://super.lider.cl/ip/cerdo/00780961170069) → $6.740 (normal $8.988)
+- Lider: [Lomo de Cerdo Centro Americano Congelado](https://super.lider.cl/ip/cerdo/00218054000000) → $6.890
+- Lider: [Lomo de Cerdo Congelado, 550 g](https://super.lider.cl/ip/cerdo/00780463448028) → $8.345
+- Lider: [Lomo de Cerdo Medallón, 120 g](https://super.lider.cl/ip/cerdo/00780961171831) → $9.917 (normal $12.417)
 
 ## Lomito de cerdo (para as) `lomito_cerdo` · por kg
-**$8.980 · $11.950 · $15.090** (mín · media · máx, 10 precios)
-- Tottus: [Lomito Centro de Cerdo Medallón Campo Noble 500 g](https://www.tottus.cl/tottus-cl/articulo/129952925/lomito-centro-medallon-fresco-500gr-cn) → $8.980
-- Tottus: [Lomito de Cerdo Congelado Super Cerdo 10 x 90 GR](https://www.tottus.cl/tottus-cl/articulo/147002442/lomito-fiesta-bolsa-90gr-super-cerdo-und) → $114.333
+**$7.180 · $11.790 · $15.090** (mín · media · máx, 12 precios)
+- Tottus: [Lomito Centro de Cerdo Medallón Campo Noble 500 g](https://www.tottus.cl/tottus-cl/articulo/129952925/lomito-centro-medallon-fresco-500gr-cn) → $7.180 (normal $8.980)
+- Jumbo: [Lomito de Cerdo Pampaverde 450 g](https://www.jumbo.cl/lomito-de-cerdo-pampaverde-450g-2048757/p) → $15.089
+- Jumbo: [Lomito de Cerdo Pampaverde 450 g](https://www.jumbo.cl/lomito-de-cerdo-pampaverde-450g-2048757/p) → $15.089
+- Jumbo: [Lomito de Cerdo Cuisine & Co 960 g](https://www.jumbo.cl/lomito-de-cerdo-cuisine-and-co-960gr-2052328/p) → $11.792
+- Jumbo: [Lomito de Cerdo Cuisine & Co 960 g](https://www.jumbo.cl/lomito-de-cerdo-cuisine-and-co-960gr-2052328/p) → $11.792
+- Jumbo: [Lomito Super Cerdo Fiesta Bolsa 900 g](https://www.jumbo.cl/lomito-super-cerdo-fiesta-bolsa-900-g/p) → $11.778
+- Jumbo: [Lomito Super Cerdo Fiesta Bolsa 900 g](https://www.jumbo.cl/lomito-super-cerdo-fiesta-bolsa-900-g/p) → $11.778
+- Lider: [Lomito de Cerdo, 450 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780190900275) → $10.556 (normal $12.423)
+- Lider: [Lomitos Cerdo, 900 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780190900191) → $11.322
 - Unimarc: [Lomito fiesta Super Cerdo flowpack 90 g](https://www.unimarc.cl/lomito-fiesta-flowpack-super-cerdo-90-gr/p) → $12.111
 - Unimarc: [Lomito fiesta Super Cerdo congelado bolsa 900 g](https://www.unimarc.cl/lomito-fiesta-super-cerdo-bolsa-900gr/p) → $12.211
 - Unimarc: [Lomitos de cerdo PF congelados 3 un 120 g](https://www.unimarc.cl/lomito-de-cerdo-pf120-gr/p) → $12.917
-- Jumbo: [Lomito de Cerdo Pampaverde 450 g](https://www.jumbo.cl/lomito-de-cerdo-pampaverde-450g-2048757/p) → $15.089
-- Jumbo: [Lomito de Cerdo Pampaverde 450 g](https://www.jumbo.cl/lomito-de-cerdo-pampaverde-450g-2048757/p) → $15.089
-- Jumbo: [Lomito de Cerdo Cuisine & Co 960 g](https://www.jumbo.cl/lomito-de-cerdo-cuisine-and-co-960gr-2052328/p) → $11.792
-- Jumbo: [Lomito de Cerdo Cuisine & Co 960 g](https://www.jumbo.cl/lomito-de-cerdo-cuisine-and-co-960gr-2052328/p) → $11.792
-- Jumbo: [Lomito Super Cerdo Fiesta Bolsa 900 g](https://www.jumbo.cl/lomito-super-cerdo-fiesta-bolsa-900-g/p) → $11.778
-- Jumbo: [Lomito Super Cerdo Fiesta Bolsa 900 g](https://www.jumbo.cl/lomito-super-cerdo-fiesta-bolsa-900-g/p) → $11.778
 
 ## Panceta de cerdo `panceta` · por kg
-_Referencial_: se mantiene $6.990 · $8.490 · $10.990 (1 precio encontrado)
+**$13.980 · $19.240 · $24.500** (mín · media · máx, 2 precios)
 - Tottus: [Panceta Parrillera Cerdo Supremo 450 gr](https://www.tottus.cl/tottus-cl/articulo/155396527/panceta-parrillera-450-gr-cerdo-supremo) → $13.978
+- Lider: [Panceta Madurada en Sal, 100 g](https://super.lider.cl/ip/fiambres-y-embutidos/00040000121380) → $24.500
 
 ## Trutro entero de pollo `trutro` · por kg
-**$2.500 · $3.990 · $6.690** (mín · media · máx, 18 precios)
-- Tottus: [Trutro Entero de Pollo Envasado Local a Granel](https://www.tottus.cl/tottus-cl/articulo/118687407/trutro-entero-envasado-local) → $2.990 (normal $3.890)
-- Tottus: [Trutro Cuarto de Pollo Envasado a Granel](https://www.tottus.cl/tottus-cl/articulo/136282754/trutro-cuarto-pollo-env-ariztia-kg) → $3.190
+**$2.690 · $3.690 · $6.690** (mín · media · máx, 25 precios)
 - Tottus: [Trutro Entero Pollo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115838587/trutro-entero-tf-super-pollo) → $3.790
+- Tottus: [Trutro Entero de Pollo Envasado Local a Granel](https://www.tottus.cl/tottus-cl/articulo/118687407/trutro-entero-envasado-local) → $2.690 (normal $3.890)
+- Tottus: [Trutro Cuarto de Pollo Envasado a Granel](https://www.tottus.cl/tottus-cl/articulo/136282754/trutro-cuarto-pollo-env-ariztia-kg) → $3.190
 - Tottus: [Trutro Entero de Pollo Congelado Envasado Local](https://www.tottus.cl/tottus-cl/articulo/147005940/trutro-entero-congelado) → $3.890
-- Tottus: [Trutro Largo de Pollo a Granel](https://www.tottus.cl/tottus-cl/articulo/118691888/trutro-largo-de-pollo-env-loc) → $4.190
-- Tottus: [Trutro Largo Pollo Envasado Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115816782/trutro-largo-de-pollo-ariztia-kl) → $4.650
-- Tottus: [Trutro Ala Ariztia 500 g](https://www.tottus.cl/tottus-cl/articulo/125969170/trutro-ala-500-grs-ariztia) → $6.500
-- Unimarc: [Trutro entero de pollo Super Pollo granel 800 g](https://www.unimarc.cl/trutro-entero-super-pollo-granel-1-a-2-kg/p) → $3.990
-- Unimarc: [Trutro entero de pollo Super Pollo al vacío 1 Kg](https://www.unimarc.cl/trutro-vacio-super-pollo-kg/p) → $3.790
-- Unimarc: [Trutro entero de pollo Super Pollo Super Pollo congelado 2 Kg](https://www.unimarc.cl/trutro-pollo-entero-iqf-super-pollo-5-6-u-2-kg/p) → $3.645
-- Unimarc: [Trutro entero de pollo Ariztía granel 800 g](https://www.unimarc.cl/trutro-entero-pollo-granel-ariztia-kg-2/p) → $3.990
-- Unimarc: [Trutro entero de pollo Fundo Río Alegre congelado bolsa 2 Kg](https://www.unimarc.cl/trutro-entero-iqf-fundo-rio-alegre-2-kg/p) → $2.495 (normal $2.845)
+- Tottus: [Trutro Largo de Pollo a Granel](https://www.tottus.cl/tottus-cl/articulo/118691888/trutro-largo-de-pollo-env-loc) → $3.590 (normal $4.190)
+- Tottus: [Trutro Largo sin Marinar](https://www.tottus.cl/tottus-cl/articulo/110624861/trutro-largo-sin-marinar-730-g) → $4.918 (normal $5.603)
+- Tottus: [Trutro Ala de Pollo Envasado Local a Granel](https://www.tottus.cl/tottus-cl/articulo/116161326/TRUTRO%20ALA%20DE%20POLLO%20GRANEL) → $3.590
+- Lider: [Trutro Pollo Entero Congelado UN, 350 g](https://super.lider.cl/ip/todas-las-carnes/00789490429034) → $4.543
+- Lider: [Pollo Trutro Entero Envasado 4Un](https://super.lider.cl/ip/pollo/00209163000000) → $3.590
+- Lider: [Pollo Trutro Entero Envasado 5 Un](https://super.lider.cl/ip/pollo/00209113000000) → $3.690
+- Lider: [Pollo Trutro Entero Congelado, 2 kg](https://super.lider.cl/ip/pollo/00789490428980) → $2.945
+- Lider: [Pollo Trutro Entero Envasado 2 Un](https://super.lider.cl/ip/pollo/00218111000000) → $3.790
 
 ## Trutro corto de pollo `trutro_corto` · por kg
-**$3.360 · $4.990 · $7.320** (mín · media · máx, 19 precios)
-- Tottus: [Trutro Corto Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115834278/trutro-corto-bandeja-h60) → $3.590 (normal $4.290)
-- Tottus: [Trutro Corto de Pollo a Granel](https://www.tottus.cl/tottus-cl/articulo/118692117/trutro-corto-de-pollo-env-loc) → $4.190
-- Tottus: [Trutro Corto de Pollo Ariztía Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115835155/trutro-corto-de-pollo-ariztia-kl) → $4.650
+**$3.270 · $4.610 · $7.320** (mín · media · máx, 27 precios)
+- Tottus: [Trutro Corto Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115834278/trutro-corto-bandeja-h60) → $4.290
+- Tottus: [Trutro Corto de Pollo a Granel](https://www.tottus.cl/tottus-cl/articulo/118692117/trutro-corto-de-pollo-env-loc) → $3.590 (normal $4.190)
 - Tottus: [Trutro Corto de Pollo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115828805/trutro-corto-pollo-canto-del-gallo) → $6.490
 - Tottus: [Trutro Corto sin Marinar](https://www.tottus.cl/tottus-cl/articulo/110622915/trutro-corto-sin-marinar-700-g) → $5.700
-- Unimarc: [Trutro corto de pollo Super Pollo granel 500 g](https://www.unimarc.cl/trutro-corto-pollo-super-pollo-kg/p) → $4.190
-- Unimarc: [Trutro corto de pollo Super Pollo congelado 800 g](https://www.unimarc.cl/trutro-pollo-corto-iqf-super-pollo-3-4-u-800-g/p) → $3.750 (normal $4.688)
-- Unimarc: [Trutro corto de pollo Super Pollo bandeja 1.1 Kg](https://www.unimarc.cl/trutro-pollo-corto-super-pollo-0-9-a-1-1-kg/p) → $3.490 (normal $4.490)
-- Unimarc: [Trutro corto Super Pollo al natural 700 g](https://www.unimarc.cl/trutro-corto-al-natural-s-pollo-700-gr/p) → $5.700 (normal $6.071)
-- Unimarc: [Trutro corto y largo deshuesado Super Pollo congelado 750 gr](https://www.unimarc.cl/tuto-corto-y-largo-desh-superpollo-750gr/p) → $7.320
-- Unimarc: [Trutro corto de pollo Fundo Río Alegre congelado bolsa 800 g](https://www.unimarc.cl/trutro-corto-iqf-fundo-rio-alegre-800-gr/p) → $3.363 (normal $3.688)
-- Unimarc: [Trutro corto de pollo Ariztía granel bandeja 900 g](https://www.unimarc.cl/trutro-pollo-corto-ariztia-bandeja-1-1-kg/p) → $3.890 (normal $4.590)
+- Tottus: [Trutro Corto de Pollo Ariztía Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115835155/trutro-corto-de-pollo-ariztia-kl) → $4.650
+- Jumbo: [Trutro Corto de Pollo kg](https://www.jumbo.cl/trutro-corto-de-pollo-canto-del-gallo-granel/p) → $6.690
+- Jumbo: [Trutro Corto Pollo 700 g](https://www.jumbo.cl/trutro-corto-pollo-700-g/p) → $6.843
+- Jumbo: [Trutro Corto Pollo 700 g](https://www.jumbo.cl/trutro-corto-pollo-700-g/p) → $6.843
+- Jumbo: [Trutro Corto de Pollo Sin Marinar 1 kg](https://www.jumbo.cl/trutro-corto-de-pollo-1-kg-cuisine-and-co-1801134/p) → $6.890
+- Jumbo: [Trutro Corto de Pollo Sin Marinar 1 kg](https://www.jumbo.cl/trutro-corto-de-pollo-1-kg-cuisine-and-co-1801134/p) → $6.890
+- Jumbo: [Trutro Corto Don Pollo kg](https://www.jumbo.cl/trutro-corto-de-pollo-don-pollo-granel/p) → $4.390
+- Lider: [Pollo Trutro Corto Envasado](https://super.lider.cl/ip/pollo/00216034000000) → $3.590 (normal $4.190)
 
 ## Alitas de pollo `alitas` · por kg
-**$3.390 · $6.490 · $7.500** (mín · media · máx, 4 precios)
+**$4.240 · $6.490 · $7.500** (mín · media · máx, 6 precios)
+- Lider: [Pollo Alitas Congeladas, 1 kg](https://super.lider.cl/ip/pollo/00789490428943) → $4.390
+- Lider: [Pollo Alitas Crocantes, 2 kg](https://super.lider.cl/ip/pollo/00789151562496) → $7.495
+- Lider: [Pollo Alitas Congeladas, 800 g](https://super.lider.cl/ip/pollo/00780961170985) → $4.237 (normal $5.237)
+- Jumbo: [Alas de Pollo Sadia 2 kg](https://www.jumbo.cl/alas-de-pollo-sadia-2kg-2031084/p) → $7.495
+- Jumbo: [Alas de Pollo Sadia 2 kg](https://www.jumbo.cl/alas-de-pollo-sadia-2kg-2031084/p) → $7.495
 - Unimarc: [Alitas trutro de pollo Super Pollo congelado 800 g](https://www.unimarc.cl/trutro-ala-seleccion-super-pollo-800-gr/p) → $5.488
-- Unimarc: [Alitas de pollo Fundo Río Alegre congelada bolsa 1 Kg](https://www.unimarc.cl/alitas-de-pollo-iqf-fundo-rio-alegre-1kg/p) → $3.390 (normal $4.190)
-- Jumbo: [Alas de Pollo Sadia 2 kg](https://www.jumbo.cl/alas-de-pollo-sadia-2kg-2031084/p) → $7.495
-- Jumbo: [Alas de Pollo Sadia 2 kg](https://www.jumbo.cl/alas-de-pollo-sadia-2kg-2031084/p) → $7.495
 
 ## Pechuga de pollo deshuesada `pechuga` · por kg
-**$4.590 · $6.990 · $10.840** (mín · media · máx, 22 precios)
-- Tottus: [Pechuga de Pollo Deshuesada Super Pollo 850 g](https://www.tottus.cl/tottus-cl/articulo/110623717/pechuga-deshuesada-850-gramos-super-pollo) → $6.812 (normal $8.577)
-- Tottus: [Pechuga de Pollo sin Hueso a Granel](https://www.tottus.cl/tottus-cl/articulo/118692392/pechuga-de-pollo-sh-env-loc) → $6.990
-- Tottus: [Pechuga de Pollo Deshuesada Ariztía 850 g](https://www.tottus.cl/tottus-cl/articulo/110622918/pechuga-de-pollo-deshuesada-850-gr-ariztia) → $6.694 (normal $8.459)
-- Tottus: [Pechuga de Pollo Congelada Sadia 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622658/pechuga-pollo-iqf-natural-1kg-sadia-cong) → $4.590 (normal $6.150)
-- Tottus: [Pechuga de Pollo Deshuesada Congelada Ariztía 700 g](https://www.tottus.cl/tottus-cl/articulo/110622839/pechuga-desh-pollo-700gr-ariztia-cong) → $7.129 (normal $10.415)
-- Tottus: [Pechuga de Pollo Deshuesada Ariztía 500 g](https://www.tottus.cl/tottus-cl/articulo/110623955/pechuga-de-pollo-deshuesada-marinad-500g) → $9.300
-- Tottus: [Pechuga de Pollo Envasado Local a Granel](https://www.tottus.cl/tottus-cl/articulo/118687417/pechuga-de-pollo-env-loc) → $4.890
-- Tottus: [Pechuga Entera de Pollo Marinada Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115835320/pechuga-ent-de-pollo-marinada-4d-ariztia) → $5.090 (normal $5.790)
-- Unimarc: [Pechuga deshuesada Super Pollo congelada bolsa 1.5 Kg Pechuga deshuesado Super Pollo congelado bolsa 1.5 Kg](https://www.unimarc.cl/pechuga-deshues-cong-super-pollo-1-5-kg/p) → $6.993 (normal $7.993)
-- Unimarc: [Pechuga de pollo deshuesada Super Pollo granel 600 g](https://www.unimarc.cl/pechuga-pollo-sin-hueso-super-pollo-kg/p) → $6.990
-- Unimarc: [Pechuga de pollo deshuesada Super Pollo 850 g](https://www.unimarc.cl/pechuga-deshuesada-super-pollo-850-g/p) → $9.282
-- Unimarc: [Pechuga deshuesada Super Pollo congelado 750 gr Pechuga deshuesado Super Pollo congelado 750 gr](https://www.unimarc.cl/pechuga-desh-cong-super-pollo-750gr/p) → $6.653 (normal $8.466)
+**$3.890 · $7.230 · $11.630** (mín · media · máx, 32 precios)
+- Tottus: [Pechuga de Pollo Deshuesada Ariztía 850 g](https://www.tottus.cl/tottus-cl/articulo/110622918/pechuga-de-pollo-deshuesada-850-gr-ariztia) → $6.341 (normal $8.459)
+- Tottus: [Pechuga de Pollo Deshuesada Congelada Ariztía 700 g](https://www.tottus.cl/tottus-cl/articulo/110622839/pechuga-desh-pollo-700gr-ariztia-cong) → $7.700 (normal $10.414)
+- Tottus: [Pechuga de Pollo sin Hueso a Granel](https://www.tottus.cl/tottus-cl/articulo/118692392/pechuga-de-pollo-sh-env-loc) → $5.990 (normal $6.990)
+- Tottus: [Pechuga de Pollo Deshuesada Super Pollo 850 g](https://www.tottus.cl/tottus-cl/articulo/110623717/pechuga-deshuesada-850-gramos-super-pollo) → $8.576
+- Tottus: [Pechuga de Pollo Congelada Sadia 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622658/pechuga-pollo-iqf-natural-1kg-sadia-cong) → $4.890 (normal $6.150)
+- Tottus: [Pechuga de Pollo Deshuesada Natural](https://www.tottus.cl/tottus-cl/articulo/110623613/pech-desh-de-pollo-al-nat-780g-sup-pollo) → $9.731
+- Tottus: [Pechuga de Pollo Envasado Local a Granel](https://www.tottus.cl/tottus-cl/articulo/118687417/pechuga-de-pollo-env-loc) → $3.890 (normal $4.890)
+- Tottus: [Churrasco de Pechuga de Pollo Deshuesada Super Pollo 350 g](https://www.tottus.cl/tottus-cl/articulo/125059718/churrasco-pechu-deshuesada-pollo-sp-350g) → $10.829
+- Lider: [Pollo Pechuga  Deshuesada Congelada, 700 g](https://super.lider.cl/ip/pollo/00780874950114) → $6.129 (normal $10.272)
+- Lider: [Pollo Pechuga Filetito Congelado, 650 g](https://super.lider.cl/ip/pollo/00780874950115) → $6.600 (normal $11.062)
+- Lider: [Pollo Cubitos de Pechuga Congelados, 300 g](https://super.lider.cl/ip/pollo/00780411500269) → $6.533 (normal $11.633)
+- Lider: [Pollo Pechuga deshuesada congelada, 1.5 kg](https://super.lider.cl/ip/pollo/00780961172078) → $6.860 (normal $9.927)
 
 ## Pollo entero `pollo_entero` · por kg
-**$3.590 · $4.120 · $5.990** (mín · media · máx, 8 precios)
-- Tottus: [Pollo Entero con Menudencias Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115834455/pollos-1ra-super-cm) → $3.590 (normal $4.090)
-- Tottus: [Pollo Entero con Menudencias Ariztía Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115835193/pollos-1ra-ariztia-cm) → $4.090
+**$3.490 · $3.640 · $5.990** (mín · media · máx, 12 precios)
+- Tottus: [Pollo Entero con Menudencias Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115834455/pollos-1ra-super-cm) → $4.090
+- Tottus: [Pollo Entero con Menudencias Ariztía Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115835193/pollos-1ra-ariztia-cm) → $3.490 (normal $4.090)
 - Tottus: [Pollo Entero con Menudencias Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115832395/pollo-cm-don-pollo) → $4.290
-- Unimarc: [Pollo entero Super Pollo con menudencias 3 Kg](https://www.unimarc.cl/pollo-entero-super-pollo-con-menudencias-3-kg/p) → $4.150
-- Unimarc: [Pollo entero Ariztía con menudencias (1.5 a 2.5 Kg)](https://www.unimarc.cl/pollo-entero-c-menudencia-ariztia-1-8-a-2-2kg/p) → $4.290
+- Lider: [Pollo Entero con Menudencia](https://super.lider.cl/ip/pollo/00209398000000) → $3.490
+- Lider: [Pollo entero con Menudencia](https://super.lider.cl/ip/pollo/00216492000000) → $3.590 (normal $3.990)
+- Lider: [Pollo Entero Con Menudencias Envasado](https://super.lider.cl/ip/pollo/00216473000000) → $3.990
+- Jumbo: [Pollo Entero Ariztía kg](https://www.jumbo.cl/pollo-entero-ariztia/p) → $4.490
 - Jumbo: [Pollo Entero Sin Marinar kg](https://www.jumbo.cl/pollo-entero-sin-marinar-canto-del-gallo-granel/p) → $5.990
 - Jumbo: [Pollo Entero con Menudencias Don Pollo Envasado](https://www.jumbo.cl/pollo-entero-con-menudencias-don-pollo-granel/p) → $3.590
 - Jumbo: [Pollo Entero Fresco](https://www.jumbo.cl/pollo-entero-fresc-2057878-kg/p) → $3.690 (normal $5.590)
+- Unimarc: [Pollo entero Super Pollo con menudencias 3 Kg](https://www.unimarc.cl/pollo-entero-super-pollo-con-menudencias-3-kg/p) → $3.490 (normal $4.150)
+- Unimarc: [Pollo entero Ariztía con menudencias (1.5 a 2.5 Kg)](https://www.unimarc.cl/pollo-entero-c-menudencia-ariztia-1-8-a-2-2kg/p) → $3.590 (normal $4.290)
 
 ## Pierna de cordero `pierna_cordero` · por kg
 _Referencial_: se mantiene $11.990 · $15.990 · $24.990 (1 precio encontrado)
@@ -874,78 +899,82 @@ _Referencial_: se mantiene $11.990 · $15.990 · $24.990 (1 precio encontrado)
 - Unimarc: [Chuleta parrillera de cordero congelado caja 1.5 Kg](https://www.unimarc.cl/chuleta-parrillera-de-cordero-congelado-caja-1-5-kg/p) → $30.927
 
 ## Longaniza `longaniza` · por kg
-**$5.590 · $13.100 · $16.580** (mín · media · máx, 22 precios)
-- Tottus: [Longaniza Tradicional La Crianza 400 g](https://www.tottus.cl/tottus-cl/articulo/130649494/longaniza-la-crianza-400-gr) → $13.625
-- Tottus: [Longaniza Parrillera Al Vacío PF 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110623734/longaniza-parrillera-pf-al-vacio-1000-gr) → $5.690
-- Tottus: [Longaniza Premium Schwencke 500 g](https://www.tottus.cl/tottus-cl/articulo/113570823/longaniza-premium-schwencke-500-gr) → $14.300
+**$4.890 · $10.910 · $17.160** (mín · media · máx, 31 precios)
+- Tottus: [Longaniza Premium Schwencke 500 g](https://www.tottus.cl/tottus-cl/articulo/113570823/longaniza-premium-schwencke-500-gr) → $11.380 (normal $14.300)
 - Tottus: [Longaniza Angus Receta del Abuelo 400 g](https://www.tottus.cl/tottus-cl/articulo/122177416/longaniza-angus-receta-del-abuelo-400-gr) → $10.225 (normal $11.725)
+- Tottus: [Longaniza Parrillera Al Vacío PF 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110623734/longaniza-parrillera-pf-al-vacio-1000-gr) → $5.690
+- Tottus: [Longaniza Centenario Artesanal La Preferida 400 g](https://www.tottus.cl/tottus-cl/articulo/130372367/longaniza-centenario-artesanal-lp-400-gr) → $10.475 (normal $13.225)
+- Tottus: [Longaniza Artesanal Schwencke 250 g](https://www.tottus.cl/tottus-cl/articulo/129053769/longaniza-artesanal-schwencke-250gr) → $11.160 (normal $13.960)
+- Tottus: [Longaniza Ahumada Schwencke 500 g](https://www.tottus.cl/tottus-cl/articulo/110623411/longaniza-schwencke-500-grs) → $11.980 (normal $14.980)
 - Tottus: [Longaniza de Campo](https://www.tottus.cl/tottus-cl/articulo/110609366/longaniza-de-campo-tottus-320-grs) → $9.656
-- Tottus: [Longaniza Ahumada Parrillera](https://www.tottus.cl/tottus-cl/articulo/110622153/longaniza-ahumada-parrillera-500-gr) → $13.100
-- Tottus: [Longaniza Ahumada Tradicional](https://www.tottus.cl/tottus-cl/articulo/110622642/longaniza-ahumada-tradicional-500-gr) → $13.100
-- Unimarc: [Longaniza alemana premium Schwencke 500 g](https://www.unimarc.cl/longaniza-alemana-ahumada-500-grs/p) → $16.580
-- Unimarc: [Longaniza angus La Preferida 500 g](https://www.unimarc.cl/longaniza-angus-la-preferida-500-gr/p) → $10.780 (normal $12.580)
-- Unimarc: [Longaniza La Preferida artesanal centenario 400 g](https://www.unimarc.cl/longaniza-art-centenar-la-preferida-400g/p) → $12.500 (normal $13.975)
-- Unimarc: [LONGANIZA ARTESANAL SCHWENCKE 250 GR](https://www.unimarc.cl/longaniza-artesanal-schwencke-250-gr/p) → $14.200 (normal $15.160)
-- Unimarc: [Longaniza parrillera PF 12 un 1 Kg](https://www.unimarc.cl/longaniza-parrillera-pf-1-kg/p) → $5.590
+- Lider: [Longaniza Ahumada Parrillera Chillán 6 Un, 500 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780871140001) → $11.180 (normal $12.780)
+- Lider: [Longaniza Parrillera 12 Un, 1 Kg](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000659) → $4.890 (normal $5.590)
+- Lider: [Longaniza Ahumada Tradicional Al Vacio 3 Un, 500 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780871140000) → $10.980 (normal $12.580)
+- Lider: [Longaniza Con Carne Angus 4 Un, 400 g](https://super.lider.cl/ip/para-parrilla/00780193000155) → $9.975 (normal $11.975)
+- Lider: [Longaniza Display 2 Un, 500 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780197002616) → $11.580 (normal $14.380)
 
 ## Chorizo parrillero `chorizo` · por kg
-**$5.350 · $10.780 · $15.580** (mín · media · máx, 23 precios)
-- Tottus: [Chorizo Parrillero Receta del Abuelo 400 g](https://www.tottus.cl/tottus-cl/articulo/111865691/chorizo-parrillero-r-del-abuelo-0-4-kg) → $12.125
+**$5.350 · $10.430 · $15.980** (mín · media · máx, 31 precios)
+- Tottus: [Chorizo Parrillero La Crianza 400 g](https://www.tottus.cl/tottus-cl/articulo/130649457/chorizo-parrillero-la-crianza-400-gr) → $6.475 (normal $11.475)
 - Tottus: [Chorizo Parrillero Al Vacío PF 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110621899/chorizo-parrillero-pf-al-vacio-1000-gr) → $5.350
-- Tottus: [Chorizo Parrillero Schwencke 1 Kg](https://www.tottus.cl/tottus-cl/articulo/113571077/chorizo-parrillero-schwencke-1-kg) → $13.850
-- Tottus: [Chorizo Parrillero La Crianza 400 g](https://www.tottus.cl/tottus-cl/articulo/130649457/chorizo-parrillero-la-crianza-400-gr) → $11.475
+- Tottus: [Chorizo Parrillero Receta del Abuelo 400 g](https://www.tottus.cl/tottus-cl/articulo/111865691/chorizo-parrillero-r-del-abuelo-0-4-kg) → $12.125
 - Tottus: [Chorizo Parrillero con Carne Angus](https://www.tottus.cl/tottus-cl/articulo/111653100/chorizo-angus-la-preferida-1-kl) → $8.790 (normal $10.990)
-- Tottus: [Chorizo Parrillero Premium Schwencke 500 g](https://www.tottus.cl/tottus-cl/articulo/113571003/chorizo-parrillero-premium-schwencke-500g) → $15.580
+- Tottus: [Chorizo Parrillero Schwencke 1 Kg](https://www.tottus.cl/tottus-cl/articulo/113571077/chorizo-parrillero-schwencke-1-kg) → $10.890 (normal $13.850)
+- Tottus: [Chorizo Parrillero al Vacío](https://www.tottus.cl/tottus-cl/articulo/110622480/chorizo-parrillero-llanquihue-al-vacio-1kl) → $14.990
 - Tottus: [Chorizo de Campo Receta del Abuelo 400 g](https://www.tottus.cl/tottus-cl/articulo/111865690/chorizo-campo-receta-del-abuelo-0-4-kg) → $12.125
-- Unimarc: [Chorizo parrillero PF receta tradicional 24 un 1 Kg](https://www.unimarc.cl/chorizo-parrillero-pf-1kg/p) → $5.590
-- Unimarc: [Chorizo parrillero ahumado natural Schwencke 1 Kg](https://www.unimarc.cl/longaniza-parrillera-schwencke-1-kg/p) → $14.750
-- Unimarc: [Chorizo Receta del Abuelo parrillero premium 400 g](https://www.unimarc.cl/chorizo-rda-400-gr-parrillero/p) → $8.663 (normal $12.376)
-- Unimarc: [Chorizo angus La Preferida 500 g](https://www.unimarc.cl/chorizo-angus-la-preferida-500-gr/p) → $10.780 (normal $12.580)
-- Unimarc: [Chorizo Receta del Abuelo de campo 400 g](https://www.unimarc.cl/chorizo-rda-400-gr-campo/p) → $8.663 (normal $12.876)
+- Lider: [Chorizo Parrillero con Carne de Angus Bolsa 8 Un, 500 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780191603851) → $9.980 (normal $11.980)
+- Lider: [Chorizo Parrillero 8 Un, 400 g](https://super.lider.cl/ip/para-parrilla/00780191500160) → $8.125
+- Lider: [Chorizo Parrillero Premium 8 Un, 500 gr](https://super.lider.cl/ip/fiambres-y-embutidos/00780464298047) → $14.100
+- Lider: [Chorizo Parrillero 8 Un, 500 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780197000134) → $13.180
+- Lider: [Chorizo Parrillero Paquete 8 Un, 500 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780197002619) → $11.580 (normal $14.380)
 
 ## Choricillo `choricillo` · por kg
-**$8.830 · $11.390 · $18.360** (mín · media · máx, 6 precios)
+**$8.830 · $13.280 · $19.160** (mín · media · máx, 9 precios)
 - Tottus: [Choricillo Cóctel PF 180 g](https://www.tottus.cl/tottus-cl/articulo/110623818/choricillo-coctel-pf-180-grs) → $8.833 (normal $10.555)
 - Tottus: [Choricillo Coctel](https://www.tottus.cl/tottus-cl/articulo/110624093/choricillo-coctel-250-grs) → $18.360
 - Tottus: [Choricillo Cocktail Cecinas Chillán 250 gr](https://www.tottus.cl/tottus-cl/articulo/152244912/choricillo-cocktail-chillan-250-g) → $14.760
-- Unimarc: [Choricillo Cocktail PF 180 g.](https://www.unimarc.cl/choricillo-cocktail-pf-180-grs/p) → $11.056
+- Lider: [Choricillo Cocktail 18 Un, 180 g](https://super.lider.cl/ip/para-parrilla/00780193000156) → $13.278
+- Lider: [Choricillo Cocktail Paquete 12 Un, 250 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780197002662) → $18.360
+- Lider: [Choricillo Cocktail Display 12 Un, 180 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000639) → $10.278
 - Jumbo: [Choricillo Cóctel PF 180 g](https://www.jumbo.cl/choricillo-cocktail-pf-180-g/p) → $11.389
 - Jumbo: [Choricillo Cóctel PF 180 g](https://www.jumbo.cl/choricillo-cocktail-pf-180-g/p) → $11.389
+- Unimarc: [Choricillo cocktail Llanquihue 250 g](https://www.unimarc.cl/choricillo-cocktail-llanquihue-250grs/p) → $15.328 (normal $19.160)
 
 ## Prietas `prietas` · por kg
-**$8.430 · $10.600 · $11.980** (mín · media · máx, 17 precios)
+**$6.710 · $10.000 · $20.630** (mín · media · máx, 25 precios)
 - Tottus: [Prieta Receta del Abuelo 350 g](https://www.tottus.cl/tottus-cl/articulo/110623571/prieta-receta-del-abuelo-350-g) → $8.429
 - Tottus: [Prietas Parrilleras de Cerdo](https://www.tottus.cl/tottus-cl/articulo/110621739/prietas-preferida-400-gr) → $9.225 (normal $10.725)
 - Tottus: [Prietas al Vacío](https://www.tottus.cl/tottus-cl/articulo/110624765/prietas-250-grs) → $10.600
 - Tottus: [Prieta Tradicional Tottus 500 gr](https://www.tottus.cl/tottus-cl/articulo/156669200/prieta-tradicional-tottus-500-g) → $9.380
 - Tottus: [Prieta Artesanal Pacel 250 g](https://www.tottus.cl/tottus-cl/articulo/144941518/prieta-artesanal-pacel-250-gr) → $11.960
 - Tottus: [Prieta con Nuez Premium Omeñaca 400 gr](https://www.tottus.cl/tottus-cl/articulo/149563507/prieta-con-nuez-omenaca-400-gr) → $10.475
-- Unimarc: [Prietas La Preferida 4 un 400 g](https://www.unimarc.cl/prietas-la-preferida-vacio-4u-400-g/p) → $10.000 (normal $11.625)
-- Unimarc: [Prieta Receta Del Abuelo 350 Grs](https://www.unimarc.cl/prieta-receta-del-abuelo-350-grs/p) → $9.114
-- Unimarc: [Prietas Llanquihue 2 un de 250 g](https://www.unimarc.cl/prietas-llanquihue-250-gr/p) → $11.400
-- Jumbo: [Prietas Llanquihue 250 g](https://www.jumbo.cl/prietas-llanquihue-250-g-2-unidades/p) → $11.400
-- Jumbo: [Prietas Llanquihue 250 g](https://www.jumbo.cl/prietas-llanquihue-250-g-2-unidades/p) → $11.400
-- Jumbo: [Prieta Receta del Abuelo 350 g](https://www.jumbo.cl/prietas-receta-del-abuelo-350-g/p) → $8.543
+- Lider: [Prieta Tradicional Bolsa 3 Un, 350 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193001039) → $7.114 (normal $8.257)
+- Lider: [Prietas Display 4 Un, 400 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780191600640) → $9.725 (normal $10.625)
+- Lider: [Prieta De Campo, 200 g](https://super.lider.cl/ip/para-parrilla/00780871140064) → $12.450 (normal $14.250)
+- Lider: [Prietas Al Vacío 2 Un, 250 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780197002625) → $9.000 (normal $10.360)
+- Lider: [Prieta bombon jj 360 gr, 360 g](https://super.lider.cl/ip/para-parrilla/00780468382044) → $11.225
+- Lider: [Prieta Con Nuez, 400 g](https://super.lider.cl/ip/todas-las-carnes/00780468382013) → $13.725
 
 ## Vienesas `vienesas` · por paquete de 20
-**$1.990 · $4.990 · $13.650** (mín · media · máx, 18 precios)
+**$1.990 · $4.570 · $13.650** (mín · media · máx, 25 precios)
 - Tottus: [Vienesa Cerdo y Vacuno sin Piel](https://www.tottus.cl/tottus-cl/articulo/110611402/vienesa-sp-14-unidades) → $9.929
 - Tottus: [Vienesas Tradicional](https://www.tottus.cl/tottus-cl/articulo/110622720/vienesas-tradicional-tottus-20-und) → $1.990
-- Tottus: [Salchicha Vienesa Tradicional Llanquihue 20 Un](https://www.tottus.cl/tottus-cl/articulo/110622252/salchicha-llanquihue-20-un) → $10.390 (normal $12.990)
-- Tottus: [Vienesas Pavo](https://www.tottus.cl/tottus-cl/articulo/110610245/vienesas-pavo-tottus-20-und) → $1.990
-- Unimarc: [Salchichas vienesas Llanquihue 20 un 1 Kg](https://www.unimarc.cl/salchichas-vienesas-llanquihue-1kg/p) → $13.650
-- Unimarc: [Salchicha tradicional San Jorge 20 un 1 Kg](https://www.unimarc.cl/vienesa-tradicional-san-jorge-1kg/p) → $3.590 (normal $4.090)
-- Unimarc: [Salchicha tradicional Winter 20 un 1 Kg](https://www.unimarc.cl/salchicha-tradicional-winter-1kg-2/p) → $3.250 (normal $3.450)
-- Unimarc: [Salchicha sureña San Jorge 20 un 1 Kg](https://www.unimarc.cl/salchicha-surena-san-jorge-1-kg/p) → $4.000 (normal $4.750)
-- Unimarc: [Salchicha sureña PF 20 un 1 kg](https://www.unimarc.cl/salchichas-surena-pf-20-un/p) → $4.990
-- Unimarc: [Salchicha tradicional Montina 20 un 1 Kg](https://www.unimarc.cl/salchicha-tradicional-montina-1kg/p) → $4.890
-- Unimarc: [Salchicha de ave Montina 20 un 1 Kg](https://www.unimarc.cl/salchicha-ave-montina-1kg/p) → $5.090
-- Unimarc: [Salchicha tradicional PF 20 un](https://www.unimarc.cl/salchicha-tradicional-pf-20-un/p) → $4.990
+- Tottus: [Salchicha Sureña Pf 20 Un](https://www.tottus.cl/tottus-cl/articulo/110621941/salchicha-surena-pf-20-un) → $2.890 (normal $4.890)
+- Tottus: [Salchichas Tradicionales Montina 20 Un](https://www.tottus.cl/tottus-cl/articulo/110623229/salchichas-tradicional-1-kg-montina) → $4.650
+- Tottus: [Salchicha Vienesa Tradicional Llanquihue 5 Un](https://www.tottus.cl/tottus-cl/articulo/110622248/salchicha-llanquihue-sachet-5-un) → $15.160
+- Jumbo: [Salchicha Pavo Montina 1 kg 20 un.](https://www.jumbo.cl/salchichas-de-pavo-montina-1-kg-20-unidades-2/p) → $4.568
+- Jumbo: [Salchicha Pavo Montina 1 kg 20 un.](https://www.jumbo.cl/salchichas-de-pavo-montina-1-kg-20-unidades-2/p) → $4.568 (normal $5.710)
+- Jumbo: [Salchichas San Jorge 1 kg 20 un.](https://www.jumbo.cl/salchichas-san-jorge-1-kg-2/p) → $3.590
+- Jumbo: [Salchichas San Jorge 1 kg 20 un.](https://www.jumbo.cl/salchichas-san-jorge-1-kg-2/p) → $3.590 (normal $4.250)
+- Jumbo: [Salchichas Receta del Abuelo Premium 750 g 15 un.](https://www.jumbo.cl/salchichas-premium-750-g/p) → $7.320
+- Jumbo: [Salchichas Receta del Abuelo Premium 750 g 15 un.](https://www.jumbo.cl/salchichas-premium-750-g/p) → $7.320 (normal $9.000)
+- Lider: [Salchichas de Pavo 20 Un Display, 1 Kg](https://super.lider.cl/ip/fiambres-y-embutidos/00780196500082) → $5.490
 
 ## Vienesas de cóctel `vienesas_coctel` · por paquete
-**$2.240 · $4.470 · $7.370** (mín · media · máx, 7 precios)
+**$2.570 · $4.530 · $7.370** (mín · media · máx, 8 precios)
 - Tottus: [Choricillo Coctel](https://www.tottus.cl/tottus-cl/articulo/110624093/choricillo-coctel-250-grs) → $4.590
-- Tottus: [Empanadas de Cóctel Carne Congeladas Tottus 12 un](https://www.tottus.cl/tottus-cl/articulo/153733785/empanada-coctel-carne-12-und-cong) → $2.243
+- Lider: [Choricillo Cocktail Paquete 12 Un, 250 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780197002662) → $4.590
+- Lider: [Choricillo Cocktail Display 12 Un, 180 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000639) → $2.570
 - Jumbo: [Choricillo Cóctel PF 180 g](https://www.jumbo.cl/choricillo-cocktail-pf-180-g/p) → $2.847
 - Jumbo: [Choricillo Cóctel PF 180 g](https://www.jumbo.cl/choricillo-cocktail-pf-180-g/p) → $2.847
 - Jumbo: [Empanadas Cóctel Mechada Queso 300 g 10 un.](https://www.jumbo.cl/emp-cocktail-mechada-queso-10-u-1887249/p) → $374
@@ -956,351 +985,364 @@ _Referencial_: se mantiene $11.990 · $15.990 · $24.990 (1 precio encontrado)
 - Jumbo: [Empanadas Cocktail Cuisine & Co Queso Aceituna 360 g 12 un.](https://www.jumbo.cl/empanada-cocktail-queso-aceituna-12-un-1961329/p) → $4.469
 
 ## Hamburguesa veggie `hamburguesa_veggie` · por caja de 4
-**$3.440 · $4.820 · $7.790** (mín · media · máx, 18 precios)
+**$2.550 · $4.320 · $7.790** (mín · media · máx, 26 precios)
 - Tottus: [Hamburguesa Vegetal de Porotos Negros Minuto Verde 100 g](https://www.tottus.cl/tottus-cl/articulo/126542512/hamburguesa-p-negro-minuto-verde-100-gr) → $3.440
 - Tottus: [Hamburguesa Vegetal Plant Based La Crianza 100 g](https://www.tottus.cl/tottus-cl/articulo/111651419/hambur-plant-based-la-crianza-100-gr) → $4.880
-- Tottus: [Hamburguesa Vegetal de Soya Veggie La Crianza 100 g](https://www.tottus.cl/tottus-cl/articulo/110621939/hamburguesa-soya-la-crianza-100-g) → $4.360
+- Tottus: [Hamburguesa Vegetal de Soya Veggie La Crianza 100 g](https://www.tottus.cl/tottus-cl/articulo/110621939/hamburguesa-soya-la-crianza-100-g) → $2.760 (normal $4.360)
 - Tottus: [Hamburguesa Vegana](https://www.tottus.cl/tottus-cl/articulo/113076355/hamburguesa-vegana-tottus-life-120-gr) → $6.267
 - Tottus: [Hamburguesa Vegetal Not Burger XL 150 g](https://www.tottus.cl/tottus-cl/articulo/115905382/hamburguesa-xl-not-burger-150-gr) → $5.840
+- Tottus: [Hamburguesa Vegetal Seitán Vegusta 100 gr](https://www.tottus.cl/tottus-cl/articulo/155558529/hamburguesa-seitan-veggie-vegusta-100-g) → $3.960 (normal $4.760)
 - Tottus: [Hamburguesa Vegetal de Lentejas Minuto Verde 100 g](https://www.tottus.cl/tottus-cl/articulo/126542481/hamburguesa-lenteja-minuto-verde-100-gr) → $3.440
 - Tottus: [Hamburguesa Vegetal de Garbanzos Minuto Verde 100 g](https://www.tottus.cl/tottus-cl/articulo/126542487/hamburguesa-garbanzo-minuto-verde-100-gr) → $3.440
-- Tottus: [Hamburguesa Vegetal Seitán Vegusta 100 gr](https://www.tottus.cl/tottus-cl/articulo/155558529/hamburguesa-seitan-veggie-vegusta-100-g) → $4.760
-- Unimarc: [Hamburguesa vegetal NotBurger 95 gr](https://www.unimarc.cl/hamburguesa-vegetal-not-burger-100gr/p) → $7.116
-- Unimarc: [Hamburguesa vegetal NotChicken burger 95 gr](https://www.unimarc.cl/not-chicken-burger-95gr/p) → $7.790
-- Jumbo: [Hamburguesa Vegetal Receta del Abuelo Vegan Burger 100 g](https://www.jumbo.cl/vegan-burger-receta-del-abuelo-100g-1891489/p) → $4.880
-- Jumbo: [Hamburguesa Vegetal Receta del Abuelo Vegan Burger 100 g](https://www.jumbo.cl/vegan-burger-receta-del-abuelo-100g-1891489/p) → $4.880
+- Lider: [Hamburguesa Vegetal NotBurger, 95 g](https://super.lider.cl/ip/a-base-de-plantas/00780465965112) → $6.695
+- Lider: [Hamburguesa Vegetal de Soya, 100 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780961171347) → $3.960 (normal $4.360)
+- Lider: [Hamburguesa Vegetal de Soya, 100 g](https://super.lider.cl/ip/hamburguesas-y-churrascos/00780193000925) → $3.560
+- Lider: [Hamburguesa Vegetal Lentejas Con Zanahoria y Tomate, 100 g](https://super.lider.cl/ip/a-base-de-plantas/00780193000122) → $4.320
 
 ## Provoleta (queso para asar) `queso_asar` · por provoleta
-**$4.280 · $5.140 · $5.410** (mín · media · máx, 16 precios)
+**$2.810 · $4.750 · $5.490** (mín · media · máx, 19 precios)
 - Tottus: [Queso Provoleta Los Tilos 260 g](https://www.tottus.cl/tottus-cl/articulo/129386166/queso-provoleta-los-tilos-250-gr) → $4.745
 - Tottus: [Queso Provoleta Artisan 115 g](https://www.tottus.cl/tottus-cl/articulo/116176029/queso-provoletta-artisan-115-gr) → $4.284
 - Tottus: [Queso Provoleta Parrillera](https://www.tottus.cl/tottus-cl/articulo/110623721/provoleta-260-grs-sta-rosa-bandeja) → $4.995
-- Tottus: [Queso Provoleta Pahuilmo 120 g](https://www.tottus.cl/tottus-cl/articulo/115847334/queso-provoleta-120-gr) → $5.298
 - Tottus: [Queso Provoleta Merquén Pahuilmo 120 g](https://www.tottus.cl/tottus-cl/articulo/111651991/provoleta-merken-pahuilmo-120-gr) → $4.713
-- Unimarc: [Queso provoleta Pahuilmo 120 g](https://www.unimarc.cl/queso-provoleta-pahuilmo-120-gr/p) → $4.550 (normal $5.406)
-- Unimarc: [Queso provoleta Santa Rosa 2 un de 130 g](https://www.unimarc.cl/queso-provoleta-santa-rosa-2-u-x-260-g-c-u/p) → $4.945
-- Unimarc: [Queso provoleta Los Tilos 260 g](https://www.unimarc.cl/queso-provoleta-los-tilos-260-g/p) → $5.275
-- Jumbo: [Queso Provoleta Santa Rosa Envasado Trozo 260 g](https://www.jumbo.cl/queso-provoleta-santa-rosa-260-g-2-unidades/p) → $5.295
-- Jumbo: [Queso Provoleta Santa Rosa Envasado Trozo 260 g](https://www.jumbo.cl/queso-provoleta-santa-rosa-260-g-2-unidades/p) → $5.295
-- Jumbo: [Queso Provoleta Artisan Envasado Trozo 115 g](https://www.jumbo.cl/queso-provoleta-artisan-115-g/p) → $4.296
-- Jumbo: [Queso Provoleta Artisan Envasado Trozo 115 g](https://www.jumbo.cl/queso-provoleta-artisan-115-g/p) → $4.296
+- Tottus: [Queso Provoleta Pahuilmo 120 g](https://www.tottus.cl/tottus-cl/articulo/115847334/queso-provoleta-120-gr) → $5.298
+- Lider: [Queso Provoleta Trozo, 260 g](https://super.lider.cl/ip/quesos/00780208000076) → $4.945
+- Lider: [Queso Provoleta Entero, 120 g](https://super.lider.cl/ip/quesos/00780295300020) → $5.189
+- Lider: [Queso Provoleta Trozo, 260 g](https://super.lider.cl/ip/quesos/00780296000047) → $4.945
+- Jumbo: [Queso Provoleta Latteria Soresina Envasado Trozo 200 g](https://www.jumbo.cl/queso-provolone-200-g/p) → $2.807
+- Jumbo: [Queso Provoleta Latteria Soresina Envasado Trozo 200 g](https://www.jumbo.cl/queso-provolone-200-g/p) → $2.807 (normal $4.011)
+- Jumbo: [Queso Provoleta Latteria Soresina Envasado Trozo 200 g](https://www.jumbo.cl/queso-provolone-200-g/p) → $3.840
+- Jumbo: [Queso Provoleta Latteria Soresina Envasado Trozo 200 g](https://www.jumbo.cl/queso-provolone-200-g/p) → $3.840 (normal $5.486)
 
 ## Salmón (filete) `salmon` · por kg
-**$16.300 · $21.990 · $30.380** (mín · media · máx, 19 precios)
+**$14.580 · $21.590 · $32.130** (mín · media · máx, 21 precios)
+- Tottus: [Filete de Salmón Congelado Aqua 500 gr](https://www.tottus.cl/tottus-cl/articulo/110624041/salmon-filete-aqua-500gr-und) → $17.180 (normal $24.300)
 - Tottus: [Salmón Filete Pesable](https://www.tottus.cl/tottus-cl/articulo/112183050/salmon-filete-tottus-variable-kl) → $24.828
-- Tottus: [Filete de Salmón Congelado Aqua 500 gr](https://www.tottus.cl/tottus-cl/articulo/110624041/salmon-filete-aqua-500gr-und) → $24.300
 - Tottus: [Filete de Salmón sin Piel](https://www.tottus.cl/tottus-cl/articulo/116252554/filete-de-salmon-500-grs) → $23.580
-- Tottus: [Salmón en Trozo](https://www.tottus.cl/tottus-cl/articulo/112462340/salmon-en-trozos-500-grs) → $20.980
-- Tottus: [Filetes de Salmón Congelados Mar Verde 500 g](https://www.tottus.cl/tottus-cl/articulo/110622047/filete-de-salmon-importado-500-gr) → $18.300
-- Tottus: [Salmón en Trozos](https://www.tottus.cl/tottus-cl/articulo/116452539/salmon-trozo-imp-500-grs) → $18.180
-- Tottus: [Salmón en Trozos Congelado Aqua 500 gr](https://www.tottus.cl/tottus-cl/articulo/110623301/salmon-5-trozos-aqua-500gr-und) → $24.300
-- Tottus: [Salmón Congelado](https://www.tottus.cl/tottus-cl/articulo/116453358/pescado-salmon-porciones-tottus-500-gr) → $16.300
-- Unimarc: [Filete de salmón atlántico Aqua Chile con piel entero congelado 500 g](https://www.unimarc.cl/filete-salmon-atlan-c-p-entero-aqua-500g/p) → $26.780
-- Unimarc: [Filete de salmón atlántico Aqua Chile con piel trozo congelado 500 g](https://www.unimarc.cl/filete-salmon-atlant-c-p-trozo-aqua-500g/p) → $26.900
-- Unimarc: [Filete salmón atlántico Aqua sin piel 1.2 Kg](https://www.unimarc.cl/salmon-atlan-filete-sin-piel-aqua-1-2kg/p) → $30.375
-- Unimarc: [Salmón filete fresco granel 1 Kg](https://www.unimarc.cl/salmon-filete-kg/p) → $22.350
+- Tottus: [Filetes de Salmón Congelados Mar Verde 500 g](https://www.tottus.cl/tottus-cl/articulo/110622047/filete-de-salmon-importado-500-gr) → $14.580 (normal $18.300)
+- Lider: [Salmón Filete Fresco, 400 g](https://super.lider.cl/ip/pescados-y-mariscos/00780461741109) → $27.475
+- Lider: [Salmón Filete Atlántico Premium, 1,2 kg](https://super.lider.cl/ip/pescados-y-mariscos/00780961171915) → $28.492
+- Lider: [Salmón Filete con Piel, 500 g](https://super.lider.cl/ip/nuestras-marcas/00780137200168) → $17.780
+- Lider: [Salmón Filete Atlántico, 500 gr](https://super.lider.cl/ip/pescados-y-mariscos/00780961171917) → $15.780 (normal $23.980)
+- Lider: [Filete de salmón atlántico (salmo salar) con piel](https://super.lider.cl/ip/pescados-y-mariscos/00208502000000) → $14.990 (normal $19.990)
+- Lider: [Salmón Filete](https://super.lider.cl/ip/pescados-y-mariscos/00208501000000) → $19.490
+- Jumbo: [Salmón Filete Aqua 500 g](https://www.jumbo.cl/salmon-filete-aqua-500-gr/p) → $15.580
+- Jumbo: [Salmón Filete Aqua 500 g](https://www.jumbo.cl/salmon-filete-aqua-500-gr/p) → $15.580 (normal $23.980)
 
 ## Reineta (filete) `reineta` · por kg
-**$10.980 · $18.180 · $22.630** (mín · media · máx, 14 precios)
+**$8.330 · $17.180 · $23.480** (mín · media · máx, 18 precios)
 - Tottus: [Filete de Reineta sin Piel Congelada](https://www.tottus.cl/tottus-cl/articulo/116453352/pescado-reineta-filetes-tottus-500-gr) → $10.980
+- Tottus: [Filetes de Reineta Congelada Mar Verde 500 g](https://www.tottus.cl/tottus-cl/articulo/110622009/filete-de-reineta-importado-500-gr) → $13.180 (normal $16.580)
 - Tottus: [Filetes de Reineta Sin Piel Congelados Tottus 500 g](https://www.tottus.cl/tottus-cl/articulo/116305239/filete-de-reineta-sp-500-grs-tottus) → $17.780
-- Tottus: [Filetes de Reineta Congelada Mar Verde 500 g](https://www.tottus.cl/tottus-cl/articulo/110622009/filete-de-reineta-importado-500-gr) → $16.580
 - Tottus: [REINETA S/PIEL S/E EL GOLFO 500 GR.](https://www.tottus.cl/tottus-cl/articulo/110624437/reineta-spiel-se-el-golfo-500-gr) → $17.380
-- Unimarc: [Filetes reineta El Golfo sin piel bolsa 500 g](https://www.unimarc.cl/filetes-de-reineta-sin-piel-el-golfo-500-g/p) → $18.980
-- Unimarc: [Reineta Congelados Austral filete 400 g](https://www.unimarc.cl/reineta-filete-congelados-austral-400gr/p) → $19.975
-- Unimarc: [Reineta filete Alimex bandeja 300 g](https://www.unimarc.cl/reineta-filete-alimex-300-gr/p) → $22.633
-- Jumbo: [Reineta Filete Fresca Granel](https://www.jumbo.cl/reineta-filete-prov-kg/p) → $19.990
-- Jumbo: [Reineta Filete Congelada 500 g](https://www.jumbo.cl/filetes-de-reineta-el-golfo-bolsa-500-g-sin-piel-2/p) → $18.180
-- Jumbo: [Reineta Filete Congelada 500 g](https://www.jumbo.cl/filetes-de-reineta-el-golfo-bolsa-500-g-sin-piel-2/p) → $18.180
+- Lider: [Reineta Filetes Congelado, 500 g](https://super.lider.cl/ip/pescados-y-mariscos/00780132300413) → $16.980
+- Lider: [Reineta Filetes Sin Piel, 500 g](https://super.lider.cl/ip/pescados-y-mariscos/00780263600151) → $17.980
+- Lider: [Reineta Fresca Filete, 400 g](https://super.lider.cl/ip/pescados-y-mariscos/00780461741099) → $23.475
 - Jumbo: [Reineta Cuisine & Co Congelada 500 g](https://www.jumbo.cl/reineta-sin-piel-500-g-cuisine-and-co-1773231/p) → $19.980
 - Jumbo: [Reineta Cuisine & Co Congelada 500 g](https://www.jumbo.cl/reineta-sin-piel-500-g-cuisine-and-co-1773231/p) → $19.980
+- Jumbo: [Reineta Filete Congelada 500 g](https://www.jumbo.cl/filetes-de-reineta-el-golfo-bolsa-500-g-sin-piel-2/p) → $12.726
+- Jumbo: [Reineta Filete Congelada 500 g](https://www.jumbo.cl/filetes-de-reineta-el-golfo-bolsa-500-g-sin-piel-2/p) → $12.726 (normal $18.180)
+- Jumbo: [Varitas de Reineta Congelada 400 g](https://www.jumbo.cl/varitas-reineta-friosur-400-gr-1973836/p) → $8.325
 
 ## Camarones `camarones` · por kg
-**$9.790 · $20.310 · $25.980** (mín · media · máx, 24 precios)
-- Tottus: [Camarón Pequeño Cocido, Pelado y Sin Cola Tottus 100 g](https://www.tottus.cl/tottus-cl/articulo/110622674/camaron-100-200-imp-tottus-100g) → $14.900
+**$9.900 · $20.810 · $29.950** (mín · media · máx, 32 precios)
+- Tottus: [Camarón Pequeño Cocido, Pelado y Sin Cola Tottus 100 g](https://www.tottus.cl/tottus-cl/articulo/110622674/camaron-100-200-imp-tottus-100g) → $9.900 (normal $14.900)
 - Tottus: [Camarón Ecuatoriano Mediano Pelado, Precocido y Sin Cola Mar Verde 250 g](https://www.tottus.cl/tottus-cl/articulo/120272791/camaron-ecua-med-cocido-importado-250gr) → $21.160
 - Tottus: [Camarón Grande Cocido, Pelado, Desvenado y Con Cola Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110623241/camaron-51-60-coc-pel-desv-imp-tott-400g) → $17.375
-- Tottus: [Camarón Extra Grande Crudo con Cáscara y Cola Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110622088/camaron-36-40-crudo-casc-imp-tottus-400g) → $18.975
-- Tottus: [Camarón Gigante Cocido con Cáscara y Cola Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110623665/camaron-26-30-cocid-casc-imp-tottus-400g) → $21.375
-- Tottus: [Camarón Ecuatoriano Mediano Pelado, Precocido y Sin Cola Mar Verde 500 g](https://www.tottus.cl/tottus-cl/articulo/120186150/camaron-ecua-med-cocido-importado-500gr) → $21.500
+- Tottus: [Camarón Ecuatoriano Mediano Pelado, Precocido y Sin Cola Mar Verde 500 g](https://www.tottus.cl/tottus-cl/articulo/120186150/camaron-ecua-med-cocido-importado-500gr) → $19.180 (normal $21.500)
 - Tottus: [Camarón Mediano Cocido con Cáscara y Cola Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110622306/camaron-71-90-cocid-casc-imp-400g-tottus) → $14.975
-- Tottus: [Camarón Pequeño Cocido, Pelados y Sin Cola Mar Verde 227 g](https://www.tottus.cl/tottus-cl/articulo/119951450/camaron-importado-coc-pel-227g) → $17.577 (normal $18.722)
-- Unimarc: [Camarones El Golfo bolsa 200 g](https://www.unimarc.cl/camarones-el-golfo-200-g/p) → $22.450
-- Unimarc: [Camarón ecuatoriano grande Azul Profundo 500 g](https://www.unimarc.cl/camaron-ecuat-grande-azul-profundo-500g-2/p) → $21.980
-- Unimarc: [Camarón cocido Azul Profundo pelado 100/200 bolsa 200 g](https://www.unimarc.cl/camaron-coc-pel-100-200-azul-profun-200g-2/p) → $19.450
-- Unimarc: [Camarón cocido Azul Profundo pelado sin cola 100/200 bolsa 500 g](https://www.unimarc.cl/camaron-coc-pel-100-200-azul-profun-500g-2/p) → $15.380
+- Tottus: [Camarón Extra Grande Crudo con Cáscara y Cola Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110622088/camaron-36-40-crudo-casc-imp-tottus-400g) → $18.975
+- Tottus: [Camarón Grande Cocido con Cáscara y Cola Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110623107/camaron-51-60-cocid-casc-imp-1kg-tottus) → $12.390
+- Tottus: [Camarón Gigante Cocido con Cáscara y Cola Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110623665/camaron-26-30-cocid-casc-imp-tottus-400g) → $21.375
+- Lider: [Camaron masa filo, 200 g](https://super.lider.cl/ip/pescados-y-mariscos/00780466084063) → $22.460 (normal $29.950)
+- Lider: [Camarón Pequeño Pelado Cocido, 200 g](https://super.lider.cl/ip/pescados-y-mariscos/00780132300062) → $15.000 (normal $20.950)
+- Lider: [Camarón Pequeño Pelado Desvenado sin Cola Cocido, 100 g](https://super.lider.cl/ip/pescados-y-mariscos/00040000102711) → $13.900
+- Lider: [Camaron ecuatoriano cocido pelado 250 grs, 250 g](https://super.lider.cl/ip/pescados-y-mariscos/00780142300019) → $21.960
 
 ## Arroz `arroz` · por kg
-**$1.000 · $2.140 · $2.850** (mín · media · máx, 24 precios)
+**$1.000 · $1.970 · $5.390** (mín · media · máx, 32 precios)
 - Tottus: [Arroz G1 Grano Largo Ancho](https://www.tottus.cl/tottus-cl/articulo/110613497/arroz-banquete-premiun-g-1-2-kg) → $2.225
-- Tottus: [Arroz G1 Grano Largo Angosto](https://www.tottus.cl/tottus-cl/articulo/110613559/arroz-blue-bonnet-g1-tucapel-1-kilo) → $2.290
-- Tottus: [Arroz Tucapel G1 Graneado Suave Largo Ancho 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110612574/arroz-g1-gran-selec-largo-bolsa-1-g) → $2.350
-- Tottus: [Arroz Tucapel G1 Pregraneado Grano Ancho 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110610663/arroz-g-1-pregraneado-1-kg) → $1.890 (normal $2.450)
+- Tottus: [Arroz G1 Grano Largo Angosto](https://www.tottus.cl/tottus-cl/articulo/110613559/arroz-blue-bonnet-g1-tucapel-1-kilo) → $1.690 (normal $2.290)
+- Tottus: [Arroz Tucapel G1 Graneado Suave Largo Ancho 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110612574/arroz-g1-gran-selec-largo-bolsa-1-g) → $3.590
+- Tottus: [Arroz Tucapel G1 Pregraneado Grano Ancho 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110610663/arroz-g-1-pregraneado-1-kg) → $1.990 (normal $2.450)
 - Tottus: [Arroz Grano Largo Ancho Grado 1](https://www.tottus.cl/tottus-cl/articulo/110607042/arroz-tottus-g-1-largo-ancho-1kg) → $1.890
-- Tottus: [Arroz G1 Pregraneado](https://www.tottus.cl/tottus-cl/articulo/110610494/arroz-pregraneado-1-kg-miraflores) → $2.590
+- Tottus: [Arroz G1 Pregraneado](https://www.tottus.cl/tottus-cl/articulo/110610494/arroz-pregraneado-1-kg-miraflores) → $1.850 (normal $2.590)
 - Tottus: [Arroz G1 Largo Fino Salvatore 1 Kg](https://www.tottus.cl/tottus-cl/articulo/148388424/arroz-grado-1-largo-fino-salvatore-1-kg) → $1.590
-- Tottus: [Arroz Banquete G1 Grano Largo Ancho 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110610506/arroz-g-1-premium-1-kg) → $1.790 (normal $2.290)
-- Unimarc: [Arroz Nuestra Cocina G2 largo delgado 1 Kg](https://www.unimarc.cl/arroz-g2-largo-delgad-nuestra-cocina-1kg/p) → $1.000 (normal $1.350)
-- Unimarc: [Arroz Banquete premium G1 1 Kg](https://www.unimarc.cl/arroz-g1-banquete-premium-largo-1-kg/p) → $1.890 (normal $2.290)
-- Unimarc: [Arroz Nuestra Cocina G2 grano largo ancho bolsa 1 Kg](https://www.unimarc.cl/arroz-g2-nacional-nuestra-cocina-1-kg/p) → $1.650
-- Unimarc: [Arroz Tucapel gran selección G2 1 Kg](https://www.unimarc.cl/arroz-g2-largo-seleccion-tucapel-1-kg/p) → $2.050
+- Tottus: [ARROZ G1 BANQUETE 0.8 KG](https://www.tottus.cl/tottus-cl/articulo/139644772/arroz-g1-banquete-0-8-kg) → $2.238
+- Lider: [Arroz Grado 1 Grano Largo Bolsa., 1 Kg](https://super.lider.cl/ip/arroz-y-legumbres/00780261500655) → $1.910 (normal $2.550)
+- Lider: [Arroz Grado 1 Grano Corto Risotto Italiano Bolsa, 1 kg](https://super.lider.cl/ip/arroz-y-legumbres/00780142000155) → $3.990 (normal $4.890)
+- Lider: [Arroz Grado 1 Grano Largo Basmati Bolsa, 1 kg](https://super.lider.cl/ip/arroz-y-legumbres/00780142000153) → $5.390
+- Lider: [Arroz Grado 1 Grano Largo y Ancho Bolsa, 1 kg](https://super.lider.cl/ip/arroz-y-legumbres/00780142000013) → $1.650
 
 ## Aceite vegetal `aceite` · por botella de 1 L
-**$1.700 · $3.060 · $9.150** (mín · media · máx, 21 precios)
+**$1.660 · $2.470 · $5.990** (mín · media · máx, 24 precios)
 - Tottus: [Aceite Vegetal con Canola Belmont 1 L](https://www.tottus.cl/tottus-cl/articulo/110615978/aceite-vegetal-1-lt-belmont) → $2.590 (normal $3.090)
-- Tottus: [Aceite Vegetal](https://www.tottus.cl/tottus-cl/articulo/110610439/aceite-vegetal-precio-uno-1-5-lt) → $1.700
 - Tottus: [Aceite Vegetal para Freir Belmont 1 Lt](https://www.tottus.cl/tottus-cl/articulo/130805798/aceite-para-freir-1-lt-b) → $5.950
-- Tottus: [Aceite Vegetal Precio Uno 900 ml](https://www.tottus.cl/tottus-cl/articulo/110613405/aceite-vegetal-900-ml-precio-uno) → $1.722
+- Tottus: [Aceite Vegetal](https://www.tottus.cl/tottus-cl/articulo/110610439/aceite-vegetal-precio-uno-1-5-lt) → $1.700
 - Tottus: [Aceite Vegetal](https://www.tottus.cl/tottus-cl/articulo/120492489/aceite-vegetal-natura-900-ml) → $3.100
+- Tottus: [Aceite Vegetal Tottus 900 ml](https://www.tottus.cl/tottus-cl/articulo/110606885/aceite-vegetal-tottus-900-ml) → $1.661 (normal $1.944)
 - Tottus: [Aceite Vegetal Miraflores 900 ml](https://www.tottus.cl/tottus-cl/articulo/119955731/aceite-vegetal-miraflores-900-ml) → $3.056
-- Tottus: [Aceite Vegetal Tottus 900 ml](https://www.tottus.cl/tottus-cl/articulo/110606885/aceite-vegetal-tottus-900-ml) → $1.944
-- Unimarc: [Aceite Belmont vegetal con canola 1 L](https://www.unimarc.cl/aceite-vegetal-con-canola-belmont-1-l/p) → $3.190
-- Unimarc: [Aceite Belmont vegetal para freir 1 L](https://www.unimarc.cl/aceite-vegetal-freir-belmont-1-lt/p) → $5.990
-- Unimarc: [Aceite Merkat vegetal 900 ml](https://www.unimarc.cl/aceite-vegetal-merkat-900-cc/p) → $1.833
-- Unimarc: [Aceite Nuestra Cocina vegetal botella 900 ml](https://www.unimarc.cl/aceite-vegetal-nuestra-cocina-900-ml/p) → $2.100
-- Unimarc: [Aceite vegetal Natura 900 ml](https://www.unimarc.cl/aceite-vegetal-natura-900-ml/p) → $3.211
+- Tottus: [Aceite Vegetal Precio Uno 900 ml](https://www.tottus.cl/tottus-cl/articulo/110613405/aceite-vegetal-900-ml-precio-uno) → $1.722
+- Lider: [Aceite Vegetal Botella, 900 ml](https://super.lider.cl/ip/aceites-y-aderezos/00780132024202) → $2.878
+- Lider: [Aceite Vegetal Botella, 900 ml](https://super.lider.cl/ip/aceites-y-aderezos/00779027200798) → $2.100
+- Lider: [Aceite Vegetal Botella, 1 L](https://super.lider.cl/ip/aceites-y-aderezos/00780281001202) → $2.450 (normal $2.990)
+- Lider: [Aceite Vegetal Botella, 900 ml](https://super.lider.cl/ip/aceites-y-aderezos/00779027200831) → $2.222 (normal $3.055)
+- Jumbo: [Aceite Vegetal Cuisine & Co 900 ml](https://www.jumbo.cl/aceite-vegetal-libre-de-colesterol-900-ml-cuisine-and-co-1800913/p) → $1.878
 
 ## Aceite de oliva `aceite_oliva` · por botella de 500 ml
-**$6.990 · $8.640 · $10.390** (mín · media · máx, 12 precios)
-- Tottus: [Aceite de Oliva Extra Virgen Picual Las Doscientas 500 ml](https://www.tottus.cl/tottus-cl/articulo/130996540/aceite-picual-las-200-500-ml) → $6.990 (normal $8.690)
+**$5.890 · $7.270 · $10.150** (mín · media · máx, 11 precios)
+- Tottus: [Aceite de Oliva Extra Virgen Picual Las Doscientas 500 ml](https://www.tottus.cl/tottus-cl/articulo/130996540/aceite-picual-las-200-500-ml) → $6.390 (normal $8.690)
+- Tottus: [Aceite de Oliva Extra Virgen Arbequina Las Doscientas 500 ml](https://www.tottus.cl/tottus-cl/articulo/130942684/aceite-oliva-las-200-arbequina-500ml) → $6.390 (normal $8.690)
 - Tottus: [Aceite de Oliva Extra Virgen Premium](https://www.tottus.cl/tottus-cl/articulo/110616596/aceite-oliva-extra-virgen-500-ml-premium) → $7.390 (normal $10.150)
-- Tottus: [Aceite de Oliva Extra Virgen Chef 500 ml](https://www.tottus.cl/tottus-cl/articulo/110615322/aceite-oliva-ext-virg-500-ml) → $7.690 (normal $9.190)
-- Tottus: [Aceite Oliva Extra Virgen](https://www.tottus.cl/tottus-cl/articulo/110609649/aceite-de-oliva-extra-virgen-500-ml) → $9.950
-- Tottus: [Aceite de Oliva Extra Virgen Sol de Aculeo 500 ml](https://www.tottus.cl/tottus-cl/articulo/130077395/aceite-oliva-extra-virgen-500-ml-sol-de-aculeo) → $8.190
-- Unimarc: [Aceite de oliva Chef extra virgen 500 ml](https://www.unimarc.cl/aceite-oliva-chef-extra-virgen-arbequina-500-ml/p) → $7.560 (normal $9.290)
+- Lider: [Aceite Oliva Extra Virgen Botella, 500 ml](https://super.lider.cl/ip/aceites-y-aderezos/00780876090007) → $9.590
+- Jumbo: [Aceite de Oliva Las Doscientas Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-las-doscientas-500-ml-blend-extra-virgen/p) → $7.272
+- Jumbo: [Aceite de Oliva Las Doscientas Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-las-doscientas-500-ml-blend-extra-virgen/p) → $7.272 (normal $9.090)
+- Jumbo: [Aceite de Oliva Chef Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-chef-botella-500-ml-extra-virgen-2/p) → $6.545
+- Jumbo: [Aceite de Oliva Chef Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-chef-botella-500-ml-extra-virgen-2/p) → $6.545 (normal $9.350)
+- Unimarc: [Aceite de oliva Chef extra virgen 500 ml](https://www.unimarc.cl/aceite-oliva-chef-extra-virgen-arbequina-500-ml/p) → $7.560 (normal $9.090)
 - Unimarc: [Aceite de oliva Las Doscientas extra virgen arbequina 500 ml](https://www.unimarc.cl/aceite-oliva-arbeq-las-doscientas-500-cc/p) → $9.350
-- Unimarc: [Aceite de oliva Nuestra Cocina extra virgen 500 ml](https://www.unimarc.cl/aceite-oliva-ex-vir-nuestra-cocina-500ml/p) → $6.990 (normal $8.150)
-- Jumbo: [Aceite de Oliva Las Doscientas Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-las-doscientas-500-ml-blend-extra-virgen/p) → $9.090
-- Jumbo: [Aceite de Oliva Las Doscientas Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-las-doscientas-500-ml-blend-extra-virgen/p) → $9.090
-- Jumbo: [Aceite de Oliva Banquete Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-banquete-botella-500-ml-extra-virgen-2/p) → $10.390
-- Jumbo: [Aceite de Oliva Banquete Extra Virgen 500 ml](https://www.jumbo.cl/aceite-de-oliva-banquete-botella-500-ml-extra-virgen-2/p) → $10.390
+- Unimarc: [Aceite de oliva Nuestra Cocina extra virgen 500 ml](https://www.unimarc.cl/aceite-oliva-ex-vir-nuestra-cocina-500ml/p) → $5.890 (normal $7.390)
 
 ## Sal de mar parrillera `sal_parrillera` · por paquete
-**$1.850 · $3.040 · $3.900** (mín · media · máx, 14 precios)
+**$1.750 · $2.310 · $3.750** (mín · media · máx, 18 precios)
 - Tottus: [Sal Parrillera](https://www.tottus.cl/tottus-cl/articulo/110615780/sal-parrillera-para-asados-750-grs) → $2.227
 - Tottus: [Sal Parrillera](https://www.tottus.cl/tottus-cl/articulo/110616686/sal-parrillera-para-asados-750-grs) → $1.853
 - Tottus: [Sal Mar  Extra Gruesa](https://www.tottus.cl/tottus-cl/articulo/110616528/sal-mar-extra-gruesa-lobos-800-gr) → $2.813
 - Tottus: [SAL HIM PARRILLERA LOS BOLDOS 1 KG](https://www.tottus.cl/tottus-cl/articulo/126846473/sal-him-parrillera-los-boldos-1-kg) → $3.750
 - Tottus: [Sal de Mar Parrillera Lobos 750 g](https://www.tottus.cl/tottus-cl/articulo/148506542/parrillero-sal-de-mar-lobos-und) → $3.267
-- Unimarc: [Sal parrillera Lobos 750 g](https://www.unimarc.cl/sal-parrillera-lobos-750-gr/p) → $2.387
-- Unimarc: [Sal parrillera Nuestra Cocina 750 g](https://www.unimarc.cl/sal-parrillera-nuestra-cocina-750-gr/p) → $1.987
-- Unimarc: [Sal de mar parrillera Lobos 750 gr](https://www.unimarc.cl/sal-de-mar-parrillera-lobos-750-gr/p) → $3.267
+- Lider: [Sal Parrillera Frasco, 750 g](https://super.lider.cl/ip/aceites-y-aderezos/00780360098153) → $2.067
+- Lider: [Sal Gruesa De Cocina, 1 kg](https://super.lider.cl/ip/aceites-y-aderezos/00780465163008) → $490
+- Lider: [Sal de Mar Gruesa Bolsa, 1 Kg](https://super.lider.cl/ip/aceites-y-aderezos/00780351510101) → $1.750
+- Lider: [Sal de Mar Extra Gruesa Doypack, 800 g](https://super.lider.cl/ip/aceites-y-aderezos/00780360000185) → $2.737
+- Lider: [Sal De Himalaya Gruesa Doypack, 1 kg](https://super.lider.cl/ip/aceites-y-aderezos/00076041295827) → $3.650
 - Jumbo: [Sal Parrillera Cuisine & Co 750 g](https://www.jumbo.cl/sal-parrillera-cuisine-and-co-750-gr-1924570/p) → $1.987
 - Jumbo: [Sal Parrillera Cuisine & Co 750 g](https://www.jumbo.cl/sal-parrillera-cuisine-and-co-750-gr-1924570/p) → $1.987
-- Jumbo: [Sal de Mar Lobos Parrillera 750 g](https://www.jumbo.cl/sal-de-mar-parrillera-lobos-750-g-2043452/p) → $3.360
-- Jumbo: [Sal de Mar Lobos Parrillera 750 g](https://www.jumbo.cl/sal-de-mar-parrillera-lobos-750-g-2043452/p) → $3.360
 
 ## Merkén `merken` · por sobre
-**$1.120 · $3.190 · $3.190** (mín · media · máx, 3 precios)
+**$1.120 · $2.230 · $3.180** (mín · media · máx, 3 precios)
 - Tottus: [Merkén Gourmet Envasado 40 g](https://www.tottus.cl/tottus-cl/articulo/116163367/merken-gourmet-40-grs) → $1.118
-- Jumbo: [Merkén Edra Frasco 21 g](https://www.jumbo.cl/merken-fco-edra-21gr-1950551/p) → $3.186
-- Jumbo: [Merkén Edra Frasco 21 g](https://www.jumbo.cl/merken-fco-edra-21gr-1950551/p) → $3.186
+- Jumbo: [Merkén Edra Frasco 21 g](https://www.jumbo.cl/merken-fco-edra-21gr-1950551/p) → $2.230
+- Jumbo: [Merkén Edra Frasco 21 g](https://www.jumbo.cl/merken-fco-edra-21gr-1950551/p) → $2.229 (normal $3.184)
 
 ## Orégano `oregano` · por sobre
-**$290 · $370 · $450** (mín · media · máx, 9 precios)
+**$240 · $320 · $430** (mín · media · máx, 10 precios)
 - Tottus: [Orégano entero](https://www.tottus.cl/tottus-cl/articulo/116447799/oregano-entero-20-grs) → $428
-- Tottus: [Orégano Molido](https://www.tottus.cl/tottus-cl/articulo/110597840/oregano-molido-tottus-15-g) → $371
 - Tottus: [Orégano Entero](https://www.tottus.cl/tottus-cl/articulo/110616336/oregano-entero-edra-20-gr) → $293 (normal $368)
 - Tottus: [Condimento Orégano Entero](https://www.tottus.cl/tottus-cl/articulo/110610293/oregano-entero-tottus-20-g) → $338
-- Unimarc: [Orégano Nuestra Cocina 20 g](https://www.unimarc.cl/oregano-nuestra-cocina-20-gr/p) → $390
-- Jumbo: [Orégano Entero 20 g](https://www.jumbo.cl/oregano-entero-20-g-cuisine-and-co-1770127/p) → $368
-- Jumbo: [Orégano Entero 20 g](https://www.jumbo.cl/oregano-entero-20-g-cuisine-and-co-1770127/p) → $368
-- Jumbo: [Orégano Entero Gourmet Sobre 20 g](https://www.jumbo.cl/oregano-entero-gourmet-sobre-20-g/p) → $450
-- Jumbo: [Orégano Entero Gourmet Sobre 20 g](https://www.jumbo.cl/oregano-entero-gourmet-sobre-20-g/p) → $450
+- Tottus: [Orégano Molido](https://www.tottus.cl/tottus-cl/articulo/110597840/oregano-molido-tottus-15-g) → $371
+- Lider: [Orégano Entero Natural Bolsa, 20 g](https://super.lider.cl/ip/aceites-y-aderezos/00780241019537) → $420
+- Lider: [Orégano Entero Deshidratado Bolsa, 20 g](https://super.lider.cl/ip/aceites-y-aderezos/00780241000333) → $345
+- Jumbo: [Orégano Entero Edra Sobre 20 g](https://www.jumbo.cl/oregano-entero-sobre-edra-20g/p) → $278
+- Jumbo: [Orégano Entero Edra Sobre 20 g](https://www.jumbo.cl/oregano-entero-sobre-edra-20g/p) → $279 (normal $399)
+- Jumbo: [Orégano Molido Edra Sobre 15 g](https://www.jumbo.cl/oregano-molido-sobre-edra-15g/p) → $238
+- Jumbo: [Orégano Molido Edra Sobre 15 g](https://www.jumbo.cl/oregano-molido-sobre-edra-15g/p) → $238 (normal $340)
 
 ## Vinagre `vinagre` · por botella
-**$940 · $1.080 · $1.350** (mín · media · máx, 17 precios)
+**$940 · $1.090 · $2.450** (mín · media · máx, 21 precios)
 - Tottus: [Vinagre Vino Rosado](https://www.tottus.cl/tottus-cl/articulo/110610991/vinagre-de-vino-rosado-1000ml) → $1.075
-- Tottus: [Vinagre Vino Rosado](https://www.tottus.cl/tottus-cl/articulo/110612941/vinagre-vino-rosado-500-ml) → $990 (normal $1.110)
 - Tottus: [Vinagre Vino Blanco](https://www.tottus.cl/tottus-cl/articulo/110611889/vinagre-vino-blanco-500-ml) → $990 (normal $1.110)
-- Tottus: [Vinagre Vino Blanco](https://www.tottus.cl/tottus-cl/articulo/110611373/vinagre-de-vino-blanco-tottus-500-ml) → $940
+- Tottus: [Vinagre Vino Rosado](https://www.tottus.cl/tottus-cl/articulo/110612941/vinagre-vino-rosado-500-ml) → $990 (normal $1.110)
 - Tottus: [Vinagre Incoloro](https://www.tottus.cl/tottus-cl/articulo/110617121/vinagre-incoloro-traverso-500-ml) → $1.210
-- Tottus: [Vinagre Vino Tinto](https://www.tottus.cl/tottus-cl/articulo/110612823/vinagre-de-vino-tinto-tottus-500-ml) → $940
-- Unimarc: [Vinagre incoloro Traverso 500 ml](https://www.unimarc.cl/vinagre-incoloro-traverso-500-cc/p) → $1.350
-- Unimarc: [Vinagre blanco Nuestra Cocina botella 500 ml](https://www.unimarc.cl/vinagre-blanco-nuestra-cocina-500-ml/p) → $1.090
-- Unimarc: [Vinagre de arroz Goldlabel 300 ml](https://www.unimarc.cl/vinagre-de-arroz-300-ml-cock-brand/p) → $3.317
-- Unimarc: [Vinagre rosado Nuestra Cocina botella 500 ml](https://www.unimarc.cl/vinagre-rosado-nuestra-cocina-500-ml/p) → $1.090
-- Unimarc: [Vinagre vino blanco Traverso 500 ml](https://www.unimarc.cl/vinagre-vino-blanco-traverso-plastico-500-ml/p) → $1.350
-- Unimarc: [Vinagre vino rosado Traverso 500 ml](https://www.unimarc.cl/vinagre-de-vino-tinto-traverso-500-cc/p) → $1.350
+- Tottus: [Vinagre Vino Blanco](https://www.tottus.cl/tottus-cl/articulo/110611373/vinagre-de-vino-blanco-tottus-500-ml) → $940
+- Lider: [Vinagre de Vino Rosado Botella, 500 cc](https://super.lider.cl/ip/aceites-y-aderezos/00780233710104) → $950 (normal $1.090)
+- Lider: [Vinagre de Vino Blanco Botella, 500 ml](https://super.lider.cl/ip/aceites-y-aderezos/00780233710103) → $950 (normal $1.090)
+- Lider: [Vinagre Incoloro Botella, 500 ml](https://super.lider.cl/ip/aceites-y-aderezos/00780233710112) → $1.250
+- Lider: [Vinagre de Vino Rosado Botella, 500 cc](https://super.lider.cl/ip/aceites-y-aderezos/00780445200297) → $2.450
+- Lider: [Vinagre de Vino Blanco Botella, 500 cc](https://super.lider.cl/ip/aceites-y-aderezos/00780445200359) → $2.450
+- Jumbo: [Vinagre Incoloro Traverso 500 ml](https://www.jumbo.cl/vinagre-traverso-de-alcohol-500-cc/p) → $1.340
+- Jumbo: [Vinagre Incoloro Traverso 500 ml](https://www.jumbo.cl/vinagre-traverso-de-alcohol-500-cc/p) → $1.340
 
 ## Mayonesa `mayonesa` · por frasco
-**$1.420 · $3.940 · $5.390** (mín · media · máx, 11 precios)
+**$1.420 · $2.870 · $5.590** (mín · media · máx, 12 precios)
+- Tottus: [Mayonesa Squeeze](https://www.tottus.cl/tottus-cl/articulo/118109014/mayonesa-regular-sqz-kraft-578-gr) → $4.007 (normal $4.906)
 - Tottus: [Mayonesa Kraft Real Mayo Frasco 394 gr](https://www.tottus.cl/tottus-cl/articulo/110610222/mayonesa-regular-kraft-394-gr) → $4.721 (normal $5.025)
-- Tottus: [Mayonesa Doypack Hellmann's 233 g](https://www.tottus.cl/tottus-cl/articulo/127884982/mayonesa-hellmanns-doypack-233-gr) → $1.717 (normal $2.198)
 - Tottus: [Mayonesa Tradicional Doypack Tottus 700 g](https://www.tottus.cl/tottus-cl/articulo/122271093/mayonesa-regular-tottus-700-g) → $1.423 (normal $1.709)
+- Lider: [Mayonesa Supreme Squeeze, 330 g](https://super.lider.cl/ip/salsas/00789115010613) → $3.392 (normal $4.715)
+- Lider: [Mayonesa Regular Doypack, 255 g](https://super.lider.cl/ip/salsas/00780500032519) → $1.569 (normal $2.808)
+- Lider: [Mayonesa Deli Doypack, 230 g](https://super.lider.cl/ip/salsas/00780015908174) → $1.739
+- Lider: [Aderezo tipo mayonesa notmayo original squeeze, 350 g](https://super.lider.cl/ip/salsas/00780465965003) → $3.428 (normal $4.217)
+- Lider: [Aderezo tipo mayonesa notmayo ajo, 350 g](https://super.lider.cl/ip/salsas/00780465965005) → $3.428 (normal $4.217)
+- Jumbo: [Mayonesa Casera Traverso Vintage 425 g](https://www.jumbo.cl/mayonesa-casera-vintage-traverso-pet425g-1995623/p) → $2.344
+- Jumbo: [Mayonesa Casera Traverso Vintage 425 g](https://www.jumbo.cl/mayonesa-casera-vintage-traverso-pet425g-1995623/p) → $2.344 (normal $3.699)
 - Unimarc: [Mayonesa Hellmann's Supreme Deli doypack 650 gr](https://www.unimarc.cl/mayonesa-supreme-deli-hellmanns-650gr/p) → $1.655 (normal $2.000)
-- Unimarc: [Mayonesa Supreme Hellmann's squeeze 330 gr](https://www.unimarc.cl/mayonesa-supreme-sqz-hellmanns-330-gr/p) → $3.939 (normal $5.394)
-- Jumbo: [Mayonesa Kraft Real Mayo Regular Squeeze 578 g](https://www.jumbo.cl/mayonesa-kraft-squeeze-582-g/p) → $5.031
-- Jumbo: [Mayonesa Kraft Real Mayo Regular Squeeze 578 g](https://www.jumbo.cl/mayonesa-kraft-squeeze-582-g/p) → $4.996
-- Jumbo: [Mayonesa Kraft Real Mayo Regular Frasco 394 g](https://www.jumbo.cl/mayonesa-kraft-frasco-397-g/p) → $4.193
-- Jumbo: [Mayonesa Kraft Real Mayo Regular Frasco 394 g](https://www.jumbo.cl/mayonesa-kraft-frasco-397-g/p) → $4.193
-- Jumbo: [Mayonesa Hellmann's Frasco Spicy 380 g](https://www.jumbo.cl/mayonesa-hellmann-2084867/p) → $3.147
-- Jumbo: [Mayonesa Hellmann's Frasco Spicy 380 g](https://www.jumbo.cl/mayonesa-hellmann-2084867/p) → $3.147 (normal $4.200)
+- Unimarc: [Mayonesa casera Gourmet premium frasco 300 gr](https://www.unimarc.cl/mayonesa-casera-premium-gourmet-300gr/p) → $3.911 (normal $5.587)
 
 ## Ketchup `ketchup` · por envase
-**$1.290 · $2.100 · $4.400** (mín · media · máx, 9 precios)
+**$1.270 · $1.720 · $5.190** (mín · media · máx, 15 precios)
 - Tottus: [Ketchup Americano](https://www.tottus.cl/tottus-cl/articulo/116454437/ketchup-americano-tottus-680-gr) → $1.288 (normal $1.465)
 - Tottus: [Ketchup](https://www.tottus.cl/tottus-cl/articulo/110614762/ketchup-hellmanns-500-ml) → $1.960
-- Tottus: [Ketchup Americano](https://www.tottus.cl/tottus-cl/articulo/116417395/ketchup-americano-tottus-425-gr) → $1.685
-- Tottus: [Ketchup Doypack](https://www.tottus.cl/tottus-cl/articulo/114095415/ketchup-regular-dp-heinz-620-gr) → $2.097
-- Unimarc: [Ketchup Heinz squeeze 397 g](https://www.unimarc.cl/ketchup-heinz-squeeze-env-plastico-397-g/p) → $3.426 (normal $4.020)
-- Unimarc: [Ketchup Kraft doypack 450 g](https://www.unimarc.cl/ketchup-kraft-dp-450-gr/p) → $1.867 (normal $2.267)
-- Unimarc: [Ketchup Traverso vintage 450 g](https://www.unimarc.cl/ketchup-vintage-traverso-450-gr/p) → $2.400 (normal $2.800)
-- Jumbo: [Kétchup Heinz Regular Squeeze 567 g](https://www.jumbo.cl/ketchup-heinz-567-g-2/p) → $4.395
-- Jumbo: [Kétchup Heinz Regular Squeeze 567 g](https://www.jumbo.cl/ketchup-heinz-567-g-2/p) → $4.395
+- Tottus: [Ketchup Tradicional](https://www.tottus.cl/tottus-cl/articulo/113158244/ketchup-tradicional-tottus-220-gr) → $1.546
+- Tottus: [Ketchup JB 500 g](https://www.tottus.cl/tottus-cl/articulo/130432806/ketchup-jb-doypack-500-grs) → $1.272 (normal $1.456)
+- Lider: [Ketchup Regular Doypack, 500 g](https://super.lider.cl/ip/salsas/00780264072053) → $1.376 (normal $1.960)
+- Lider: [Ketchup Regular Doypack, 250 g](https://super.lider.cl/ip/salsas/00780015908122) → $1.600
+- Lider: [Ketchup Regular Doypack, 250 g](https://super.lider.cl/ip/salsas/00779400074425) → $1.600 (normal $2.864)
+- Lider: [Ketchup Regular Doypack, 620 g](https://super.lider.cl/ip/salsas/00060887500514) → $2.058
+- Jumbo: [Kétchup Hellmann’s Supreme Squeeze 390 g](https://www.jumbo.cl/hellmanns-ket-sqz-400g/p) → $2.916
+- Jumbo: [Kétchup Hellmann’s Supreme Squeeze 390 g](https://www.jumbo.cl/hellmanns-ket-sqz-400g/p) → $2.916 (normal $3.887)
+- Jumbo: [Kétchup Hellmann's Light Doypack 500 g](https://www.jumbo.cl/ketchup-hellmanns-light-500-g/p) → $4
+- Jumbo: [Kétchup Hellmann's Light Doypack 500 g](https://www.jumbo.cl/ketchup-hellmanns-light-500-g/p) → $1.854 (normal $2.472)
 
 ## Mostaza `mostaza` · por envase
-**$990 · $1.680 · $3.850** (mín · media · máx, 12 precios)
-- Tottus: [Mostaza](https://www.tottus.cl/tottus-cl/articulo/110613769/mostaza-250-g-doypack-tottus) → $990
+**$820 · $1.520 · $3.760** (mín · media · máx, 20 precios)
+- Tottus: [Mostaza Doypack](https://www.tottus.cl/tottus-cl/articulo/110615768/mostaza-regular-heinz-350-gr) → $1.779
 - Tottus: [Mostaza](https://www.tottus.cl/tottus-cl/articulo/112643265/mostaza-jb-barril-240-grs) → $1.656
+- Tottus: [Mostaza](https://www.tottus.cl/tottus-cl/articulo/110613769/mostaza-250-g-doypack-tottus) → $990
 - Tottus: [Mostaza Heinz 200 g](https://www.tottus.cl/tottus-cl/articulo/130586102/mostaza-regular-heinz-200-gr) → $1.250 (normal $2.225)
-- Unimarc: [Mostaza Heinz doy pack 350 g](https://www.unimarc.cl/mostaza-heinz-doypack-350-gr/p) → $1.707 (normal $1.993)
-- Unimarc: [Mostaza Traverso 350 g](https://www.unimarc.cl/mostaza-traverso-350-gr/p) → $993 (normal $1.136)
-- Unimarc: [Mostaza JB 240 g](https://www.unimarc.cl/mostaza-jb-pet-240-gr/p) → $1.865
-- Unimarc: [Mostaza suave vintage Traverso doypack 250Gr](https://www.unimarc.cl/mostaza-suave-vintage-dp-traverso-250gr/p) → $1.250
-- Unimarc: [Mostaza Kraft doypack 220 g](https://www.unimarc.cl/mostaza-doypack-kraft-220-gr/p) → $1.534
-- Jumbo: [Mostaza JB Regular Botella 240 g](https://www.jumbo.cl/mostaza-jb-regular-botella-240g-271559/p) → $1.781
-- Jumbo: [Mostaza JB Regular Botella 240 g](https://www.jumbo.cl/mostaza-jb-regular-botella-240g-271559/p) → $1.781
-- Jumbo: [Mostaza Heinz Clásica Regular Squeeze 396 g](https://www.jumbo.cl/mostaza-yellow-mustard-heinz-396-g/p) → $3.845
-- Jumbo: [Mostaza Heinz Clásica Regular Squeeze 396 g](https://www.jumbo.cl/mostaza-yellow-mustard-heinz-396-g/p) → $3.845
+- Lider: [Mostaza Doypack, 350 g](https://super.lider.cl/ip/salsas/00780015900104) → $1.707
+- Lider: [Mostaza Squeeze, 240 g](https://super.lider.cl/ip/salsas/00780264040028) → $1.656
+- Lider: [Mostaza Clásica Squeeze, 397 g](https://super.lider.cl/ip/salsas/00007874209195) → $1.536
+- Lider: [Mostaza Squeeze, 350 g](https://super.lider.cl/ip/salsas/00780233791001) → $822 (normal $993)
+- Lider: [Mostaza Doypack, 250 g](https://super.lider.cl/ip/salsas/00780264081016) → $1.390
+- Lider: [Mostaza Squeeze, 240 g](https://super.lider.cl/ip/salsas/00780235131460) → $1.511
+- Jumbo: [Mostaza Don Juan 240 g](https://www.jumbo.cl/mostaza-don-juan-240-g/p) → $1.145
+- Jumbo: [Mostaza Don Juan 240 g](https://www.jumbo.cl/mostaza-don-juan-240-g/p) → $1.145 (normal $1.635)
 
 ## Salsa americana `salsa_americana` · por frasco
-**$710 · $1.480 · $1.940** (mín · media · máx, 9 precios)
-- Tottus: [Americana en Vinagre](https://www.tottus.cl/tottus-cl/articulo/110615368/americana-don-juan-180-gr) → $1.850
-- Tottus: [Salsa Americana Traverso 500 gr](https://www.tottus.cl/tottus-cl/articulo/130963017/salsa-americana-traverso-500-gr) → $1.785
+**$730 · $1.240 · $1.850** (mín · media · máx, 10 precios)
+- Tottus: [Americana en Vinagre](https://www.tottus.cl/tottus-cl/articulo/110615368/americana-don-juan-180-gr) → $1.150 (normal $1.850)
 - Tottus: [Salsa Americana](https://www.tottus.cl/tottus-cl/articulo/110612331/salsa-americana-200gr) → $1.485
-- Unimarc: [Salsa americana Traverso bolsa 500 g](https://www.unimarc.cl/salsa-americana-bolsa-traverso-250-gr/p) → $1.200 (normal $1.548)
-- Unimarc: [Americana en vinagre Don Juan 360 gr](https://www.unimarc.cl/salsa-americana-don-juan-400-gr/p) → $1.935
-- Jumbo: [Salsa Americana Don Juan 360 g](https://www.jumbo.cl/salsa-americana-don-juan-bolsa-200-grs/p) → $708
-- Jumbo: [Salsa Americana Don Juan 360 g](https://www.jumbo.cl/salsa-americana-don-juan-bolsa-200-grs/p) → $1.275 (normal $1.875)
+- Tottus: [Salsa Americana Traverso 500 gr](https://www.tottus.cl/tottus-cl/articulo/130963017/salsa-americana-traverso-500-gr) → $1.785
+- Lider: [Americana En Vinagre, 360 g](https://super.lider.cl/ip/nuestras-marcas/00780235100260) → $1.383
+- Jumbo: [Salsa Americana Don Juan 360 g](https://www.jumbo.cl/salsa-americana-don-juan-bolsa-200-grs/p) → $729
+- Jumbo: [Salsa Americana Don Juan 360 g](https://www.jumbo.cl/salsa-americana-don-juan-bolsa-200-grs/p) → $729 (normal $1.042)
 - Jumbo: [Salsa Americana Traverso 250 g](https://www.jumbo.cl/salsa-americana-traverso-bolsa-300-grs-2/p) → $1.476
 - Jumbo: [Salsa Americana Traverso 250 g](https://www.jumbo.cl/salsa-americana-traverso-bolsa-300-grs-2/p) → $1.230
+- Unimarc: [Americana en vinagre Don Juan 360 gr](https://www.unimarc.cl/salsa-americana-don-juan-400-gr/p) → $1.250 (normal $1.785)
+- Unimarc: [Salsa americana Traverso bolsa 500 g](https://www.unimarc.cl/salsa-americana-bolsa-traverso-250-gr/p) → $1.200 (normal $1.548)
 
 ## Ají pebre `aji` · por frasco
-**$740 · $1.340 · $1.910** (mín · media · máx, 16 precios)
+**$740 · $1.090 · $1.910** (mín · media · máx, 18 precios)
 - Tottus: [Ají Pebre Botella](https://www.tottus.cl/tottus-cl/articulo/113571630/aji-pebre-botella-350-grs) → $1.080 (normal $1.229)
 - Tottus: [Ají Jalapeno Inferno](https://www.tottus.cl/tottus-cl/articulo/112781662/aji-jalapeno-inferno-0-25-kl) → $1.912
-- Tottus: [AjÍ Crema Botella](https://www.tottus.cl/tottus-cl/articulo/114001590/aji-crema-botella-350-grs) → $737 (normal $811)
 - Tottus: [Ají Crema Doypack Traverso 250 g](https://www.tottus.cl/tottus-cl/articulo/150772861/ssa-aji-crema-vintage-dp-traverso-250-gr) → $920
+- Tottus: [AjÍ Crema Botella](https://www.tottus.cl/tottus-cl/articulo/114001590/aji-crema-botella-350-grs) → $737 (normal $811)
 - Tottus: [Ají Botella Pebre](https://www.tottus.cl/tottus-cl/articulo/110614993/aji-pebre-jb-barril-240-grs) → $1.442
-- Unimarc: [Ají pebre Nuestra Cocina sabor tradicional 240 g](https://www.unimarc.cl/aji-pebre-nuestra-cocina-240-gr/p) → $1.075 (normal $1.408)
-- Unimarc: [Ají pebre JB 240 g](https://www.unimarc.cl/aji-pebre-jb-240-gr/p) → $1.792
-- Unimarc: [Ají pebre Traverso envase flexible 350 g](https://www.unimarc.cl/aji-pebre-traverso-pet-350-gr/p) → $1.400
-- Jumbo: [Ají Pebre JB Botella 240 g](https://www.jumbo.cl/aji-en-crema-jb-botella-240-g-pebre-2/p) → $1.550
-- Jumbo: [Ají Pebre JB Botella 240 g](https://www.jumbo.cl/aji-en-crema-jb-botella-240-g-pebre-2/p) → $1.550
-- Jumbo: [Ají Pebre Don Juan 240 g](https://www.jumbo.cl/aji-en-crema-don-juan-pebre-botella-240-grs-2/p) → $1.392
-- Jumbo: [Ají Pebre Don Juan 240 g](https://www.jumbo.cl/aji-en-crema-don-juan-pebre-botella-240-grs-2/p) → $1.392
+- Lider: [Ají Pebre Squeeze, 240 g](https://super.lider.cl/ip/salsas/00780264072063) → $1.458
+- Lider: [Ají Chileno Squeeze, 240 g](https://super.lider.cl/ip/salsas/00780264040027) → $1.458
+- Lider: [Ají Pebre Squeeze, 240 g](https://super.lider.cl/ip/salsas/00780235100211) → $1.350
+- Lider: [Ají Pebre Squeeze, 350 g](https://super.lider.cl/ip/salsas/00780233700056) → $1.000 (normal $1.194)
+- Jumbo: [Ají Pebre Don Juan 240 g](https://www.jumbo.cl/aji-en-crema-don-juan-pebre-botella-240-grs-2/p) → $974
+- Jumbo: [Ají Pebre Don Juan 240 g](https://www.jumbo.cl/aji-en-crema-don-juan-pebre-botella-240-grs-2/p) → $974 (normal $1.392)
+- Jumbo: [Ají Pebre Cuisine & Co 240 g](https://www.jumbo.cl/aji-pebre-240-g-1862207/p) → $1.108
 
 ## Chimichurri `chimichurri` · por frasco
-**$2.000 · $2.550 · $2.680** (mín · media · máx, 5 precios)
-- Tottus: [Costillar de Cerdo Chimichurri Refrigerado Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/152636218/costillar-chimichurri-super-cerdo) → $2.238
+**$1.500 · $1.860 · $2.680** (mín · media · máx, 10 precios)
+- Tottus: [Costillar de Cerdo Chimichurri Refrigerado Super Cerdo Peso Variable](https://www.tottus.cl/tottus-cl/articulo/152636218/costillar-chimichurri-super-cerdo) → $1.598 (normal $2.238)
 - Tottus: [Salsa de Chimichurri](https://www.tottus.cl/tottus-cl/articulo/117077635/salsa-chimichurri-tottus-250g) → $2.552
 - Tottus: [Costillar al Vacío Chimichurri Peso Variable](https://www.tottus.cl/tottus-cl/articulo/115832556/costillar-al-vacio-chimichurr-kg) → $1.998
 - Tottus: [Pack Sal del Chef Chimichurri y Merkén La Sazoneria](https://www.tottus.cl/tottus-cl/articulo/136797982/pack-saldelchef-merk-chimi-la-sazoneria) → $11.990
+- Lider: [Salsa Chimichurri Squeeze, 330 g](https://super.lider.cl/ip/salsas/00780462765138) → $1.509 (normal $1.812)
+- Lider: [Chimichurri Patagónico Botella, 360 g](https://super.lider.cl/ip/salsas/00780460991013) → $2.106
+- Lider: [Costillar de Cerdo Chimichurri](https://super.lider.cl/ip/cerdo/00209097000000) → $1.558 (normal $1.998)
+- Lider: [Costillar de Cerdo Chimichurri](https://super.lider.cl/ip/cerdo/00209175000000) → $1.718 (normal $2.238)
+- Jumbo: [Costillar Chimichurri Super Cerdo kg](https://www.jumbo.cl/costillar-chimichu-2062312-kg/p) → $1.498 (normal $2.518)
 - Jumbo: [Chimichurri Locos Por El Asado 250 g](https://www.jumbo.cl/chimichurri-250-g/p) → $2.680
 - Jumbo: [Chimichurri Locos Por El Asado 250 g](https://www.jumbo.cl/chimichurri-250-g/p) → $2.680
 
 ## Salsa de queso (para nachos) `salsa_queso` · por frasco
-**$2.480 · $5.010 · $7.050** (mín · media · máx, 6 precios)
-- Tottus: [SALSA QUESO OEP 255 GR](https://www.tottus.cl/tottus-cl/articulo/130586118/salsa-queso-oep-255-gr) → $7.047
+**$1.700 · $3.170 · $5.700** (mín · media · máx, 9 precios)
 - Tottus: [Salsa de Queso Cheddar Doypack Adler 250 g](https://www.tottus.cl/tottus-cl/articulo/144941478/salsa-queso-cheddar-adler-250-gr) → $5.268
-- Tottus: [Salsa Dip Alcachofa, Espinaca y Queso Perfect Choice 220 g](https://www.tottus.cl/tottus-cl/articulo/148253935/dip-alchofa-esp-y-queso-p-choice-220-gr) → $4.759
+- Lider: [Salsa Queso Cheddar, 200 g](https://super.lider.cl/ip/salsas/00780209500065) → $1.695 (normal $2.475)
+- Lider: [Salsa Doble Queso Cheddar Frasco, 453 g](https://super.lider.cl/ip/salsas/00003620000218) → $3.172
+- Lider: [Salsa Dip Queso Cheddar Frasco, 220 g](https://super.lider.cl/ip/snacks-y-picoteo/00780462765045) → $3.395
+- Lider: [Salsa Queso Parmesano con Ajo Asado Frasco, 453 g](https://super.lider.cl/ip/salsas/00003620000217) → $3.172
+- Lider: [Salsa Dip Alcachofa con Espinaca y Queso Frasco, 220 g](https://super.lider.cl/ip/snacks-y-picoteo/00780311100305) → $4.520
+- Jumbo: [Salsa Cheddar Vegana Vegusta 350 g](https://www.jumbo.cl/salsa-cheddar-vega-2061899/p) → $3.077
+- Jumbo: [Salsa Cheddar Vegana Vegusta 350 g](https://www.jumbo.cl/salsa-cheddar-vega-2061899/p) → $3.077
 - Unimarc: [Salsa de queso cheddar ADLER 250gr](https://www.unimarc.cl/salsa-de-queso-cheddar-adler-250gr/p) → $5.700
-- Jumbo: [Salsa Cheddar Vegana Vegusta 350 g](https://www.jumbo.cl/salsa-cheddar-vega-2061899/p) → $2.477
-- Jumbo: [Salsa Cheddar Vegana Vegusta 350 g](https://www.jumbo.cl/salsa-cheddar-vega-2061899/p) → $2.477 (normal $3.077)
 
 ## Aceitunas `aceitunas` · por frasco
-**$1.990 · $2.990 · $4.310** (mín · media · máx, 18 precios)
-- Tottus: [Aceituna Negra Primera Granel](https://www.tottus.cl/tottus-cl/articulo/115899617/aceituna-negra-primera-tottus) → $2.347
-- Tottus: [Aceituna Negra Descarozada Pote Tottus 300 g](https://www.tottus.cl/tottus-cl/articulo/129948348/aceituna-negra-descarozada-tottus-300-gr) → $1.992
-- Tottus: [Aceituna Negra Anillo Granel](https://www.tottus.cl/tottus-cl/articulo/115845131/aceituna-anillo-negra-tottus) → $2.347
-- Tottus: [Aceituna Natural Granel](https://www.tottus.cl/tottus-cl/articulo/115899621/aceituna-natural-tottus) → $2.347
-- Tottus: [Aceituna Rellena Pimentón](https://www.tottus.cl/tottus-cl/articulo/113134588/aceituna-rellena-pimenton-tottus-300gr) → $4.083
-- Tottus: [Aceituna Negra](https://www.tottus.cl/tottus-cl/articulo/113076059/aceituna-negra-tottus-350gr) → $2.988
-- Tottus: [Aceituna Deshuesada Verde](https://www.tottus.cl/tottus-cl/articulo/113158269/aceituna-deshuesada-verde-tottus-350gr) → $2.988
-- Unimarc: [Aceitunas negras Don Juan huasco bolsa 340 g](https://www.unimarc.cl/aceituna-huasco-don-juan-340-gr/p) → $2.688
-- Unimarc: [Aceituna sevillana Tento bolsa 340 gr](https://www.unimarc.cl/aceituna-sevillana-tento-340-gr/p) → $3.238 (normal $3.362)
-- Unimarc: [Aceitunas rellenas Nuestra Cocina con pimiento lata 350 g](https://www.unimarc.cl/aceituna-rell-nu-cocina-350g-c-pimiento/p) → $4.083
-- Unimarc: [Aceituna sevillana Don Juan 200 gr drenado](https://www.unimarc.cl/aceituna-sevillana-don-juan-340-gr/p) → $4.113
-- Unimarc: [Aceituna azapa Don Juan 200 gr drenado](https://www.unimarc.cl/aceitunas-azapa-don-juan-330-gr/p) → $4.238
+**$1.490 · $2.740 · $4.440** (mín · media · máx, 20 precios)
+- Tottus: [Aceituna Negra Primera Granel](https://www.tottus.cl/tottus-cl/articulo/115899617/aceituna-negra-primera-tottus) → $2.122 (normal $2.347)
+- Tottus: [Aceituna Rellena Pimentón](https://www.tottus.cl/tottus-cl/articulo/113134588/aceituna-rellena-pimenton-tottus-300gr) → $3.150 (normal $4.083)
+- Tottus: [Aceituna Negra Descarozada Pote Tottus 300 g](https://www.tottus.cl/tottus-cl/articulo/129948348/aceituna-negra-descarozada-tottus-300-gr) → $1.492 (normal $1.992)
+- Tottus: [Aceituna Deshuesada Verde](https://www.tottus.cl/tottus-cl/articulo/113158269/aceituna-deshuesada-verde-tottus-350gr) → $2.238 (normal $2.988)
+- Tottus: [Aceituna Negra Anillo Granel](https://www.tottus.cl/tottus-cl/articulo/115845131/aceituna-anillo-negra-tottus) → $1.872 (normal $2.347)
+- Tottus: [Aceituna Natural Granel](https://www.tottus.cl/tottus-cl/articulo/115899621/aceituna-natural-tottus) → $2.122 (normal $2.347)
+- Tottus: [Aceituna Natural](https://www.tottus.cl/tottus-cl/articulo/113076080/aceituna-natural-tottus-350gr) → $2.363 (normal $2.988)
+- Lider: [Aceitunas Verdes Descarozadas en Salmuera Frasco, 330 g](https://super.lider.cl/ip/snacks-y-picoteo/00779207000055) → $2.644
+- Lider: [Aceitunas Verdes Rellenas con Pimiento Frasco, 330 g](https://super.lider.cl/ip/snacks-y-picoteo/00779207000049) → $2.644
+- Lider: [Aceitunas Rellenas con Queso, Drenado 150 g - Neto 350 g](https://super.lider.cl/ip/snacks-y-picoteo/00780790000102) → $4.083
+- Lider: [Aceitunas Natural 1 Un, 350 g](https://super.lider.cl/ip/snacks-y-picoteo/00780462733003) → $3.891
+- Lider: [Aceitunas Sevillanas Bolsa, 340 g](https://super.lider.cl/ip/snacks-y-picoteo/00780235113120) → $3.188 (normal $3.738)
 
 ## Pepinillos `pepinillos` · por frasco
-**$1.800 · $3.230 · $6.290** (mín · media · máx, 17 precios)
+**$1.440 · $2.620 · $6.290** (mín · media · máx, 23 precios)
 - Tottus: [Pepinillos Extra](https://www.tottus.cl/tottus-cl/articulo/115847344/pepinillos-extra-400grneto) → $2.235
-- Tottus: [Pepinillos Dill Extra](https://www.tottus.cl/tottus-cl/articulo/110616318/pepinos-dill-extra-don-juan-200-gr) → $3.525
-- Tottus: [Pepinillo en Vinagre](https://www.tottus.cl/tottus-cl/articulo/111865680/pepinillo-en-vinagre-don-juan-180g) → $2.517
-- Tottus: [Pepinillo Dill](https://www.tottus.cl/tottus-cl/articulo/113076307/pepinillo-dill-tottus-350gr) → $3.225
-- Tottus: [Pepinillos Dill Granel](https://www.tottus.cl/tottus-cl/articulo/115899623/pepinillos-dill-tottus) → $1.800
+- Tottus: [Pepinillos Dill Extra](https://www.tottus.cl/tottus-cl/articulo/110616318/pepinos-dill-extra-don-juan-200-gr) → $1.935 (normal $3.525)
+- Tottus: [Pepinillo en Vinagre](https://www.tottus.cl/tottus-cl/articulo/111865680/pepinillo-en-vinagre-don-juan-180g) → $1.650 (normal $2.517)
 - Tottus: [Pepinillos Agridulces El Corte Inglés 400 g](https://www.tottus.cl/tottus-cl/articulo/136559701/pepinillos-agridulces-400-gr) → $807 (normal $2.018)
-- Unimarc: [Pepino Dill Extra 180 g drenado Don Juan Pepinillos dill Don Juan agridulces bolsa 360 g](https://www.unimarc.cl/pepinillos-dill-don-juan-agridulces-bolsa-360-g/p) → $4.250
-- Unimarc: [Pepinillos Stollenwerk encurtido en vinagre 720 g](https://www.unimarc.cl/pepinillos-encurtido-en-vinagre-stollenwerk-720ml/p) → $4.542
-- Unimarc: [Pepinillo dill Tento 360 gr](https://www.unimarc.cl/pepinillo-dill-tento-360-gr/p) → $3.317
-- Unimarc: [Pepinillos Hengstenberg a la polaca frasco 360 gr drenado -  670 gr neto Pepinillos Hengstenberg a la polaca frasco 670 g](https://www.unimarc.cl/pepinillo-polaca-hengstenberg-670-ml/p) → $6.292
-- Unimarc: [Pepinillos encurtidos Tento bolsa 360 gr](https://www.unimarc.cl/pepinillos-en-vinagre-tento-360-gr/p) → $2.317
-- Unimarc: [Pepinillos dill Valle del Norte bandeja 350 g](https://www.unimarc.cl/pepinillo-dill-vdel-norte-350-grs/p) → $4.185
+- Tottus: [Pepinillo Dill](https://www.tottus.cl/tottus-cl/articulo/113076307/pepinillo-dill-tottus-350gr) → $2.535 (normal $3.225)
+- Tottus: [Pepinillos Dill Granel](https://www.tottus.cl/tottus-cl/articulo/115899623/pepinillos-dill-tottus) → $1.436 (normal $1.800)
+- Lider: [Pepinillos en Vinagre, 180 g](https://super.lider.cl/ip/supermercado/00780235100257) → $1.983
+- Lider: [Pepinillos Surtido Bolsa, 200 g](https://super.lider.cl/ip/frutos-secos/00780235146120) → $2.083 (normal $2.483)
+- Lider: [Pepinillos Rebanados Eneldo y Ajo Frasco, Drenado 285 g - Neto 508 g](https://super.lider.cl/ip/snacks-y-picoteo/00062891556197) → $2.621
+- Lider: [Pepinillos Rebanados Picantes Frasco, Drenado 285 g - Neto 508 g](https://super.lider.cl/ip/snacks-y-picoteo/00062891561115) → $2.621
+- Lider: [Pepinillos Dill Agridulce Bolsa, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780235145140) → $3.250 (normal $3.817)
+- Lider: [Pepinillos Rebanados Tradicionales Frasco, Drenado 285 g - Neto 508 g](https://super.lider.cl/ip/snacks-y-picoteo/00062891582830) → $2.621
 
 ## Palmitos `palmitos` · por tarro
-**$2.890 · $4.890 · $10.090** (mín · media · máx, 22 precios)
+**$1.490 · $3.810 · $7.910** (mín · media · máx, 30 precios)
+- Tottus: [Palmitos Enteros Bonanza 400 g](https://www.tottus.cl/tottus-cl/articulo/130919498/palmito-entero-bonanza-400-gr) → $4.527 (normal $6.164)
 - Tottus: [Palmitos Enteros Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/110613225/palmito-entero-tottus-400-gr) → $3.618 (normal $4.454)
 - Tottus: [Rodajas de Palmitos Wasil 400 g](https://www.tottus.cl/tottus-cl/articulo/110616052/palmito-rodaja-wasil-400-gr) → $3.618 (normal $4.527)
 - Tottus: [Palmitos Enteros Wasil 400 g](https://www.tottus.cl/tottus-cl/articulo/110615694/palmito-entero-wasil-400-gr) → $5.436 (normal $7.546)
-- Tottus: [Palmitos Enteros Esmeralda 400 g](https://www.tottus.cl/tottus-cl/articulo/124752268/palmito-entero-esmeralda-400-gr) → $6.900
-- Tottus: [Palmitos Enteros Bonanza 400 g](https://www.tottus.cl/tottus-cl/articulo/130919498/palmito-entero-bonanza-400-gr) → $6.164
-- Tottus: [Palmitos en Rodajas Esmeralda 400 g](https://www.tottus.cl/tottus-cl/articulo/110618088/palmito-rodaja-esmeralda-400-gr) → $5.182
-- Tottus: [Palmitos Enteros Giada 280 g](https://www.tottus.cl/tottus-cl/articulo/144148764/corazon-de-palmitos-enteros-giada-280-gr) → $10.094
+- Tottus: [Palmitos Enteros Esmeralda 400 g](https://www.tottus.cl/tottus-cl/articulo/124752268/palmito-entero-esmeralda-400-gr) → $4.100 (normal $6.900)
+- Tottus: [Palmitos en Rodajas Esmeralda 400 g](https://www.tottus.cl/tottus-cl/articulo/110618088/palmito-rodaja-esmeralda-400-gr) → $2.709 (normal $5.182)
 - Tottus: [Palmitos Enteros Bonanza 400 g](https://www.tottus.cl/tottus-cl/articulo/148695667/palmitos-enteros-bonanza-nog-400-gr) → $5.436
-- Unimarc: [Palmitos Nuestra Cocina en rodajas lata 400 g neto - 220 g drenado Palmitos Nuestra Cocina en rodajas lata 400 g](https://www.unimarc.cl/palmito-en-rodaja-nuestra-cocina-400-gr/p) → $4.891
-- Unimarc: [Palmitos Nuestra Cocina enteros lata 400 g neto - 220 g drenado Palmitos Nuestra Cocina enteros lata 400 g](https://www.unimarc.cl/palmito-entero-nuestra-cocina-400-gr/p) → $4.891
-- Unimarc: [Palmitos Wasil en rodajas lata 400 g neto - 220 g drenado Palmitos Wasil en rodajas lata 400 g](https://www.unimarc.cl/palmito-en-rodaja-wasil-400-gr/p) → $4.891
-- Unimarc: [Palmitos enteros Esmeralda lata 400 g neto - 220 g drenado](https://www.unimarc.cl/palmitos-enteros-esmeralda-400-g/p) → $5.909
+- Tottus: [Palmitos en Rodajas Bonanza 400 g](https://www.tottus.cl/tottus-cl/articulo/148693574/palmito-rodaja-bonanza-400-gr) → $3.364 (normal $4.527)
+- Lider: [Palmitos en Rodajas Lata, Drenado 220 g - Neto 400 g](https://super.lider.cl/ip/conservas/00780462481002) → $1.490
+- Lider: [Palmitos enteros, Drenado 220 g - Neto 400 g](https://super.lider.cl/ip/conservas/00786101390044) → $4.454
+- Lider: [Palmitos en Rodajas Tarro, Drenado 220 g - Neto 400 g](https://super.lider.cl/ip/conservas/00780130500188) → $3.254 (normal $4.454)
+- Lider: [Palmitos Enteros Tarro, Drenado 220 g - Neto 400 g](https://super.lider.cl/ip/conservas/00780130513364) → $5.618 (normal $7.072)
 
 ## Arvejas `arvejas` · por tarro
-**$630 · $1.250 · $2.380** (mín · media · máx, 21 precios)
+**$630 · $1.160 · $2.460** (mín · media · máx, 26 precios)
 - Tottus: [Arvejas Tiernas](https://www.tottus.cl/tottus-cl/articulo/110622757/arvejas-tiernas-crianza-400-gr) → $1.718 (normal $1.763)
 - Tottus: [Arvejas](https://www.tottus.cl/tottus-cl/articulo/116452457/arveja-500-grs-tottus) → $627
 - Tottus: [ARVEJAS EN CONSERVA TOTTUS 400 G](https://www.tottus.cl/tottus-cl/articulo/111866226/arvejas-tottus-400-gr) → $900
 - Tottus: [Mayonesa Vegetal Arvejas](https://www.tottus.cl/tottus-cl/articulo/118176120/aderezo-veg-arveja-sglut-eggless-352gr) → $2.378
 - Tottus: [Arvejas Especiales Premium](https://www.tottus.cl/tottus-cl/articulo/110618519/arvejas-wasil-340-gr) → $1.302
 - Tottus: [Arvejas Verdes Martini 500 g](https://www.tottus.cl/tottus-cl/articulo/112737571/arvejas-verdes-grado-1.500grmartini) → $792
-- Unimarc: [Arvejas Nuestra Cocina 500 g](https://www.unimarc.cl/arvejas-congeladas-nuestra-cocina-500-gr/p) → $894 (normal $1.290)
-- Unimarc: [Arvejas Wasil tetra 340 g neto - 205 g drenado Arvejas Wasil tetra 340 g](https://www.unimarc.cl/arvejas-tetra-wasil-340-gr/p) → $1.390
-- Unimarc: [Arvejas Frutos del Maipo 500 g](https://www.unimarc.cl/arvejas-frutos-del-maipo-500-gr/p) → $1.290 (normal $1.530)
-- Unimarc: [Arvejas Minuto Verde 500 g](https://www.unimarc.cl/arvejas-minuto-verde-500-g/p) → $1.254
-- Unimarc: [Arvejas verdes Nuestra Cocina partidas bolsa 500 g](https://www.unimarc.cl/arvejas-verdes-parti-nuestra-cocina-500g/p) → $750
-- Unimarc: [Arvejas tiernas La Crianza 400 g](https://www.unimarc.cl/arvejas-tiernas-la-crianza-400-grs/p) → $1.838
+- Lider: [Arvejas Caja, Drenado 205 g - Neto 340 g](https://super.lider.cl/ip/conservas/00780130500365) → $951 (normal $1.273)
+- Lider: [Arvejas sin Colorantes Lata, Drenado 252 g - Neto 420 g](https://super.lider.cl/ip/conservas/00040000725572) → $905
+- Lider: [Arvejas en Salmuera Lata, Drenado 252 g - Neto 420 g](https://super.lider.cl/ip/conservas/00780180010715) → $1.096
+- Lider: [Arvejas Tiernas Congeladas, 400 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780961170128) → $1.718
+- Lider: [Arvejas y Zanahorias, 340 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00007874223738) → $2.462
+- Jumbo: [Arvejas Minuto Verde 500 g](https://www.jumbo.cl/arvejas-minuto-verde-bolsa-500-g-congelado-2/p) → $1.116
 
 ## Mote con huesillo (listo) `mote_huesillo` · por botella de 1 L
 _Referencial_: se mantiene $1.990 · $2.690 · $3.490 (0 precios encontrados)
 
 ## Papel aluminio `papel_aluminio` · por rollo
-**$990 · $1.940 · $5.190** (mín · media · máx, 22 precios)
+**$990 · $1.920 · $5.190** (mín · media · máx, 28 precios)
 - Tottus: [Papel Aluminio Económico](https://www.tottus.cl/tottus-cl/articulo/110619883/papel-de-aluminio-7-5-mt-econ-tottus) → $990 (normal $1.390)
 - Tottus: [Papel de Aluminio Multiuso](https://www.tottus.cl/tottus-cl/articulo/110615308/papel-de-aluminio-7-5-mt-estuche-tottus) → $1.330
-- Tottus: [Pack Papel Aluminio 11.5 Mt Alufoil](https://www.tottus.cl/tottus-cl/articulo/110619195/pack-alufoil-4.5m-aluhome) → $2.390
-- Tottus: [PAPEL ALUMINIO FOIL 7.5 M EUROFOIL.](https://www.tottus.cl/tottus-cl/articulo/110613447/papel-aluminio-foil-7-5-m-eurofoil) → $1.840
-- Tottus: [Papel de Aluminio Alufoil 30 mts](https://www.tottus.cl/tottus-cl/articulo/145095815/papel-aluminio-30-mts-alufoil-und) → $4.990
 - Tottus: [Papel de Aluminio  Standard 7.5 mts Aluhome](https://www.tottus.cl/tottus-cl/articulo/110614878/film-alusa-foil-standard-7-5-m-aluhome) → $1.350 (normal $1.680)
+- Tottus: [PAPEL ALUMINIO FOIL 7.5 M EUROFOIL.](https://www.tottus.cl/tottus-cl/articulo/110613447/papel-aluminio-foil-7-5-m-eurofoil) → $1.840
+- Tottus: [Pack Papel Aluminio 11.5 Mt Alufoil](https://www.tottus.cl/tottus-cl/articulo/110619195/pack-alufoil-4.5m-aluhome) → $2.390
+- Tottus: [Papel de Aluminio Alufoil 30 mts](https://www.tottus.cl/tottus-cl/articulo/145095815/papel-aluminio-30-mts-alufoil-und) → $4.990
 - Tottus: [Papel Aluminio 21 mts Eurofoil 1 un](https://www.tottus.cl/tottus-cl/articulo/156310979/rollo-aluminio-21-mts-eurofoil-21-mt) → $3.000
-- Tottus: [Papel Aluminio 15 mts Eurofoil 1 un](https://www.tottus.cl/tottus-cl/articulo/156311005/rollo-aluminio-15-mts-eurofoil-15-mt) → $2.000
-- Unimarc: [Papel aluminio AluFoil estándar 7.5 mt rollo 1 un](https://www.unimarc.cl/alusa-foil-standard-7-5-mts/p) → $1.950
-- Unimarc: [Papel aluminio AluFoil profesional rollo 1 un (30 m)](https://www.unimarc.cl/papel-aluminio-extra-fuerte-30mt/p) → $5.190
-- Unimarc: [Papel aluminio Dkora 7.7 m](https://www.unimarc.cl/papel-aluminio-dkora-7-5mt/p) → $1.790
-- Unimarc: [Papel aluminio Eurofoil 20 m](https://www.unimarc.cl/papel-aluminio-eurofoil-20-mts/p) → $4.390
+- Tottus: [Papel Aluminio Foil 20 Mt Eurofoil](https://www.tottus.cl/tottus-cl/articulo/110609689/papel-aluminio-foil-20-m-eurofoil) → $4.490
+- Lider: [Papel Aluminio 20 Metros Sin Corte, 20 Metros](https://super.lider.cl/ip/papeles/00780500500403) → $4.590
+- Lider: [Papel Aluminio Sin Cierra 15 Metros, 15 L](https://super.lider.cl/ip/papeles/00780187500229) → $1.890 (normal $2.950)
+- Lider: [Papel Aluminio 30 Metros Corte Sierra, 1 Un](https://super.lider.cl/ip/papeles/00040000625939) → $4.000
+- Lider: [Papel Aluminio 7,5 Metros Sin Corte, 7,5 Metros](https://super.lider.cl/ip/papeles/00780500504010) → $1.850
 
 ## Mermelada `mermelada` · por frasco
-**$790 · $1.310 · $2.190** (mín · media · máx, 24 precios)
+**$790 · $1.390 · $2.730** (mín · media · máx, 28 precios)
+- Tottus: [Mermelada Frutilla](https://www.tottus.cl/tottus-cl/articulo/113571087/mermelada-frutilla-doypack-watts-360-gr) → $1.313 (normal $1.521)
+- Tottus: [Mermelada mora](https://www.tottus.cl/tottus-cl/articulo/113571165/mermelada-mora-doypack-watts-360-gr) → $1.313 (normal $1.521)
 - Tottus: [Mermelada Damasco](https://www.tottus.cl/tottus-cl/articulo/113640747/mermelada-damasco-doypack-watts-360-gr) → $1.313 (normal $1.521)
 - Tottus: [Mermelada Damasco](https://www.tottus.cl/tottus-cl/articulo/110610598/mermelada-damasco-tottus-250-gr) → $790 (normal $980)
-- Tottus: [Mermelada mora](https://www.tottus.cl/tottus-cl/articulo/113571165/mermelada-mora-doypack-watts-360-gr) → $1.313 (normal $1.521)
-- Tottus: [Mermelada Frambuesa](https://www.tottus.cl/tottus-cl/articulo/110613057/mermelada-frambuesa-tottus-250-gr) → $790 (normal $1.050)
-- Tottus: [Mermelada Frutilla](https://www.tottus.cl/tottus-cl/articulo/113571087/mermelada-frutilla-doypack-watts-360-gr) → $1.313 (normal $1.521)
 - Tottus: [Mermelada Alcayota](https://www.tottus.cl/tottus-cl/articulo/110615492/mermelada-alcayota-watts-225-gr) → $1.411
-- Tottus: [Mermelada Mora](https://www.tottus.cl/tottus-cl/articulo/110610923/mermelada-mora-tottus-250-gr) → $790 (normal $990)
+- Tottus: [Mermelada Mora Watts 225 g](https://www.tottus.cl/tottus-cl/articulo/110615054/mermelada-mora-watts-225-gr) → $1.411
+- Tottus: [Mermelada Frambuesa](https://www.tottus.cl/tottus-cl/articulo/110613057/mermelada-frambuesa-tottus-250-gr) → $790 (normal $1.050)
 - Tottus: [Mermelada Frutilla](https://www.tottus.cl/tottus-cl/articulo/110615837/mermelada-frutilla-watts-225-gr) → $1.411
-- Unimarc: [Mermelada Watt's 0% azúcar mora bolsa 200 g](https://www.unimarc.cl/mermelada-s-azucar-mora-watt-s-bolsa-200-g/p) → $2.188
-- Unimarc: [Mermelada Watt's frambuesa bolsa 225 g](https://www.unimarc.cl/mermelada-watts-250-gr-frambuesa/p) → $1.500
-- Unimarc: [Mermelada Watt's mora bolsa 225 g](https://www.unimarc.cl/mermelada-watts-mora-250-gr/p) → $1.500
-- Unimarc: [Mermelada Watt's durazno con trozos bolsa 225 g](https://www.unimarc.cl/mermelada-watts-250-gr-durazno/p) → $1.500
+- Lider: [Mermelada Cereza 284Gr, 284](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00501427131042) → $4.217
+- Lider: [Mermelada Berries Sin Azúcar, 200 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780130500248) → $1.488 (normal $1.812)
+- Lider: [Mermelada Trozos De Durazno, 200 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780180010912) → $1.250 (normal $1.438)
+- Lider: [Mermelada Frutilla Sin Azúcar, 320 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780400000137) → $2.727
 
 ## Mermelada de higo `mermelada_higo` · por frasco
 **$850 · $2.430 · $3.030** (mín · media · máx, 5 precios)
@@ -1311,338 +1353,337 @@ _Referencial_: se mantiene $1.990 · $2.690 · $3.490 (0 precios encontrados)
 - Jumbo: [Mermelada La Vieja Fábrica Higo 280 g](https://www.jumbo.cl/mermelada-de-higo-la-vieja-fabrica-350-g/p) → $3.027
 
 ## Manjar `manjar` · por pote
-**$2.000 · $2.650 · $3.750** (mín · media · máx, 10 precios)
+**$1.480 · $2.290 · $3.750** (mín · media · máx, 13 precios)
 - Tottus: [Manjar sin Azúcar Daily con Alulosa 400 g](https://www.tottus.cl/tottus-cl/articulo/119829742/manjar-sin-az-dp-alulosa-daily-400-gr) → $3.750
 - Tottus: [Manjar Dulce de Leche](https://www.tottus.cl/tottus-cl/articulo/110622310/manjar-colun-pote-400-grs) → $2.450
 - Tottus: [Manjar Dulce de Leche](https://www.tottus.cl/tottus-cl/articulo/110622494/manjar-colun-bolsa-500-grs) → $2.360
 - Tottus: [MANJAR TARRO TAPA NESTLE 375 GRS](https://www.tottus.cl/tottus-cl/articulo/119952209/manjar-tarro-tapa-nestle-375-grs) → $2.293
-- Unimarc: [Manjar Colun pote 400 g](https://www.unimarc.cl/manjar-colun-pote-400-g/p) → $2.000 (normal $2.590)
-- Unimarc: [Manjar Nestlé sin lactosa untable doypack 350 g](https://www.unimarc.cl/manjar-sin-lactosa-nestle-350gr/p) → $2.286 (normal $3.074)
-- Unimarc: [Manjar Daily con alulosa doypack 400 g](https://www.unimarc.cl/manjar-daily-c-alulosa-doypack-400gr/p) → $3.000 (normal $3.490)
+- Lider: [Manjar Tradicional Pote, 400 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780292022132) → $2.000 (normal $2.390)
+- Lider: [Manjar Tradicional Bolsa, 270 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00844529153493) → $1.482
+- Lider: [Manjar Bolsa, 500 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780292022136) → $2.280
+- Lider: [Manjar Dulce de leche Pote, 400 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780290041001) → $1.990
+- Lider: [Manjar Clásico Doypack, 400 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00761328755894) → $2.750
 - Jumbo: [Manjar Colun Doypack 400 g](https://www.jumbo.cl/manjar-colun-doypack-400g-1997815/p) → $7
 - Jumbo: [Manjar Colun Doypack 400 g](https://www.jumbo.cl/manjar-colun-doypack-400g-1997815/p) → $2.850
-- Jumbo: [Manjar Daily Sin Lactosa 380 g](https://www.jumbo.cl/manjar-pote-380gr-2039273/p) → $3.253
-- Jumbo: [Manjar Daily Sin Lactosa 380 g](https://www.jumbo.cl/manjar-pote-380gr-2039273/p) → $3.253
+- Unimarc: [Manjar Colun pote 400 g](https://www.unimarc.cl/manjar-colun-pote-400-g/p) → $2.000 (normal $2.590)
 
 ## Miel `miel` · por frasco
-**$4.990 · $5.770 · $8.540** (mín · media · máx, 13 precios)
+**$4.990 · $5.770 · $8.540** (mín · media · máx, 17 precios)
 - Tottus: [Miel de Abeja Patagonia Chiloe Panales del Sur 500 g](https://www.tottus.cl/tottus-cl/articulo/130911959/miel-patagonia-panales-del-sur-500-gr) → $5.690
 - Tottus: [Miel de Abeja](https://www.tottus.cl/tottus-cl/articulo/113420035/miel-de-abeja-colmenares-500-g) → $6.050
 - Tottus: [Miel de Abeja](https://www.tottus.cl/tottus-cl/articulo/110612217/miel-de-abeja-tottus-450-gr) → $5.434
-- Unimarc: [Miel de Ulmo Abeja Dorado premium frasco 550 g](https://www.unimarc.cl/miel-ulmo-abeja-dorada-550-gr/p) → $8.537
-- Unimarc: [Miel nativa Abeja Dorado premium frasco 550 g](https://www.unimarc.cl/miel-nativa-abeja-dorada-550-gr/p) → $7.591
-- Unimarc: [Miel de abeja Nuestra Cocina frasco 500 g](https://www.unimarc.cl/miel-de-abeja-fco-nuestra-cocina-500-gr/p) → $4.990
-- Unimarc: [Miel de abeja Nuestra Cocina pote 400 g](https://www.unimarc.cl/miel-de-abeja-pote-nuestra-cocina-400-gr/p) → $5.238
-- Unimarc: [Miel abejas Morelli multiflora 450 g](https://www.unimarc.cl/miel-abejas-multiflora-morelli-450-gr/p) → $5.767
-- Unimarc: [Miel de abeja Villa Alemana 500 g](https://www.unimarc.cl/miel-pura-de-abeja-villa-alemana-500-gr/p) → $6.290
+- Lider: [Miel De Abeja Seleccionada multiflora Frasco, 450 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780335000000) → $5.767
+- Lider: [Miel De Abeja Pote, 400 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780339500013) → $5.613
+- Lider: [Miel De Abeja Natural Chiloé Frasco, 500 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780460581001) → $5.590
+- Lider: [Miel De Abeja, 400 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780454500053) → $6.237
 - Jumbo: [Miel Pura de Abejas Mailemu Bosque Nativo 550 g](https://www.jumbo.cl/miel-bosque-nativo-abejas-550g-mailemu-1968529/p) → $6.227
 - Jumbo: [Miel Pura de Abejas Mailemu Bosque Nativo 550 g](https://www.jumbo.cl/miel-bosque-nativo-abejas-550g-mailemu-1968529/p) → $6.228
 - Jumbo: [Miel de Abejas Cuisine & Co 450 g](https://www.jumbo.cl/miel-de-abejas-450-g-cuisine-and-co-1802340/p) → $4.989
+- Jumbo: [Miel de Abejas Cuisine & Co 450 g](https://www.jumbo.cl/miel-de-abejas-450-g-cuisine-and-co-1802340/p) → $4.989
+- Unimarc: [Miel de Ulmo Abeja Dorado premium frasco 550 g](https://www.unimarc.cl/miel-ulmo-abeja-dorada-550-gr/p) → $8.537
 
 ## Crema de avellanas `crema_avellanas` · por frasco
-**$2.400 · $6.800 · $8.440** (mín · media · máx, 8 precios)
+**$2.400 · $3.550 · $7.790** (mín · media · máx, 7 precios)
 - Tottus: [Crema de Avellana Bicolor 400 gr](https://www.tottus.cl/tottus-cl/articulo/110612183/crema-de-avellanas-bicolor-tottus-400-gr) → $3.404
 - Tottus: [Satín Cake Chocolate Avellana](https://www.tottus.cl/tottus-cl/articulo/117545342/satin-chocolate-avellana-cp-462-gr) → $2.399
 - Tottus: [Crema de Avellana](https://www.tottus.cl/tottus-cl/articulo/113991214/crema-de-avellana-en-linea-350-gr) → $7.790
 - Tottus: [Crema Untable Chocolate Avellana Spread Nusco 350 g](https://www.tottus.cl/tottus-cl/articulo/148353145/spread-avellana-nusco-350gr) → $4.792 (normal $5.990)
-- Jumbo: [Crema de Avellana Vegana Nutella 350 g](https://www.jumbo.cl/nutella-vegan-350g-2020689/p) → $8.440
-- Jumbo: [Crema de Avellana Vegana Nutella 350 g](https://www.jumbo.cl/nutella-vegan-350g-2020689/p) → $8.440
-- Jumbo: [Crema de Avellana Nutella Alemana 450 g](https://www.jumbo.cl/crema-de-avellana-nutella-alemana-450g-265565/p) → $6.798
-- Jumbo: [Crema de Avellana Nutella Alemana 450 g](https://www.jumbo.cl/crema-de-avellana-nutella-alemana-450g-265565/p) → $6.798
+- Lider: [Crema de Avellana con Cacao Frasco, 350 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780790000104) → $3.690
+- Lider: [Crema de Avellana Ambrosella Frasco 350 g, 350 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00541029101950) → $3.550
+- Lider: [Crema Para Café Avellana Frasco, 425,2 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00005000031474) → $3.088 (normal $3.863)
+- Jumbo: [Café Cappuccino Juan Valdez Avellana 6 un.](https://www.jumbo.cl/cafe-juan-valdez-2039835/p) → $11.570 (normal $16.528)
 
 ## Mantequilla de maní `mantequilla_mani` · por frasco
-**$2.350 · $3.200 · $6.410** (mín · media · máx, 22 precios)
+**$1.830 · $3.010 · $6.410** (mín · media · máx, 28 precios)
 - Tottus: [Puri Mantequilla de Maní 450 g](https://www.tottus.cl/tottus-cl/articulo/110620788/mantequilla-de-mani-puri-450-gr) → $4.495
-- Tottus: [Mantequilla de Mani](https://www.tottus.cl/tottus-cl/articulo/110611978/crema-de-mani-tottus-200-gr) → $3.383
 - Tottus: [Mantequilla De Mani Sin Azúcar](https://www.tottus.cl/tottus-cl/articulo/110611845/crema-de-mani-sin-azucar-tottus-200-gr) → $3.893
+- Tottus: [Mantequilla de Mani](https://www.tottus.cl/tottus-cl/articulo/110611978/crema-de-mani-tottus-200-gr) → $3.383
 - Tottus: [Mantequilla de Maní Crunchy American Classic 510 g](https://www.tottus.cl/tottus-cl/articulo/148253923/mantemani-crunchy-ameclassic-510-gr) → $2.660
-- Tottus: [Mantequilla de Maní Creamy American Classic 510 g](https://www.tottus.cl/tottus-cl/articulo/148253929/mantemani-creamy-ameclassic-510-gr) → $2.660
 - Tottus: [MANTEQUILLA DE MANI NUTRISA 400 GR](https://www.tottus.cl/tottus-cl/articulo/116451491/mantequilla-de-mani-nutrisa-400-gr) → $4.582
 - Tottus: [Mantequilla de Maní Underfive 460 g](https://www.tottus.cl/tottus-cl/articulo/140882773/mantequilla-de-mani-underfive-460-gr) → $3.023
+- Tottus: [Mantequilla de Maní Creamy American Classic 510 g](https://www.tottus.cl/tottus-cl/articulo/148253929/mantemani-creamy-ameclassic-510-gr) → $2.660
 - Tottus: [Mantequilla de Maní Reeses 510 g](https://www.tottus.cl/tottus-cl/articulo/149405335/mantequilla-de-mani-reeses-510-gr) → $57.267
-- Unimarc: [Mantequilla de maní Tento smooth pote 500 gr](https://www.unimarc.cl/mantequilla-de-mani-tento-500gr-smooth/p) → $2.346
-- Unimarc: [Mantequilla de maní Tento crunchy pote 500 gr](https://www.unimarc.cl/mantequilla-de-mani-tento-500gr-crunchy/p) → $2.346
-- Unimarc: [Mantequilla de maní American Classic creamy 510 gr](https://www.unimarc.cl/mant-mani-american-classic-510gr-creamy/p) → $2.860
-- Unimarc: [Mantequilla de maní Smutter original 450 g](https://www.unimarc.cl/manteq-mani-original-smutter-450gr/p) → $4.722
+- Jumbo: [Mantequilla de Maní Manare Orgánica 360 g](https://www.jumbo.cl/mantequilla-de-mani-organica-360-g/p) → $5.130
+- Jumbo: [Mantequilla de Maní Manare Orgánica 360 g](https://www.jumbo.cl/mantequilla-de-mani-organica-360-g/p) → $5.130 (normal $6.413)
+- Jumbo: [Mantequilla de Maní Cuisine & Co American Style 500 g](https://www.jumbo.cl/mantequilla-de-mani-ame-style-c-and-co-500gr-1959418/p) → $2.713
+- Jumbo: [Mantequilla de Maní Cuisine & Co American Style 500 g](https://www.jumbo.cl/mantequilla-de-mani-ame-style-c-and-co-500gr-1959418/p) → $2.713
 
 ## Dulce de membrillo `membrillo` · por unidad
-**$1.470 · $1.670 · $4.110** (mín · media · máx, 18 precios)
+**$1.260 · $1.750 · $4.110** (mín · media · máx, 22 precios)
+- Tottus: [Dulce de Membrillo Pote Watts 500 g](https://www.tottus.cl/tottus-cl/articulo/130806770/dulce-de-membrillo-pote-watts-500-gr) → $1.800
 - Tottus: [Dulce de Membrillo](https://www.tottus.cl/tottus-cl/articulo/110620946/dulce-de-membrillo-watts-250-gr) → $1.504
 - Tottus: [Dulce de Membrillo](https://www.tottus.cl/tottus-cl/articulo/110618801/dulce-de-membrillo-watts-500-gr) → $1.600
 - Tottus: [Dulce De Membrillo Sin Azúcar](https://www.tottus.cl/tottus-cl/articulo/113640693/dulce-de-membrillo-sazucar-pote-330-grs) → $3.697
-- Tottus: [Dulce de Membrillo Pote Watts 500 g](https://www.tottus.cl/tottus-cl/articulo/130806770/dulce-de-membrillo-pote-watts-500-gr) → $1.800
-- Tottus: [Dulce Membrillo](https://www.tottus.cl/tottus-cl/articulo/110612476/dulce-de-membrillo-tottus-500-gr) → $1.480
 - Tottus: [Dulce de Membrillo](https://www.tottus.cl/tottus-cl/articulo/113570582/dulce-de-membrillo-eckart-500-gr) → $1.640
-- Unimarc: [Dulce de membrillo Watt´s bolsa 500 g](https://www.unimarc.cl/dulce-de-membrillo-watts-500-gr-2/p) → $1.752
-- Unimarc: [Dulce de Membrillo Watts 250 Gr](https://www.unimarc.cl/dulce-de-membrillo-watts-250-gr/p) → $1.472
-- Unimarc: [Dulce de membrillo Eckart sin azúcar pote 330 g](https://www.unimarc.cl/dulce-de-membrillo-s-azucar-eckart-330gr/p) → $4.109
-- Unimarc: [Mermelada Watt's sabor membrillo 225 g](https://www.unimarc.cl/mermelada-sabor-membrillo-watts-225-gr/p) → $2.400
+- Tottus: [Dulce Membrillo](https://www.tottus.cl/tottus-cl/articulo/110612476/dulce-de-membrillo-tottus-500-gr) → $1.480
+- Lider: [Dulce de membrillo 250g, 250 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780400010025) → $1.264
+- Lider: [Dulce Membrillo Pote, 500 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00000007803422) → $1.752
+- Lider: [Dulce Membrillo Pote, 330 g](https://super.lider.cl/ip/sin-azucar/00780400000046) → $3.624
+- Lider: [Galletas Holanda Bocado Membrillo Bolsa, 300 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00780222563090) → $3.133
 - Jumbo: [Dulce de Membrillo Cuisine & Co 250 g](https://www.jumbo.cl/dulce-de-membrillo-250-g-cuisine-and-co-1798152/p) → $1.488
 - Jumbo: [Dulce de Membrillo Cuisine & Co 250 g](https://www.jumbo.cl/dulce-de-membrillo-250-g-cuisine-and-co-1798152/p) → $1.488
 
 ## Té negro `te` · por caja
-**$700 · $1.080 · $2.790** (mín · media · máx, 12 precios)
-- Tottus: [Té Premium](https://www.tottus.cl/tottus-cl/articulo/110620323/te-ceylan-premium-club-0-2-kl) → $770
-- Tottus: [Té Negro Canela Ahmad 20 Un](https://www.tottus.cl/tottus-cl/articulo/131173798/te-negro-canela-ahmad-20-und) → $4.490
+**$700 · $1.150 · $4.150** (mín · media · máx, 19 precios)
 - Tottus: [Té Negro English Breakfast Lipton 20 Un](https://www.tottus.cl/tottus-cl/articulo/140882661/te-negro-eng-breakfast-lipton-20-blsitas) → $2.450 (normal $2.790)
-- Tottus: [Té Negro Lipton Naranja 20 Bolsitas Pirámides](https://www.tottus.cl/tottus-cl/articulo/145095928/piramide-te-negro-naranj-lipton-20-blsts) → $4.250
+- Tottus: [Té Negro Yellow Label Lipton 20 Un](https://www.tottus.cl/tottus-cl/articulo/140882689/te-negro-yellow-label-lipton-20-bolsitas) → $2.390
+- Tottus: [Té Premium](https://www.tottus.cl/tottus-cl/articulo/110620323/te-ceylan-premium-club-0-2-kl) → $770
+- Tottus: [Té English Breakfast Té Club 20 Un](https://www.tottus.cl/tottus-cl/articulo/119824108/te-english-breakfast-te-club-gr) → $1.390 (normal $2.090)
+- Tottus: [Té Negro Canela Ahmad 20 Un](https://www.tottus.cl/tottus-cl/articulo/131173798/te-negro-canela-ahmad-20-und) → $4.490
 - Tottus: [Té Ceylan Clásico Envase Sustentable Té Club 40 Un](https://www.tottus.cl/tottus-cl/articulo/152636290/te-club-premium-sustentable-club-40-un) → $695
-- Tottus: [Té Negro Bigelow Estilo Inglés 18 Bolsitas](https://www.tottus.cl/tottus-cl/articulo/145095783/te-negro-estilo-ingles-bigelow-18-bol) → $5.878
-- Tottus: [Té English Breakfast Té Club 20 Un](https://www.tottus.cl/tottus-cl/articulo/119824108/te-english-breakfast-te-club-gr) → $2.090
-- Jumbo: [Té Ceylán Supremo Premium Doble Cámara Caja 40 g 20 un.](https://www.jumbo.cl/te-ceylan-supremo-caja-40-g-20-bolsas-premium-doble-camara/p) → $1.290
-- Jumbo: [Té Ceylán Supremo Premium Doble Cámara Caja 40 g 20 un.](https://www.jumbo.cl/te-ceylan-supremo-caja-40-g-20-bolsas-premium-doble-camara/p) → $1.290 (normal $1.640)
-- Jumbo: [Té Ceylán Mildred Tea Caja 40 g 20 un.](https://www.jumbo.cl/te-ceylan-mildred-tea-caja-40-g-20-bolsas/p) → $825
-- Jumbo: [Té Ceylán Mildred Tea Caja 40 g 20 un.](https://www.jumbo.cl/te-ceylan-mildred-tea-caja-40-g-20-bolsas/p) → $825 (normal $1.090)
-- Jumbo: [Té Ceylán Supremo Premium 200 g 100 un.](https://www.jumbo.cl/te-ceylan-supremo-premium-200-g-100-unid/p) → $936
+- Tottus: [Té Negro Lipton Naranja 20 Bolsitas Pirámides](https://www.tottus.cl/tottus-cl/articulo/145095928/piramide-te-negro-naranj-lipton-20-blsts) → $4.250
+- Lider: [Té negro en bolsitas yellow label, 25 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00505670100061) → $1.880
+- Lider: [Té Negro Earl Grey en Bolsitas, 25 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00506327010075) → $2.632
+- Lider: [Té negro english breakfast en bolsitas, 25 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00506327012068) → $2.200
+- Lider: [Te negro dilmah earl grey 20 bolsas 12 un, 40 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00931263117423) → $9.150
+- Lider: [Te negro dilmah english breakfast 20 bolsas 12 un, 40 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00931263117422) → $9.150
 
 ## Té verde `te_verde` · por caja
-**$880 · $1.790 · $4.580** (mín · media · máx, 18 precios)
+**$880 · $1.560 · $4.580** (mín · media · máx, 22 precios)
 - Tottus: [Te Verde C. Limon  Twinings](https://www.tottus.cl/tottus-cl/articulo/110619022/te-verde-c-limon-twinings-10-uni) → $6.500
 - Tottus: [TE VERDE PURE AHMAD 10 UND](https://www.tottus.cl/tottus-cl/articulo/116453532/te-verde-pure-ahmad-10-und) → $4.580
-- Tottus: [Te Verde Moringa Jengibre Supremo](https://www.tottus.cl/tottus-cl/articulo/113348843/te-verde-moringa-jengibre-supremo-20-und) → $2.290
-- Tottus: [Té Verde Premium Té Club 20 Un](https://www.tottus.cl/tottus-cl/articulo/119895572/te-verde-te-club-gr) → $1.890
-- Unimarc: [Té verde Butterfly brand grasspan 20 bolsitas](https://www.unimarc.cl/te-verde-chino-grasspan-butterfly-20-un/p) → $1.000 (normal $1.490)
-- Unimarc: [Té verde Impra 100 un](https://www.unimarc.cl/te-verde-impra-100-un/p) → $878
-- Unimarc: [Té verde Supremo premium 50 bolsitas](https://www.unimarc.cl/te-verde-premium-supremo-50-un/p) → $1.820
-- Unimarc: [Té verde Supremo frutos del bosque 20 bolsitas](https://www.unimarc.cl/te-verde-frutos-bosque-supremo-20-un/p) → $1.890
-- Unimarc: [Te Verde Surtido Supremo 75 Un](https://www.unimarc.cl/te-verde-surtido-supremo-75-un/p) → $2.051
-- Unimarc: [Té verde Supremo con matcha 20 bolsitas](https://www.unimarc.cl/te-verde-c-matcha-supremo-20-un/p) → $2.350
-- Unimarc: [Té verde Supremo premium 100 bolsitas](https://www.unimarc.cl/te-verde-premium-supremo-100-un/p) → $1.450
-- Jumbo: [Té Verde Chino 20 un.](https://www.jumbo.cl/te-verde-china-te-verde-caja-40-g-20-bolsas-2/p) → $1.450
+- Tottus: [Té Verde Premium Té Club 20 Un](https://www.tottus.cl/tottus-cl/articulo/119895572/te-verde-te-club-gr) → $1.290 (normal $1.890)
+- Lider: [Té Verde Cirrusen Bolsitas, 20 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00506327010139) → $3.690
+- Lider: [Té Verde Caja, 50 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00931263116591) → $3.836
+- Lider: [Té Verde Clasico Caja, 20 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00506327010135) → $2.850
+- Lider: [Té Verde Chino Caja, 20 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00690111870701) → $1.350
+- Lider: [Té Verde frutos rojos 20 bolsitas Caja, 22 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00780181080446) → $3.690
+- Jumbo: [Té Verde Supremo Frutos del Bosque 20 un.](https://www.jumbo.cl/te-verde-supremo-20-bolsas-frutos-del-bosque/p) → $1.561
+- Jumbo: [Té Verde Supremo Frutos del Bosque 20 un.](https://www.jumbo.cl/te-verde-supremo-20-bolsas-frutos-del-bosque/p) → $1.561 (normal $2.230)
+- Jumbo: [Té Verde Supremo Premium 50 un.](https://www.jumbo.cl/te-verde-supremo-50-bolsas-premium/p) → $1.238
+- Jumbo: [Té Verde Supremo Premium 50 un.](https://www.jumbo.cl/te-verde-supremo-50-bolsas-premium/p) → $1.238 (normal $1.768)
 
 ## Infusión de hierbas `te_hierbas` · por caja
-**$930 · $1.250 · $2.590** (mín · media · máx, 15 precios)
-- Unimarc: [Té infusión Lipton menta 20 un](https://www.unimarc.cl/te-infusion-menta-lipton-20un/p) → $1.360 (normal $1.690)
-- Unimarc: [Hierba infusión Impra manzanilla 20 un](https://www.unimarc.cl/hierba-infusion-manzanilla-impra-20-un/p) → $1.090
-- Unimarc: [Hierba infusión Impra menta 20 un](https://www.unimarc.cl/hierba-infusion-menta-impra-20-un/p) → $1.050
-- Unimarc: [Infusión manzanilla Lipton 20 un](https://www.unimarc.cl/te-infusion-manzanilla-lipton-20-un/p) → $1.360 (normal $1.690)
-- Unimarc: [Infusión de hierbas Supremo cúrcuma chai 20 un](https://www.unimarc.cl/infusion-hierb-curcuma-chai-supremo-20un/p) → $2.590
-- Unimarc: [Infusión hierbas Twining's limón y jengibre 10 bolsitas](https://www.unimarc.cl/infusion-limon-y-jengibre-twinings-10-un/p) → $6.900
-- Unimarc: [Infusión hierbas Twining's manzanilla pura 10 bolsitas](https://www.unimarc.cl/infusion-pura-manzanilla-twinings-10-un/p) → $6.900
-- Unimarc: [Infusión Twinings naranja mango y canela 10 un](https://www.unimarc.cl/infusion-twinings-10-un-narj-mang-canel/p) → $6.900
+**$870 · $1.360 · $6.980** (mín · media · máx, 17 precios)
 - Tottus: [Infusión de Hierbas Energizante Supremo 20 Un](https://www.tottus.cl/tottus-cl/articulo/148696016/infusion-energizante-supremo-20-und) → $1.990 (normal $2.490)
 - Tottus: [Infusión Flor de Hibisco, Rosa Mosqueta y Manzana Enfusion 10 Un](https://www.tottus.cl/tottus-cl/articulo/145095785/inf-hibisco-mix-enfusion-nog-10-bolsitas) → $6.180
 - Tottus: [Infusión Cúrcuma Chai Supremo 20 Un](https://www.tottus.cl/tottus-cl/articulo/148696120/infusion-curcuma-chai-supremo-20-und) → $1.990 (normal $2.490)
-- Jumbo: [Hierba Manzanilla Supremo Caja 20 g 20 un.](https://www.jumbo.cl/hierba-manzanilla-supremo-caja-20-g-20-bolsitas/p) → $938
+- Lider: [Infusión Hierbas Buen Descanso Caja, 20 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00780187505702) → $1.575 (normal $2.250)
+- Lider: [Infusión Menta Jengibre Caja, 10 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00931263116067) → $5.780
+- Lider: [Infusión Frutas Silvestres Caja, 10 un](https://super.lider.cl/ip/cafe-te-y-hierbas/00007017719736) → $6.380
+- Lider: [Infusión Sabor Limón y Frambuesa Caja, 10 un](https://super.lider.cl/ip/cafe-te-y-hierbas/00007017716964) → $6.380
+- Lider: [Infusión Sabor Fresa, Frutilla y Mango Caja, 10 un](https://super.lider.cl/ip/cafe-te-y-hierbas/00007017716963) → $6.380
+- Lider: [Infusión Manzanilla, Canela y Manzana Caja, 10 un](https://super.lider.cl/ip/cafe-te-y-hierbas/00007017716965) → $6.380
+- Lider: [Infusión Frambuesa Coco Caja, 10 Un](https://super.lider.cl/ip/cafe-te-y-hierbas/00931263116064) → $5.780
+- Jumbo: [Hierba Manzanilla Supremo Caja 20 g 20 un.](https://www.jumbo.cl/hierba-manzanilla-supremo-caja-20-g-20-bolsitas/p) → $875
+- Jumbo: [Hierba Manzanilla Supremo Caja 20 g 20 un.](https://www.jumbo.cl/hierba-manzanilla-supremo-caja-20-g-20-bolsitas/p) → $875 (normal $1.250)
 
 ## Café instantáneo `cafe` · por frasco
-**$5.090 · $7.740 · $17.770** (mín · media · máx, 16 precios)
-- Unimarc: [Café instantáneo Nuestra Cocina liofilizado frasco 170 g](https://www.unimarc.cl/cafe-liofilizado-nuestra-cocina-170g/p) → $7.290 (normal $8.990)
-- Unimarc: [Café instantáneo Nescafé Dolca tarro 170 gr](https://www.unimarc.cl/cafe-nescafe-dolca-lata-170-g/p) → $5.750
-- Unimarc: [Café Nuestra Cocina instantáneo lata 170 g](https://www.unimarc.cl/cafe-instant-nuestra-cocina-lata-170gr/p) → $5.390 (normal $7.490)
-- Unimarc: [Café instantáneo Nuestra Cocina frasco 170 g](https://www.unimarc.cl/cafe-inst-granu-nuestra-cocina-fco-170g/p) → $8.690
-- Unimarc: [Café instantáneo liofilizado Gold frasco 170 g](https://www.unimarc.cl/cafe-instantaneo-liofiliz-gold-fco-170gr/p) → $12.350
-- Unimarc: [Café instantáneo liofilizado Cruzeiro arábica frasco 170 g](https://www.unimarc.cl/cafe-gourmet-100-arabica-cruzeiro-170gr/p) → $10.750
+**$3.560 · $7.200 · $28.260** (mín · media · máx, 23 precios)
+- Tottus: [Café Instantáneo Granulado Premier Gold 170 g](https://www.tottus.cl/tottus-cl/articulo/110620668/cafe-gold-premier-170gr) → $5.890 (normal $8.550)
 - Tottus: [Café Instantáneo Fina Selección Nescafe Frasco 200 g](https://www.tottus.cl/tottus-cl/articulo/110616920/nescafe-fina-selemlion-200g-cl) → $10.787
 - Tottus: [Café Instantáneo Primera Selección Gold 170 g](https://www.tottus.cl/tottus-cl/articulo/110615613/cafe-gold-170-grs) → $6.290 (normal $7.890)
-- Tottus: [Café Instantáneo Nescafe Tradición Tarro 170 g](https://www.tottus.cl/tottus-cl/articulo/110618079/nescafe-tradicional-170-grs) → $8.190
 - Tottus: [Café Instantáneo Nescafe Dolca Tarro 170 g](https://www.tottus.cl/tottus-cl/articulo/110616316/nescafe-dolca-170-grs) → $5.750
-- Tottus: [Café Instantáneo Granulado Premier Gold 170 g](https://www.tottus.cl/tottus-cl/articulo/110620668/cafe-gold-premier-170gr) → $6.990 (normal $8.550)
-- Tottus: [Café Instantáneo Fina Selección Espresso Nescafe Frasco 100 g](https://www.tottus.cl/tottus-cl/articulo/110618473/nescafe-espresso-jar-sgnt-xw-100-gr) → $17.765
+- Tottus: [Café Instantáneo Lata](https://www.tottus.cl/tottus-cl/articulo/113420189/cafe-instantaneo-lata-tottus-150-g) → $4.862 (normal $5.089)
+- Tottus: [Café Instantáneo Nescafe Tradición Tarro 170 g](https://www.tottus.cl/tottus-cl/articulo/110618079/nescafe-tradicional-170-grs) → $8.190
+- Tottus: [Café Instantáneo Fina Selección Colombia Nescafe Frasco 100 g](https://www.tottus.cl/tottus-cl/articulo/110620536/nescafe-cap-colombie-n1-100-grs) → $17.765
+- Lider: [Café Instantáneo Primera Seleccion Tarro, 150 gr](https://super.lider.cl/ip/cafe-te-y-hierbas/00780280050059) → $5.686 (normal $7.582)
+- Lider: [Café Instantáneo Caja, 250 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00800007001000) → $8.833
+- Lider: [Café Instantáneo Liofilizado Equilibrado Frasco, 170 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00789604510486) → $8.990 (normal $10.590)
+- Lider: [Café Instantáneo Tradición Tarro, 110 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00844529177440) → $10.339
+- Lider: [Café Instantáneo en polvo clásico Tarro, 170 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00789601920791) → $7.590
 
 ## Café molido `cafe_molido` · por paquete
-**$3.990 · $5.690 · $13.210** (mín · media · máx, 22 precios)
-- Unimarc: [Café Waitrose colombiano molido 227 g](https://www.unimarc.cl/cafe-molido-colombiano-waitrose-227-gr/p) → $8.800
-- Unimarc: [Café molido Monterrey moka 230 g](https://www.unimarc.cl/cafe-molido-moka-monterrey-250-gr/p) → $5.990
-- Unimarc: [Café molido Gold premier excelso 230 gr](https://www.unimarc.cl/cafe-molido-premier-gold-250-gr-excelso/p) → $6.850
-- Unimarc: [Café molido Copacabana 250 g](https://www.unimarc.cl/cafe-molido-copacabana-250gr/p) → $4.990
-- Unimarc: [Café molido Waitrose italiano 227 g](https://www.unimarc.cl/cafe-molido-italiano-waitrose-227-gr/p) → $8.800
-- Unimarc: [Café molido D´aroma forte 250 g](https://www.unimarc.cl/cafe-molido-forte-d-aroma-250-g/p) → $6.150
-- Unimarc: [Café molido Gold premier forte 230 gr](https://www.unimarc.cl/cafe-molido-premier-gold-250-gr-forte/p) → $6.990
-- Unimarc: [Café molido orgánico Marley misty morning 227 g](https://www.unimarc.cl/cafe-molido-org-marley-22-misty-morning/p) → $17.500
+**$3.890 · $5.550 · $17.500** (mín · media · máx, 31 precios)
+- Tottus: [CAFE MOLIDO MEZCLA FORTE 250GR.](https://www.tottus.cl/tottus-cl/articulo/110620640/cafe-molido-mezcla-forte-250gr) → $3.890 (normal $5.550)
 - Tottus: [CAFE MOLIDO   TOTTUS 250 G](https://www.tottus.cl/tottus-cl/articulo/110607108/cafe-molido-tottus-250-gr) → $3.990
 - Tottus: [Café Grano Molido Moka Monterrey 230 g](https://www.tottus.cl/tottus-cl/articulo/116449966/cafe-grano-molido-moka-monterrey-250-g) → $4.090 (normal $5.450)
-- Tottus: [Café Express Molido](https://www.tottus.cl/tottus-cl/articulo/115659204/cafe-express-molido-250-grs) → $4.280 (normal $5.350)
+- Tottus: [Café Express Molido](https://www.tottus.cl/tottus-cl/articulo/115659204/cafe-express-molido-250-grs) → $5.350
+- Tottus: [CAFE GRANO MOLIDO FUERTE CRUZEIRO 250 GR](https://www.tottus.cl/tottus-cl/articulo/130586085/cafe-grano-molido-fuerte-cruzeiro-250-gr) → $5.550
+- Tottus: [Café Grano Molido Colina (Balanceado)](https://www.tottus.cl/tottus-cl/articulo/110612979/cafe-colina-molido-250-grs) → $9.650 (normal $14.250)
 - Tottus: [Café Molido Excelso](https://www.tottus.cl/tottus-cl/articulo/110619486/cafe-grano-molido-exelso-gold-250-g) → $4.490 (normal $5.790)
+- Lider: [Café Grano Molido Express Paquete, 250 gr](https://super.lider.cl/ip/cafe-te-y-hierbas/00780280050025) → $5.490
+- Lider: [Café Grano Molido Moka Bolsa, 230 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00780280050027) → $5.859
+- Lider: [Café Molido Colombia Laderas del Tapias Bolsa, 250 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00780465489065) → $8.450 (normal $9.990)
+- Lider: [Café Molido Saborizado French Vainilla Bolsa, 227 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00074585301667) → $14.857
+- Lider: [Café Molido Convencional Roots Rock Paquete, 227 g](https://super.lider.cl/ip/cafe-te-y-hierbas/00079919219599) → $12.654
 
 ## Cacao en polvo para leche `cacao` · por tarro
-**$3.790 · $5.480 · $8.090** (mín · media · máx, 9 precios)
-- Unimarc: [Saborizante en polvo Nestlé cacao dulce 230 g](https://www.unimarc.cl/saboriz-cacao-dulce-e-polvo-nestle-230gr/p) → $6.070
+**$2.490 · $5.430 · $8.090** (mín · media · máx, 10 precios)
 - Tottus: [Saborizante en Polvo Nestlé Cacao Dulce 230 g](https://www.tottus.cl/tottus-cl/articulo/133616805/cacao-dulce-polvo-saborizante-230gr) → $5.478
 - Tottus: [Cacao Dulce en Polvo Lata Nestle 400 g](https://www.tottus.cl/tottus-cl/articulo/110615534/bebida-chocolatada-400-grs) → $8.090
-- Tottus: [Saborizante en Polvo Instatáneo Sabor Chocolate Cola Cao 700 g](https://www.tottus.cl/tottus-cl/articulo/139644543/bolsa-instantaneo-cola-cao-700-gr) → $4.200
-- Tottus: [Saborizante en Polvo Cola Cao Sabor Chocolate Pote 400 g](https://www.tottus.cl/tottus-cl/articulo/110616698/cola-cao-original-400-grs) → $3.790
+- Tottus: [Saborizante en Polvo Instatáneo Sabor Chocolate Cola Cao 700 g](https://www.tottus.cl/tottus-cl/articulo/139644543/bolsa-instantaneo-cola-cao-700-gr) → $2.680 (normal $4.200)
+- Tottus: [Saborizante en Polvo Cola Cao Sabor Chocolate Pote 400 g](https://www.tottus.cl/tottus-cl/articulo/110616698/cola-cao-original-400-grs) → $2.490 (normal $3.790)
+- Lider: [Saborizante para leche Chocolate Bolsa, 700 g](https://super.lider.cl/ip/leche/00780242001024) → $4.108
+- Lider: [Saborizante De Leche Tradicional Sabor Cacao Dulce, 230 g](https://super.lider.cl/ip/leche/00761328700522) → $5.374
+- Lider: [Saborizante de Leche Chocolate ActivGo Bolsa, 300 g](https://super.lider.cl/ip/leche/00761303012104) → $3.853 (normal $4.787)
 - Jumbo: [Saborizante para Leche Nestlé Cacao Endulzado 230 g](https://www.jumbo.cl/chocolate-en-polvo-230-g/p) → $6.209
 - Jumbo: [Saborizante para Leche Nestlé Cacao Endulzado 230 g](https://www.jumbo.cl/chocolate-en-polvo-230-g/p) → $6.209
-- Jumbo: [Cacao Soluble Valor 70% de 300 g](https://www.jumbo.cl/cacao-soluble-70-de-300-g/p) → $21.267
-- Jumbo: [Cacao Soluble Valor 70% de 300 g](https://www.jumbo.cl/cacao-soluble-70-de-300-g/p) → $21.267
-- Jumbo: [Chocolate Krüger Polvo Finest 300 g](https://www.jumbo.cl/chocolate-en-polvo-finest-300-g/p) → $5.483
-- Jumbo: [Chocolate Krüger Polvo Finest 300 g](https://www.jumbo.cl/chocolate-en-polvo-finest-300-g/p) → $5.483 (normal $6.854)
+- Unimarc: [Saborizante en polvo Nestlé cacao dulce 230 g](https://www.unimarc.cl/saboriz-cacao-dulce-e-polvo-nestle-230gr/p) → $6.070
 
 ## Azúcar `azucar` · por kg
-**$760 · $1.190 · $1.490** (mín · media · máx, 17 precios)
-- Unimarc: [Azúcar blanca Iansa 1 Kg](https://www.unimarc.cl/azucar-granulada-iansa-1-kg/p) → $1.490
+**$760 · $1.190 · $1.490** (mín · media · máx, 24 precios)
 - Tottus: [Azúcar](https://www.tottus.cl/tottus-cl/articulo/110612296/azucar-blanca-1-kg-precio-uno) → $850
 - Tottus: [Azúcar Blanca Granulada Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110606893/azucar-blanca-granulada-tottus-1-kg) → $1.190
 - Tottus: [Azúcar](https://www.tottus.cl/tottus-cl/articulo/110616539/azucar-granulada-iansa-1500-g) → $1.393
 - Tottus: [Azúcar Blanca Granulada Iansa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110614955/azucar-iansa-1kg) → $1.490
-- Tottus: [AZUCAR G4  PRECIO UNO 5 KG](https://www.tottus.cl/tottus-cl/articulo/110620498/azucar-g4-precio-uno-5-kg) → $798
 - Tottus: [Azúcar Blanca Granulada Tottus 1.3 Kg](https://www.tottus.cl/tottus-cl/articulo/113512397/azucar-blanca-tottus-1-3-kl) → $762 (normal $1.001)
+- Tottus: [AZUCAR G4  PRECIO UNO 5 KG](https://www.tottus.cl/tottus-cl/articulo/110620498/azucar-g4-precio-uno-5-kg) → $798
 - Tottus: [Azúcar Blanca Granulada Tottus 5 Kg](https://www.tottus.cl/tottus-cl/articulo/110606929/azucar-granulada-5-kg-tottus) → $978
-- Tottus: [Azúcar Blanca Granulada](https://www.tottus.cl/tottus-cl/articulo/112462225/azucar-5-kls-iansa) → $1.418
-- Jumbo: [Azúcar Cuisine & Co Blanca Granulada 1 kg](https://www.jumbo.cl/azucar-blanca-granulada-1-kg-cuisine-and-co-1821380/p) → $1.190
-- Jumbo: [Azúcar Cuisine & Co Blanca Granulada 1 kg](https://www.jumbo.cl/azucar-blanca-granulada-1-kg-cuisine-and-co-1821380/p) → $1.190
-- Jumbo: [Azúcar Blanca Iansa 1 kg](https://www.jumbo.cl/azucar-blanca-granulada-iansa-1-kg/p) → $1.250
+- Tottus: [Azúcar Blanca Granulada](https://www.tottus.cl/tottus-cl/articulo/112462225/azucar-5-kls-iansa) → $1.078 (normal $1.418)
+- Lider: [Azúcar Blanca Granulada Bolsa, 1 kg](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780150500049) → $1.190
+- Lider: [Azúcar Blanca Granulada Bolsa, 5 kg](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780874360042) → $1.058
+- Lider: [Azúcar Blanca Granulada Bolsa, 5 Kg](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780150523190) → $958 (normal $1.378)
+- Lider: [Azúcar Blanca Granulada Bolsa, 1 kg](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00789191003057) → $1.000 (normal $1.290)
 
 ## Endulzante líquido `endulzante_liquido` · por frasco
-**$2.390 · $3.280 · $10.280** (mín · media · máx, 24 precios)
-- Unimarc: [Endulzante líquido Iansa Cero K stevia sucralosa 350 ml](https://www.unimarc.cl/endulzante-liq-stevia-iansa-cero-k-350ml/p) → $3.001 (normal $3.618)
-- Unimarc: [Endulzante líquido Iansa cero K alulosa 250 ml](https://www.unimarc.cl/endulzante-alulosa-iansa-cero-k-250ml/p) → $3.726 (normal $4.525)
-- Unimarc: [Endulzante líquido Daily gotas stevia 270 ml](https://www.unimarc.cl/endulzante-liquido-stevia-daily-gotas-270-ml/p) → $3.190 (normal $4.050)
-- Unimarc: [Endulzante líquido Daily Gotas stevia 400 ml](https://www.unimarc.cl/daily-gotas-balanceado-stevia-400-ml/p) → $3.436
-- Unimarc: [Endulzante líquido con alulosa ALUSWEET 270ml](https://www.unimarc.cl/endulzante-con-alulosa-alusweet-270-ml/p) → $4.650
-- Unimarc: [Endulzante líquido Naturalist stevia y sucralosa 270 ml](https://www.unimarc.cl/endulzante-liquido-stevia-naturalist-270-ml/p) → $2.390 (normal $3.290)
-- Unimarc: [Endulzante líquido Tagatosa Daily 270 ml](https://www.unimarc.cl/endulzante-liq-tagatosa-daily-270-ml/p) → $3.290 (normal $4.350)
-- Unimarc: [Endulzante líquido Iansa Cero K 100% Stevia 180 ml](https://www.unimarc.cl/endulzante-100-stevia-iansa-cerok-180ml/p) → $9.075 (normal $10.275)
-- Tottus: [Endulzante Líquido 100% Stevia](https://www.tottus.cl/tottus-cl/articulo/110618608/endulz-liq-100-stevia-180-ml-cero-k) → $7.785 (normal $9.675)
-- Tottus: [Endulzante Líquido Alulosa + Sucralosa Iansa Cero K 250 ml](https://www.tottus.cl/tottus-cl/articulo/110616056/endulz-alulosa-sucr-liq-iansa-cerok-250m) → $4.201
+**$1.890 · $3.390 · $10.280** (mín · media · máx, 32 precios)
+- Tottus: [Endulzante Líquido Sucralosa Iansa Cero K 250 ml](https://www.tottus.cl/tottus-cl/articulo/110620090/endulzante-liq-sucralosa-cero-k-250ml) → $2.581 (normal $3.942)
+- Tottus: [Endulzante Líquido 100% Stevia](https://www.tottus.cl/tottus-cl/articulo/110618608/endulz-liq-100-stevia-180-ml-cero-k) → $5.835 (normal $9.675)
 - Tottus: [Endulzante Líquido Stevia](https://www.tottus.cl/tottus-cl/articulo/113135279/endulzante-naturalist-stevia-180-ml) → $3.435 (normal $4.485)
-- Tottus: [Endulzante Líquido Agave y Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110619307/iansa-cero-k-agave-180-ml) → $5.535
+- Tottus: [Endulzante Líquido Alulosa + Sucralosa Iansa Cero K 250 ml](https://www.tottus.cl/tottus-cl/articulo/110616056/endulz-alulosa-sucr-liq-iansa-cerok-250m) → $2.754 (normal $4.201)
+- Tottus: [Endulzante Líquido Stevia + Sucralosa Iansa Cero K 250 ml](https://www.tottus.cl/tottus-cl/articulo/110620198/endulzante-liq-stevia-250-ml) → $2.754 (normal $4.050)
+- Tottus: [Endulzante líquido Stevia Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110616228/endulzante-stevia-sens-cero-k-180-ml) → $5.085
+- Tottus: [Endulzante Líquido Stevia Sucralosa Iansa Cero K 350 ml](https://www.tottus.cl/tottus-cl/articulo/110618953/iansa-cero-k-stevia-350-ml) → $2.615 (normal $3.433)
+- Tottus: [Endulzante Líquido Sucralosa Iansa Cero K 350 ml](https://www.tottus.cl/tottus-cl/articulo/119670770/iansa-cero-k-sucralosa350-ml) → $3.618
+- Lider: [Endulzante Líquido Stevia Botella, 180 ml](https://super.lider.cl/ip/reposteria/00780150500101) → $9.585
+- Lider: [Endulzante Líquido Alulosa Botella, 350 g](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780150500392) → $2.514 (normal $3.541)
+- Lider: [Endulzante Líquido Stevia Sucralosa Botella, 350 ml](https://super.lider.cl/ip/reposteria/00780150500087) → $1.890 (normal $3.387)
+- Lider: [Endulzante Líquido Stevia Botella, 180 ml](https://super.lider.cl/ip/reposteria/00780955810487) → $3.165 (normal $5.535)
 
 ## Stevia en sobres `stevia` · por caja
-**$2.690 · $4.650 · $8.990** (mín · media · máx, 17 precios)
-- Unimarc: [Endulzante polvo en sobres Naturalist stevia y sucralosa 400 un](https://www.unimarc.cl/endulzante-polvo-stevia-natural-400-sob/p) → $6.650
-- Tottus: [Endulzante Stevia](https://www.tottus.cl/tottus-cl/articulo/110618542/endulzante-stevia-liq-400-ml-daily) → $4.650
+**$1.790 · $3.990 · $8.990** (mín · media · máx, 19 precios)
+- Tottus: [Endulzante Stevia](https://www.tottus.cl/tottus-cl/articulo/110618542/endulzante-stevia-liq-400-ml-daily) → $3.290 (normal $4.650)
 - Tottus: [Endulzante Stevia 100%](https://www.tottus.cl/tottus-cl/articulo/110619464/endulzante-stevia-100-180-ml-daily) → $5.290
 - Tottus: [Endulzante De Stevia](https://www.tottus.cl/tottus-cl/articulo/110620850/daily-stevia-300-tb) → $2.890
 - Tottus: [Stevia](https://www.tottus.cl/tottus-cl/articulo/113134790/naturalist-stevia-270-ml) → $3.990
 - Tottus: [Endulzante Stevia](https://www.tottus.cl/tottus-cl/articulo/113135007/endulzante-stevia-tab-naturalist-900-tab) → $4.390
-- Tottus: [Endulzante stevia orgánico](https://www.tottus.cl/tottus-cl/articulo/113512437/endulz-stevia-ing-organico-daily-100-ml) → $2.690
-- Tottus: [Endulzante stevia orgánico](https://www.tottus.cl/tottus-cl/articulo/113348855/endulz-stevia-ing-organico-daily-180-ml) → $3.750
-- Tottus: [Endulzante Stevia](https://www.tottus.cl/tottus-cl/articulo/110618550/daily-stevia-270-ml) → $3.790
+- Tottus: [Endulzante stevia orgánico](https://www.tottus.cl/tottus-cl/articulo/113512437/endulz-stevia-ing-organico-daily-100-ml) → $1.790 (normal $2.690)
+- Tottus: [Endulzante Stevia](https://www.tottus.cl/tottus-cl/articulo/110618550/daily-stevia-270-ml) → $2.750 (normal $3.790)
+- Tottus: [Endulzante stevia orgánico](https://www.tottus.cl/tottus-cl/articulo/113348855/endulz-stevia-ing-organico-daily-180-ml) → $2.550 (normal $3.750)
+- Lider: [Endulzante Polvo Stevia Sachet, 100](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00780955810573) → $3.690
+- Lider: [Mermelada Frambuesa Stevia Tagatosa, 230 g](https://super.lider.cl/ip/sin-azucar/00780958040063) → $3.190
 - Jumbo: [Endulzante Naturalist Stevia en Polvo 400 Sobres](https://www.jumbo.cl/endulzante-stevia-en-polvo-natura-list-400-g/p) → $6.190
 - Jumbo: [Endulzante Naturalist Stevia en Polvo 400 Sobres](https://www.jumbo.cl/endulzante-stevia-en-polvo-natura-list-400-g/p) → $6.190
-- Jumbo: [Endulzante Iansa Cero K Stevia Sucralosa Sachet 100 un.](https://www.jumbo.cl/endulzante-en-sachet-iansa-cero-k-caja-100-g-100-sobres-stevia-individuales-2/p) → $4.730
 
 ## Sucralosa en sobres `sucralosa` · por caja
-**$1.390 · $3.950 · $6.990** (mín · media · máx, 17 precios)
-- Unimarc: [Endulzante polvo en sobres Naturalist stevia y sucralosa 400 un](https://www.unimarc.cl/endulzante-polvo-stevia-natural-400-sob/p) → $6.650
+**$1.390 · $3.970 · $7.790** (mín · media · máx, 22 precios)
 - Tottus: [Daily Gotas Sucralosa](https://www.tottus.cl/tottus-cl/articulo/113571061/daily-gotas-sucralosa-180-ml) → $2.350
-- Tottus: [Endulzante Alulosa Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110617223/endul-alulosa-sucr-gran-iansa-cerok-500g) → $5.490 (normal $6.990)
 - Tottus: [Tableta Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110607072/endulzante-tableta-sucralosa-300-tottus) → $1.600
 - Tottus: [Tabletas Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110607019/endulzante-tableta-sucralosa-150-tottus) → $1.390
 - Tottus: [Endulzante Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110619876/endulzante-sucralosa-cero-k-500-tab) → $3.950
 - Tottus: [Endulzante Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110606932/endulzante-liquido-sucralosa-270-ml-tottus) → $2.950
+- Tottus: [Endulzante Alulosa con Sucralosa Daily 270 ml](https://www.tottus.cl/tottus-cl/articulo/113512381/endulzante-stevia-calulosa-daily-270-ml) → $2.790 (normal $3.390)
 - Tottus: [Endulzante Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110607024/endulzante-liq-sucralosa-400-ml-tottus) → $3.190
 - Tottus: [Endulzante Stevia Sucralosa](https://www.tottus.cl/tottus-cl/articulo/110618122/endulzante-stevia-sens-500-tab-fp) → $3.190 (normal $3.990)
-- Jumbo: [Endulzante Iansa Cero K Stevia Sucralosa Sachet 100 un.](https://www.jumbo.cl/endulzante-en-sachet-iansa-cero-k-caja-100-g-100-sobres-stevia-individuales-2/p) → $4.730
-- Jumbo: [Endulzante Iansa Cero K Stevia Sucralosa Sachet 100 un.](https://www.jumbo.cl/endulzante-en-sachet-iansa-cero-k-caja-100-g-100-sobres-stevia-individuales-2/p) → $4.730
-- Jumbo: [Endulzante Iansa Cero K Tabletas Sucralosa 500 un.](https://www.jumbo.cl/endulzante-sucralosa-iansa-cero-k-500-tabletas-2/p) → $4.270
+- Lider: [Endulzante Granulado Sucralosa Doypack, 500 g](https://super.lider.cl/ip/reposteria/00780150500284) → $5.850 (normal $6.890)
+- Lider: [Endulzante Polvo Sucralosa Caja, 200 sobres](https://super.lider.cl/ip/reposteria/00072277620062) → $6.590 (normal $7.790)
+- Lider: [Endulzante Tableta Sucralosa Display, 500 unidades](https://super.lider.cl/ip/reposteria/00780955810065) → $4.690
+- Lider: [Endulzante Tableta Sucralosa Display, 13.5 g](https://super.lider.cl/ip/reposteria/00780955810462) → $1.850
 
 ## Cereal `cereal` · por caja
-**$2.490 · $3.650 · $5.190** (mín · media · máx, 24 precios)
-- Unimarc: [Cereal Trix caja 300 g](https://www.unimarc.cl/cereal-trix-300-gr/p) → $3.800 (normal $4.653)
-- Unimarc: [Cereal Milo Nestlé caja 300 g](https://www.unimarc.cl/cereal-milo-300-gr/p) → $3.680 (normal $4.787)
-- Unimarc: [Cereal choco pillows Cola Cao 350 g](https://www.unimarc.cl/cereal-choco-pillows-colacao-350-gr/p) → $3.760 (normal $4.514)
-- Unimarc: [Cereal Fitness Nestlé hojuela integral 330 g](https://www.unimarc.cl/cereal-fitness-nestle-330-g/p) → $3.454 (normal $4.109)
-- Unimarc: [Cereal Chocapic original caja 310 g](https://www.unimarc.cl/cereal-orig-chocolate-chocapic-310-gr/p) → $4.374
-- Unimarc: [Cereal Zucosos Nestlé caja 350 g](https://www.unimarc.cl/cereal-zucosos-350gr/p) → $4.103
-- Unimarc: [Cereal Milo sabor chocolate 700 g](https://www.unimarc.cl/cereal-milo-nestle-700-gr/p) → $2.983 (normal $3.914)
-- Unimarc: [Cereal Corn flakes 480 g](https://www.unimarc.cl/cereal-corn-flakes-nestle-480-gr/p) → $3.075 (normal $3.742)
-- Tottus: [Cereal Pillows Cola Cao Sabor Chocolate 720 g](https://www.tottus.cl/tottus-cl/articulo/125800974/cereal-pillows-chocolate-cola-cao-720-gr) → $2.772 (normal $3.217)
-- Tottus: [Cereal Costa Mono Rolls](https://www.tottus.cl/tottus-cl/articulo/117826849/cereal-mono-rolls-400-gr) → $3.350
-- Tottus: [Cereal Costa Mono Balls Sabor Chocolate 400 g](https://www.tottus.cl/tottus-cl/articulo/110617979/cereal-mono-balls-400-gr) → $3.350
-- Tottus: [Cereal Chocolate Sin Azúcar Añadida](https://www.tottus.cl/tottus-cl/articulo/110611591/cereales-hojuela-chocolate-enlinea) → $3.503
+**$2.050 · $2.920 · $4.920** (mín · media · máx, 19 precios)
+- Lider: [Cereal Azucarado, 700 g](https://super.lider.cl/ip/cereales/00761328792509) → $2.262 (normal $3.480)
+- Lider: [Cereal Frutal, 700 g](https://super.lider.cl/ip/cereales/00761328735401) → $2.298 (normal $3.423)
+- Lider: [Cereal Chocolate Chocapic Receta original, 640 g](https://super.lider.cl/ip/cereales/00844529169167) → $2.448 (normal $3.766)
+- Lider: [Cereal Chocolate Pillows, 720 g](https://super.lider.cl/ip/cereales/00780263500111) → $2.054 (normal $3.161)
+- Lider: [Cereal Zucaritas, 610 g](https://super.lider.cl/ip/cereales/00770210313012) → $2.514 (normal $4.190)
+- Jumbo: [Cereal Cola Cao Pillows 720 g](https://www.jumbo.cl/cereal-cola-cao-850-g-pillows/p) → $2.050
+- Jumbo: [Cereal Cola Cao Pillows 720 g](https://www.jumbo.cl/cereal-cola-cao-850-g-pillows/p) → $2.050 (normal $3.328)
+- Jumbo: [Cereal Kellogg's Corn Flakes 410 g](https://www.jumbo.cl/cereal-corn-flakes-410-gr-2051606/p) → $3.162
+- Jumbo: [Cereal Kellogg's Corn Flakes 410 g](https://www.jumbo.cl/cereal-corn-flakes-410-gr-2051606/p) → $3.162 (normal $4.517)
+- Jumbo: [Cereal Chocapic Receta Original 640 g](https://www.jumbo.cl/cereal-chocapic-receta-original-700gr-1932088/p) → $2.923
+- Jumbo: [Cereal Chocapic Receta Original 640 g](https://www.jumbo.cl/cereal-chocapic-receta-original-700gr-1932088/p) → $2.922 (normal $4.175)
+- Jumbo: [Cereal Milo 700 g](https://www.jumbo.cl/cereal-milo-700-gr-1860646/p) → $2.592
 
 ## Granola `granola` · por bolsa
-**$2.480 · $3.590 · $7.850** (mín · media · máx, 24 precios)
-- Unimarc: [Granola Wild Protein crunchy mix 300 g](https://www.unimarc.cl/granola-crunchy-mix-wild-protein-350-gr/p) → $7.853
-- Unimarc: [Granola Vivo sabor miel&almendras 330 g](https://www.unimarc.cl/granola-s-miel-almendras-vivo-330-gr/p) → $3.382
-- Unimarc: [Granola Quaker avena almendra y miel 320 g](https://www.unimarc.cl/granola-quaker-3-avena-almendras-y-miel/p) → $3.562
-- Unimarc: [Granola Vivo sabor berries 330 g](https://www.unimarc.cl/granola-s-berries-vivo-330-gr/p) → $3.382
-- Unimarc: [Granola Nuestra Cocina almendras y miel 450 gr](https://www.unimarc.cl/granola-almend-miel-nuestra-cocina-450gr/p) → $2.480
-- Unimarc: [Granola Mizos mix semillas 250 g](https://www.unimarc.cl/granola-mix-semillas-mizos-250-gr/p) → $7.440
-- Unimarc: [Granola proteica Under Five cacao crunch 300 gr](https://www.unimarc.cl/granola-cacao-crunch-under-five-300-gr/p) → $7.587
-- Unimarc: [Granola Nuestra Cocina cranberries y miel 450 gr](https://www.unimarc.cl/granola-cranber-miel-nuestra-cocina-450g/p) → $2.480
-- Tottus: [Granola Miel Almendras](https://www.tottus.cl/tottus-cl/articulo/121667500/granola-miel-almend-quaker-320gr) → $3.438
-- Tottus: [Granola Crunchy Mix Wild Protein 300 g](https://www.tottus.cl/tottus-cl/articulo/119945197/granola-crunchy-wild-protein-300g-caja) → $7.320
+**$1.590 · $3.610 · $7.920** (mín · media · máx, 32 precios)
+- Tottus: [Granola Miel Almendras](https://www.tottus.cl/tottus-cl/articulo/121667500/granola-miel-almend-quaker-320gr) → $2.238 (normal $3.438)
 - Tottus: [Granola Miel y Almendras](https://www.tottus.cl/tottus-cl/articulo/121667441/granola-mielalmendras-vivo-330-gr) → $3.018
+- Tottus: [Granola Crunchy Mix Wild Protein 300 g](https://www.tottus.cl/tottus-cl/articulo/119945197/granola-crunchy-wild-protein-300g-caja) → $7.320
 - Tottus: [Granola con Trocitos de Berries](https://www.tottus.cl/tottus-cl/articulo/121667439/granola-berries-vivo-330-gr) → $3.018
+- Tottus: [Granola almendra sin azucar añadida](https://www.tottus.cl/tottus-cl/articulo/116450355/granola-almendra-sazucar-enlinea-320-gr) → $3.488
+- Tottus: [Granola Miel Pasas Quaker](https://www.tottus.cl/tottus-cl/articulo/121667350/granola-miel-pasas-quaker-320gr) → $2.362 (normal $3.437)
+- Tottus: [Granola con Cranberries En Línea 320 g](https://www.tottus.cl/tottus-cl/articulo/125312392/granola-en-linea-cranberries-320gr) → $3.362
+- Tottus: [Granola Proteína](https://www.tottus.cl/tottus-cl/articulo/110612635/granola-proteina-vivo-300-gr) → $5.987
+- Lider: [Granola Proteica Underfive Almendra Crunch, 300 g](https://super.lider.cl/ip/cereales/00780467687006) → $7.053
+- Lider: [Granola Vivo Miel y Almendras, 330 g](https://super.lider.cl/ip/cereales/00780012016318) → $1.930 (normal $2.970)
+- Lider: [Granola Vivo Berries, 330 g](https://super.lider.cl/ip/cereales/00780012016317) → $1.592 (normal $2.450)
+- Lider: [Granola Proteina Manjar de Campo, 250 g](https://super.lider.cl/ip/cereales/00780463001164) → $7.920
 
 ## Avena `avena` · por bolsa
-**$1.600 · $3.010 · $5.430** (mín · media · máx, 21 precios)
-- Unimarc: [Avena Nuestra Cocina instantánea 700 g](https://www.unimarc.cl/avena-instantanea-nuestra-cocina-700-gr/p) → $2.046 (normal $2.388)
-- Unimarc: [Avena Nuestra Cocina tradicional 700 g](https://www.unimarc.cl/avena-tradicional-nuestra-cocina-700-gr/p) → $2.046 (normal $2.388)
-- Unimarc: [Avena Instantánea Oso 500 g](https://www.unimarc.cl/avena-instantanea-oso-500-gr/p) → $1.600 (normal $1.840)
-- Unimarc: [Avena Quaker instantánea 700 g](https://www.unimarc.cl/avena-instantanea-quaker-700-gr/p) → $3.371
-- Unimarc: [Avena tradicional Vivo 700 gr](https://www.unimarc.cl/avena-tradicional-vivo-700-gr/p) → $2.126 (normal $2.503)
-- Unimarc: [Avena Quaker tradicional 700 g](https://www.unimarc.cl/avena-tradicional-quaker-700-gr/p) → $3.371
-- Unimarc: [Avena The power of food integral sin gluten 1 Kg](https://www.unimarc.cl/avena-int-s-gluten-the-power-of-food-1kg/p) → $5.432
+**$1.600 · $2.230 · $5.130** (mín · media · máx, 26 precios)
+- Tottus: [Avena Instantánea](https://www.tottus.cl/tottus-cl/articulo/121667494/avena-instantanea-quaker-700gr) → $2.274 (normal $3.029)
 - Tottus: [Avena Instantánea](https://www.tottus.cl/tottus-cl/articulo/110606926/avena-instantanea-700-grtottus) → $1.817 (normal $2.080)
-- Tottus: [Avena Instantánea](https://www.tottus.cl/tottus-cl/articulo/121667494/avena-instantanea-quaker-700gr) → $3.029
-- Tottus: [Avena 4 Semillas](https://www.tottus.cl/tottus-cl/articulo/110610283/avena-vivo-4-semillas-700-gr) → $3.531
 - Tottus: [Avena Tradicional Tottus 700 gr](https://www.tottus.cl/tottus-cl/articulo/115939746/avena-tradicional-700-grtottus) → $1.817 (normal $2.080)
-- Tottus: [Avena 4 Semillas + Berries Vivo 550 g](https://www.tottus.cl/tottus-cl/articulo/119788807/avena-4-semillas-berries-550-gr) → $4.494
+- Tottus: [Avena 4 Semillas](https://www.tottus.cl/tottus-cl/articulo/110610283/avena-vivo-4-semillas-700-gr) → $2.960 (normal $3.531)
+- Tottus: [Avena Multisemillas](https://www.tottus.cl/tottus-cl/articulo/121667369/avena-multisemillas-ii-quaker-600gr) → $3.054 (normal $4.920)
+- Lider: [Avena Instantánea, 700 g](https://super.lider.cl/ip/cereales/00780012017016) → $1.935 (normal $2.618)
+- Lider: [Avena Integral Instantánea, 700 g](https://super.lider.cl/ip/cereales/00780200001413) → $2.072 (normal $3.029)
+- Lider: [Avena Tradicional, 700 g](https://super.lider.cl/ip/cereales/00780200001496) → $2.072 (normal $3.029)
+- Lider: [Avena 4 Semillas, 700 g](https://super.lider.cl/ip/cereales/00780012017010) → $2.289 (normal $3.417)
+- Lider: [Avena Multisemillas I, 600 g](https://super.lider.cl/ip/cereales/00780200001789) → $3.110 (normal $4.786)
+- Lider: [Avena 4 Semillas y Berries, 550 g](https://super.lider.cl/ip/cereales/00780012017021) → $2.914 (normal $4.349)
+- Jumbo: [Avena Instantánea Cuisine & Co 750 g](https://www.jumbo.cl/avena-instantanea-750-g-cuisine-and-co-1869913/p) → $1.740
 
 ## Jamón de pierna `jamon_pierna` · por kg
-**$7.160 · $14.710 · $23.000** (mín · media · máx, 22 precios)
-- Unimarc: [Jamón pierna artesanal Receta del Abuelo corte pluma 125 g](https://www.unimarc.cl/jamon-pierna-artesanal-r-d-abuelo-125gr/p) → $16.000 (normal $18.800)
-- Unimarc: [Jamón pierna La Preferida corte pluma 125 g](https://www.unimarc.cl/jamon-pna-cort-pluma-la-preferida-125gr/p) → $16.720 (normal $19.120)
-- Unimarc: [Jamón pierna artesanal Receta del Abuelo granel 100 gr](https://www.unimarc.cl/jamon-pierna-art-rec-del-abuelo-p3-kg/p) → $11.560 (normal $14.600)
-- Unimarc: [Jamón pierna La Crianza campestre 200 g](https://www.unimarc.cl/jamon-campestre-pierna-la-crianza-200-gr/p) → $13.950
-- Unimarc: [Jamón pierna Receta del Abuelo corte pluma 125 g](https://www.unimarc.cl/jamon-pierna-receta-del-abuelo-125gr/p) → $13.384 (normal $18.320)
-- Unimarc: [Jamón pierna artesanal mini Winter granel 100 gr](https://www.unimarc.cl/jamon-pierna-artesanal-mini-winter-kg/p) → $8.200 (normal $8.360)
-- Unimarc: [Jamón pierna Receta del Abuelo 200 g](https://www.unimarc.cl/jamon-pierna-receta-del-abuelo-200-gr/p) → $15.450
-- Unimarc: [Jamón pierna g2 llanquihue 150g](https://www.unimarc.cl/jamon-pierna-g2-llanquihue-150-gr/p) → $23.000
+**$7.160 · $11.870 · $24.330** (mín · media · máx, 30 precios)
 - Tottus: [Jamón Pierna Artesanal a Granel Winter](https://www.tottus.cl/tottus-cl/articulo/115807739/jamon-pierna-artesanal-g2-wi) → $7.160 (normal $9.000)
 - Tottus: [Jamón Pierna](https://www.tottus.cl/tottus-cl/articulo/110612042/jamon-pierna-la-preferida-0-125-kg) → $15.920 (normal $18.320)
-- Tottus: [Jamón Pierna G1 Receta del Abuelo 200 g](https://www.tottus.cl/tottus-cl/articulo/110623311/jamon-pierna-g1-rda-200-g) → $15.450
 - Tottus: [Jamón Pierna Granel](https://www.tottus.cl/tottus-cl/articulo/115807249/jamon-pierna-preferida) → $13.800
+- Tottus: [Jamón Pierna G1 Receta del Abuelo 200 g](https://www.tottus.cl/tottus-cl/articulo/110623311/jamon-pierna-g1-rda-200-g) → $15.450
+- Tottus: [Jamón Pierna de Cerdo Granel](https://www.tottus.cl/tottus-cl/articulo/119823930/jamon-pierna-la-crianza-3-kl) → $13.400
+- Tottus: [Jamón Pierna Artesanal Grado 1 Receta del Abuelo a Granel](https://www.tottus.cl/tottus-cl/articulo/115807395/jamon-pierna-artesanal-grado-1-receta-del-abuelo) → $12.760 (normal $14.760)
+- Tottus: [Jamón Pierna Artesanal](https://www.tottus.cl/tottus-cl/articulo/110613045/jamon-pierna-artesanal-winter-200-gr) → $9.450 (normal $11.250)
+- Tottus: [Jamón de Pierna de Cerdo Artesanal Llanquihue 150 g](https://www.tottus.cl/tottus-cl/articulo/125828095/jamon-artesanal-llanquihue-150-gr) → $21.000 (normal $21.667)
+- Lider: [Jamón Pierna Cerdo Corte Pluma, 120 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780191500085) → $11.958 (normal $17.083)
+- Lider: [Jamón Pierna Artesanal Corte Pluma, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193001188) → $11.600 (normal $18.320)
+- Lider: [Jamón Pierna De Cerdo Corte Pluma Tradicional, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000081) → $11.600 (normal $18.320)
+- Lider: [Jamón Campestre Pierna Artesanal, 200 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780961171449) → $8.740 (normal $13.450)
 
 ## Jamón de pavo `jamon_pavo` · por kg
 _Referencial_: se mantiene $6.990 · $8.990 · $11.990 (1 precio encontrado)
-- Jumbo: [Jamón Cocido de Pavo Sopraval Granel](https://www.jumbo.cl/jamon-cocido-de-pavo-sopraval-granel/p) → $10.360 (normal $15.160)
+- Jumbo: [Jamón Cocido de Pavo Sopraval Granel](https://www.jumbo.cl/jamon-cocido-de-pavo-sopraval-granel/p) → $9.850 (normal $15.160)
 
 ## Jamón acaramelado `jamon_acaramelado` · por kg
-**$7.560 · $12.760 · $19.120** (mín · media · máx, 21 precios)
-- Unimarc: [Jamón pierna acaramelado PF granel 100 gr](https://www.unimarc.cl/jamon-pierna-acaramelado-p2-pf-kg/p) → $8.600 (normal $10.760)
-- Unimarc: [Jamón acaramelado Super Cerdo granel 100 g](https://www.unimarc.cl/jamon-acaramelado-super-cerdo-g2-kg/p) → $8.760 (normal $9.160)
-- Unimarc: [Jamón pierna acaramelado PF 75 gr](https://www.unimarc.cl/jamon-acaramelado-pf-75gr/p) → $13.333 (normal $18.533)
-- Unimarc: [Jamón artesanal Llanquihue acaramelado granel 100 gr](https://www.unimarc.cl/jamon-artesanal-acaramelado-al-meson-300-g/p) → $14.200 (normal $17.560)
-- Unimarc: [Jamón acaramelado Receta del Abuelo 125 g](https://www.unimarc.cl/jamon-acaramelado-receta-de-abuelo-125gr/p) → $13.384 (normal $19.120)
-- Unimarc: [Jamón acaramelado San Jorge granel 100 g](https://www.unimarc.cl/jamon-acaramelado-san-jorge-300-g/p) → $10.760 (normal $12.360)
-- Unimarc: [Jamón acaramelado San Jorge 200 g](https://www.unimarc.cl/jamon-acaramelado-san-jorge-200-gr/p) → $12.950 (normal $14.950)
-- Unimarc: [Jamón acaramelado mini Winter granel 100 gr](https://www.unimarc.cl/jamon-acaramelado-mini-winter-kg/p) → $8.360 (normal $9.160)
-- Tottus: [Jamón Acaramelado Granel](https://www.tottus.cl/tottus-cl/articulo/115807543/jamon-acaramelado-super-cerdo) → $7.560 (normal $9.960)
-- Tottus: [Jamón Acaramelado](https://www.tottus.cl/tottus-cl/articulo/110613231/jamon-acaramelado-san-jorge-200-g) → $11.450 (normal $13.950)
+**$5.990 · $11.310 · $19.440** (mín · media · máx, 30 precios)
+- Tottus: [Jamón Acaramelado Granel](https://www.tottus.cl/tottus-cl/articulo/115807543/jamon-acaramelado-super-cerdo) → $5.990 (normal $9.960)
 - Tottus: [Jamón Acaramelado Pf a Granel](https://www.tottus.cl/tottus-cl/articulo/115807253/jamon-acaramelado-pf) → $11.160 (normal $12.360)
+- Tottus: [Jamón Acaramelado](https://www.tottus.cl/tottus-cl/articulo/110613231/jamon-acaramelado-san-jorge-200-g) → $11.450 (normal $13.950)
 - Tottus: [Jamón Acaramelado Tradicional Granel](https://www.tottus.cl/tottus-cl/articulo/115807243/jamon-acaramelado-tradicional-winter) → $9.160 (normal $9.400)
+- Tottus: [Jamón Pierna de Cerdo Acaramelado Granel](https://www.tottus.cl/tottus-cl/articulo/119823950/jamon-acaramelado-la-crianza) → $13.400
+- Tottus: [Jamón Acaramelado Receta del Abuelo a Granel](https://www.tottus.cl/tottus-cl/articulo/115807581/jamon-acaramelado-receta-del-abuelo) → $14.760
+- Tottus: [Jamón Acaramelado Granel](https://www.tottus.cl/tottus-cl/articulo/115807309/jamon-acaramelado-san-jorge) → $9.960 (normal $10.200)
+- Tottus: [Jamón Acaramelado](https://www.tottus.cl/tottus-cl/articulo/111651898/jamon-acaramelado-winter-200-gr) → $13.450
+- Lider: [Jamón Pierna de Cerdo Acaramelado Corte Pluma, 120 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780191500086) → $11.958 (normal $17.083)
+- Lider: [Jamón acaramelado laminado, 150 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780190008632) → $12.333 (normal $13.000)
+- Lider: [Jamón Acaramelado Granel](https://super.lider.cl/ip/fiambres-y-embutidos/00206923000000) → $7.560
+- Lider: [Jamón Acaramelado Granel](https://super.lider.cl/ip/fiambres-y-embutidos/00207085000000) → $10.360
 
 ## Pechuga de pavo `pechuga_pavo` · por kg
-**$8.600 · $13.560 · $30.360** (mín · media · máx, 21 precios)
-- Unimarc: [Pechuga de pavo Sopraval asada granel 100 gr](https://www.unimarc.cl/pechuga-de-pavo-asada-al-meson-300-g/p) → $13.560 (normal $19.560)
-- Unimarc: [Pechuga de pavo Sopraval cocida granel 100 gr](https://www.unimarc.cl/pechuga-de-pavo-cocida-al-meson-300-g/p) → $13.560 (normal $19.560)
-- Unimarc: [Pechuga de Pavo Receta del Abuelo cocida 125 g](https://www.unimarc.cl/pechuga-de-pavo-cocida-r-d-abuelo-125gr/p) → $19.320 (normal $28.720)
-- Unimarc: [Pechuga de pavo Sopraval acaramelado granel 100 g](https://www.unimarc.cl/pechuga-pavo-acaramelada-sopraval-kg/p) → $13.560 (normal $19.560)
-- Unimarc: [Pechuga de pavo La Preferida acaramelado granel 100 g](https://www.unimarc.cl/pechuga-pavo-acaramelado-la-preferida-kg/p) → $12.760 (normal $15.160)
-- Unimarc: [Pechuga de pavo Sopraval cocida corte pluma 120 g](https://www.unimarc.cl/pechuga-pavo-cocida-c-plum-sopraval-120g/p) → $19.917 (normal $27.417)
-- Unimarc: [Pechuga de pavo asada corte pluma Sopraval 120 gr](https://www.unimarc.cl/pechuga-pavo-asada-c-plum-sopraval-120g/p) → $19.917 (normal $27.417)
-- Unimarc: [Pechuga de pavo La Preferida cocida granel 100 g](https://www.unimarc.cl/pechuga-pavo-cocida-la-preferida-al-meson-300-g/p) → $12.760 (normal $15.160)
+**$8.600 · $13.560 · $30.360** (mín · media · máx, 29 precios)
 - Tottus: [Pechuga de Pavo Asada Laminado](https://www.tottus.cl/tottus-cl/articulo/110613672/pechuga-de-pavo-asada-lamin-tottus-250-gr) → $26.360
 - Tottus: [Pechuga de Pavo Ahumada Laminada](https://www.tottus.cl/tottus-cl/articulo/110610093/pechuga-de-pavo-ahumada-lam-tottus-250-gr) → $30.360
-- Tottus: [Pechuga de Pavo Cocida Granel](https://www.tottus.cl/tottus-cl/articulo/115807315/pechuga-de-pavo-cocida-la-preferida) → $13.560 (normal $15.400)
 - Tottus: [Pechuga de Pavo Cocida](https://www.tottus.cl/tottus-cl/articulo/116454441/pechuga-pavo-cocida-tottus-und) → $8.600
+- Tottus: [Pechuga de Pavo Asada](https://www.tottus.cl/tottus-cl/articulo/116454333/pechuga-pavo-asada-tottus-und) → $8.600
+- Tottus: [Pechuga de Pavo Cocida Granel](https://www.tottus.cl/tottus-cl/articulo/115807315/pechuga-de-pavo-cocida-la-preferida) → $13.560 (normal $15.400)
+- Tottus: [Bistec de Pechuga Pavo](https://www.tottus.cl/tottus-cl/articulo/110622336/bistec-de-pech-pavo-450-grs-ariztia) → $13.089
+- Tottus: [Pechuga de Pavo Cocida Granel](https://www.tottus.cl/tottus-cl/articulo/115949867/pechuga-de-pavo-cocida-tottus-kg) → $29.550
+- Tottus: [Pechuga de Pavo Asada Granel](https://www.tottus.cl/tottus-cl/articulo/115949874/pechuga-de-pavo-asada-tottus-kg) → $25.690
+- Lider: [Pechuga de Pavo Acaramelada, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780191603023) → $21.520
+- Lider: [Pavo Pechuga Deshuesada Congelada, 1,36 kg](https://super.lider.cl/ip/pavo/00002265527487) → $11.684
+- Lider: [Pechuga de Pavo Cocida Corte Pluma, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193001186) → $21.520 (normal $27.120)
+- Lider: [Pavo Pechuga Filete Congelado, 700 g](https://super.lider.cl/ip/pavo/00780874950118) → $11.414
 
 ## Jamón serrano `jamon_serrano` · por kg
-**$29.900 · $49.900 · $69.390** (mín · media · máx, 21 precios)
-- Unimarc: [Jamón serrano Receta del Abuelo 100 g](https://www.unimarc.cl/jamon-serrano-receta-del-abuelo-100-g/p) → $40.500
-- Unimarc: [Jamón serrano Receta del Abuelo 65 g](https://www.unimarc.cl/jamon-serrano-receta-del-abuelo-65-gr/p) → $40.769
-- Unimarc: [Jamón serrano Trujillo etiqueta verde 180 g](https://www.unimarc.cl/jamon-serrano-et-verde-180-gr/p) → $69.389
-- Unimarc: [Jamón serrano Trujillo etiqueta roja 80 g](https://www.unimarc.cl/jamon-serrano-et-roja-trujillo-80-grs/p) → $61.125
-- Unimarc: [Pasta jamón serrano Receta del Abuelo 125 g](https://www.unimarc.cl/pate-jamon-serr-receta-del-abuelo-125-gr/p) → $10.000
-- Unimarc: [Taco jamón serrano Trujillo etiqueta roja 350 g](https://www.unimarc.cl/taco-jamon-serr-et-roja-trujillo-350-gr/p) → $49.571
-- Unimarc: [Tostao Fruna sabor jamón serrano 120 gr](https://www.unimarc.cl/tostao-sabor-jamon-serrano-fruna-120gr/p) → $8.250
-- Unimarc: [Papas fritas Marco Polo sabor jamón serrano 180 g](https://www.unimarc.cl/papas-fritas-j-serrano-marco-polo-180gr/p) → $11.611
+**$26.900 · $45.110 · $69.390** (mín · media · máx, 29 precios)
+- Tottus: [Jamón Serrano Receta del Abuelo 100 g](https://www.tottus.cl/tottus-cl/articulo/110624771/jamon-serrano-receta-del-abuelo-100-gr) → $26.900 (normal $38.900)
 - Tottus: [JAMON  SERRANO  RDA 65 G](https://www.tottus.cl/tottus-cl/articulo/119216387/jamon-serran-amb-receta-abuelo-0-065-und) → $33.692 (normal $36.154)
 - Tottus: [Jamón Serrano](https://www.tottus.cl/tottus-cl/articulo/116017924/jamon-curado-toledo-65-gr) → $56.769
 - Tottus: [Jamón Serrano Etiqueta Verde](https://www.tottus.cl/tottus-cl/articulo/115855674/jamon-serrano-et-verde-trujillo-80-gr) → $68.125
+- Tottus: [Surtido Serrano](https://www.tottus.cl/tottus-cl/articulo/115855712/surtido-serrano-trujillo-120-gr) → $52.417 (normal $54.584)
+- Tottus: [Jamón Serrano Etiqueta Roja](https://www.tottus.cl/tottus-cl/articulo/110624393/jamon-serrano-et-roja-trujillo-80-gr) → $68.125
+- Tottus: [Taco Jamón Serrano](https://www.tottus.cl/tottus-cl/articulo/115950047/taco-jamon-serrano-trujillo-350-gr) → $45.114
 - Tottus: [Jamón Serrano Etiqueta Roja](https://www.tottus.cl/tottus-cl/articulo/115950169/jamon-serrano-et-roja-trujillo-180-gr) → $54.167 (normal $56.945)
+- Lider: [Jamón Serrano Etiqueta Roja, 180 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780192600277) → $38.850 (normal $55.500)
+- Lider: [Jamón Serrano Etiqueta Roja, 80 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780192600309) → $42.788 (normal $61.126)
+- Lider: [Mini Jamón Serrano Bodega, 1 kg](https://super.lider.cl/ip/fiambres-y-embutidos/00040000685358) → $33.490
+- Lider: [Jamón Serrano Al Vacío, 65 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780192600308) → $56.769
 
 ## Prosciutto `prosciutto` · por kg
-**$30.360 · $52.360 · $54.000** (mín · media · máx, 8 precios)
-- Unimarc: [Pizza pera prosciutto Stefano Nardini congelada 600 gr](https://www.unimarc.cl/pizza-pera-prosciutto-snardini-600g/p) → $16.650
-- Unimarc: [Jamón prosciutto delizia Bellagio 100 gr](https://www.unimarc.cl/jamon-crudo-delizia-bellagio-100-gr/p) → $53.500
+**$30.360 · $51.930 · $55.500** (mín · media · máx, 10 precios)
 - Tottus: [Pizza Prosciutto y Burrata Congelada Tottus 525 g](https://www.tottus.cl/tottus-cl/articulo/110622007/pizza-jamon-y-burrata-premium-525-gr) → $11.410
+- Lider: [Jamón Prosciutto Italiano crudo, 250 gr](https://super.lider.cl/ip/fiambres-y-embutidos/00780460144436) → $48.760
 - Jumbo: [Jamón Prosciutto Bellagio Delizia Crudo 100 g](https://www.jumbo.cl/jamon-crudo-delizia-100gr-bellagio-1867341/p) → $51.500
 - Jumbo: [Jamón Prosciutto Bellagio Delizia Crudo 100 g](https://www.jumbo.cl/jamon-crudo-delizia-100gr-bellagio-1867341/p) → $51.500
 - Jumbo: [Prosciutto Beretta Granel](https://www.jumbo.cl/prosciutto-beretta-granel-1897785-kg/p) → $30.360
@@ -1650,39 +1691,42 @@ _Referencial_: se mantiene $6.990 · $8.990 · $11.990 (1 precio encontrado)
 - Jumbo: [Prosciutto Delizia Cassini 60 g](https://www.jumbo.cl/prosciutto-60-g/p) → $54.000
 - Jumbo: [Jamón Prosciutto Bellagio Delizia Crudo 250 g](https://www.jumbo.cl/jamon-crudo-delizia-250gr-bellagio-1867342/p) → $52.360
 - Jumbo: [Jamón Prosciutto Bellagio Delizia Crudo 250 g](https://www.jumbo.cl/jamon-crudo-delizia-250gr-bellagio-1867342/p) → $52.360
+- Unimarc: [Pizza pera prosciutto Stefano Nardini congelada 600 gr](https://www.unimarc.cl/pizza-pera-prosciutto-snardini-600g/p) → $16.650
+- Unimarc: [Jamón prosciutto delizia Bellagio 100 gr](https://www.unimarc.cl/jamon-crudo-delizia-bellagio-100-gr/p) → $55.500
+- Unimarc: [Rolls mozzarella prosciutto Jackie Guiloff Gourmet 20un](https://www.unimarc.cl/rolls-mozarella-prosciutto-20-un/p) → $51.180
 
 ## Salame `salame` · por kg
-**$13.000 · $15.900 · $33.900** (mín · media · máx, 22 precios)
-- Unimarc: [Salame italiano laminado Llanquihue granel 100 gr](https://www.unimarc.cl/salame-italiano-llanquihue-kg/p) → $18.500 (normal $22.500)
-- Unimarc: [Salame italiano PF laminado granel 100 g](https://www.unimarc.cl/salame-italiano-ext-cortado-pf-kg/p) → $13.000 (normal $14.500)
-- Unimarc: [Salame ahumado PF laminado granel 100 g](https://www.unimarc.cl/salame-ahumado-cortado-pf-kg/p) → $13.000 (normal $14.500)
-- Unimarc: [Salame italiano San Jorge laminado 100 g](https://www.unimarc.cl/salame-italiano-lamindo-san-jorge-100gr/p) → $15.900 (normal $18.900)
-- Unimarc: [Salame italiano San Jorge laminado granel 100 g](https://www.unimarc.cl/salame-italiano-laminado-san-jorge-kg/p) → $14.500 (normal $16.900)
-- Unimarc: [Salame artesanal Receta del Abuelo 100 g](https://www.unimarc.cl/salame-artesanal-receta-del-abuelo-100-g/p) → $20.000 (normal $24.500)
-- Unimarc: [Salame italiano PF 70 gr](https://www.unimarc.cl/salame-italiano-pf-70-gr/p) → $14.286 (normal $17.858)
-- Unimarc: [Salame ahumado San Jorge laminado 100 g](https://www.unimarc.cl/salame-ahumado-laminado-san-jorge-100gr/p) → $15.900 (normal $18.900)
+**$11.500 · $15.900 · $36.500** (mín · media · máx, 29 precios)
 - Tottus: [Salame Italiano Laminado Granel](https://www.tottus.cl/tottus-cl/articulo/115807721/salam-italiano-lam-sj-1600-gr) → $13.500 (normal $14.990)
-- Tottus: [Salame Italiano PF 100 g](https://www.tottus.cl/tottus-cl/articulo/110622576/salame-italiano-pf-100-g) → $19.200
 - Tottus: [Salame Ahumado](https://www.tottus.cl/tottus-cl/articulo/115807785/salame-ahumado-san-jorge-100-g) → $15.900 (normal $17.900)
+- Tottus: [Salame Italiano PF 100 g](https://www.tottus.cl/tottus-cl/articulo/110622576/salame-italiano-pf-100-g) → $19.200
 - Tottus: [Salame Ahumado Laminado Granel](https://www.tottus.cl/tottus-cl/articulo/115807713/salam-ahumado-lam-sj-1600-gr) → $13.500 (normal $14.990)
+- Tottus: [Salame Ahumado Laminado PF a Granel](https://www.tottus.cl/tottus-cl/articulo/115807367/salame-ahumado-laminado-pf) → $13.900 (normal $14.890)
+- Tottus: [Salame Italiano](https://www.tottus.cl/tottus-cl/articulo/115807780/salame-italiano-san-jorge-100-g) → $15.900 (normal $17.900)
+- Tottus: [Salame Italiano Laminado PF a Granel](https://www.tottus.cl/tottus-cl/articulo/115807369/salame-italiano-laminado-pf) → $13.900 (normal $14.890)
+- Tottus: [Salame Ahumado PF 100 g](https://www.tottus.cl/tottus-cl/articulo/110623731/salame-ahumado-pf-100-g) → $19.200
+- Lider: [Salame Ahumado, 100 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193001809) → $11.500
+- Lider: [Salame Tipo Italiano, 100 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193001811) → $11.500
+- Lider: [Salame ahumado, 70 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000221) → $1.000 (normal $1.190)
+- Lider: [Salame italiano, 70 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780190700621) → $14.286 (normal $17.000)
 
 ## Mortadela `mortadela` · por kg
-**$3.560 · $8.760 · $13.270** (mín · media · máx, 20 precios)
-- Unimarc: [Mortadela jamonada Receta del Abuelo 100 g](https://www.unimarc.cl/mortadela-jamonada-rda-100g/p) → $10.000 (normal $10.900)
-- Unimarc: [Mortadela jamonada Receta del Abuelo granel 100 g](https://www.unimarc.cl/mortadela-jamonada-receta-del-abuelo-kg/p) → $8.600 (normal $9.800)
-- Unimarc: [Mortadela jamonada PF 150 g](https://www.unimarc.cl/mortadela-jamonada-vacio-pf-150-grs/p) → $6.667 (normal $10.334)
-- Unimarc: [Mortadela jamonada Fundo Río Alegre granel 100 g](https://www.unimarc.cl/mortadela-jamonada-fundo-rio-alegre-kg/p) → $6.200 (normal $7.160)
-- Unimarc: [Mortadela jamonada Receta del Abuelo 14 láminas 150 g](https://www.unimarc.cl/mortadela-jamonada-rda-150-gr/p) → $13.000
-- Unimarc: [Mortadela jamonada San Jorge 250 g](https://www.unimarc.cl/mortadela-jamonada-san-jorge-250gr/p) → $9.000
-- Unimarc: [Mortadela lisa San Jorge 250 g](https://www.unimarc.cl/mortadela-lisa-san-jorge-250gr/p) → $8.600
-- Unimarc: [Mortadela fina Pacel granel 100 g](https://www.unimarc.cl/mortadela-fina-pacel-kg/p) → $11.560
+**$3.560 · $7.980 · $13.270** (mín · media · máx, 28 precios)
 - Tottus: [Mortadela Lisa Granel](https://www.tottus.cl/tottus-cl/articulo/115949873/mortadela-lisa-tottus-kg) → $3.560
 - Tottus: [Mortadela Jamonada Granel](https://www.tottus.cl/tottus-cl/articulo/115807761/mortadela-jamonada-rda) → $8.760 (normal $10.360)
-- Tottus: [Mortadela Jamonada Receta del Abuelo 150 g](https://www.tottus.cl/tottus-cl/articulo/113602901/mortadela-jamonada-receta-del-abue-150gr) → $10.600 (normal $11.267)
 - Tottus: [Mortadela Jamonada](https://www.tottus.cl/tottus-cl/articulo/119824020/mortadela-jamonada-san-jorge-250-gr) → $6.760 (normal $7.080)
+- Tottus: [Mortadela Jamonada Llanquihue a Granel](https://www.tottus.cl/tottus-cl/articulo/146032582/mortadela-jamonada-llanquihue-3-kg) → $8.760
+- Tottus: [Mortadela Jamonada La Preferida 150 g](https://www.tottus.cl/tottus-cl/articulo/133329241/mortadela-jamonada-la-preferida-150-gr) → $13.267
+- Tottus: [Mortadela Jamonada Receta del Abuelo 150 g](https://www.tottus.cl/tottus-cl/articulo/113602901/mortadela-jamonada-receta-del-abue-150gr) → $7.267 (normal $11.267)
+- Tottus: [Mortadela Lisa Granel](https://www.tottus.cl/tottus-cl/articulo/115807305/lisa-san-jorge) → $7.560
+- Tottus: [Mini Mortadela Jamonada PF 400 g](https://www.tottus.cl/tottus-cl/articulo/110621810/mini-mortadela-jamonada-400-gr-pf) → $7.125
+- Lider: [Mortadela Jamonada de Cerdo, 100 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000144) → $9.999
+- Lider: [Mini Mortadela Fina Embutido, 400 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000830) → $4.625 (normal $5.475)
+- Lider: [Mini Mortadela Jamonada de Cerdo, 400 gr](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000831) → $5.000 (normal $6.875)
+- Lider: [Mini Mortadela Lisa, 400 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780190700403) → $4.125 (normal $4.975)
 
 ## Tocino laminado `tocino` · por kg
-**$9.000 · $24.390 · $33.270** (mín · media · máx, 14 precios)
+**$9.000 · $23.830 · $33.270** (mín · media · máx, 22 precios)
 - Tottus: [Tocino Laminado al Vacío La Preferida 180 g](https://www.tottus.cl/tottus-cl/articulo/110609991/tocino-180-grs-la-preferida) → $19.389 (normal $22.722)
 - Tottus: [Tocino Parrillero](https://www.tottus.cl/tottus-cl/articulo/110612397/tocino-parrillero-la-preferida-0-18-kl) → $23.278
 - Tottus: [Tocino Ahumado PF 150 g](https://www.tottus.cl/tottus-cl/articulo/115807273/tocino-ahumado-pf-150-gr) → $25.667
@@ -1690,538 +1734,551 @@ _Referencial_: se mantiene $6.990 · $8.990 · $11.990 (1 precio encontrado)
 - Tottus: [Tocino Ahumado Artesanal Pacel 125 g](https://www.tottus.cl/tottus-cl/articulo/144941504/tocino-ahumado-artesanal-pacel-125-gr) → $28.400 (normal $28.720)
 - Tottus: [Tocino Ahumado Llanquihue 150 g](https://www.tottus.cl/tottus-cl/articulo/125828105/tocino-ahumado-llanquihue-150-gr) → $32.333
 - Tottus: [Hamburguesa Casera  Tocino](https://www.tottus.cl/tottus-cl/articulo/110624133/hamb-casera-sab-tocino-tottus-100-gr) → $9.000
+- Jumbo: [Tocino Ahumado Llanquihue 150 g](https://www.jumbo.cl/tocino-ahumado-llanquihue-150-gr-1982568/p) → $26.613
+- Jumbo: [Tocino Ahumado Llanquihue 150 g](https://www.jumbo.cl/tocino-ahumado-llanquihue-150-gr-1982568/p) → $26.613 (normal $33.266)
 - Jumbo: [Tocino Cortado La Preferida 180 g](https://www.jumbo.cl/tocino-cortado-la-preferida-180-g/p) → $24.389
 - Jumbo: [Tocino Cortado La Preferida 180 g](https://www.jumbo.cl/tocino-cortado-la-preferida-180-g/p) → $24.389
 - Jumbo: [Tocino PF Granel](https://www.jumbo.cl/panceta-pf-granel-2/p) → $21.400
-- Jumbo: [Tocino Ahumado Llanquihue 150 g](https://www.jumbo.cl/tocino-ahumado-llanquihue-150-gr-1982568/p) → $33.267
-- Jumbo: [Tocino Ahumado Llanquihue 150 g](https://www.jumbo.cl/tocino-ahumado-llanquihue-150-gr-1982568/p) → $33.267
 
 ## Paté `pate` · por pote
-**$610 · $960 · $2.110** (mín · media · máx, 24 precios)
-- Unimarc: [Pate ternera Castillo lata 100 g](https://www.unimarc.cl/pate-ternera-castillo-100-gr/p) → $1.859
-- Unimarc: [Paté Receta del Abuelo ternera 125 g](https://www.unimarc.cl/pate-ternera-receta-del-abuelo-125-grs/p) → $880 (normal $1.047)
-- Unimarc: [Paté de ternera San Jorge 125 g](https://www.unimarc.cl/pate-de-ternera-san-jorge-125-g/p) → $638 (normal $739)
-- Unimarc: [Paté de campo Fundo Río Alegre 125 g](https://www.unimarc.cl/pate-de-campo-fundo-rio-alegre-125-gr/p) → $607 (normal $660)
-- Unimarc: [Paté de jamón teewurst Llanquihue 125 g](https://www.unimarc.cl/pate-jamon-teewurst-llanquihue-125-gr/p) → $2.015
-- Unimarc: [Paté de ternera Fundo Río Alegre 125 g](https://www.unimarc.cl/pate-de-ternera-fundo-rio-alegre-125-gr-2/p) → $607 (normal $625)
-- Unimarc: [Paté de ternera PF 125 g](https://www.unimarc.cl/pate-de-ternera-pf-125-gr/p) → $713
-- Unimarc: [Paté de jamón Fundo Río Alegre 125 g](https://www.unimarc.cl/pate-de-jamon-fundo-rio-alegre-125-gr-2/p) → $607 (normal $625)
+**$610 · $960 · $2.240** (mín · media · máx, 32 precios)
 - Tottus: [Paté Sabor Ternera Receta del Abuelo 125 g](https://www.tottus.cl/tottus-cl/articulo/112734688/pate-sabor-ternera-receta-abuelo-125g) → $959 (normal $1.012)
 - Tottus: [Paté Sabor Ternera PF 125 g](https://www.tottus.cl/tottus-cl/articulo/110624044/pate-ternera-pf-125-gr) → $669
 - Tottus: [Paté Ternera](https://www.tottus.cl/tottus-cl/articulo/110610195/pate-ternera-san-jorge-125-gr) → $607 (normal $695)
 - Tottus: [Paté Ternera](https://www.tottus.cl/tottus-cl/articulo/110613187/pate-ternera-preferida-160-grs) → $928
+- Tottus: [Pasta Tipo Paté Jamón](https://www.tottus.cl/tottus-cl/articulo/110621779/pate-jamon-receta-del-abuelo-125-gr) → $959 (normal $1.012)
+- Tottus: [Paté Ternera](https://www.tottus.cl/tottus-cl/articulo/110623449/pate-ternera-llanquihue-125-grs) → $1.390
+- Tottus: [Paté Teewurst Receta del Abuelo 125 g](https://www.tottus.cl/tottus-cl/articulo/112734692/pate-teewurst-rda-125-g) → $959 (normal $1.012)
+- Tottus: [Paté Sabor Jamón PF 125 g](https://www.tottus.cl/tottus-cl/articulo/112734670/pate-jamon-pf-125-gr) → $669
+- Lider: [Paté Ternera Embutido Untable, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780190700430) → $686
+- Lider: [Paté Sabor Ternera, 160 gr](https://super.lider.cl/ip/fiambres-y-embutidos/00780191600071) → $956
+- Lider: [Paté de Jamón Premium Embutido, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780193000850) → $827 (normal $1.012)
+- Lider: [Paté Teewurst Sabor Jamón Embutido, 125 g](https://super.lider.cl/ip/fiambres-y-embutidos/00780191603080) → $1.223 (normal $1.487)
 
 ## Queso gauda `queso_gauda` · por kg
-**$8.540 · $11.310 · $16.090** (mín · media · máx, 22 precios)
-- Unimarc: [Queso gauda Soprole laminado granel 100 g](https://www.unimarc.cl/queso-gauda-laminado-gr-soprole-kg/p) → $9.560 (normal $15.160)
-- Unimarc: [Queso gauda Soprole laminado resellable 500 gr](https://www.unimarc.cl/queso-gauda-laminado-dos-alamos-500-g-28-lam/p) → $10.780 (normal $12.380)
-- Unimarc: [Queso gauda Fundo Rio Alegre laminado 500 gr](https://www.unimarc.cl/queso-gauda-lam-fundo-rio-a-500-gr/p) → $9.300
-- Unimarc: [Queso gauda laminado Fundo Río Alegre granel 100 gr](https://www.unimarc.cl/queso-gauda-laminado-fundo-rio-alegre-kg/p) → $9.790 (normal $13.800)
-- Unimarc: [Queso gauda Soprole granulado 400 g](https://www.unimarc.cl/queso-gauda-granulado-soprole-400gr/p) → $10.875 (normal $12.475)
-- Unimarc: [Queso gauda granel Llifen Colun 100 Gr](https://www.unimarc.cl/queso-gauda-llifen-colun-kg-2/p) → $9.160 (normal $11.160)
-- Unimarc: [Queso gauda Calo laminado 467 g](https://www.unimarc.cl/queso-gauda-calo-laminado-467-g/p) → $13.683
-- Unimarc: [Queso gauda Soprole laminado 250 g](https://www.unimarc.cl/queso-gauda-soprole-250-gr/p) → $15.800
+**$8.380 · $10.880 · $19.560** (mín · media · máx, 29 precios)
+- Tottus: [Queso Gauda Laminado Resellable Soprole 500 gr](https://www.tottus.cl/tottus-cl/articulo/110612489/queso-gauda-laminado-500-gr-resellable) → $8.580 (normal $11.980)
+- Tottus: [Queso Gauda Laminado Colun 500 gr](https://www.tottus.cl/tottus-cl/articulo/118678058/queso-gouda-laminado-500-grs) → $10.980 (normal $14.580)
 - Tottus: [Queso Gauda Laminado Tottus 400 g](https://www.tottus.cl/tottus-cl/articulo/122500807/queso-gauda-laminado-tottus-400-gr) → $9.225 (normal $10.475)
-- Tottus: [Queso Gauda Laminado Resellable Soprole 500 gr](https://www.tottus.cl/tottus-cl/articulo/110612489/queso-gauda-laminado-500-gr-resellable) → $10.580 (normal $11.980)
 - Tottus: [Queso Gauda Laminado Soprole 250 g](https://www.tottus.cl/tottus-cl/articulo/112462228/queso-gauda-250-grs-soprole) → $13.560 (normal $15.000)
-- Tottus: [Queso Gauda Laminado Colun 500 gr](https://www.tottus.cl/tottus-cl/articulo/118678058/queso-gouda-laminado-500-grs) → $14.580
+- Tottus: [Queso Gauda Laminado Calo 467 g](https://www.tottus.cl/tottus-cl/articulo/110624595/queso-gauda-calo-laminado-467g) → $12.827
+- Tottus: [Queso Gauda Laminado](https://www.tottus.cl/tottus-cl/articulo/110624737/queso-gauda-laminado-calo-233-gr) → $15.236 (normal $16.094)
+- Tottus: [Queso Gauda Laminado](https://www.tottus.cl/tottus-cl/articulo/110622722/queso-gauda-laminado-250-gr-tottus) → $11.800
+- Tottus: [Queso Gauda Laminado La Vaquita 400 g](https://www.tottus.cl/tottus-cl/articulo/144978866/queso-gauda-laminado-la-vaquita-400-gr) → $12.475
+- Lider: [Queso Gauda  Laminado Resellable, 500 g](https://super.lider.cl/ip/quesos/00780290000117) → $8.380 (normal $11.980)
+- Lider: [Queso Gauda Laminado, 75 g](https://super.lider.cl/ip/quesos/00780461339307) → $15.867
+- Lider: [Queso gauda granulado 1KG lvq, 1000 g](https://super.lider.cl/ip/quesos/00780461339077) → $9.690
+- Lider: [Queso Gauda Laminado, 150 g](https://super.lider.cl/ip/quesos/00780290000406) → $16.333
 
 ## Queso mantecoso `queso_mantecoso` · por kg
-**$7.640 · $13.590 · $18.490** (mín · media · máx, 20 precios)
-- Unimarc: [Queso mantecoso Quilque laminado resellable 500 gr](https://www.unimarc.cl/queso-mantecoso-laminado-quilque-soprole-500g/p) → $13.580 (normal $15.180)
-- Unimarc: [Queso mantecoso Quilque Soprole laminado granel 100 g Queso mantecoso Soprole Quilque laminado granel 100 g](https://www.unimarc.cl/queso-mantecoso-quilque-laminado-kg/p) → $11.560 (normal $14.360)
-- Unimarc: [Queso mantecoso Río Bueno laminado 500 g](https://www.unimarc.cl/queso-mantecoso-laminado-rio-bueno-500gr/p) → $12.700 (normal $15.180)
-- Unimarc: [Queso mantecoso Río Bueno laminado granel 100 g](https://www.unimarc.cl/queso-mantecoso-laminado-rio-bueno-kg/p) → $14.200
-- Unimarc: [Queso mantecoso Las Parcelas de Valvidia lámina gruesa 470 g](https://www.unimarc.cl/queso-s-borde-lamin-las-parcelas-500-gr/p) → $15.532 (normal $18.489)
-- Unimarc: [Queso mantecoso Quilque Soprole trozo granel 300 g](https://www.unimarc.cl/queso-mant-pieza-bl-quilque-kg/p) → $10.360 (normal $14.360)
-- Unimarc: [Queso mantecoso Las Parcelas de Valdivia trozo granel 300 g](https://www.unimarc.cl/queso-mantecoso-las-parcelas-1-kg/p) → $13.400 (normal $15.160)
-- Unimarc: [Queso mantecoso Rio Bueno sin lactosa trozo granel 300 g](https://www.unimarc.cl/queso-mantecoso-t-3-rio-bueno-kg/p) → $14.360
+**$9.700 · $13.020 · $20.430** (mín · media · máx, 30 precios)
+- Tottus: [Queso Mantecoso Laminado](https://www.tottus.cl/tottus-cl/articulo/110623727/queso-mantecoso-quillayes-laminas-250g) → $13.960 (normal $17.560)
+- Tottus: [Queso Mantecoso Laminado Quillayes 500 g](https://www.tottus.cl/tottus-cl/articulo/110622322/queso-mantecoso-laminado-quillayes-500-grs) → $13.180 (normal $16.380)
 - Tottus: [Queso Mantecoso Laminado Resellable Quilque 500 gr](https://www.tottus.cl/tottus-cl/articulo/110610993/queso-mantecoso-laminado-500-gr-resellable) → $13.980
 - Tottus: [Queso Mantecoso Trozo](https://www.tottus.cl/tottus-cl/articulo/111648360/queso-trozo-mantecoso-quilque-350-gr) → $14.543
 - Tottus: [Queso Mantecoso Laminado Tottus 200 g](https://www.tottus.cl/tottus-cl/articulo/126069375/queso-mantecoso-laminado-tottus-200-grs) → $11.950 (normal $12.750)
-- Tottus: [Queso Mantecoso Lámina Gruesa Las Parcelas de Valdivia 470 g](https://www.tottus.cl/tottus-cl/articulo/115847424/queso-lam-gruesa-sin-bordes-las-parcelas-470) → $13.596 (normal $16.575)
+- Tottus: [Queso Mantecoso Lámina Gruesa Las Parcelas de Valdivia 470 g](https://www.tottus.cl/tottus-cl/articulo/115847424/queso-lam-gruesa-sin-bordes-las-parcelas-470) → $14.447 (normal $16.575)
+- Tottus: [Queso Mantecoso Laminado Rio Bueno 500 g](https://www.tottus.cl/tottus-cl/articulo/110624301/queso-mantecoso-laminado-500g) → $12.980 (normal $14.780)
+- Tottus: [Queso Mantecoso](https://www.tottus.cl/tottus-cl/articulo/115807323/queso-mantecoso-quilque-150-grs) → $17.667
+- Lider: [Queso Mantecoso Quilque Laminado Resellable, 500 g](https://super.lider.cl/ip/quesos/00780290000119) → $9.780 (normal $13.980)
+- Lider: [Queso Mantecoso Río Bueno Laminado, 500 g](https://super.lider.cl/ip/quesos/00780292000674) → $10.980 (normal $14.780)
+- Lider: [Queso Mantecoso Laminado, 470 g](https://super.lider.cl/ip/quesos/00780461957011) → $12.432 (normal $16.575)
+- Lider: [Queso Mantecoso Laminado, 130 g](https://super.lider.cl/ip/quesos/00780461339350) → $15.385
 
 ## Queso chanco `queso_chanco` · por kg
-**$11.380 · $13.560 · $17.670** (mín · media · máx, 22 precios)
-- Unimarc: [Queso chanco Quillayes laminado 250 g](https://www.unimarc.cl/queso-chanco-laminado-quillayes-250g/p) → $12.640 (normal $15.160)
-- Unimarc: [Queso chanco Quillayes laminado granel 100 g](https://www.unimarc.cl/queso-chanco-laminado-quillayes-kg/p) → $12.000 (normal $13.400)
-- Unimarc: [Queso chanco Las Parcelas laminado 434 g](https://www.unimarc.cl/queso-chanco-laminado-las-parcelas-434gr/p) → $15.645
-- Unimarc: [Queso chanco Las Parcelas laminado 148 g](https://www.unimarc.cl/queso-chanco-laminado-las-parcelas-148gr/p) → $16.824
-- Unimarc: [Queso chanco Las Parcelas de Valdivia laminado  233 g](https://www.unimarc.cl/queso-chanco-laminado-las-parcelas-233g/p) → $16.695
-- Unimarc: [QUESO CHANCO LAMINADO LOS PEUMOS 500G](https://www.unimarc.cl/queso-chanco-laminado-los-peumos-500gr/p) → $12.980
-- Unimarc: [Queso chanco Las Parcelas de Valdivia laminado granel 100 g](https://www.unimarc.cl/queso-chanco-laminado-las-parcelas-kg/p) → $11.960
-- Tottus: [Queso Chanco Laminado Quillayes 500 g](https://www.tottus.cl/tottus-cl/articulo/110622554/queso-chanco-laminado-500-grs-quillayes) → $12.180 (normal $14.780)
-- Tottus: [Queso Chanco Laminado](https://www.tottus.cl/tottus-cl/articulo/110621935/queso-chanco-quillayes-lamin-150-grs) → $17.667
+**$8.380 · $11.960 · $17.670** (mín · media · máx, 29 precios)
+- Tottus: [Queso Chanco Laminado Quillayes 500 g](https://www.tottus.cl/tottus-cl/articulo/110622554/queso-chanco-laminado-500-grs-quillayes) → $9.980 (normal $14.780)
 - Tottus: [Queso Chanco Laminado](https://www.tottus.cl/tottus-cl/articulo/110624327/queso-chanco-lam-quillayes-250-grs) → $11.960 (normal $14.600)
-- Tottus: [Queso Chanco Laminado Las Parcelas de Valdivia 434 g](https://www.tottus.cl/tottus-cl/articulo/120221123/queso-chanco-434gr-lasparcelasdevaldivia) → $15.323
-- Tottus: [Queso Chanco Laminado Las Parcelas de Valdivia 233 g](https://www.tottus.cl/tottus-cl/articulo/128763454/queso-chanco-lam-las-parcelas-233-gr) → $15.837
+- Tottus: [Queso Chanco Laminado](https://www.tottus.cl/tottus-cl/articulo/110621935/queso-chanco-quillayes-lamin-150-grs) → $17.667
+- Tottus: [Queso Chanco Laminado Las Parcelas de Valdivia 434 g](https://www.tottus.cl/tottus-cl/articulo/120221123/queso-chanco-434gr-lasparcelasdevaldivia) → $10.576 (normal $15.323)
+- Tottus: [Queso Chanco Laminado Las Parcelas de Valdivia 233 g](https://www.tottus.cl/tottus-cl/articulo/128763454/queso-chanco-lam-las-parcelas-233-gr) → $11.116 (normal $15.837)
+- Tottus: [Queso Chanco Laminado](https://www.tottus.cl/tottus-cl/articulo/116039189/queso-mantecoso-lam-don-ricardo-250gr) → $17.160
+- Tottus: [Queso Chanco Laminado](https://www.tottus.cl/tottus-cl/articulo/110609443/queso-chanco-tottus-500-gr) → $11.380
+- Tottus: [Queso Chanco Granulado Don Ricardo 500 g](https://www.tottus.cl/tottus-cl/articulo/120562544/queso-chanco-granu-don-ricardo-500-gr) → $13.980
+- Lider: [Queso Chanco Laminado, 500 g](https://super.lider.cl/ip/quesos/00780293000143) → $8.380 (normal $13.780)
+- Lider: [Queso Chanco Laminado, 250 g](https://super.lider.cl/ip/quesos/00780293000382) → $8.532 (normal $14.360)
+- Lider: [Queso Chanco Laminado, 250 g](https://super.lider.cl/ip/quesos/00780461339064) → $10.633
+- Lider: [Queso Chanco Laminado, 500 g](https://super.lider.cl/ip/quesos/00780461339063) → $11.380
 
 ## Queso cheddar laminado `queso_cheddar` · por paquete
-**$2.200 · $3.000 · $3.890** (mín · media · máx, 15 precios)
-- Tottus: [Queso Cheddar Fundido Laminado](https://www.tottus.cl/tottus-cl/articulo/110624425/queso-lam-cheddar-adler-144-gr) → $3.892
+**$2.080 · $3.040 · $4.180** (mín · media · máx, 22 precios)
 - Tottus: [Queso Cheddar Laminado](https://www.tottus.cl/tottus-cl/articulo/110623331/queso-fund-cheddar-los-alerces-160g) → $2.197
+- Tottus: [Queso Cheddar Fundido Laminado](https://www.tottus.cl/tottus-cl/articulo/110624425/queso-lam-cheddar-adler-144-gr) → $3.892
 - Tottus: [Queso Cheddar Laminado Kraft 130 g](https://www.tottus.cl/tottus-cl/articulo/148590063/queso-cheddar-laminado-kraft-130-gr) → $3.055
 - Tottus: [Queso Cheddar Laminado Fundido Kraft 170 gr](https://www.tottus.cl/tottus-cl/articulo/152636362/queso-cheddar-laminado-kraft-170-g) → $2.336
 - Tottus: [Queso Cheddar Laminado Huilco 200 g](https://www.tottus.cl/tottus-cl/articulo/128935306/queso-cheddar-cheddar-huilco-200-gr-kl) → $2.993
+- Tottus: [Queso Cheddar Trozo Kraft 200 g](https://www.tottus.cl/tottus-cl/articulo/144978886/queso-cheddar-trozo-kraft-200-gr) → $3.126
 - Tottus: [Queso Burger Cheddar Laminado](https://www.tottus.cl/tottus-cl/articulo/121989356/queso-fundido-burguer-cheddar-tottus-kl) → $2.521
-- Tottus: [QUESO FUNDIDO CHEDDAR PRESIDENT 120 GR](https://www.tottus.cl/tottus-cl/articulo/119948364/queso-fundido-cheddar-president-120-gr) → $3.088
-- Jumbo: [Queso Cheddar Alerces Laminado 160 g](https://www.jumbo.cl/queso-cheddar-alerces-lam-160-gr/p) → $2.197
-- Jumbo: [Queso Cheddar Alerces Laminado 160 g](https://www.jumbo.cl/queso-cheddar-alerces-lam-160-gr/p) → $2.197
-- Jumbo: [Queso Cheddar Kraft Laminado 130 g](https://www.jumbo.cl/queso-cheddar-kraft-laminado-130g-2008275/p) → $3.113
-- Jumbo: [Queso Cheddar Kraft Laminado 130 g](https://www.jumbo.cl/queso-cheddar-kraft-laminado-130g-2008275/p) → $3.113
-- Jumbo: [Queso Cheddar Colun Laminado 160 g](https://www.jumbo.cl/queso-cheddar-colun-160-g-laminado/p) → $3.004
+- Lider: [Queso Cheddar Singles Laminado, 170 g](https://super.lider.cl/ip/quesos/00780461339358) → $2.448
+- Lider: [Queso Cheddar Laminado, 144 g](https://super.lider.cl/ip/quesos/00780462863060) → $2.758
+- Lider: [Queso Cheddar Trozo Coctel, 226 g](https://super.lider.cl/ip/quesos/00007874203971) → $3.102
+- Lider: [Queso Cheddar Medium Trozo, 226 g](https://super.lider.cl/ip/quesos/00007874203970) → $3.354
+- Lider: [Queso Cheddar Fundido, 160 g](https://super.lider.cl/ip/quesos/00780292000582) → $2.375 (normal $2.791)
 
 ## Queso crema `queso_crema` · por pote
-**$1.590 · $2.970 · $5.170** (mín · media · máx, 21 precios)
-- Unimarc: [Queso crema Philadelphia untable 180 g Queso crema Philadelphia original 180 g](https://www.unimarc.cl/queso-crema-philadelphia-soprole-180gr/p) → $5.167
-- Unimarc: [Queso crema Colun natural 200 g](https://www.unimarc.cl/queso-crema-colun-200-grs/p) → $1.590 (normal $1.890)
-- Unimarc: [Queso crema Santa Rosa regular 200 g](https://www.unimarc.cl/queso-crema-regular-santa-rosa-200gr/p) → $3.950
-- Unimarc: [Queso crema tradicional Los Peumos 226 g](https://www.unimarc.cl/queso-crema-los-peumos-226g-tradicional/p) → $3.407
-- Unimarc: [Queso crema Quillayes untable natural 140 g](https://www.unimarc.cl/queso-untable-quillayes-s-natural-140-gr/p) → $1.914 (normal $2.271)
-- Unimarc: [Queso crema Colun salame 200 g](https://www.unimarc.cl/queso-crema-colun-salame-200-gr/p) → $1.590 (normal $1.890)
+**$1.590 · $2.920 · $5.170** (mín · media · máx, 27 precios)
 - Tottus: [Queso Crema Tradicional Tottus 226 g](https://www.tottus.cl/tottus-cl/articulo/110610899/queso-crema-226-grs-tottus) → $2.522
-- Tottus: [Queso Crema Natural Dos Álamos](https://www.tottus.cl/tottus-cl/articulo/110610101/queso-crema-chessino-200-gr) → $1.600
 - Tottus: [QUESO CREMA SUAVE 226 GRS TOTTUS.](https://www.tottus.cl/tottus-cl/articulo/110611653/queso-crema-suave-226-grs-tottus) → $2.522
+- Tottus: [Queso Crema Natural Dos Álamos](https://www.tottus.cl/tottus-cl/articulo/110610101/queso-crema-chessino-200-gr) → $1.600
 - Tottus: [Queso Crema Sin Gluten Philadelphia 180 g](https://www.tottus.cl/tottus-cl/articulo/110622698/queso-crema-philadelphia-180-gr) → $4.656
-- Tottus: [Queso Crema Natural](https://www.tottus.cl/tottus-cl/articulo/110624653/queso-crema-colun-tripa-200-gr) → $1.740
 - Tottus: [Queso Crema Light Tottus 200 g](https://www.tottus.cl/tottus-cl/articulo/112183206/queso-crema-light-tottus-200-gr) → $2.790
+- Tottus: [Queso Soft Crema](https://www.tottus.cl/tottus-cl/articulo/110622502/queso-crema-soft-philadelphia-150-gr) → $3.853
+- Tottus: [Queso Crema Soft Santa Rosa 150 g](https://www.tottus.cl/tottus-cl/articulo/115807319/queso-cream-cheese-santa-rosa-soft-150-g) → $2.920 (normal $3.587)
+- Lider: [Queso Crema Light Untable, 226 g](https://super.lider.cl/ip/quesos/00780790000157) → $2.511
+- Lider: [Queso Crema Untable, 226 g](https://super.lider.cl/ip/quesos/00780790000156) → $2.511
+- Lider: [Queso Crema Untable Pote, 150 g](https://super.lider.cl/ip/quesos/00762220142944) → $3.800
+- Lider: [Queso Crema Original, 180 g](https://super.lider.cl/ip/quesos/00762220179756) → $4.389
+- Lider: [Queso Crema Untable, 1 Un](https://super.lider.cl/ip/quesos/00780292046020) → $1.790
 
 ## Quesillo `quesillo` · por quesillo
-**$1.790 · $2.100 · $2.570** (mín · media · máx, 22 precios)
-- Unimarc: [Quesillo Quillayes pote 150 g](https://www.unimarc.cl/quesillo-quillayes-pote-150-gr/p) → $1.833 (normal $2.317)
-- Unimarc: [Quesillo Colun con sal pote 2 un de 160 g](https://www.unimarc.cl/quesillo-colun-con-sal-pote-2-u-x-160-g/p) → $1.867 (normal $2.180)
-- Unimarc: [Quesillo sin lactosa Soprole 300 g Quesillo sin lactosa Soprole zerolacto pote 300 g](https://www.unimarc.cl/quesillo-soprole-zero-lacto-pote-300-g/p) → $2.167 (normal $2.325)
-- Unimarc: [Quesillo Colun light pote 2 un de 160 g](https://www.unimarc.cl/quesillo-colun-light-pote-2-u-x-160-g/p) → $2.414
-- Unimarc: [Quesillo Colun sin lactosa 320 g](https://www.unimarc.cl/quesillo-sin-lactosa-colun-320-gr/p) → $2.539
-- Unimarc: [Quesillo Colun sin sal pote 320 g](https://www.unimarc.cl/quesillo-colun-s-sal-320-grs/p) → $2.570
-- Unimarc: [Quesillo Soprole pote 300 g Quesillo Soprole con sal pote 300 g](https://www.unimarc.cl/quesillo-soprole-con-sal-pote-300-g-c-u/p) → $2.208
+**$1.250 · $2.030 · $2.570** (mín · media · máx, 30 precios)
 - Tottus: [Quesillo Fresco](https://www.tottus.cl/tottus-cl/articulo/110621955/quesillo-colun-320-grs) → $1.789 (normal $1.992)
 - Tottus: [Quesillo Light](https://www.tottus.cl/tottus-cl/articulo/110621827/quesillo-light-colun-320-grs) → $1.867 (normal $2.102)
 - Tottus: [Quesillo sin Lactosa](https://www.tottus.cl/tottus-cl/articulo/110623911/quesillo-sin-lactosa-colun-0-32-kl) → $2.258
-- Tottus: [Quesillo Zerolacto sin Lactosa](https://www.tottus.cl/tottus-cl/articulo/110612676/quesillo-sin-lactosa-300-g) → $2.208
 - Tottus: [Quesillo Envase Doble](https://www.tottus.cl/tottus-cl/articulo/110610632/quesillo-soprole-cs-300-gr) → $2.042
+- Tottus: [Quesillo Zerolacto sin Lactosa](https://www.tottus.cl/tottus-cl/articulo/110612676/quesillo-sin-lactosa-300-g) → $2.208
+- Tottus: [Quesillo Fresco Natural Quillayes 150 g](https://www.tottus.cl/tottus-cl/articulo/144978904/quesillo-fresco-natural-quillayes-150-gr) → $2.200
+- Tottus: [Quesillo Fresco Sin Lactosa Quillayes 150 g](https://www.tottus.cl/tottus-cl/articulo/144978884/quesillo-fresco-slacto-quillayes-150-gr) → $2.300
+- Lider: [Quesillo Fresco Bolsa, 350 g](https://super.lider.cl/ip/quesos/00780292000229) → $1.893
+- Lider: [Quesillo Fresco Trozo, 300 g](https://super.lider.cl/ip/quesos/00780290016500) → $1.958
+- Lider: [Quesillo Fresco Light Bolsa, 320 g](https://super.lider.cl/ip/quesos/00780292000113) → $2.070
+- Lider: [Quesillo Fresco Sin lactosa Pote, 300 g](https://super.lider.cl/ip/quesos/00780290014901) → $2.158
+- Lider: [Quesillo Fresco Sin Lactosa Pote, 150 g](https://super.lider.cl/ip/quesos/00780293000429) → $1.250 (normal $1.613)
 
 ## Queso brie `queso_brie` · por unidad
-**$3.390 · $4.470 · $6.950** (mín · media · máx, 24 precios)
-- Unimarc: [Queso brie Quillayes 100 g](https://www.unimarc.cl/queso-brie-quillayes-100gr/p) → $4.213 (normal $4.688)
-- Unimarc: [Queso brie Soprole 125 g Queso brie Soprole la tabla 125 g](https://www.unimarc.cl/queso-brie-la-tabla-soprole-125gr/p) → $3.590
-- Unimarc: [Queso brie Los Alpes 125 g](https://www.unimarc.cl/queso-brie-los-alpes-125gr/p) → $4.150
-- Unimarc: [Queso blue Brie Ile de France 125 g](https://www.unimarc.cl/queso-blue-brie-ile-de-france-125-grs/p) → $6.490
-- Unimarc: [Queso Brie Los Tilos 140 g](https://www.unimarc.cl/queso-brie-los-tilos-140-gr/p) → $4.545
-- Unimarc: [Queso petit Brie Ile de France 125 g](https://www.unimarc.cl/queso-petit-brie-ile-de-france-125-grs/p) → $6.950
-- Unimarc: [Queso brie Ile de France laminado 150 g](https://www.unimarc.cl/queso-lamin-brie-ile-de-france-150gr/p) → $4.575
-- Unimarc: [Queso brie quillayes 120g](https://www.unimarc.cl/queso-brie-quillayes-120-gr/p) → $5.365
+**$2.990 · $4.170 · $8.110** (mín · media · máx, 30 precios)
 - Tottus: [Queso Brie Trozo](https://www.tottus.cl/tottus-cl/articulo/117343888/queso-brie-soprole-125-g) → $3.590
 - Tottus: [Queso Brie](https://www.tottus.cl/tottus-cl/articulo/110623211/queso-brie-los-alpes-125-gr) → $3.390 (normal $3.850)
+- Tottus: [Queso Brie Cremoso Quillayes 100 g](https://www.tottus.cl/tottus-cl/articulo/142489870/queso-brie-quillayes-100-gr-und) → $4.238
 - Tottus: [Queso Brie Los Tilos 125 g](https://www.tottus.cl/tottus-cl/articulo/129386290/queso-brie-los-tilos-125-gr) → $4.390
 - Tottus: [Queso Brie](https://www.tottus.cl/tottus-cl/articulo/110623667/petit-brie-ile-de-france-125-gr) → $6.250
+- Tottus: [Queso Brie Trozo](https://www.tottus.cl/tottus-cl/articulo/116176027/queso-brie-artisan-120-gr) → $4.260
+- Tottus: [Queso Brie Laminado](https://www.tottus.cl/tottus-cl/articulo/115807550/brie-laminado-ile-de-france-150-gr) → $4.575
+- Tottus: [Queso Brie Blue](https://www.tottus.cl/tottus-cl/articulo/115807549/brie-bleu-ile-de-france-125-gr) → $6.250
+- Lider: [Queso Brie Cremoso Trozo, 100 g](https://super.lider.cl/ip/quesos/00780293000577) → $3.750 (normal $4.238)
+- Lider: [Queso Brie Entero, 125 g](https://super.lider.cl/ip/quesos/00780292000981) → $3.890
+- Lider: [Queso Brie Trozo, 125 g](https://super.lider.cl/ip/quesos/00780296070613) → $4.190
+- Lider: [Queso Brie Trozo, 140 g](https://super.lider.cl/ip/quesos/00780208000046) → $3.973
 
 ## Queso camembert `queso_camembert` · por unidad
-**$3.110 · $3.810 · $6.250** (mín · media · máx, 21 precios)
-- Unimarc: [Queso camembert Quillayes 100 g](https://www.unimarc.cl/queso-camembert-los-quillayes-100-grs/p) → $3.563 (normal $4.863)
-- Unimarc: [Queso camembert Los Alpes 125 g](https://www.unimarc.cl/queso-camembert-los-alpes-125gr/p) → $4.590
-- Unimarc: [Queso camembert Soprole 125 g Queso camembert Soprole la tabla 125 g](https://www.unimarc.cl/queso-camembert-la-tabla-soprole-125gr/p) → $3.550
-- Unimarc: [Queso Camembert Premiun Los Tilos 100 Gr](https://www.unimarc.cl/queso-camembert-premiun-los-tilos-100-gr/p) → $4.613
-- Unimarc: [Queso camembert Santa Rosa 125 g](https://www.unimarc.cl/queso-camemb-santa-rosa-sta-rosa-125-gr/p) → $3.990
-- Tottus: [Queso Camembert Quilayes 100 g](https://www.tottus.cl/tottus-cl/articulo/110621870/queso-camembert-quillayes-100-grs) → $3.738 (normal $4.363)
+**$2.330 · $3.720 · $6.250** (mín · media · máx, 28 precios)
+- Tottus: [Queso Camembert Quilayes 100 g](https://www.tottus.cl/tottus-cl/articulo/110621870/queso-camembert-quillayes-100-grs) → $3.488 (normal $4.363)
 - Tottus: [Queso Camembert](https://www.tottus.cl/tottus-cl/articulo/110624696/queso-camembert-los-alpes-125-gr) → $3.390 (normal $3.850)
 - Tottus: [Queso Camembert Artisan 100 g](https://www.tottus.cl/tottus-cl/articulo/137258503/camembert-artisan-100-gr) → $3.113
 - Tottus: [Queso Camembert Trozo](https://www.tottus.cl/tottus-cl/articulo/116176033/queso-camembert-artisan-150-gr) → $3.242
 - Tottus: [Queso Fino Camembert](https://www.tottus.cl/tottus-cl/articulo/116372071/queso-fino-camembert-president-125-gr) → $5.090
+- Tottus: [Queso Camembert Pimienta Negra Artisan 150 g](https://www.tottus.cl/tottus-cl/articulo/122189896/queso-camembert-pim-neg-artisan-150-gr) → $3.242
 - Tottus: [Queso Camembert Petit](https://www.tottus.cl/tottus-cl/articulo/115807553/petit-camembert-ile-de-france-125-gr) → $6.250
 - Tottus: [Queso Camembert Merkén Los Tilos 130 g](https://www.tottus.cl/tottus-cl/articulo/129386238/queso-camembert-merken-los-tilos-130-gr) → $3.644
+- Lider: [Queso Camembert Trozo, 100 g](https://super.lider.cl/ip/quesos/00780293000051) → $2.333 (normal $3.613)
+- Lider: [Queso Camembert Trozo, 125 g](https://super.lider.cl/ip/quesos/00780290000320) → $3.490
+- Lider: [Queso Camembert Entero, 100 g](https://super.lider.cl/ip/quesos/00780208000032) → $3.688 (normal $4.238)
+- Lider: [Queso Camembert Merkén Trozo, 130 g](https://super.lider.cl/ip/quesos/00780208000103) → $3.548
 
 ## Queso de cabra `queso_cabra` · por unidad
-**$3.080 · $5.140 · $8.130** (mín · media · máx, 22 precios)
-- Unimarc: [Queso de cabra Callaqui suave orégano 200 g](https://www.unimarc.cl/queso-cabra-suave-callaqui-200g-oregano/p) → $4.620 (normal $5.243)
-- Unimarc: [Queso de cabra griego feta La Cabresa 200 gr](https://www.unimarc.cl/queso-cabra-feta-la-cabresa-200-gr/p) → $5.355 (normal $6.113)
-- Unimarc: [Queso de cabra maduro La Cabresa 200 gr](https://www.unimarc.cl/queso-cabra-maduro-la-cabresa-200-gr/p) → $5.190 (normal $5.888)
-- Unimarc: [Queso de cabra feta Callaqui 200 gr](https://www.unimarc.cl/queso-cabra-feta-callaqui-200gr/p) → $4.860 (normal $5.513)
-- Unimarc: [Queso de cabra Callaqui suave 200 g](https://www.unimarc.cl/queso-cabra-suave-callaqui-200gr/p) → $5.468
-- Unimarc: [Queso de cabra Callaqui para untar ciboulette 150 g](https://www.unimarc.cl/queso-cabra-untar-callaqui-1-ciboulette/p) → $5.350
-- Unimarc: [Queso cabra Los Tilos natural 200 g](https://www.unimarc.cl/queso-cabra-natural-los-tilos-200-gr/p) → $5.768
-- Unimarc: [Queso cabra Los Tilos orégano 200 g](https://www.unimarc.cl/queso-cabra-oregano-los-tilos-200-gr/p) → $5.993
-- Tottus: [Queso de Cabra Suave Orégano Callaqui 200 g](https://www.tottus.cl/tottus-cl/articulo/110621895/queso-cabra-suave-oreg-callaqui-200-gr) → $4.643 (normal $5.063)
+**$2.990 · $4.860 · $8.130** (mín · media · máx, 31 precios)
 - Tottus: [Queso de Cabra Suave Callaqui 200 g](https://www.tottus.cl/tottus-cl/articulo/110622349/queso-cabra-suave-callaqui-200-g) → $5.063
+- Tottus: [Queso de Cabra Maduro](https://www.tottus.cl/tottus-cl/articulo/121429000/q-cabra-maduro-callaqui-140-gr) → $6.846 (normal $8.132)
+- Tottus: [Queso de Cabra Suave Orégano Callaqui 200 g](https://www.tottus.cl/tottus-cl/articulo/110621895/queso-cabra-suave-oreg-callaqui-200-gr) → $4.643 (normal $5.063)
 - Tottus: [Queso Cabra Trozo](https://www.tottus.cl/tottus-cl/articulo/112668736/queso-cabra-trozo-quillayes-200-gr) → $4.493 (normal $5.318)
+- Tottus: [Queso Cabra Natural Trozo](https://www.tottus.cl/tottus-cl/articulo/116176037/queso-cabra-natural-artisan-180-gr) → $5.242 (normal $5.458)
 - Tottus: [Queso Fundido de Cabra Ahumado con Finas Hierbas Artisan 180 g](https://www.tottus.cl/tottus-cl/articulo/120304507/queso-cabra-ahumado-finas-hierbas-180g) → $3.075
+- Tottus: [Queso Cabra Feta](https://www.tottus.cl/tottus-cl/articulo/119786295/q-cabra-feta-callaqui-200-gr) → $5.213
+- Tottus: [Queso de Cabra Untar Ciboulette Callaqui 150 g](https://www.tottus.cl/tottus-cl/articulo/115809546/q-cabra-ciboulette-untar-callaqui-150-gr) → $4.790
+- Lider: [Queso cabra orégano, 200 g](https://super.lider.cl/ip/quesos/00780293000557) → $5.243
+- Lider: [Queso Cabra Suave Laminado, 200 g](https://super.lider.cl/ip/quesos/00780466896002) → $5.243
+- Lider: [Queso cabra tomate albahaca, 200 g](https://super.lider.cl/ip/quesos/00780293000558) → $5.243
+- Lider: [Queso Cabra Las Parcelas de Valdivia Bolsa, 200 ml](https://super.lider.cl/ip/quesos/00780291000918) → $5.543
 
 ## Queso azul `queso_azul` · por unidad
-**$4.730 · $5.640 · $11.330** (mín · media · máx, 18 precios)
-- Unimarc: [Queso azul Los Alpes 100 g](https://www.unimarc.cl/queso-azul-los-alpes-100-gr/p) → $4.725 (normal $5.385)
-- Unimarc: [Queso azul cuña Santa Rosa 100 g](https://www.unimarc.cl/queso-azul-cuna-santa-rosa-100-g/p) → $6.135
-- Unimarc: [Queso azul Soprole 100 g Queso azul Soprole la tabla 100 g](https://www.unimarc.cl/queso-azul-la-tabla-soprole-100gr/p) → $5.175
-- Unimarc: [Queso azul Quillayes trozo 100 g](https://www.unimarc.cl/queso-azul-trozo-quillayes-100-grs/p) → $6.285
+**$4.190 · $5.260 · $11.330** (mín · media · máx, 24 precios)
 - Tottus: [Queso Azul](https://www.tottus.cl/tottus-cl/articulo/110622209/queso-azul-los-alpes-100-gr) → $4.875
 - Tottus: [Queso Azul Trozo](https://www.tottus.cl/tottus-cl/articulo/117361443/queso-azul-soprole-100-gr) → $5.025
-- Tottus: [Queso Azul Santa Rosa 100 g](https://www.tottus.cl/tottus-cl/articulo/110622828/queso-azul-santa-rosa-100-gr) → $5.835
+- Tottus: [Queso Azul Santa Rosa 100 g](https://www.tottus.cl/tottus-cl/articulo/110622828/queso-azul-santa-rosa-100-gr) → $4.185 (normal $5.835)
 - Tottus: [Queso Azul Trozo Quillayes](https://www.tottus.cl/tottus-cl/articulo/110623215/queso-azul-quillayes-100-gr) → $4.935 (normal $5.985)
 - Tottus: [Queso Azul Le Blue President 100 gr](https://www.tottus.cl/tottus-cl/articulo/150889330/queso-le-blue-president-100-g) → $7.185
 - Tottus: [Queso Roquefort Societe 100 gr](https://www.tottus.cl/tottus-cl/articulo/150889320/queso-roquefort-trozo-societe-100-g) → $11.325
-- Jumbo: [Queso Azul Los Alpes 100 g](https://www.jumbo.cl/queso-azul-100-g/p) → $5.145
-- Jumbo: [Queso Azul Los Alpes 100 g](https://www.jumbo.cl/queso-azul-100-g/p) → $5.145
+- Lider: [Queso Azul Trozo, 100 g](https://super.lider.cl/ip/quesos/00780293000401) → $5.985
+- Lider: [Queso Azul La Tabla Trozo, 100 g](https://super.lider.cl/ip/quesos/00780290000322) → $4.725
+- Lider: [Queso Azul Italiano Trozo, 150 g](https://super.lider.cl/ip/quesos/00800267001847) → $5.290
+- Lider: [Queso Azul Danés Untable, 100 g](https://super.lider.cl/ip/quesos/00780292000979) → $4.275 (normal $4.785)
+- Lider: [Queso Azul Trozo, 100 g](https://super.lider.cl/ip/quesos/00000007790208) → $5.775
+- Lider: [Queso Cremoso Azul Trozo, 125 g](https://super.lider.cl/ip/quesos/00316171299615) → $7.548
 
 ## Queso parmesano (trozo) `queso_parmesano` · por trozo
-**$4.040 · $5.850 · $10.150** (mín · media · máx, 13 precios)
-- Unimarc: [Queso Parmesano Los Tilos 145 g](https://www.unimarc.cl/queso-parmesano-los-tilos-145-gr/p) → $5.724 (normal $7.021)
-- Unimarc: [Queso parmesano Quillayes trozo 200 g](https://www.unimarc.cl/queso-parmesano-trozo-quillayes-200-grs/p) → $5.850
-- Unimarc: [Queso reggianito Colun trozo 200 g](https://www.unimarc.cl/queso-reggianito-colun-trozo-200-gr/p) → $4.850
-- Unimarc: [Queso Ferrari grana padano 200 g](https://www.unimarc.cl/queso-granapadano-ferrari-200-gr/p) → $10.150
-- Unimarc: [Queso reggianito blanco Santa Rosa 145 gr](https://www.unimarc.cl/queso-reggianito-blanco-sta-rosa-145-gr/p) → $6.869
+**$4.040 · $6.160 · $12.020** (mín · media · máx, 18 precios)
 - Tottus: [Queso Parmesano en Frasco](https://www.tottus.cl/tottus-cl/articulo/113571338/queso-parmesano-tottus-227-gr) → $4.044
 - Tottus: [Queso Parmesano Quillayes 200 g](https://www.tottus.cl/tottus-cl/articulo/119901957/queso-parmesano-quillayes-200-gr) → $5.450
+- Lider: [Queso Parmesano Trozo, 200 g](https://super.lider.cl/ip/quesos/00780293000402) → $5.390
+- Lider: [Queso Parmesano Trozo, 145 g](https://super.lider.cl/ip/quesos/00780208000083) → $6.469
+- Lider: [Queso Parmesano Rallado, 226 g](https://super.lider.cl/ip/quesos/00007874235322) → $4.062
+- Jumbo: [Queso Parmesano Latteria Soresina Envasado Trozo 125 g](https://www.jumbo.cl/queso-parmigiano-reggiano-125-g/p) → $8.411
+- Jumbo: [Queso Parmesano Latteria Soresina Envasado Trozo 125 g](https://www.jumbo.cl/queso-parmigiano-reggiano-125-g/p) → $8.411 (normal $12.016)
+- Jumbo: [Queso Tipo Parmesano Latteria Soresina 150 g](https://www.jumbo.cl/queso-duro-italiano-150g-2042978/p) → $4.797
+- Jumbo: [Queso Tipo Parmesano Latteria Soresina 150 g](https://www.jumbo.cl/queso-duro-italiano-150g-2042978/p) → $4.797 (normal $6.853)
+- Jumbo: [Queso Parmesano Ferrari Envasado Trozo 200 g](https://www.jumbo.cl/queso-parmigiano-reggiano-ferrari-200-g/p) → $8.820
+- Jumbo: [Queso Parmesano Ferrari Envasado Trozo 200 g](https://www.jumbo.cl/queso-parmigiano-reggiano-ferrari-200-g/p) → $8.820 (normal $11.760)
 - Jumbo: [Queso Parmesano Los Tilos Trozo 145 g](https://www.jumbo.cl/queso-parmesano-trozo-145-g/p) → $6.966
-- Jumbo: [Queso Parmesano Los Tilos Trozo 145 g](https://www.jumbo.cl/queso-parmesano-trozo-145-g/p) → $6.966
-- Jumbo: [Queso Parmesano Quillayes Envasado Trozo 200 g](https://www.jumbo.cl/queso-parmesano-quillayes-200-g-2/p) → $5.850
-- Jumbo: [Queso Parmesano Quillayes Envasado Trozo 200 g](https://www.jumbo.cl/queso-parmesano-quillayes-200-g-2/p) → $5.850
-- Jumbo: [Queso Parmesano Dos Castaños 300 g](https://www.jumbo.cl/queso-parmesano-dos-castanos-300gr/p) → $5.213
 
 ## Queso mozzarella `mozzarella` · por kg
-**$12.400 · $20.300 · $59.120** (mín · media · máx, 18 precios)
-- Unimarc: [Queso mozzarella Granarolo fior latte 225 g](https://www.unimarc.cl/queso-mozarella-fior-latte-granarol-225g/p) → $22.000 (normal $23.600)
-- Unimarc: [Queso mozzarella Santa Rosa cremosa 200 g](https://www.unimarc.cl/queso-mozzarella-cilind-sta-rosa-200-gr/p) → $19.750
-- Unimarc: [Queso mozzarella Dibúfala celiegine 250 g](https://www.unimarc.cl/mozzarella-dibufala-celiegini-250-gr/p) → $39.960
-- Unimarc: [Queso mozzarella trenza Pucara trozo granel 680 g](https://www.unimarc.cl/queso-mozzarella-trenza-pucara-kg/p) → $24.760
-- Tottus: [Queso Mozzarella](https://www.tottus.cl/tottus-cl/articulo/115847377/queso-mozzarella-granarolo-225-grs) → $12.400
-- Tottus: [Queso Mozzarella Pizza Palmizulia 200 g](https://www.tottus.cl/tottus-cl/articulo/124692873/queso-mozzarella-pizza-palmizulia-200-gr) → $16.950
+**$12.400 · $18.770 · $59.120** (mín · media · máx, 26 precios)
 - Tottus: [Queso Mozzarella Trozo](https://www.tottus.cl/tottus-cl/articulo/115847456/queso-mozzarella-trozo-tottus-200-gr-und) → $15.250
 - Tottus: [Queso Mozzarella Cilíndrica](https://www.tottus.cl/tottus-cl/articulo/115807371/queso-mozarella-cilindrica-200-gr) → $19.950
+- Tottus: [Queso Mozzarella](https://www.tottus.cl/tottus-cl/articulo/115847377/queso-mozzarella-granarolo-225-grs) → $12.400
 - Tottus: [Queso Mozzarella Ciliegini Dibufala 125 g](https://www.tottus.cl/tottus-cl/articulo/124692881/queso-mozarel-ciliegini-dibufala-125-gr) → $51.120 (normal $59.120)
+- Tottus: [Queso Mozzarella Pizza Palmizulia 200 g](https://www.tottus.cl/tottus-cl/articulo/124692873/queso-mozzarella-pizza-palmizulia-200-gr) → $16.950
 - Tottus: [Queso Vegano Mozzarella Trozo Veg Cheese 200 g](https://www.tottus.cl/tottus-cl/articulo/124692815/q-sucedaneo-tzo-mozza-vegcheese-200-gr) → $14.750
-- Jumbo: [Queso Mozzarella Granarolo Envasado Trozo 125 g](https://www.jumbo.cl/queso-mozzarella-vaca-ciliegine-125-gr-1924066/p) → $23.520
-- Jumbo: [Queso Mozzarella Granarolo Envasado Trozo 125 g](https://www.jumbo.cl/queso-mozzarella-vaca-ciliegine-125-gr-1924066/p) → $23.520
+- Lider: [Queso Mozzarella Granulado, 400 g](https://super.lider.cl/ip/quesos/00780293000415) → $13.725 (normal $15.475)
+- Lider: [Queso Mozzarella Corte En Hebras, 180 g](https://super.lider.cl/ip/quesos/00780464826050) → $13.055
+- Lider: [Queso mozzarella bocconcino, 480 g](https://super.lider.cl/ip/quesos/00780460812203) → $13.938
+- Lider: [Queso Mozzarella Laminado, 250 g](https://super.lider.cl/ip/quesos/00780293000434) → $18.600
+- Lider: [Queso Mozzarella Hebras, 400 g](https://super.lider.cl/ip/quesos/00780290000268) → $15.375
+- Lider: [Queso Mozzarella Ovoline, 500 g](https://super.lider.cl/ip/quesos/00780208000067) → $15.980 (normal $18.980)
 
 ## Huevos `huevos` · por huevo
-**$230 · $320 · $400** (mín · media · máx, 24 precios)
-- Unimarc: [Huevos Fundo Rio Alegre grande blanco 12 un](https://www.unimarc.cl/huevo-grande-blanco-f-rio-alegre-sm-12un/p) → $228 (normal $308)
-- Unimarc: [Huevo color Santa Elvira grande bandeja 30 un](https://www.unimarc.cl/huevo-grande-color-sta-elvira-30-un/p) → $283 (normal $322)
-- Unimarc: [Huevo Coliumo grande color 30 un](https://www.unimarc.cl/huevo-grande-color-coliumo-30-un/p) → $328 (normal $372)
-- Unimarc: [Huevos Fundo Río Alegre extra blanco 20 un](https://www.unimarc.cl/huevo-extra-blanco-f-rio-alegre-sm-20un/p) → $250 (normal $330)
-- Unimarc: [Huevos extra blanco grande Cintazul 20 un](https://www.unimarc.cl/huevos-cintazul-extra-blanco-grande-20-u/p) → $318 (normal $358)
-- Unimarc: [Huevos Santa Elvira grande color 12 un](https://www.unimarc.cl/huevo-grande-color-santa-elvira-12-un/p) → $371 (normal $396)
-- Unimarc: [Huevos Fundo Rio Alegre extra color 20 un](https://www.unimarc.cl/huevo-extra-color-f-rio-alegre-es-20-un/p) → $345
-- Unimarc: [Huevos extra blanco grande Cintazul 12 un](https://www.unimarc.cl/huevos-cintazul-extra-blanco-grande-12-u/p) → $352 (normal $399)
+**$190 · $290 · $400** (mín · media · máx, 32 precios)
+- Tottus: [Huevos Blanco Grandes Don Vicho 30 Un](https://www.tottus.cl/tottus-cl/articulo/130942350/huevo-grande-blanco-30-un-don-vicho) → $280
+- Tottus: [Huevos de Color Grandes Don Vicho 30 Un](https://www.tottus.cl/tottus-cl/articulo/130931544/huevo-grande-color-30-un-don-vicho) → $280 (normal $283)
 - Tottus: [Huevos Blanco Grande Tottus 30 Un](https://www.tottus.cl/tottus-cl/articulo/111652618/huevo-grande-blanco-tottus-30-und) → $266 (normal $310)
-- Tottus: [Huevos Blanco Extra Grande Tottus 20 Un](https://www.tottus.cl/tottus-cl/articulo/115855690/huevo-extr-blanco-20u-tottus) → $320 (normal $325)
 - Tottus: [Huevo Grande Blanco](https://www.tottus.cl/tottus-cl/articulo/111865820/huevo-grand-blanc-12u-tottus) → $249 (normal $316)
+- Tottus: [Huevos Blanco Extra Grande Tottus 20 Un](https://www.tottus.cl/tottus-cl/articulo/115855690/huevo-extr-blanco-20u-tottus) → $290 (normal $325)
 - Tottus: [Huevos Blanco Grande Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/110609973/huevo-blanco-grande-12-undids-tottus) → $249 (normal $316)
+- Tottus: [Huevo Blanco Extra Grande Don Vicho 20 un](https://www.tottus.cl/tottus-cl/articulo/150889299/huevo-blanco-extra-don-vicho-20-un) → $335
+- Tottus: [Huevos Blancos Grandes Don Vicho 12 Un](https://www.tottus.cl/tottus-cl/articulo/133693762/huevo-grande-blanco-don-vicho-12un) → $391
+- Lider: [Huevo blanco xl, 12 Un](https://super.lider.cl/ip/huevos/00780418000056) → $349
+- Lider: [Huevos Tradicionales Mediano Blanco, 30 Un](https://super.lider.cl/ip/huevos/00780418002006) → $216 (normal $310)
+- Lider: [Huevos Tradicionales Extra Grande Blanco, 20 Un](https://super.lider.cl/ip/huevos/00780418000008) → $350
+- Lider: [Huevos Tradicionales Grande Color, 30 Un](https://super.lider.cl/ip/huevos/00780953180114) → $242 (normal $323)
 
 ## Mantequilla `mantequilla` · por pan de 250 g
-**$2.490 · $2.970 · $4.650** (mín · media · máx, 24 precios)
-- Unimarc: [Mantequilla Colun con sal pan 250 g](https://www.unimarc.cl/mantequilla-colun-con-sal-pan-250-g/p) → $2.890 (normal $3.390)
-- Unimarc: [Mantequilla Fundo Los Alerces con sal pan 250 g](https://www.unimarc.cl/mantequilla-fundo-los-alerces-pan-250-g/p) → $2.950 (normal $3.250)
-- Unimarc: [Mantequilla Soprole sin sal 250 g Mantequilla Soprole sin sal pan 250 g](https://www.unimarc.cl/mantequilla-sin-sal-soprole-pan-250-grs/p) → $3.590
-- Unimarc: [Mantequilla de campo Kumey 250 g](https://www.unimarc.cl/mantequilla-de-campo-kumey-250-gr/p) → $3.690
-- Unimarc: [Mantequilla Soprole con sal de mar 250 g Mantequilla Soprole con sal de mar pan 250 g](https://www.unimarc.cl/mantequilla-soprole-con-sal-de-mar-250-g/p) → $3.890
-- Unimarc: [Mantequilla Calo con sal pan 250 g](https://www.unimarc.cl/mantequilla-calo-con-sal-pan-250-g/p) → $2.990
-- Unimarc: [Mantequilla Colun sin sal pan 250 g](https://www.unimarc.cl/mantequilla-colun-sin-sal-pan-250-g/p) → $4.350
-- Unimarc: [Mantequilla Loncoleche con aceite de canola pote 250 g](https://www.unimarc.cl/mantequilla-loncoleche-sin-colesterol-pote-250-g/p) → $4.650
+**$1.900 · $2.970 · $4.650** (mín · media · máx, 24 precios)
+- Tottus: [Mantequilla con Sal Colun 250 g](https://www.tottus.cl/tottus-cl/articulo/110623711/mantequilla-colun-cs-pan-250-grs) → $2.890 (normal $3.290)
 - Tottus: [Mantequilla con Sal Pan Soprole 250 gr](https://www.tottus.cl/tottus-cl/articulo/110613755/mantequilla-soprole-cs-pan-250-grs) → $2.790 (normal $3.090)
-- Tottus: [Mantequilla Los Alerces 250 g](https://www.tottus.cl/tottus-cl/articulo/115807285/mantequilla-los-alerces-pan-250-grs) → $2.950
+- Tottus: [Mantequilla Los Alerces 250 g](https://www.tottus.cl/tottus-cl/articulo/115807285/mantequilla-los-alerces-pan-250-grs) → $2.390 (normal $2.950)
 - Tottus: [Mantequilla con Sal Tottus 250 g](https://www.tottus.cl/tottus-cl/articulo/110612895/mantequilla-pan-cs-250-grs-tottus) → $2.490
 - Tottus: [Mantequilla de Campo Kumey 250 g](https://www.tottus.cl/tottus-cl/articulo/110613795/mantequilla-de-campo-kumey-250-gr) → $3.190 (normal $3.490)
+- Tottus: [Mantequilla con Sal de Mar](https://www.tottus.cl/tottus-cl/articulo/110611589/manteq-soprole-con-sal-de-mar-250-gr) → $3.390 (normal $3.890)
+- Tottus: [Margarina con Mantequilla Sureña Pote 250 g](https://www.tottus.cl/tottus-cl/articulo/142228111/margarina-surena-250-gr) → $1.900
+- Tottus: [Margarina Mix con Mantequilla Pote Soprole 250 g](https://www.tottus.cl/tottus-cl/articulo/149563489/margarina-mix-soprole-250-gr) → $2.550 (normal $2.750)
+- Jumbo: [Sucedáneo de Mantequilla Orasi Buttery Light 250 g](https://www.jumbo.cl/sucedaneo-mantequilla-orasi-light-250gr-2049074/p) → $3.200
+- Jumbo: [Sucedáneo de Mantequilla Orasi Buttery Light 250 g](https://www.jumbo.cl/sucedaneo-mantequilla-orasi-light-250gr-2049074/p) → $3.200
+- Jumbo: [Mantequilla Soprole con Sal 250 g](https://www.jumbo.cl/mantequilla-con-sal-soprole-250-g/p) → $2.500
+- Jumbo: [Mantequilla Soprole con Sal 250 g](https://www.jumbo.cl/mantequilla-con-sal-soprole-250-g/p) → $2.500 (normal $3.210)
 
 ## Margarina `margarina` · por pote
-**$1.110 · $1.380 · $1.610** (mín · media · máx, 4 precios)
+**$1.110 · $1.250 · $2.490** (mín · media · máx, 7 precios)
 - Tottus: [Margarina con Mantequilla Pote Sureña 450 g](https://www.tottus.cl/tottus-cl/articulo/110609932/margarina-surena-pote-450-grs) → $1.161 (normal $1.605)
 - Tottus: [Margarina Untable Pote](https://www.tottus.cl/tottus-cl/articulo/110612159/margarina-pote-tottus-450-gr) → $1.106
-- Jumbo: [Margarina Soprole 250 g](https://www.jumbo.cl/margarina-soprole-cremosa-con-leche-pan-250-g/p) → $1.600
-- Jumbo: [Margarina Soprole 250 g](https://www.jumbo.cl/margarina-soprole-cremosa-con-leche-pan-250-g/p) → $1.600
+- Lider: [Margarina con Mantequilla Tradicional, 450 g](https://super.lider.cl/ip/mantequillas-y-margarinas/00780281002238) → $1.250 (normal $1.583)
+- Lider: [Margarina Mix 30% Mantequilla Tradicional Pote, 250 g](https://super.lider.cl/ip/mantequillas-y-margarinas/00780290000505) → $2.000 (normal $2.490)
+- Lider: [Margarina Light, 450 g](https://super.lider.cl/ip/mantequillas-y-margarinas/00780281000885) → $1.250
+- Unimarc: [Margarina Sureña mix pote 450 g](https://www.unimarc.cl/margarina-mix-surena-pote-500-gr/p) → $1.583 (normal $2.105)
+- Unimarc: [Margarina Sureña con mantequilla pote 450 g](https://www.unimarc.cl/margarina-surena-pote-500-grs/p) → $1.222 (normal $1.750)
 
 ## Leche entera `leche` · por L
-**$1.000 · $1.180 · $3.000** (mín · media · máx, 23 precios)
-- Unimarc: [Leche entera natural Colun sin tapa 1 L](https://www.unimarc.cl/leche-entera-natural-colun-sin-tapa-1-l-2/p) → $1.250 (normal $1.350)
-- Unimarc: [Leche Soprole entera natural 1 L](https://www.unimarc.cl/leche-entera-natural-soprole-con-tapa-1-l-2/p) → $1.190 (normal $1.350)
-- Unimarc: [Leche entera Loncoleche sin tapa 1 L](https://www.unimarc.cl/leche-entera-s-t-loncoleche-1-lt/p) → $1.090 (normal $1.190)
-- Unimarc: [Pack Leche entera natural Colun, sin tapa 12 un de 1 L](https://www.unimarc.cl/leche-entera-natural-colun-sin-tapa-1-l-caja-12-un/p) → $1.250 (normal $1.350)
-- Unimarc: [Leche entera Los Peumos 1 L](https://www.unimarc.cl/leche-entera-tetra-los-peumos-1lt/p) → $1.000 (normal $1.190)
-- Unimarc: [Pack leche entera Loncoleche 12 un 1 L](https://www.unimarc.cl/leche-entera-s-t-loncoleche-1-lt-2/p) → $1.090 (normal $1.190)
-- Unimarc: [Pack Leche entera natural Soprole 12 un de 1 L](https://www.unimarc.cl/leche-entera-natural-soprole-con-tapa-1-l-caja-12-un/p) → $1.190 (normal $1.350)
-- Unimarc: [Leche entera Fundo Río Alegre 1 L](https://www.unimarc.cl/leche-entera-fundo-rio-alegre-1lt/p) → $1.000 (normal $1.190)
-- Tottus: [Leche Entera Natural Soprole 1 lt](https://www.tottus.cl/tottus-cl/articulo/112737942/leche-entera-uht-c-tapa-soprole-1-lt) → $1.350
+**$700 · $1.090 · $3.000** (mín · media · máx, 29 precios)
+- Tottus: [Leche Entera Natural Surlat 1 lt](https://www.tottus.cl/tottus-cl/articulo/128070724/leche-entera-uht-surlat-1-lt) → $1.090 (normal $1.190)
+- Tottus: [Leche Entera Natural Soprole 1 lt](https://www.tottus.cl/tottus-cl/articulo/112737942/leche-entera-uht-c-tapa-soprole-1-lt) → $850 (normal $1.350)
 - Tottus: [Leche Entera Natural](https://www.tottus.cl/tottus-cl/articulo/113771864/leche-blanca-entera-loncoleche-1-lt) → $1.050 (normal $1.190)
 - Tottus: [Leche Entera Tottus 1 L](https://www.tottus.cl/tottus-cl/articulo/110609853/leche-entera-s-t-tottus-1-lt) → $1.050
-- Tottus: [Leche Entera Vacas Libres a Pastoreo Ecoterra 1 lt](https://www.tottus.cl/tottus-cl/articulo/116081783/leche-entera-pastoreo-ecoterra-1-lt) → $3.000
+- Tottus: [Leche Entera Vacas Libres a Pastoreo Ecoterra 1 lt](https://www.tottus.cl/tottus-cl/articulo/116081783/leche-entera-pastoreo-ecoterra-1-lt) → $2.490 (normal $3.000)
+- Tottus: [Leche Entera Tottus 1 Lt](https://www.tottus.cl/tottus-cl/articulo/124256867/leche-entera-tottus-1-lt) → $1.150
+- Tottus: [Leche Entera Natural Cremosa Soprole 1 lt](https://www.tottus.cl/tottus-cl/articulo/110609523/leche-blanca-4.5mg-soprole-1-lt) → $1.290 (normal $1.570)
+- Tottus: [Leche Entera Natural](https://www.tottus.cl/tottus-cl/articulo/113152870/leche-tottus-entera-1lt) → $1.150
+- Lider: [Leche Entera Natural Caja 1 l, 1 L](https://super.lider.cl/ip/leche/00780292077754) → $838 (normal $1.290)
+- Lider: [Leche Entera +20% Proteína, 1 L](https://super.lider.cl/ip/leche/00780870950538) → $1.590
+- Lider: [Leche Entera A2, 1 L](https://super.lider.cl/ip/leche/00780464445119) → $3.490
+- Lider: [Leche Entera De Cabra Libre Pastoreo, 1 L](https://super.lider.cl/ip/leche/00780464445050) → $5.290
 
 ## Leche descremada `leche_descremada` · por L
-**$1.000 · $1.190 · $3.290** (mín · media · máx, 24 precios)
-- Unimarc: [Leche descremada Colun 1 L](https://www.unimarc.cl/leche-descremada-colun-sin-tapa-1-l-2/p) → $1.250 (normal $1.350)
-- Unimarc: [Leche descremada Loncoleche sin tapa 1 L](https://www.unimarc.cl/leche-descremada-s-t-loncoleche-1-lt/p) → $1.090 (normal $1.190)
-- Unimarc: [Leche Surlat whey proteína descremada caramelo 1 L](https://www.unimarc.cl/leche-descre-whey-protein-carame-1lt/p) → $2.850 (normal $3.290)
-- Unimarc: [Leche Soprole descremada natural 1 L](https://www.unimarc.cl/leche-descremada-soprole-con-tapa-1-l-2/p) → $1.190 (normal $1.350)
-- Unimarc: [Leche descremada Los Peumos 1 L](https://www.unimarc.cl/leche-descremada-tetra-los-peumos-1lt-2/p) → $1.000 (normal $1.190)
-- Unimarc: [Pack leche descremada Loncoleche 12 un 1 L](https://www.unimarc.cl/leche-descremada-s-t-loncoleche-1-lt-2/p) → $1.090 (normal $1.190)
-- Unimarc: [Pack Leche descremada Colun, sin tapa 12 un de 1 L](https://www.unimarc.cl/leche-descremada-colun-sin-tapa-1-l-caja-12-un/p) → $1.250 (normal $1.350)
-- Unimarc: [Pack Leche descremada Soprole 12 un de 1 L](https://www.unimarc.cl/leche-descremada-soprole-con-tapa-1-l-caja-12-un/p) → $1.190 (normal $1.350)
-- Tottus: [Leche Descremada Natural Soprole 1 lt](https://www.tottus.cl/tottus-cl/articulo/112737871/leche-descremada-uht-c-tapa-soprole-1-lt) → $1.350
-- Tottus: [Leche Descremada Natural](https://www.tottus.cl/tottus-cl/articulo/113349034/leche-blanca-descremada-loncoleche-1-lt) → $1.050 (normal $1.190)
-- Tottus: [Leche Descremada Surlat 1 lt](https://www.tottus.cl/tottus-cl/articulo/128289117/leche-descremada-uht-surlat-1-lt) → $1.190
+**$700 · $1.090 · $3.290** (mín · media · máx, 31 precios)
+- Tottus: [Leche Descremada Surlat 1 lt](https://www.tottus.cl/tottus-cl/articulo/128289117/leche-descremada-uht-surlat-1-lt) → $1.090 (normal $1.190)
 - Tottus: [Leche Descremada Tottus 1 Lt](https://www.tottus.cl/tottus-cl/articulo/124256869/leche-descremada-tottus-1-lt) → $1.150
+- Tottus: [Leche Descremada Natural](https://www.tottus.cl/tottus-cl/articulo/113349034/leche-blanca-descremada-loncoleche-1-lt) → $1.050 (normal $1.190)
+- Tottus: [Leche Descremada Natural](https://www.tottus.cl/tottus-cl/articulo/110611535/leche-descremada-s-t-tottus-1-lt) → $1.050
+- Tottus: [Leche Descremada Vacas Libres a Pastoreo Ecoterra 1 lt](https://www.tottus.cl/tottus-cl/articulo/116081788/leche-desc-pastoreo-ecoterra-1-lt) → $2.490 (normal $2.850)
+- Tottus: [Pack Leche Descremada Tottus 12 x 1 L](https://www.tottus.cl/tottus-cl/articulo/124256871/leche-descremada-tottus-12-lt) → $1.149
+- Tottus: [Leche Descremada Natural](https://www.tottus.cl/tottus-cl/articulo/112737839/leche-descremada-colun-st-1-lt) → $1.190 (normal $1.350)
+- Tottus: [Leche Descremada Natural Soprole 1 lt](https://www.tottus.cl/tottus-cl/articulo/112737871/leche-descremada-uht-c-tapa-soprole-1-lt) → $850 (normal $1.350)
+- Lider: [Leche Descremada Natural Caja 1 l, 1 L](https://super.lider.cl/ip/leche/00780292000008) → $838 (normal $1.290)
+- Lider: [Leche descremada protein plus 13, 1000 ml](https://super.lider.cl/ip/leche/00780292001218) → $2.290
+- Lider: [Leche Descremada +20% Proteína, 1 L](https://super.lider.cl/ip/leche/00780870950542) → $1.590
+- Lider: [Leche Descremada de Vacas Libre Pastoreo, 1 L](https://super.lider.cl/ip/leche/00780464445052) → $2.990
 
 ## Leche sin lactosa `leche_sin_lactosa` · por L
-**$1.210 · $1.350 · $3.170** (mín · media · máx, 24 precios)
-- Unimarc: [Leche descremada sin lactosa Surlat 1 L](https://www.unimarc.cl/leche-s-lactosa-descremada-surlat-1-lt-3/p) → $1.210 (normal $1.490)
-- Unimarc: [Leche semidescremada sin lactosa Surlat 1 L](https://www.unimarc.cl/leche-semidescremada-sin-lactosa-surlat-plus-1-l/p) → $1.210 (normal $1.490)
-- Unimarc: [Leche entera sin lactosa Colun con tapa 1 L](https://www.unimarc.cl/leche-entera-s-lactosa-colun-1-lt-2/p) → $1.350 (normal $1.450)
-- Unimarc: [Leche semidescremada sin lactosa Colun 1 L](https://www.unimarc.cl/leche-semidescremada-sin-lactosa-colun-1-lt/p) → $1.350 (normal $1.450)
-- Unimarc: [Leche descremada sin lactosa Colun 1 L](https://www.unimarc.cl/leche-descremada-sin-lactosa-colun-1-lt-2/p) → $1.350 (normal $1.450)
-- Unimarc: [Leche entera Surlat sin lactosa 1 L](https://www.unimarc.cl/leche-entera-sin-lactosa-surlat-1l/p) → $1.210 (normal $1.490)
-- Unimarc: [Leche semidescremada sin lactosa Loncoleche con tapa 1 L](https://www.unimarc.cl/leche-semidescremada-sin-lactosa-loncoleche-1-l/p) → $1.490
-- Unimarc: [Leche entera sin lactosa Loncoleche con tapa 1 L](https://www.unimarc.cl/leche-entera-sin-lactosa-loncoleche-con-tapa-1-l/p) → $1.490
-- Tottus: [Leche Descremada Sin Lactosa Surlat 1 lt](https://www.tottus.cl/tottus-cl/articulo/113256976/leche-descremada-sin-lactosa-surlat-1-lt) → $1.250 (normal $1.350)
-- Tottus: [Leche Semidescremada Sin Lactosa Surlat 1 lt](https://www.tottus.cl/tottus-cl/articulo/113603003/leche-semidescremada-sin-lactosa-surlat-1-lt) → $1.250 (normal $1.350)
-- Tottus: [Leche Entera Sin Lactosa Surlat 1 lt](https://www.tottus.cl/tottus-cl/articulo/111651576/leche-sin-lactosa-entera-surlat-1-lt) → $1.250 (normal $1.350)
-- Tottus: [Leche Entera Natural Sin Lactosa](https://www.tottus.cl/tottus-cl/articulo/112737697/leche-entera-s-lact-ed-ct-colun-1-lt) → $1.290 (normal $1.430)
+**$880 · $1.180 · $2.190** (mín · media · máx, 24 precios)
+- Lider: [Leche  Sin Lactosa Descremada, 1 L](https://super.lider.cl/ip/leche/00780290004801) → $878 (normal $1.350)
+- Lider: [Leche  Sin Lactosa Semidescremada, 1 L](https://super.lider.cl/ip/leche/00780290020081) → $878 (normal $1.350)
+- Lider: [Leche  Sin Lactosa Entera, 1 L](https://super.lider.cl/ip/leche/00780290000340) → $878 (normal $1.350)
+- Lider: [Leche Semidescremada Sin Lactosa Caja Con Tapa, 1 L](https://super.lider.cl/ip/leche/00780292000741) → $1.290 (normal $1.390)
+- Lider: [Leche Descremada Sin Lactosa Caja, 1 L](https://super.lider.cl/ip/leche/00780292000740) → $1.290 (normal $1.390)
+- Lider: [Leche Entera Sin Lactosa con Tapa, 1 L](https://super.lider.cl/ip/leche/00780292000739) → $1.290 (normal $1.390)
+- Lider: [Leche Descremada Sin Lactosa Caja, 1 L](https://super.lider.cl/ip/leche/00780870950199) → $1.350
+- Lider: [Leche Sin lactosa Vainilla Caja, 1 L](https://super.lider.cl/ip/leche/00780291000501) → $2.190
+- Jumbo: [Leche Cuisine & Co Sin Lactosa Semidescremada 1 L](https://www.jumbo.cl/leche-sin-lactosa-semidescremada-1-l-cuisine-and-co-1858325/p) → $1.000
+- Jumbo: [Leche Cuisine & Co Sin Lactosa Semidescremada 1 L](https://www.jumbo.cl/leche-sin-lactosa-semidescremada-1-l-cuisine-and-co-1858325/p) → $1.000 (normal $1.350)
+- Jumbo: [Leche Cuisine & Co Sin Lactosa Descremada 1 L](https://www.jumbo.cl/leche-sin-lactosa-descremada-1-l-cuisine-and-co-1858324/p) → $1.000
+- Jumbo: [Leche Cuisine & Co Sin Lactosa Descremada 1 L](https://www.jumbo.cl/leche-sin-lactosa-descremada-1-l-cuisine-and-co-1858324/p) → $1.000 (normal $1.350)
 
 ## Bebida vegetal (avena o almendra) `leche_vegetal` · por L
-**$2.130 · $2.950 · $4.900** (mín · media · máx, 19 precios)
-- Unimarc: [Bebida vegetal Loncoleche avena chocolate 1 L](https://www.unimarc.cl/alim-veg-loncoleche-1l-avena/p) → $2.990
-- Unimarc: [Bebida vegetal Orasi barista avena 500 ml](https://www.unimarc.cl/bebida-veg-barista-avena-orasi-500ml/p) → $4.900
-- Unimarc: [Bebida vegetal NotMilk simple avena 4 ingredientes 1 L](https://www.unimarc.cl/bebida-vegetal-simple-avena-not-milk-1lt/p) → $2.990
+**$1.920 · $2.820 · $4.900** (mín · media · máx, 22 precios)
 - Tottus: [Bebida Vegetal de Avena Loncoleche 1  lt](https://www.tottus.cl/tottus-cl/articulo/110623004/bebida-avena-vegetal-loncoleche-1-lt) → $2.950
-- Tottus: [Bebida Vegetal de Avena Vivicosi 1 lt](https://www.tottus.cl/tottus-cl/articulo/111651937/bebida-avena-vivicosi-1-lt) → $2.490
 - Tottus: [Bebida Vegetal Avena OraSì 1 lt](https://www.tottus.cl/tottus-cl/articulo/120216828/bebida-avena-veg-orasi-1lt) → $2.850 (normal $3.590)
-- Tottus: [Bebida Vegetal Avena Barista OraSì 1 lt](https://www.tottus.cl/tottus-cl/articulo/119788004/bebida-avena-barista-orasi-1lt) → $3.390 (normal $4.290)
+- Tottus: [Bebida Vegetal de Avena Vivicosi 1 lt](https://www.tottus.cl/tottus-cl/articulo/111651937/bebida-avena-vivicosi-1-lt) → $2.490
 - Tottus: [Bebida Vegetal Simple Avena NotMilk 1 lt](https://www.tottus.cl/tottus-cl/articulo/144788191/not-milk-simple-notco-1-lt) → $2.490 (normal $2.750)
+- Tottus: [Bebida Vegetal Avena Barista OraSì 1 lt](https://www.tottus.cl/tottus-cl/articulo/119788004/bebida-avena-barista-orasi-1lt) → $3.390 (normal $4.290)
 - Tottus: [Bebida Vegetal de Avena Barista Orasi 500 ml](https://www.tottus.cl/tottus-cl/articulo/141490441/bebida-vegetal-barista-avena-500ml) → $3.180 (normal $4.000)
 - Tottus: [Bebida de Avena Orgánica](https://www.tottus.cl/tottus-cl/articulo/116454297/beb-veg-org-avena-tottus-life-1-lt) → $2.190
 - Tottus: [Bebida Vegetal de Avena Sabor Chocolate Loncoleche 1 L](https://www.tottus.cl/tottus-cl/articulo/143442137/bebida-avena-chocolate-loncoleche-1-l) → $2.750
-- Jumbo: [Bebida Vegetal ViviCosí Avena 1 L](https://www.jumbo.cl/bebida-de-avena-1-l/p) → $2.850
+- Lider: [Bebida Vegetal Avena Fibra, 1 L](https://super.lider.cl/ip/bebidas-vegetales/00800318004422) → $2.269 (normal $3.490)
+- Lider: [Bebida Vegetal Avena Lco, 1 L](https://super.lider.cl/ip/bebidas-vegetales/00780291000762) → $1.918 (normal $2.950)
+- Lider: [Bebida Vegetal Avena Protein, 1 L](https://super.lider.cl/ip/bebidas-vegetales/00800318004420) → $2.269 (normal $3.490)
+- Jumbo: [Bebida Vegetal OraSi Avena Zero 1 L](https://www.jumbo.cl/beb-vegetal-av-1lt-2054668/p) → $2.790
 
 ## Yogur `yogur` · por yogur
-**$250 · $410 · $940** (mín · media · máx, 23 precios)
-- Unimarc: [Yoghurt Colun frutilla 125 g](https://www.unimarc.cl/yoghurt-batido-colun-125-gr-frutilla/p) → $310
-- Unimarc: [Yoghurt Soprole natural En Simple 3 ingredientes 120 gr](https://www.unimarc.cl/yoghurt-natural-3-ingredie-soprole-155gr/p) → $410
-- Unimarc: [Yoghurt Colun vainilla 125 g](https://www.unimarc.cl/yoghurt-batido-colun-125-gr-vainilla/p) → $310
-- Unimarc: [Yoghurt Loncoleche protein natural endulzado 140 g](https://www.unimarc.cl/yog-protein-lonco-140-natural-endulzado/p) → $770
-- Unimarc: [Yoghurt Soprole protein+ trozos frutilla 155 gr](https://www.unimarc.cl/yog-protein-troz-soprole-155gr-frutilla/p) → $940
-- Unimarc: [Yoghurt Colun piña 125 g](https://www.unimarc.cl/yoghurt-batido-colun-125-gr-pina/p) → $310
-- Unimarc: [Yoghurt Colun mora 125 g](https://www.unimarc.cl/yoghurt-batido-colun-125-gr-mora/p) → $310
-- Unimarc: [Yoghurt Soprole protein+ trozos frutos secos 155 gr](https://www.unimarc.cl/yog-protein-soprole-155gr-frutos-secos/p) → $940
-- Tottus: [Yoghurt Protein con Trozos de Frutos Secos](https://www.tottus.cl/tottus-cl/articulo/119824012/protein-frutos-secos-soprole-155gr) → $850
+**$250 · $690 · $2.590** (mín · media · máx, 26 precios)
+- Tottus: [Yoghurt Origen Sabor Vainilla Colun 120 g](https://www.tottus.cl/tottus-cl/articulo/120220926/yoghurt-vainilla-origen-colun-120gr) → $370
 - Tottus: [Pack Yoghurt Batido Colun 12 x 125 g](https://www.tottus.cl/tottus-cl/articulo/110624469/yoghurt-colun-125-gr-pack-12-un) → $249 (normal $288)
-- Tottus: [Pack Yoghurt Light Sin Azúcar  Frutilla, Chirimoya, Vainilla Colun 12 x 120 g](https://www.tottus.cl/tottus-cl/articulo/130649460/yoghurt-light-sa-pack-colun-144-gr) → $258 (normal $291)
+- Tottus: [Yoghurt Light Sin Azúcar Sabor Frutilla](https://www.tottus.cl/tottus-cl/articulo/120219604/yog-fruti-light-sazucar-colun-120gr) → $360
+- Tottus: [Yoghurt Batido Vainilla](https://www.tottus.cl/tottus-cl/articulo/110623705/yoghurt-batido-vainilla-125-grs) → $290
 - Tottus: [Yoghurt Batido Mora](https://www.tottus.cl/tottus-cl/articulo/110623921/yoghurt-batido-mora-125-grs) → $290
+- Tottus: [Yoghurt Origen Sabor Frutilla Colun 120 g](https://www.tottus.cl/tottus-cl/articulo/120219627/yoghurt-frutilla-origen-colun-120gr) → $370
+- Lider: [Yoghurt  Protein+ Sabor Natural, 155 g](https://super.lider.cl/ip/yoghurt/00780290000141) → $500 (normal $690)
+- Lider: [Yoghurt  Protein+ Sabor Frutilla, 155 g](https://super.lider.cl/ip/yoghurt/00780290000140) → $500 (normal $690)
+- Lider: [Yoghurt Batido Pack Multisabor, 12 Un x 125 g](https://super.lider.cl/ip/yoghurt/00780292000691) → $21 (normal $28)
+- Lider: [Yoghurt  Protein+ Sabor Chirimoya, 155 gr](https://super.lider.cl/ip/yoghurt/00780290000202) → $500 (normal $690)
+- Lider: [Yoghurt  Protein+ Sabor Vainilla, 155 gr](https://super.lider.cl/ip/yoghurt/00780290000203) → $500 (normal $690)
+- Lider: [Yoghurt Probiótico Frutilla Multipack, 80ml](https://super.lider.cl/ip/yoghurt/00761303137032) → $1.813 (normal $2.590)
 
 ## Yogur griego `yogur_griego` · por pote
-**$2.430 · $2.710 · $3.370** (mín · media · máx, 4 precios)
-- Unimarc: [Yoghurt griego Quillayes protein natural pote 800 g](https://www.unimarc.cl/yog-grie-prot-n-e-quillay-800g-natural/p) → $2.807 (normal $3.369)
-- Unimarc: [Yoghurt griego Oikos Danone balde 800 gr](https://www.unimarc.cl/yog-natural-s-e-balde-oikos-800gr/p) → $2.619
-- Tottus: [Yoghurt Griego Natural Sin Endulzar Balde Oikos 800 gr](https://www.tottus.cl/tottus-cl/articulo/152067338/yogurt-nat-balde-sin-endul-oikos-800-g) → $2.432
-- Tottus: [Yoghurt Griego Protein Natural Sin Lactosa Quillayes 800 g](https://www.tottus.cl/tottus-cl/articulo/142489838/yogurt-natural-protein-quillayes-800-gr) → $3.119
+**$1.680 · $3.340 · $3.600** (mín · media · máx, 7 precios)
+- Tottus: [Yoghurt Griego Natural Sin Endulzar Balde Oikos 800 gr](https://www.tottus.cl/tottus-cl/articulo/152067338/yogurt-nat-balde-sin-endul-oikos-800-g) → $1.682 (normal $2.432)
+- Tottus: [Yogurt Griego Artisan Sabor Natural Sin lactosa 360 g](https://www.tottus.cl/tottus-cl/articulo/120243287/yogur-griego-artisan-360-gr) → $3.597
+- Lider: [Yoghurt griego natural endulzado pote, 800 g](https://super.lider.cl/ip/yoghurt/00780293000488) → $2.772
+- Lider: [Yoghurt Griego Sabor Natural Endulzado Pote, 360 g](https://super.lider.cl/ip/yoghurt/00780463298028) → $3.542
+- Jumbo: [Yogurt Griego Quillayes Proteína Natural 800 g](https://www.jumbo.cl/yog-griego-prot-quillayes-natural-800g-1886618/p) → $3.344
+- Jumbo: [Yogurt Griego Quillayes Proteína Natural 800 g](https://www.jumbo.cl/yog-griego-prot-quillayes-natural-800g-1886618/p) → $3.344
+- Unimarc: [Yoghurt griego Quillayes protein natural pote 800 g](https://www.unimarc.cl/yog-grie-prot-n-e-quillay-800g-natural/p) → $2.807 (normal $3.494)
 
 ## Crema de leche `crema` · por caja
-**$1.000 · $1.330 · $1.490** (mín · media · máx, 10 precios)
-- Unimarc: [Crema de leche lista Loncoleche tetra 200 ml](https://www.unimarc.cl/crema-lista-light-loncoleche-larga-v-tetra-200/p) → $1.000 (normal $1.450)
-- Unimarc: [Crema de leche lista Loncoleche sin Lactosa tetra 200 ml](https://www.unimarc.cl/crema-sin-lactosa-loncoleche-tetra-200-cc-2/p) → $1.290 (normal $1.450)
+**$1.000 · $1.340 · $1.490** (mín · media · máx, 15 precios)
 - Tottus: [Crema de Leche Caja](https://www.tottus.cl/tottus-cl/articulo/113419980/crema-nestle-200-ml) → $1.490
-- Tottus: [Pack Crema de Leche Light Colun 6 x 200 ml](https://www.tottus.cl/tottus-cl/articulo/110624191/crema-light-colun-6-x-200-ml) → $1.448
-- Tottus: [Crema de Leche Lista Light](https://www.tottus.cl/tottus-cl/articulo/116504104/crema-lista-light-loncoleche-200-ml) → $1.320
-- Tottus: [Crema de Leche Lista Loncoleche 3 x 200 ml](https://www.tottus.cl/tottus-cl/articulo/119829746/crema-lista-light-loncoleche-3-x-200-ml) → $1.317
 - Tottus: [Crema de Leche Surlat Natural Sin Lactosa 200 gr](https://www.tottus.cl/tottus-cl/articulo/125313430/crema-de-leche-sin-lac-lista-surlat-200g) → $1.320
+- Tottus: [Pack Crema de Leche Light Colun 6 x 200 ml](https://www.tottus.cl/tottus-cl/articulo/110624191/crema-light-colun-6-x-200-ml) → $1.448
+- Tottus: [Crema de Leche Lista Loncoleche 3 x 200 ml](https://www.tottus.cl/tottus-cl/articulo/119829746/crema-lista-light-loncoleche-3-x-200-ml) → $1.317
+- Tottus: [Crema de Leche Lista Light](https://www.tottus.cl/tottus-cl/articulo/116504104/crema-lista-light-loncoleche-200-ml) → $1.320
+- Lider: [Crema de Leche Tradicional Lista Sin Lactosa, 200 ml](https://super.lider.cl/ip/cremas/00780291000417) → $1.000 (normal $1.390)
+- Lider: [Crema De Leche 15%Mg Tradicional, 200 ml](https://super.lider.cl/ip/cremas/00780870950113) → $1.000
+- Lider: [Crema de leche Natural Para Batir Caja, 200 ml](https://super.lider.cl/ip/cremas/00780292077728) → $1.390
+- Lider: [Crema de Leche para batir y cocinar Caja, 200 ml](https://super.lider.cl/ip/cremas/00780295002232) → $1.490
+- Lider: [Crema de Leche Light Lista Caja, 200 ml](https://super.lider.cl/ip/cremas/00780291000208) → $1.350
 - Jumbo: [Crema de Leche Soprole Natural Larga Vida 200 g.](https://www.jumbo.cl/crema-espesa-soprole-caja-200-g/p) → $1.340
-- Jumbo: [Crema de Leche Colun 200 ml](https://www.jumbo.cl/crema-de-leche-colun-caja-200-ml/p) → $1.390
 - Jumbo: [Crema de Leche Colun 200 ml](https://www.jumbo.cl/crema-de-leche-colun-caja-200-ml/p) → $1.390
 
 ## Chucrut `chucrut` · por frasco
-**$1.190 · $1.780 · $2.760** (mín · media · máx, 5 precios)
+**$1.190 · $2.120 · $2.760** (mín · media · máx, 6 precios)
 - Tottus: [Chucrut](https://www.tottus.cl/tottus-cl/articulo/110611377/chucrut-400-g-neto) → $1.188
-- Jumbo: [Chucrut Kühne Fasskraut 700 g](https://www.jumbo.cl/chucrut-kuhne-850-g-sauerkraut-2/p) → $1.779
-- Jumbo: [Chucrut Kühne Fasskraut 700 g](https://www.jumbo.cl/chucrut-kuhne-850-g-sauerkraut-2/p) → $1.779 (normal $2.714)
+- Lider: [Chucrut En Vinagre, 360 g](https://super.lider.cl/ip/nuestras-marcas/00780235100262) → $2.417
+- Jumbo: [Chucrut Kühne Fasskraut 700 g](https://www.jumbo.cl/chucrut-kuhne-850-g-sauerkraut-2/p) → $2.036
+- Jumbo: [Chucrut Kühne Fasskraut 700 g](https://www.jumbo.cl/chucrut-kuhne-850-g-sauerkraut-2/p) → $2.035 (normal $2.714)
 - Jumbo: [Chucrut Spreewaldhof 650 g](https://www.jumbo.cl/chucrut-spreewaldhof-720-g-2/p) → $2.209
 - Jumbo: [Chucrut Spreewaldhof 650 g](https://www.jumbo.cl/chucrut-spreewaldhof-720-g-2/p) → $2.209 (normal $2.761)
 
 ## Salsa verde `salsa_verde` · por pote
-**$1.670 · $2.050 · $3.400** (mín · media · máx, 11 precios)
-- Unimarc: [Salsa verde Genial pote 200 g](https://www.unimarc.cl/salsa-verde-genial-200gr/p) → $2.050
-- Unimarc: [Papas fritas Lay's artesanas salsa verde 150 g](https://www.unimarc.cl/papas-artesanas-s-salsa-verde-lays-150gr/p) → $2.667 (normal $3.400)
-- Unimarc: [Tostitos round salsa verde Evercrisp 200gr](https://www.unimarc.cl/tostitos-round-ssa-verde-evercrisp-200gr/p) → $2.590
+**$1.400 · $2.060 · $3.450** (mín · media · máx, 18 precios)
 - Tottus: [Salsa Verde en Pote 200 g](https://www.tottus.cl/tottus-cl/articulo/130585655/salsa-verde-genial-200gr) → $2.050
 - Tottus: [Habas con Salsa Verde en Pote 230 g](https://www.tottus.cl/tottus-cl/articulo/130590861/habas-salsa-verde-genial-230gr) → $2.861
-- Jumbo: [Salsa Verde Pote 200 g](https://www.jumbo.cl/salsa-verde-genial-pote-200-g/p) → $2.190
-- Jumbo: [Salsa Verde Pote 200 g](https://www.jumbo.cl/salsa-verde-genial-pote-200-g/p) → $2.190
-- Jumbo: [Salsa Verde La Costeña 250 g](https://www.jumbo.cl/salsa-verde-la-costena-250-g-586318/p) → $1.672
-- Jumbo: [Salsa Verde La Costeña 250 g](https://www.jumbo.cl/salsa-verde-la-costena-250-g-586318/p) → $1.672
-- Jumbo: [Snack Tostitos Sabor a Salsa Verde 200 g](https://www.jumbo.cl/snack-tostitos-round-salsa-verde-200g/p) → $1.890
-- Jumbo: [Snack Tostitos Sabor a Salsa Verde 200 g](https://www.jumbo.cl/snack-tostitos-round-salsa-verde-200g/p) → $1.890 (normal $2.450)
+- Tottus: [Papas Fritas Artesanas Sabor Salsa Verde](https://www.tottus.cl/tottus-cl/articulo/119823960/pf-salsa-verde-artesanas-lays-150-und) → $2.067 (normal $3.320)
+- Tottus: [Tortillas de Maíz Tostitos Sabor Salsa Verde Evercrisp 200 g](https://www.tottus.cl/tottus-cl/articulo/148283847/tortilla-salsa-verde-tostitos-200-gr) → $1.490 (normal $2.350)
+- Tottus: [Salsa para Bruschetta Espárrago Verde Perfect Choice 130 g](https://www.tottus.cl/tottus-cl/articulo/148695155/bruschetta-esp-verde-p-choice-130-gr) → $2.138
+- Lider: [Salsa Verde Pote, 200 g](https://super.lider.cl/ip/verduras/00780464080066) → $1.690
+- Lider: [Salsa Verde Pote, 200 gr](https://super.lider.cl/ip/verduras/00780409700078) → $1.990
+- Lider: [Salsa verde La Costeña, 250 g](https://super.lider.cl/ip/salsas/00750101700592) → $1.592
+- Lider: [Papas fritas lay's artesanas salsa verde 150 g, 150 g](https://super.lider.cl/ip/snacks-y-picoteo/00780200002183) → $3.133
+- Jumbo: [Papas Fritas Lay's Artesanas Salsa Verde 150 g](https://www.jumbo.cl/lays-artesanas-salsa-verde-150-gr-1956897/p) → $3.453
+- Jumbo: [Papas Fritas Lay's Artesanas Salsa Verde 150 g](https://www.jumbo.cl/lays-artesanas-salsa-verde-150-gr-1956897/p) → $1.973
+- Jumbo: [Snack Tostitos Sabor a Salsa Verde 200 g](https://www.jumbo.cl/snack-tostitos-round-salsa-verde-200g/p) → $2.450
 
 ## Guacamole `guacamole` · por pote
-**$2.430 · $2.700 · $3.960** (mín · media · máx, 7 precios)
-- Unimarc: [Salsa dip untable Buka guacamole frasco 180 g](https://www.unimarc.cl/salsa-dip-buka-180-gr-guacamole/p) → $2.433
+**$2.220 · $2.700 · $3.960** (mín · media · máx, 9 precios)
 - Tottus: [Guacamole Bagno 227 g](https://www.tottus.cl/tottus-cl/articulo/140376527/mild-guacamole-227-gr) → $3.604
 - Tottus: [Guacamole Spicy Bagno 227 g](https://www.tottus.cl/tottus-cl/articulo/140376515/authentic-guacamole-227-gr) → $3.956
-- Tottus: [Dip Buka Guacamole 180 gr](https://www.tottus.cl/tottus-cl/articulo/145095594/dip-guacamole-180-g-buka-und) → $2.833
+- Tottus: [Dip Buka Guacamole 180 gr](https://www.tottus.cl/tottus-cl/articulo/145095594/dip-guacamole-180-g-buka-und) → $2.767 (normal $2.833)
+- Lider: [Salsa Dip Guacamole Frasco, 180 g](https://super.lider.cl/ip/snacks-y-picoteo/00780462765118) → $2.222
+- Lider: [Guacamole Pote, 227 g](https://super.lider.cl/ip/verduras/00780467073115) → $3.515
 - Jumbo: [Salsa Dip Buka Guacamole 180 g](https://www.jumbo.cl/salsa-dip-guacamol-2038121/p) → $2.500
 - Jumbo: [Salsa Dip Buka Guacamole 180 g](https://www.jumbo.cl/salsa-dip-guacamol-2038121/p) → $2.500
 - Jumbo: [Mayonesa McCormick Guacamole](https://www.jumbo.cl/mayo-guac-mccmck-2001393/p) → $2.695
+- Unimarc: [Salsa dip untable Buka guacamole frasco 180 g](https://www.unimarc.cl/salsa-dip-buka-180-gr-guacamole/p) → $2.433
 
 ## Hummus `hummus` · por pote
-**$2.210 · $3.330 · $4.720** (mín · media · máx, 15 precios)
-- Unimarc: [Hummus Love Co tomate orégano frasco 220 g](https://www.unimarc.cl/hummus-love-co-220-gr-tomate-oregano/p) → $4.718
-- Unimarc: [Salsa Buka dip Hummus de garbanzo frasco 220 g](https://www.unimarc.cl/dip-humus-al-merken-buka-220-gr/p) → $2.900
+**$2.010 · $3.330 · $4.720** (mín · media · máx, 20 precios)
 - Tottus: [Pasta Hummus de Garbanzo](https://www.tottus.cl/tottus-cl/articulo/113640841/hummus-sin-gluten-buka-220g) → $2.682
 - Tottus: [Hummus Original I Love Hummus 220 g](https://www.tottus.cl/tottus-cl/articulo/113512321/original-sglut-i-love-hummus-220-gr) → $4.445
 - Tottus: [Hummus Lenteja y Almendra I Love Hummus 220 gr](https://www.tottus.cl/tottus-cl/articulo/115847897/lentealmen-sglut-i-love-hummus-220-gr) → $4.445
 - Tottus: [Hummus Aceituna y Pimiento I love Hummus 220 gr](https://www.tottus.cl/tottus-cl/articulo/115847891/aceitpimien-sglut-i-love-hummus-220-gr) → $4.445
 - Tottus: [Hummus Tomate Seco Orégano I Love Hummus 220 gr](https://www.tottus.cl/tottus-cl/articulo/113512177/tomaore-sglut-i-love-hummus-220-gr) → $4.445
-- Tottus: [Snack Tortika Hummus Tomate](https://www.tottus.cl/tottus-cl/articulo/112461853/snacks-tortika-hummus-tomate-tika-180-g) → $2.211 (normal $2.878)
-- Tottus: [Hummus de Tomate Buka 220 g](https://www.tottus.cl/tottus-cl/articulo/128536229/hummus-tomate-buka-220g) → $2.591
-- Jumbo: [Hummus Tivoni Original 300 g](https://www.jumbo.cl/hummus-original-300-g/p) → $3.327
-- Jumbo: [Hummus Tivoni Original 300 g](https://www.jumbo.cl/hummus-original-300-g/p) → $3.327
-- Jumbo: [Hummus Tivoni Pimientos Asados 300 g](https://www.jumbo.cl/hummus-pimientos-asados-300-g/p) → $3.327
+- Tottus: [Snack Tortika Hummus Tomate](https://www.tottus.cl/tottus-cl/articulo/112461853/snacks-tortika-hummus-tomate-tika-180-g) → $2.014 (normal $2.878)
+- Tottus: [Hummus de Tomate Buka 220 g](https://www.tottus.cl/tottus-cl/articulo/128536229/hummus-tomate-buka-220g) → $2.682
+- Lider: [Hummus Poroto Negro Cilantro Frasco, 220 ml](https://super.lider.cl/ip/coctel/00061414341544) → $4.355
+- Lider: [Hummus Ajo Chilote Merkén, 220 L](https://super.lider.cl/ip/coctel/00061414341552) → $4.355
+- Lider: [Hummus Con Tomate Y Orégano, 220 g](https://super.lider.cl/ip/coctel/00061414341545) → $4.355
+- Lider: [Hummus Lenteja Almendra Frasco, 220 L](https://super.lider.cl/ip/coctel/00061414341547) → $4.355
+- Lider: [Hummus Frasco. 220 g, 220 g](https://super.lider.cl/ip/snacks-y-picoteo/00780462765025) → $2.500
 
 ## Marraqueta `marraqueta` · por kg
-**$1.390 · $2.190 · $4.790** (mín · media · máx, 13 precios)
-- Unimarc: [Marraqueta precocida amada masa 4un (1un - 4 bollos) MARRAQUETA PRECOCIDA AMADA MASA 4UN](https://www.unimarc.cl/marraqueta-precocida-amada-masa-4un/p) → $2.707
-- Unimarc: [Pan marraqueta Prosepan granel 500 g](https://www.unimarc.cl/pan-marraqueta-prosepan-kg/p) → $2.190
-- Unimarc: [Pan marraqueta granel Amada Masa 500 g](https://www.unimarc.cl/marraqueta-kg/p) → $2.190
-- Unimarc: [Pan Marraqueta elaboración propia granel 500 g](https://www.unimarc.cl/pan-marraqueta-elab-propia-kg/p) → $2.190
-- Unimarc: [Pan marraqueta No+Gluten 4 un 480 g](https://www.unimarc.cl/marraqueta-no-gluten-480gr/p) → $10.604
+**$1.390 · $2.190 · $4.790** (mín · media · máx, 15 precios)
 - Tottus: [Marraqueta Granel](https://www.tottus.cl/tottus-cl/articulo/117545089/marraqueta-cp) → $2.090
 - Tottus: [Pan Marraqueta a Granel](https://www.tottus.cl/tottus-cl/articulo/122634962/MARRAQUETA%20PRO.) → $2.090
-- Tottus: [Marraqueta Granel](https://www.tottus.cl/tottus-cl/articulo/119606477/marraqueta-granel-laf) → $2.090
 - Tottus: [Marraqueta Granel](https://www.tottus.cl/tottus-cl/articulo/116167029/marraqueta) → $1.390
+- Tottus: [Marraqueta Granel](https://www.tottus.cl/tottus-cl/articulo/119606477/marraqueta-granel-laf) → $2.090
 - Tottus: [Marraqueta Granel](https://www.tottus.cl/tottus-cl/articulo/115884619/marraqueta-apoyo-prosepan) → $2.090
 - Tottus: [Marraqueta Chía Linaza Granel](https://www.tottus.cl/tottus-cl/articulo/117621323/marraqueta-chia-linaza) → $2.890
 - Tottus: [Marraqueta Precocida](https://www.tottus.cl/tottus-cl/articulo/110622679/pan-marraqueta-precocido-10-un-1000-gr) → $4.790
+- Tottus: [Marraqueta sin Gluten](https://www.tottus.cl/tottus-cl/articulo/115936829/marraqueta-sin-gluten-no-gluten-und) → $9.979
+- Lider: [Pan Marraqueta Granel](https://super.lider.cl/ip/panaderia-granel/00228610000000) → $2.090
+- Lider: [Pan Precocido Marraqueta Atm 8 Un, 880 g](https://super.lider.cl/ip/panaderia-envasada/00780263600292) → $2.830
+- Lider: [Pan Marraqueta Sin Gluten Vegano, 400 g](https://super.lider.cl/ip/panaderia-envasada/00066159679772) → $12.475
+- Lider: [Pan Marraqueta Sin Glúten 1 Un, 480 g](https://super.lider.cl/ip/panaderia-envasada/00780350000086) → $9.771
 
 ## Hallulla `hallulla` · por kg
-**$2.090 · $2.690 · $6.230** (mín · media · máx, 19 precios)
-- Unimarc: [Pan hallulla Prosepan granel 500 g](https://www.unimarc.cl/pan-hallulla-prosepan-kg/p) → $2.190
-- Unimarc: [Pan hallulla Amada Masa 8 un](https://www.unimarc.cl/pan-hallulla-atm-amada-masa-8-un/p) → $3.113
-- Unimarc: [Pan hallulla granel Amada Masa 500 g](https://www.unimarc.cl/hallulla-kg/p) → $2.190
-- Unimarc: [Pan hallulla plana delgada Amada Masa 500 g Pan hallulla delgada granel Amada Masa 500 g](https://www.unimarc.cl/hallulla-delgada-laf-kg/p) → $2.190
-- Unimarc: [Pan Hallulla elaboración propia granel 500 g](https://www.unimarc.cl/pan-hallulla-cte-elab-propia-kg/p) → $2.190
-- Unimarc: [Pan hallulla especial Amada Masa 440 g](https://www.unimarc.cl/hallulla-especial-precocida-a-masa-440gr/p) → $4.068
-- Unimarc: [Pan hallulla especial Prosepan granel 500 g](https://www.unimarc.cl/hallulla-especial-kg-2/p) → $3.450
-- Unimarc: [Pan No+gluten hallulla 320 g](https://www.unimarc.cl/pan-hallulla-no-gluten-320-gr/p) → $13.906
-- Tottus: [Hallulla a Granel Tottus](https://www.tottus.cl/tottus-cl/articulo/116165236/hallulla) → $2.090
+**$2.090 · $2.690 · $6.230** (mín · media · máx, 24 precios)
 - Tottus: [Hallulla Granel](https://www.tottus.cl/tottus-cl/articulo/117545128/hallulla-cp) → $2.090
+- Tottus: [Hallulla a Granel Tottus](https://www.tottus.cl/tottus-cl/articulo/116165236/hallulla) → $2.090
+- Tottus: [Hallulla Especial a Granel](https://www.tottus.cl/tottus-cl/articulo/121010484/hallulla-especial-pro) → $3.090
 - Tottus: [Hallulla Especial Granel](https://www.tottus.cl/tottus-cl/articulo/119606504/hallulla-especial-granel) → $2.790
+- Tottus: [Hallulla Especial Precocida](https://www.tottus.cl/tottus-cl/articulo/110622101/hallulla-especial-prec-30-un-1600-gr) → $4.181
 - Tottus: [Hallulla Especial Granel](https://www.tottus.cl/tottus-cl/articulo/116165244/hallulla-especial) → $2.690
+- Tottus: [Pan Hallulla Semillas a Granel](https://www.tottus.cl/tottus-cl/articulo/148284371/hallulla-5-granos-semillas) → $3.990
+- Tottus: [Hallulla sin Sal Granel](https://www.tottus.cl/tottus-cl/articulo/116160163/pan-sin-sal) → $2.690
+- Lider: [Pan Hallulla Granel](https://super.lider.cl/ip/panaderia-granel/00203965000000) → $2.090
+- Lider: [Pan Hallulla delgada](https://super.lider.cl/ip/panaderia-granel/00203871000000) → $2.090
+- Lider: [Pan Precocido O Hallulla Atm 9 Un, 900 g](https://super.lider.cl/ip/panaderia-envasada/00780263600108) → $2.767
+- Lider: [Pan Hallulla Especial Suave 8 Un, 400 g](https://super.lider.cl/ip/nuestras-marcas/00780349500457) → $4.475
 
 ## Dobladita `dobladita` · por kg
 _Referencial_: se mantiene $2.290 · $2.890 · $3.690 (1 precio encontrado)
 - Unimarc: [Pan dobladita Amada Masa 6 un](https://www.unimarc.cl/pan-dobladita-atm-amada-masa-6-un/p) → $5.188
 
 ## Pan amasado `pan_amasado` · por kg
-**$2.890 · $3.370 · $6.230** (mín · media · máx, 8 precios)
-- Unimarc: [Pan amasado granel Amasa Masa 500 g](https://www.unimarc.cl/amasado-kg/p) → $3.450
-- Unimarc: [Pan Amasado elaboración propia granel 500 g](https://www.unimarc.cl/pan-amasado-elaboraci-n-propia-kg/p) → $2.990
-- Unimarc: [Pan amasado Prosepan granel 500 g](https://www.unimarc.cl/pan-amasado-prosepan-kg/p) → $3.450
+**$2.890 · $3.370 · $6.230** (mín · media · máx, 10 precios)
 - Tottus: [Pan Amasado Granel](https://www.tottus.cl/tottus-cl/articulo/119605965/amasado-granel) → $3.190
 - Tottus: [Pan Amasado Granel](https://www.tottus.cl/tottus-cl/articulo/116165834/pan-amasado) → $2.890
+- Lider: [Pan Amasado Granel](https://super.lider.cl/ip/panaderia-granel/00204005000000) → $2.950
+- Lider: [Pan Amasado Mini Granel](https://super.lider.cl/ip/panaderia-granel/00228609000000) → $4.490
 - Jumbo: [Pan Amasado Granel](https://www.jumbo.cl/pan-amasado-granel-1704593-kg/p) → $3.290
 - Jumbo: [Pan Amasado Pilmayquen 480 g](https://www.jumbo.cl/pan-amasado-pilmayquen-480-g/p) → $6.229
 - Jumbo: [Pan Amasado Pilmayquen 480 g](https://www.jumbo.cl/pan-amasado-pilmayquen-480-g/p) → $6.229
+- Unimarc: [Pan amasado granel Amasa Masa 500 g](https://www.unimarc.cl/amasado-kg/p) → $3.450
+- Unimarc: [Pan Amasado elaboración propia granel 500 g](https://www.unimarc.cl/pan-amasado-elaboraci-n-propia-kg/p) → $2.990
+- Unimarc: [Pan amasado Prosepan granel 500 g](https://www.unimarc.cl/pan-amasado-prosepan-kg/p) → $3.450
 
 ## Colizas `colizas` · por kg
-**$3.190 · $3.450 · $3.690** (mín · media · máx, 7 precios)
-- Unimarc: [Pan coliza peruana El Espigal granel 500 gr](https://www.unimarc.cl/pan-coliza-peruana-el-espigal-kg/p) → $3.190
-- Unimarc: [Pan coliza corriente granel Amada Masa 500 g](https://www.unimarc.cl/coliza-corriente-laf-kg/p) → $3.450
-- Unimarc: [Pan coliza peruana granel Amada Masa 500 g](https://www.unimarc.cl/pan-coliza-peruana-laf-kg/p) → $3.450
-- Unimarc: [Pan coliza peruana Bredenmaster granel 500 g](https://www.unimarc.cl/coliza-peruana-bm/p) → $3.450
-- Unimarc: [Pan coliza Prosepan granel 500 g](https://www.unimarc.cl/pan-coliza-prosepan-kg/p) → $3.450
+**$3.490 · $3.590 · $3.690** (mín · media · máx, 2 precios)
 - Jumbo: [Pan Coliza Granel](https://www.jumbo.cl/coliza-granel/p) → $3.490
 - Jumbo: [Pan Coliza Peruana Granel](https://www.jumbo.cl/coliza-peruana-kg-1937187-kg/p) → $3.690
 
 ## Pan frica `frica` · por kg
 **$2.490 · $3.240 · $5.940** (mín · media · máx, 6 precios)
-- Unimarc: [Pan Frica Castaño sandwich bolsa 470 g](https://www.unimarc.cl/pan-frica-castano-470-gr/p) → $5.085 (normal $5.936)
-- Unimarc: [Pan Frica elaboración propia granel 500 g](https://www.unimarc.cl/pan-frica-elab-propia-kg/p) → $2.490
-- Unimarc: [Pan frica Prosepan granel 500 g](https://www.unimarc.cl/pan-frica-prosepan-kg/p) → $2.990
 - Tottus: [Pan Frica Granel](https://www.tottus.cl/tottus-cl/articulo/117620970/pan-frica-rs) → $3.490
 - Tottus: [Pan Frica Granel](https://www.tottus.cl/tottus-cl/articulo/117621122/pan-frica-pp) → $2.990
 - Tottus: [Pan Frica XL Tottus 8 Un 720 g](https://www.tottus.cl/tottus-cl/articulo/115855488/pan-frica-bolsa-8-un-720-grs-tottus) → $3.875
+- Unimarc: [Pan Frica Castaño sandwich bolsa 470 g](https://www.unimarc.cl/pan-frica-castano-470-gr/p) → $5.085 (normal $5.936)
+- Unimarc: [Pan Frica elaboración propia granel 500 g](https://www.unimarc.cl/pan-frica-elab-propia-kg/p) → $2.490
+- Unimarc: [Pan frica Prosepan granel 500 g](https://www.unimarc.cl/pan-frica-prosepan-kg/p) → $2.990
 
 ## Pan de completo `pan_completo` · por pan
-_Referencial_: se mantiene $180 · $290 · $450 (1 precio encontrado)
+**$180 · $180 · $180** (mín · media · máx, 2 precios)
 - Tottus: [Pan Completo Granel](https://www.tottus.cl/tottus-cl/articulo/117545065/pan-completo-pp) → $179
+- Lider: [Pan De Completo A Granel](https://super.lider.cl/ip/panaderia-granel/00228612000000) → $179
 
 ## Pan de molde blanco `pan_molde` · por bolsa
-**$1.710 · $2.310 · $4.030** (mín · media · máx, 23 precios)
-- Unimarc: [Pan de molde Ideal blanco 580 g](https://www.unimarc.cl/pan-blanco-ideal-580g/p) → $2.069 (normal $2.576)
-- Unimarc: [Pan de molde Pierre blanco XL 700 g](https://www.unimarc.cl/pan-pierre-xl-blanco-700-gr/p) → $1.714 (normal $1.963)
-- Unimarc: [Pan molde Ideal blanco grande XL bolsa 750 g](https://www.unimarc.cl/pan-molde-blanco-grande-ideal-750-g/p) → $2.312
-- Unimarc: [Pan de molde Amada Masa blanco 500 g](https://www.unimarc.cl/pan-molde-blanco-amada-masa-500-gr/p) → $1.980 (normal $2.268)
-- Unimarc: [Pan de molde blanco Castaño XL sin lactosa bolsa 770 g](https://www.unimarc.cl/pan-molde-blanco-xl-castano-770-gr/p) → $2.018 (normal $2.330)
-- Unimarc: [Pan de molde blanco XL Amada Masa 750 g](https://www.unimarc.cl/pan-de-molde-blanco-xl-amada-masa-750-gr/p) → $2.072
-- Unimarc: [Pan molde Ideal cero cero blanco 580 g](https://www.unimarc.cl/pan-molde-blanco-cero-cero-ideal-580g/p) → $3.197
-- Unimarc: [Pan de molde Zeroglut blanco 450 g](https://www.unimarc.cl/pan-molde-blanco-zeroglut-450-gr/p) → $7.320
-- Tottus: [Pan de Molde Blanco XL Ideal 750 gr](https://www.tottus.cl/tottus-cl/articulo/110622848/pan-blanco-xl-ideal-750-gr) → $2.306
+**$1.070 · $2.070 · $5.620** (mín · media · máx, 30 precios)
 - Tottus: [Pan Molde Blanco](https://www.tottus.cl/tottus-cl/articulo/115808658/pan-molde-blanco-570-gr) → $2.105 (normal $2.684)
+- Tottus: [Pan de Molde Blanco XL Ideal 750 gr](https://www.tottus.cl/tottus-cl/articulo/110622848/pan-blanco-xl-ideal-750-gr) → $1.987 (normal $2.306)
 - Tottus: [Pan Molde Blanco Tottus 580 g](https://www.tottus.cl/tottus-cl/articulo/110623000/pan-molde-blanco-tottus-560-grs) → $2.347
 - Tottus: [Pan de Molde Blanco Ideal 580 gr](https://www.tottus.cl/tottus-cl/articulo/136646391/pan-blanco-580g-ideal) → $2.069 (normal $2.576)
+- Tottus: [Pan de Molde Blanco Ideal 380 g](https://www.tottus.cl/tottus-cl/articulo/136646544/pan-blanco-380g-ideal) → $2.921
+- Tottus: [Pan de Molde Blanco Cero Cero Ideal 400 gr](https://www.tottus.cl/tottus-cl/articulo/153011327/pan-blanco-cero-cero-400g) → $3.585
+- Tottus: [Pan de Molde Blanco Sandwich Tottus 800 g](https://www.tottus.cl/tottus-cl/articulo/120977372/molde-sandwich-blanco-800g-tottus) → $2.618
+- Tottus: [Pan de Molde Blanco](https://www.tottus.cl/tottus-cl/articulo/113076167/molde-pierre-blanco-jirafa) → $2.217
+- Lider: [Pan De Molde Blanco Masa Madre Sin Glúten, 400 g](https://super.lider.cl/ip/panaderia-envasada/00065952554854) → $7.935
+- Lider: [Pan De Molde Blanco Cero % Azúcar Y Grasas, 580 g](https://super.lider.cl/ip/panaderia-envasada/00780340300323) → $3.197
+- Lider: [Pan De Molde Blanco Familiar, 580 g](https://super.lider.cl/ip/panaderia-envasada/00780349500228) → $1.837
+- Lider: [Pan De Molde Blanco Sin Orilla 1 Un, 405 g](https://super.lider.cl/ip/panaderia-envasada/00780341000062) → $5.615
 
 ## Pan de molde integral `pan_integral` · por bolsa
-**$1.710 · $2.650 · $4.500** (mín · media · máx, 24 precios)
-- Unimarc: [Pan de molde Pierre integral XL 700 g](https://www.unimarc.cl/pan-pierre-xl-integral-700-gr/p) → $1.714 (normal $2.048)
-- Unimarc: [Pan de molde Ideal integral 600 g](https://www.unimarc.cl/pan-integral-ideal-600gr/p) → $2.000 (normal $2.450)
-- Unimarc: [Pan de molde Ideal cero cero integral 600 g](https://www.unimarc.cl/pan-molde-integral-cero-cero-ideal-600g/p) → $3.090
-- Unimarc: [Pan de molde integral XL Castaño 770 g](https://www.unimarc.cl/pan-molde-integral-xl-castano/p) → $2.018 (normal $2.330)
-- Unimarc: [Pan de molde Amada Masa integral 500 gr](https://www.unimarc.cl/pan-molde-integral-famil-amada-masa-500g/p) → $2.220 (normal $2.628)
-- Unimarc: [Pan de molde Ideal integral tamaño XL 770 gr](https://www.unimarc.cl/pan-integral-xl-ideal-770g/p) → $2.065 (normal $2.330)
-- Unimarc: [Pan molde Fuchs integral con masa madre bolsa 650 g](https://www.unimarc.cl/pan-molde-integral-stuttgart-fuchs-650-g/p) → $2.760
-- Unimarc: [Pan molde Kingsbury hi low integral bolsa 500 g](https://www.unimarc.cl/pan-molde-integral-hi-lo-kingsbury-500gr/p) → $4.500
-- Tottus: [Pan Molde Integral Tottus 560 gr](https://www.tottus.cl/tottus-cl/articulo/110624542/pan-molde-integral-tottus-560-grs) → $2.347
+**$1.710 · $2.600 · $5.690** (mín · media · máx, 32 precios)
 - Tottus: [Pan de Molde XL Integral Castaño 770 g](https://www.tottus.cl/tottus-cl/articulo/127002321/pan-de-molde-xl-integral-770-gr) → $2.330
+- Tottus: [Pan Molde Integral Tottus 560 gr](https://www.tottus.cl/tottus-cl/articulo/110624542/pan-molde-integral-tottus-560-grs) → $2.347
+- Tottus: [Pan de Molde Integral Sandwich Tottus 800 g](https://www.tottus.cl/tottus-cl/articulo/120977368/molde-sandwich-integral-800g-tottus) → $2.618
 - Tottus: [Pan de Molde Integral Bauducco 390 g](https://www.tottus.cl/tottus-cl/articulo/130185322/pan-integral-baudumlo-390g) → $2.293 (normal $2.908)
-- Tottus: [Pan de Molde Integral Familiar](https://www.tottus.cl/tottus-cl/articulo/110621953/pan-integral-stuttgart-fuchs-650g) → $2.723
+- Tottus: [Pan de Molde Artesano Integral](https://www.tottus.cl/tottus-cl/articulo/111865185/pan-artesano-integral-600-gr-ideal) → $3.000
+- Tottus: [Pan de Molde Integral Ideal 600 g](https://www.tottus.cl/tottus-cl/articulo/148773329/pan-integral-ideal-600-gr) → $2.590
+- Tottus: [Pan de Molde Integral Castaño 400 g](https://www.tottus.cl/tottus-cl/articulo/116160078/pan-molde-integral-castano-400-grs) → $2.685
+- Tottus: [Pan de Molde Familiar Integral La Selecta 580 g](https://www.tottus.cl/tottus-cl/articulo/115879060/molde-fam-int-580g-selecta) → $2.576
+- Lider: [Pan De Molde Integral Masa Madre 1 Un, 580 g](https://super.lider.cl/ip/panaderia-envasada/00780349500257) → $3.000 (normal $3.375)
+- Lider: [Pan De Molde Integral 1 Un, 600 g](https://super.lider.cl/ip/panaderia-envasada/00780340300429) → $2.000 (normal $2.390)
+- Lider: [Pan De Molde Integral Xl, 750 g](https://super.lider.cl/ip/panaderia-envasada/00780340300333) → $2.280
+- Lider: [Pan De Molde Integral Mas Protein 1 Un, 650 g](https://super.lider.cl/ip/panaderia-envasada/00780340300311) → $3.092
 
 ## Pan pita `pan_pita` · por paquete
-**$1.560 · $1.590 · $2.410** (mín · media · máx, 15 precios)
-- Unimarc: [Pan pita Castaño integral bolsa 300 g](https://www.unimarc.cl/pan-pita-integral-bolsa-8-un-300-gr/p) → $1.590 (normal $1.890)
-- Unimarc: [Pan Pita Castaño blanco bolsa 8 un](https://www.unimarc.cl/pan-pita-blanca-castano-bol-8-un-300-gr/p) → $1.590 (normal $1.890)
+**$1.320 · $1.590 · $2.390** (mín · media · máx, 22 precios)
 - Tottus: [Pan Pita Integral](https://www.tottus.cl/tottus-cl/articulo/110623945/pan-pita-integral-castano-8-un) → $1.590 (normal $1.850)
 - Tottus: [PAN PITA CASTANO 8 UN.](https://www.tottus.cl/tottus-cl/articulo/110624032/pan-pita-castano-8-un) → $1.590 (normal $1.850)
-- Tottus: [Pan Pita Blanco](https://www.tottus.cl/tottus-cl/articulo/110622713/pan-pita-blanco-ideal-344-gr-8-un) → $1.561
 - Tottus: [Pan Pita Light Linaza + Chía](https://www.tottus.cl/tottus-cl/articulo/110624247/pan-pita-linaza-chia) → $1.790
-- Tottus: [Pan Pita Blanco Cero Cero Ideal 8 Un](https://www.tottus.cl/tottus-cl/articulo/129917771/pan-pita-blanca-cerocero-344-gr) → $1.648
+- Tottus: [Pan Pita Blanco](https://www.tottus.cl/tottus-cl/articulo/110622713/pan-pita-blanco-ideal-344-gr-8-un) → $1.561
 - Tottus: [Pan Pita Multigrano](https://www.tottus.cl/tottus-cl/articulo/110624011/pan-pita-multigrano-300g) → $1.790
-- Tottus: [Pan Pita Perfecto Blanco Light Kingsbury 8 un](https://www.tottus.cl/tottus-cl/articulo/110621771/pan-pita-perfecto-300-grs) → $2.290
-- Tottus: [Pan Pita Linaza y Chia Ideal 344 g](https://www.tottus.cl/tottus-cl/articulo/116163523/pan-pita-linaza-344gr-ideal) → $1.561
-- Jumbo: [Pan Pita Castaño Integral 300 g 8 un.](https://www.jumbo.cl/pan-pita-integral-castano-8-unid-300-g/p) → $199
-- Jumbo: [Pan Pita Castaño Integral 300 g 8 un.](https://www.jumbo.cl/pan-pita-integral-castano-8-unid-300-g/p) → $1.590 (normal $1.930)
+- Tottus: [Pan Pita Blanco Cero Cero Ideal 8 Un](https://www.tottus.cl/tottus-cl/articulo/129917771/pan-pita-blanca-cerocero-344-gr) → $1.648
+- Tottus: [Pan Pita Perfecto Blanco Light Kingsbury 8 un](https://www.tottus.cl/tottus-cl/articulo/110621771/pan-pita-perfecto-300-grs) → $1.690 (normal $2.290)
+- Tottus: [Pan Pita Integral Cero Cero Ideal 8 Un](https://www.tottus.cl/tottus-cl/articulo/129917745/pan-pita-integral-cero-cero-344-gr) → $1.648
+- Lider: [Pan Pita Integral, 8 Un](https://super.lider.cl/ip/panaderia-envasada/00780347300075) → $1.526
+- Lider: [Pan Pita Linaza Diet 8 Un, 344 g](https://super.lider.cl/ip/panaderia-envasada/00780347300125) → $195
+- Lider: [Pan Pita Integral Cero & Cero 1 Un, 344 g](https://super.lider.cl/ip/panaderia-envasada/00780340300383) → $1.561
+- Lider: [Pan Pita Blanco 8 Un, 344 g](https://super.lider.cl/ip/panaderia-envasada/00780347300076) → $1.526
 
 ## Pan tostado `tostadas` · por paquete
-**$2.250 · $2.250 · $3.840** (mín · media · máx, 9 precios)
-- Unimarc: [Pan crostini Vollkorn tostado blanco bolsa 134 g](https://www.unimarc.cl/crostini-pan-tostado-bco-vollkorn-134-g/p) → $3.843
+**$580 · $1.690 · $3.840** (mín · media · máx, 10 precios)
 - Tottus: [Tostadas Clásicas Natural y Crujientes Castaño 150 gr](https://www.tottus.cl/tottus-cl/articulo/153875463/tostadas-clasicas-150-gr) → $2.387
 - Tottus: [Tostadas Clásicas Tosti 200 g](https://www.tottus.cl/tottus-cl/articulo/146996938/tostadas-tosti-clasicas-200grs) → $2.490
 - Tottus: [Tostadas Multicereal Tosti 140 g](https://www.tottus.cl/tottus-cl/articulo/146996975/tostaditas-tosti-multicereal-140grs) → $578
 - Tottus: [Tostadas Multicereal Tosti 200 g](https://www.tottus.cl/tottus-cl/articulo/146996967/tostadas-tosti-multicereal-200grs) → $498
 - Tottus: [Tostadas Light Tosti 200 g](https://www.tottus.cl/tottus-cl/articulo/146996941/tostadas-tosti-light-200grs) → $498
-- Jumbo: [Pan Tostado Valentina Romero 150 g](https://www.jumbo.cl/pan-tostado-valentina-romero-150gr-1923739/p) → $2.253
-- Jumbo: [Pan Tostado Valentina Romero 150 g](https://www.jumbo.cl/pan-tostado-valentina-romero-150gr-1923739/p) → $2.253
-- Jumbo: [Pan Tostado Valentina Jamón y Tomate 150 g](https://www.jumbo.cl/pan-tostado-valentina-jamon-tomate-150gr-1923738/p) → $2.253
-- Jumbo: [Pan Tostado Valentina Jamón y Tomate 150 g](https://www.jumbo.cl/pan-tostado-valentina-jamon-tomate-150gr-1923738/p) → $2.253
-- Jumbo: [Pan Tostado Valentina Cebolla 150 g](https://www.jumbo.cl/pan-tostado-valentina-cebolla-150gr-1923740/p) → $2.253
-- Jumbo: [Pan Tostado Valentina Cebolla 150 g](https://www.jumbo.cl/pan-tostado-valentina-cebolla-150gr-1923740/p) → $2.253
+- Jumbo: [Pan Tostado Valentina Romero 150 g](https://www.jumbo.cl/pan-tostado-valentina-romero-150gr-1923739/p) → $1.691
+- Jumbo: [Pan Tostado Valentina Romero 150 g](https://www.jumbo.cl/pan-tostado-valentina-romero-150gr-1923739/p) → $1.691 (normal $2.253)
+- Jumbo: [Pan Tostado Valentina Jamón y Tomate 150 g](https://www.jumbo.cl/pan-tostado-valentina-jamon-tomate-150gr-1923738/p) → $1.691
+- Jumbo: [Pan Tostado Valentina Jamón y Tomate 150 g](https://www.jumbo.cl/pan-tostado-valentina-jamon-tomate-150gr-1923738/p) → $1.691 (normal $2.253)
+- Jumbo: [Pan Tostado Valentina Cebolla 150 g](https://www.jumbo.cl/pan-tostado-valentina-cebolla-150gr-1923740/p) → $1.691
+- Jumbo: [Pan Tostado Valentina Cebolla 150 g](https://www.jumbo.cl/pan-tostado-valentina-cebolla-150gr-1923740/p) → $1.691 (normal $2.253)
+- Unimarc: [Pan crostini Vollkorn tostado blanco bolsa 134 g](https://www.unimarc.cl/crostini-pan-tostado-bco-vollkorn-134-g/p) → $3.843
 
 ## Croissant `croissant` · por croissant
-**$450 · $890 · $1.320** (mín · media · máx, 11 precios)
+**$450 · $860 · $1.320** (mín · media · máx, 12 precios)
 - Tottus: [Croissant 95 g](https://www.tottus.cl/tottus-cl/articulo/144490478/croissant-curvo-europastry) → $690
-- Tottus: [Pack Croissant Dulce de Leche Tottus 4 x 40 g](https://www.tottus.cl/tottus-cl/articulo/124881453/pack-x4-croissant-dulce-de-leche-160gr) → $250 (normal $348)
+- Tottus: [Pack Croissant Dulce de Leche Tottus 4 x 40 g](https://www.tottus.cl/tottus-cl/articulo/124881453/pack-x4-croissant-dulce-de-leche-160gr) → $245 (normal $348)
 - Tottus: [Croissant Tottus 70 g](https://www.tottus.cl/tottus-cl/articulo/122663777/croissant-und-70gr) → $690
 - Tottus: [Croissant Artesanal de Mantequilla Belgian Bite 4x65 gr](https://www.tottus.cl/tottus-cl/articulo/148220782/croissant-artesanal-belgian-bites-4x65g) → $1.323
 - Tottus: [Croissant](https://www.tottus.cl/tottus-cl/articulo/148921802/croissant-kg) → $454
-- Tottus: [Pack Croissant Crema](https://www.tottus.cl/tottus-cl/articulo/117545216/pack-croissant-crema-2-un-cp-290-gr) → $1.245
 - Tottus: [Pack Croissant Manjar](https://www.tottus.cl/tottus-cl/articulo/118346726/pack-croissant-manjar-2-un-pp) → $995
 - Tottus: [Pack Croissant Manjar](https://www.tottus.cl/tottus-cl/articulo/117545168/pack-croissant-manjar-2-un-cp-290-gr) → $1.245
+- Tottus: [Pack Croissant Crema](https://www.tottus.cl/tottus-cl/articulo/118346736/pack-croissant-crema-2-un-pp) → $995
+- Lider: [Pan Croissant Artesano 3 Un](https://super.lider.cl/ip/panaderia-granel/00203816000000) → $454
 - Jumbo: [Croissant 1 un.](https://www.jumbo.cl/croissant-un-1997881/p) → $890
 - Jumbo: [Croissant 1 un.](https://www.jumbo.cl/croissant-un-1997881/p) → $890
-- Jumbo: [Croissant Cuisine & Co 3 un.](https://www.jumbo.cl/croissant-atm-c-and-co-3un-2018277/p) → $830
 - Jumbo: [Croissant Cuisine & Co 3 un.](https://www.jumbo.cl/croissant-atm-c-and-co-3un-2018277/p) → $830
 
 ## Baguette `baguette` · por baguette
-**$1.290 · $1.490 · $1.590** (mín · media · máx, 7 precios)
-- Unimarc: [Pan baguette plus Crandon 1 un](https://www.unimarc.cl/baguette-plus-crandon-un/p) → $1.290
-- Jumbo: [Baguette Rústico Tradicional 1 un.](https://www.jumbo.cl/baguette-rustico-u-2055177/p) → $1.490
-- Jumbo: [Baguette Rústico Tradicional 1 un.](https://www.jumbo.cl/baguette-rustico-u-2055177/p) → $1.490
-- Jumbo: [Baguette Rústico Wholegrain 1 un.](https://www.jumbo.cl/baguette-r-who-un-2055178/p) → $1.490
-- Jumbo: [Baguette Rústico Wholegrain 1 un.](https://www.jumbo.cl/baguette-r-who-un-2055178/p) → $1.490
+**$1.000 · $1.390 · $1.590** (mín · media · máx, 8 precios)
+- Lider: [Pan Baguette Lin Sin Glúten 1 Un, 400 g](https://super.lider.cl/ip/panaderia-envasada/00061440579107) → $5.190
+- Lider: [Pan Baguette Blanco Sin Glúten Vegano, 400 g](https://super.lider.cl/ip/panaderia-envasada/00061440579105) → $5.190
+- Lider: [Pan Medio Baguette 4 Un](https://super.lider.cl/ip/panaderia-granel/00203806000000) → $998
 - Jumbo: [Baguette Coolback Mantequilla Hierbas Congelada 175 g](https://www.jumbo.cl/bag-hierbas-manteq-2037028/p) → $1.290
 - Jumbo: [Baguette Coolback Mantequilla Hierbas Congelada 175 g](https://www.jumbo.cl/bag-hierbas-manteq-2037028/p) → $1.290 (normal $1.590)
+- Jumbo: [Baguette Rústico Tradicional 1 un.](https://www.jumbo.cl/baguette-rustico-u-2055177/p) → $1.490
+- Jumbo: [Baguette Rústico Tradicional 1 un.](https://www.jumbo.cl/baguette-rustico-u-2055177/p) → $1.490
+- Jumbo: [Baguette Rústico Wholegrain 1 un.](https://www.jumbo.cl/baguette-r-who-un-2055178/p) → $1.490
+- Jumbo: [Baguette Rústico Wholegrain 1 un.](https://www.jumbo.cl/baguette-r-who-un-2055178/p) → $1.490
+- Unimarc: [Pan baguette plus Crandon 1 un](https://www.unimarc.cl/baguette-plus-crandon-un/p) → $1.290
 
 ## Pan de ajo `pan_ajo` · por unidad
 **$5.490 · $5.490 · $5.490** (mín · media · máx, 2 precios)
@@ -2230,323 +2287,338 @@ _Referencial_: se mantiene $180 · $290 · $450 (1 precio encontrado)
 - Unimarc: [Pan de ajo tradicional Brasa Pan 400 gr](https://www.unimarc.cl/pan-de-ajo-tradicional-bpan-400gr/p) → $5.490
 
 ## Panqueques `panqueques` · por paquete de 10
-**$2.950 · $3.590 · $3.590** (mín · media · máx, 3 precios)
+**$2.950 · $3.390 · $3.590** (mín · media · máx, 6 precios)
 - Tottus: [Panqueque Mantequilla Leche](https://www.tottus.cl/tottus-cl/articulo/113348919/buttermilk-pancake-b-crocker-191-gr) → $2.950
+- Lider: [Tentación Panqueque Manjar MazaPán 8P, 1 Un](https://super.lider.cl/ip/pasteleria/00780464741000) → $13.990
+- Lider: [Tentación Panqueque Naranja MazaPán 8P, 1 Un](https://super.lider.cl/ip/pasteleria/00780464741002) → $13.990
+- Lider: [Tentación Panqueque Manjar Nuez 8P, 1 Un](https://super.lider.cl/ip/pasteleria/00780464741008) → $13.990
+- Lider: [Tentación Panqueque Manjar Huevo Mol 8P, 1 Un](https://super.lider.cl/ip/pasteleria/00780464741007) → $13.990
+- Lider: [Tentación Panqueque Chocolate Bitter 7P, 1 Un](https://super.lider.cl/ip/pasteleria/00780464741004) → $13.990
+- Lider: [Syrup Butter Flavored Para Panqueques Sabor Mantequilla Botella, 710 ml](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00007874237009) → $3.290
+- Lider: [Syrup Para Panqueques Sin Azùcar, 710 ml](https://super.lider.cl/ip/sin-azucar/00007874206153) → $3.490
+- Lider: [Syrup Para Panqueques Original, 710 ml](https://super.lider.cl/ip/dulces-mermeladas-y-manjar/00007874237008) → $3.290
 - Jumbo: [Masas Listas de Panqueques 8 un.](https://www.jumbo.cl/panqueques-misia-lolo-bandeja-12-unid/p) → $3.590
 - Jumbo: [Masas Listas de Panqueques 8 un.](https://www.jumbo.cl/panqueques-misia-lolo-bandeja-12-unid/p) → $3.590
 
 ## Kuchen `kuchen` · por kuchen
-**$5.990 · $9.440 · $19.790** (mín · media · máx, 20 precios)
-- Unimarc: [Kuchen sureño Pulmahue frambuesa 1 un](https://www.unimarc.cl/kuchen-sureno-frambuesa-pulmahue-un/p) → $9.490
-- Unimarc: [Kuchen de manzana Amada Masa 1 un](https://www.unimarc.cl/kuchen-de-manzana-amada-masa-19-cm/p) → $6.990
-- Unimarc: [Kuchen de frambuesa Amada Masa 1 un](https://www.unimarc.cl/kuchen-de-frambuesa-amada-masa-un/p) → $6.990
-- Unimarc: [Kuchen de manzana Tavelli 1 un](https://www.unimarc.cl/kuchen-de-manzana-tavelli/p) → $19.790
-- Tottus: [Kuchen de Durazno Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115808647/kuchen-de-durazno-cp-1020-gr) → $7.990
+**$5.990 · $10.990 · $19.790** (mín · media · máx, 25 precios)
 - Tottus: [Kuchen Sureño Frambuesa](https://www.tottus.cl/tottus-cl/articulo/121229630/kuchen-sureno-frambuesa-900gr) → $8.890
-- Tottus: [Kuchen de Frambuesa](https://www.tottus.cl/tottus-cl/articulo/116160315/kuchen-de-frambuesa-pp) → $5.990
+- Tottus: [Kuchen de Durazno Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115808647/kuchen-de-durazno-cp-1020-gr) → $6.990 (normal $7.990)
 - Tottus: [Kuchen de Durazno](https://www.tottus.cl/tottus-cl/articulo/116165569/kuchen-de-durazno-pp) → $5.990
+- Tottus: [Kuchen de Frambuesa](https://www.tottus.cl/tottus-cl/articulo/116160315/kuchen-de-frambuesa-pp) → $5.990
 - Tottus: [Kuchen de manzana pp](https://www.tottus.cl/tottus-cl/articulo/116165988/kuchen-de-manzana-pp) → $6.490
-- Tottus: [Kuchen de Nuez](https://www.tottus.cl/tottus-cl/articulo/117545172/kuchen-de-nuez-cp-711-gr) → $7.990
-- Tottus: [Kuchen de Frambuesa Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115808701/kuchen-de-frambuesa-cp-1030-gr) → $7.990
+- Tottus: [Kuchen de Nuez](https://www.tottus.cl/tottus-cl/articulo/117545172/kuchen-de-nuez-cp-711-gr) → $6.990 (normal $7.990)
+- Tottus: [Kuchen de Frambuesa Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115808701/kuchen-de-frambuesa-cp-1030-gr) → $6.990 (normal $7.990)
 - Tottus: [Kuchen de Manzana Olimpia](https://www.tottus.cl/tottus-cl/articulo/115838592/kuchen-de-manzana-olimpia) → $9.390
+- Lider: [Kuchen De Manzana 9P, 1 Un](https://super.lider.cl/ip/pasteleria/00780465147002) → $9.990
+- Lider: [Kuchen Tradicional De Frambuesa 12P, 1100 g](https://super.lider.cl/ip/pasteleria/00780345500255) → $10.990
+- Lider: [Kuchen Streussel De Manzana 8P, 1 Un](https://super.lider.cl/ip/pasteleria/00780876080580) → $12.990
+- Lider: [Kuchen Sureño Frambuesa Arándano 8P, 1 Un](https://super.lider.cl/ip/pasteleria/00780876080579) → $12.990
 
 ## Torta `torta` · por torta
-**$9.790 · $13.990 · $22.990** (mín · media · máx, 24 precios)
-- Unimarc: [Torta tres leches Amada Masa 15 personas](https://www.unimarc.cl/torta-tres-leches-amada-masa-15-pp/p) → $10.990
-- Unimarc: [Torta chocolate Amada Masa 15 personas](https://www.unimarc.cl/torta-sabor-chocolate-amada-masa-15-pp/p) → $10.990
-- Unimarc: [Torta sacher Amada Masa 15 personas](https://www.unimarc.cl/torta-sacher-premium-amada-masa-un/p) → $13.990
-- Unimarc: [Torta trufa Amada Masa 15 personas](https://www.unimarc.cl/torta-trufa-chocolate-prem-amada-masa-un/p) → $13.990
-- Unimarc: [Torta hoja manjar Quinta 15 personas](https://www.unimarc.cl/torta-hoja-manjar-quinta-15pp-un/p) → $10.490
-- Unimarc: [Torta cookies cream Amada Masa 15 personas](https://www.unimarc.cl/torta-cookies-cream-amada-masa-un/p) → $13.990
-- Unimarc: [Torta manjar durazno Amada Masa 15 personas](https://www.unimarc.cl/torta-manjar-durazno-amada-masa-15-pp/p) → $10.990
-- Unimarc: [Torta selva negra Amada Masa 15 personas](https://www.unimarc.cl/torta-selva-negra-amada-masa-15-pp/p) → $10.990
-- Tottus: [Torta San Jorge 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808619/torta-san-jorge-15p-cp-1217-gr) → $15.990
-- Tottus: [Torta Frutas 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808643/torta-frutas-15p-cp-1240-gr) → $9.990
-- Tottus: [Torta Durazno 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808669/torta-durazno-15p-cp-1100-gr) → $9.990
+**$7.990 · $13.990 · $24.990** (mín · media · máx, 24 precios)
+- Tottus: [Torta Frutas 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/116162235/torta-frutas-15p-pp) → $9.790
+- Tottus: [Torta San Jorge 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808619/torta-san-jorge-15p-cp-1217-gr) → $13.990 (normal $15.990)
+- Tottus: [Torta Frutas 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808643/torta-frutas-15p-cp-1240-gr) → $7.990 (normal $9.990)
+- Tottus: [Torta San Jorge Guinda 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/137122732/torta-san-jorge-guinda-15p-cp-1224-gr) → $13.990 (normal $15.990)
 - Tottus: [Torta Durazno 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/116160297/torta-durazno-15p-pp) → $9.790
+- Tottus: [Torta Durazno 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808669/torta-durazno-15p-cp-1100-gr) → $7.990 (normal $9.990)
+- Tottus: [Torta Holandesa 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/115808718/torta-holandesa-15p-cp-1557-gr) → $12.990
+- Tottus: [Torta Cookies and Cream 15 Porciones](https://www.tottus.cl/tottus-cl/articulo/117545261/torta-cookies-cream-15p-cp-1360-gr) → $9.990 (normal $12.990)
+- Lider: [Servidor De Torta acero inoxidable 1 Pieza Multicolor, 1 Un](https://super.lider.cl/ip/menaje-cocina/00780681023512) → $3.990 (normal $5.990)
+- Jumbo: [Torta Hoja Crema Frambuesa Manjar 15 Personas](https://www.jumbo.cl/torta-hoja-cr-fram-2077039/p) → $17.990
+- Jumbo: [Torta Hoja Crema Frambuesa Manjar 15 Personas](https://www.jumbo.cl/torta-hoja-cr-fram-2077039/p) → $17.990
+- Jumbo: [Torta Tentación Chocolate 15 Porciones](https://www.jumbo.cl/torta-tentacion-chocolate-v3-15-piezas-2046393/p) → $14.990
 
 ## Muffins `muffins` · por paquete de 4
-**$1.690 · $2.540 · $5.390** (mín · media · máx, 24 precios)
-- Unimarc: [Muffin marmoleado Amada Masa 3 un](https://www.unimarc.cl/muffin-amada-masa-3-un-marmoleado/p) → $2.690
-- Unimarc: [Muffin vainilla relleno dulce de leche Amada Masa 3 un](https://www.unimarc.cl/muffin-vainill-rell-d-lech-amada-mas-3un/p) → $2.790
-- Unimarc: [Muffin Pulmahue arándano 2 un](https://www.unimarc.cl/muffin-arandano-pulmahue-2-un/p) → $2.350
-- Unimarc: [Muffin americano Bredenmaster chip chocolate](https://www.unimarc.cl/muffin-americano-chip-chocolate-bm/p) → $1.690
-- Unimarc: [Muffin vainilla Amada Masa 3 un](https://www.unimarc.cl/muffin-amada-masa-3-un-vainilla/p) → $2.690
-- Unimarc: [Muffin americano BredenMaster banana nuez 1 un](https://www.unimarc.cl/muffin-americano-banana-nuez/p) → $1.690
-- Unimarc: [Muffin americano Bredenmaster arándano](https://www.unimarc.cl/muffin-americano-arandano-bm/p) → $1.690
-- Unimarc: [Mini muffins tradicional Amada Masa 10 un](https://www.unimarc.cl/mini-muffins-amada-masa-10u-tradicional/p) → $2.290
-- Tottus: [Pack Muffins Arandano 6 un](https://www.tottus.cl/tottus-cl/articulo/148426892/pack-muffins-arandanos-x6-600-gr) → $5.290
+**$1.690 · $2.590 · $5.590** (mín · media · máx, 32 precios)
 - Tottus: [Muffins de Doble Chocolate 200 g](https://www.tottus.cl/tottus-cl/articulo/127841669/muffins-doble-chocolate-x2.200g) → $2.290
 - Tottus: [Muffins de Plátano y Nuez 200 g](https://www.tottus.cl/tottus-cl/articulo/127841626/muffins-platano-y-nuez-x2-laf-200g) → $2.290
 - Tottus: [Muffins de Doble Chocolate Laf 600 g](https://www.tottus.cl/tottus-cl/articulo/125867735/muffins-x-6-doble-chocolate-600-gr-laf) → $5.390
+- Tottus: [Pack Muffins Manzana 6 un](https://www.tottus.cl/tottus-cl/articulo/148426913/pack-muffin-manzana-x6-600-gr) → $5.290
+- Tottus: [Pack Muffins Arandano 6 un](https://www.tottus.cl/tottus-cl/articulo/148426892/pack-muffins-arandanos-x6-600-gr) → $5.290
+- Tottus: [Pack Muffins Arándano Tottus 2 un](https://www.tottus.cl/tottus-cl/articulo/148504961/pack-muffins-arandanos-x2-180-grcp) → $2.190
+- Tottus: [Muffins de Arándano Castaño 210 g](https://www.tottus.cl/tottus-cl/articulo/126719692/muffin-arandano-x2-210-gr) → $3.290
+- Tottus: [Pack Muffins Chips Chocolate 6 un](https://www.tottus.cl/tottus-cl/articulo/148426891/pack-muffins-chips-chocolate-x6-600-gr) → $5.290
+- Lider: [Muffin Chips Sabor Chocolate 6 Un, 630 g](https://super.lider.cl/ip/pasteleria/00780462370095) → $5.390
+- Lider: [Queque Arena Sabor Vainilla, 1 Un](https://super.lider.cl/ip/pasteleria/00780349500082) → $5.590
+- Lider: [Muffins Arándano 6 Un, 630 g](https://super.lider.cl/ip/pasteleria/00780462370096) → $5.390
+- Lider: [Muffin Arándano 2 Un, 210 g](https://super.lider.cl/ip/pasteleria/00780462370091) → $2.290
 
 ## Brownies `brownies` · por caja
-**$3.380 · $4.930 · $7.340** (mín · media · máx, 13 precios)
-- Unimarc: [Brownie Castaño sin azúcar añadida 4 un](https://www.unimarc.cl/brownie-sin-azucar-anadida-castano-4un/p) → $4.575 (normal $5.235)
-- Unimarc: [Brownie nueces Castaño 4 un](https://www.unimarc.cl/brownie-nueces-castano-4un/p) → $3.629 (normal $4.101)
-- Unimarc: [Brownie chips Castaño 4 un](https://www.unimarc.cl/brownie-chips-castano-4un/p) → $3.375 (normal $3.859)
-- Unimarc: [Brownie Nutrabien dulce de leche 4 un](https://www.unimarc.cl/brownie-dulce-de-leche-nb-4p-180g/p) → $4.983
-- Unimarc: [Brownie Nutrabien chocolate almendra 4 un](https://www.unimarc.cl/brownie-chocolate-almendra-nb-4p-200g/p) → $5.835
-- Unimarc: [Brookie Castaño brownie más cookie 4 un](https://www.unimarc.cl/brookie-brownie-cookie-castano-4un/p) → $4.725 (normal $5.325)
+**$3.380 · $5.100 · $7.340** (mín · media · máx, 15 precios)
 - Tottus: [Brownie Signature Chocolate y Almendras Nutra Bien 4 un](https://www.tottus.cl/tottus-cl/articulo/155967431/brownie-chocolate-almendra-4un-200-gr) → $5.949
 - Tottus: [Brownie Signature con Dulce de Leche Nutra Bien 4 un](https://www.tottus.cl/tottus-cl/articulo/155967260/brownie-dulce-de-leche-4un-176-gr) → $4.926
 - Tottus: [Brownie de Chocolate Mr Brownie 200 g](https://www.tottus.cl/tottus-cl/articulo/148352671/brownie-chocolate-200gr) → $7.335
 - Tottus: [Brownie Carrot Cake Mr Brownie 200 g](https://www.tottus.cl/tottus-cl/articulo/148583194/brownie-carrot-cake-200gr) → $7.185
+- Lider: [Brownie chocolate almendra 200g 4p nb, 200 g](https://super.lider.cl/ip/pasteleria/00780352500200) → $5.385
+- Lider: [Brownie Dulce de Leche, 176 g](https://super.lider.cl/ip/pasteleria/00780352500199) → $5.097
+- Lider: [Brownie carrot cake, 200 g](https://super.lider.cl/ip/pasteleria/00841103788494) → $7.185
+- Lider: [Mini Brownie Nueces 6Un, 180 g](https://super.lider.cl/ip/cereales/00780346800490) → $4.150
 - Jumbo: [Pack Brownie Chips Nutra Bien 248 g 4 un.](https://www.jumbo.cl/pack-brownie-chips-nutra-bien-4un-248gr-1898066/p) → $1.074
 - Jumbo: [Pack Brownie Chips Nutra Bien 248 g 4 un.](https://www.jumbo.cl/pack-brownie-chips-nutra-bien-4un-248gr-1898066/p) → $4.295
+- Unimarc: [Brownie Castaño sin azúcar añadida 4 un](https://www.unimarc.cl/brownie-sin-azucar-anadida-castano-4un/p) → $4.575 (normal $5.235)
+- Unimarc: [Brownie nueces Castaño 4 un](https://www.unimarc.cl/brownie-nueces-castano-4un/p) → $3.629 (normal $4.101)
 
 ## Papas fritas lisas `papas_fritas` · por bolsa
-**$2.830 · $4.420 · $5.940** (mín · media · máx, 8 precios)
-- Unimarc: [Papas fritas Marco Polo rústicas sal de mar bolsa 185 g](https://www.unimarc.cl/papas-marco-polo-rusticas-sal-de-mar-200-g/p) → $4.498 (normal $5.936)
-- Tottus: [Papas Fritas Marco Polo Caseras 200 g](https://www.tottus.cl/tottus-cl/articulo/130859511/papas-fritas-marco-polo-200-gr) → $2.831 (normal $3.591)
-- Tottus: [Papas Fritas Rústicas con Sal de Mar Marco Polo 380 g](https://www.tottus.cl/tottus-cl/articulo/116938838/p-f-rusticas-sal-de-mar-marco-polo-380g) → $4.350
-- Tottus: [Papas Fritas Sabor Ketchup Lays 170 g](https://www.tottus.cl/tottus-cl/articulo/129976455/ketchup-lays-170g) → $5.119 (normal $5.343)
-- Jumbo: [Papas Fritas Cuisine & Co Artesanal Sal de Mar 185 g](https://www.jumbo.cl/papas-artesanales-sal-de-mar-185-g-cuisine-and-co-1802308/p) → $4.909
-- Jumbo: [Papas Fritas Cuisine & Co Artesanal Sal de Mar 185 g](https://www.jumbo.cl/papas-artesanales-sal-de-mar-185-g-cuisine-and-co-1802308/p) → $4.909
-- Jumbo: [Papas Fritas Marco Polo Rústicas Sal de Mar 185 g](https://www.jumbo.cl/papas-fritas-marco-polo-rusticas-sal-de-mar-200-g-2/p) → $4.088
-- Jumbo: [Papas Fritas Marco Polo Rústicas Sal de Mar 185 g](https://www.jumbo.cl/papas-fritas-marco-polo-rusticas-sal-de-mar-200-g-2/p) → $3.781 (normal $5.111)
+**$2.040 · $3.090 · $6.350** (mín · media · máx, 15 precios)
+- Tottus: [Papas Fritas Marco Polo Caseras 200 g](https://www.tottus.cl/tottus-cl/articulo/130859511/papas-fritas-marco-polo-200-gr) → $2.147 (normal $3.591)
+- Tottus: [Papas Fritas Sabor Sour Cream y Onion Lays 170 g](https://www.tottus.cl/tottus-cl/articulo/146996969/papa-sour-cream-onion-lays-170-gr) → $3.018 (normal $5.342)
+- Tottus: [Papas Fritas Sabor Ketchup Lays 170 g](https://www.tottus.cl/tottus-cl/articulo/129976455/ketchup-lays-170g) → $3.018 (normal $5.342)
+- Tottus: [Papas Fritas Rústicas con Sal de Mar Marco Polo 380 g](https://www.tottus.cl/tottus-cl/articulo/116938838/p-f-rusticas-sal-de-mar-marco-polo-380g) → $2.610 (normal $4.450)
+- Lider: [Papas Fritas Caseras, 350 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242000918) → $2.039 (normal $3.138)
+- Jumbo: [Papas Fritas Marco Polo Rústicas Sal de Mar 185 g](https://www.jumbo.cl/papas-fritas-marco-polo-rusticas-sal-de-mar-200-g-2/p) → $3.868
+- Jumbo: [Papas Fritas Marco Polo Rústicas Sal de Mar 185 g](https://www.jumbo.cl/papas-fritas-marco-polo-rusticas-sal-de-mar-200-g-2/p) → $3.868 (normal $5.525)
+- Jumbo: [Papas Fritas Marco Polo Rústicas Sal de Mar 380 g](https://www.jumbo.cl/papas-fritas-rusticas-marco-polo-380-gr-1927137/p) → $3.493
+- Jumbo: [Papas Fritas Marco Polo Rústicas Sal de Mar 380 g](https://www.jumbo.cl/papas-fritas-rusticas-marco-polo-380-gr-1927137/p) → $3.493 (normal $4.990)
+- Jumbo: [Papas Fritas Lay's Artesanas 270 g](https://www.jumbo.cl/papas-fritas-lay-s-artesanas-sal-270-gr/p) → $5.700
+- Jumbo: [Papas Fritas Lay's Artesanas 270 g](https://www.jumbo.cl/papas-fritas-lay-s-artesanas-sal-270-gr/p) → $3.257
+- Unimarc: [Papas fritas Marco Polo rústicas sal de mar bolsa 185 g](https://www.unimarc.cl/papas-marco-polo-rusticas-sal-de-mar-200-g/p) → $4.108 (normal $6.347)
 
 ## Papas fritas onduladas `papas_onduladas` · por bolsa
-**$3.160 · $3.160 · $3.160** (mín · media · máx, 2 precios)
-- Jumbo: [Papas Fritas Marco Polo Wavy Extra Onduladas 200 g](https://www.jumbo.cl/papas-fritas-extra-2054239/p) → $3.163
-- Jumbo: [Papas Fritas Marco Polo Wavy Extra Onduladas 200 g](https://www.jumbo.cl/papas-fritas-extra-2054239/p) → $3.163
+**$2.210 · $2.210 · $3.160** (mín · media · máx, 2 precios)
+- Jumbo: [Papas Fritas Marco Polo Wavy Extra Onduladas 200 g](https://www.jumbo.cl/papas-fritas-extra-2054239/p) → $2.214
+- Jumbo: [Papas Fritas Marco Polo Wavy Extra Onduladas 200 g](https://www.jumbo.cl/papas-fritas-extra-2054239/p) → $2.214 (normal $3.163)
 
 ## Ramitas `ramitas` · por bolsa
-**$1.390 · $1.950 · $2.710** (mín · media · máx, 24 precios)
-- Unimarc: [Ramitas saladas Fruna bolsa 300 gr](https://www.unimarc.cl/ramitas-saladas-fruna-300-gr/p) → $1.658
-- Unimarc: [Ramitas Evercrisp bolsaza sabor queso 110 g](https://www.unimarc.cl/ramitas-bolsaza-evercrips-110gr-queso-2/p) → $2.273 (normal $2.705)
-- Unimarc: [Ramitas Evercrisp sabor queso mantecoso 330 g](https://www.unimarc.cl/ramitas-evercrisp-330-g-queso/p) → $1.659 (normal $2.189)
-- Unimarc: [Ramitas Evercrisp bolsaza sabor original 110 g](https://www.unimarc.cl/ramitas-bolsaza-evercrips-110g-original/p) → $2.273 (normal $2.705)
-- Unimarc: [Ramitas Evercrisp sabor original 330 g](https://www.unimarc.cl/ramitas-evercrisp-330-g-c-sal/p) → $1.659 (normal $2.189)
-- Unimarc: [Ramitas Tento sabor original 230 gr](https://www.unimarc.cl/ramitas-saladas-tento-230-gr/p) → $1.728 (normal $1.946)
-- Unimarc: [Ramitas saladas Marco Polo 230 g](https://www.unimarc.cl/ramitas-salada-orig-marco-polo-230gr/p) → $1.728 (normal $2.228)
-- Unimarc: [Ramitas Marco Polo queso 230 g](https://www.unimarc.cl/ramitas-queso-marco-polo-230-gr/p) → $1.728 (normal $2.228)
-- Tottus: [Ramitas Saladas](https://www.tottus.cl/tottus-cl/articulo/121667503/ramitas-sal-evercrisp-330-und) → $1.811 (normal $2.038)
+**$1.250 · $1.540 · $2.710** (mín · media · máx, 32 precios)
+- Tottus: [Ramitas Saladas](https://www.tottus.cl/tottus-cl/articulo/121667503/ramitas-sal-evercrisp-330-und) → $1.432 (normal $2.038)
+- Tottus: [Ramitas de Queso](https://www.tottus.cl/tottus-cl/articulo/120512255/ramitas-queso-evercrisp-330gr) → $1.432 (normal $2.038)
 - Tottus: [Snack Ramitas Sabor Queso Evercrisp 230 g](https://www.tottus.cl/tottus-cl/articulo/120534588/ramitas-queso-evercrisp-230-und) → $2.163
-- Tottus: [Ramitas de Queso](https://www.tottus.cl/tottus-cl/articulo/120512255/ramitas-queso-evercrisp-330gr) → $1.811 (normal $2.038)
+- Tottus: [RAMITAS SAL EVERCRISP 110G](https://www.tottus.cl/tottus-cl/articulo/126816276/ramitas-sal-evercrisp-110g) → $2.273 (normal $2.614)
+- Tottus: [RAMITAS QUESO EVERCRISP 110G](https://www.tottus.cl/tottus-cl/articulo/126816309/ramitas-queso-evercrisp-110g) → $2.273 (normal $2.614)
+- Tottus: [Ramitas Saladas](https://www.tottus.cl/tottus-cl/articulo/110610141/ramitas-saladas-tottus-250g) → $1.390 (normal $1.490)
 - Tottus: [Ramitas Sabor Original Evercrips 230 g](https://www.tottus.cl/tottus-cl/articulo/120534590/ramitas-sal-evercrisp-230-und) → $2.163
+- Tottus: [Ramitas Craanch! Original Tottus 230 g](https://www.tottus.cl/tottus-cl/articulo/148696007/ramitas-saladas-craanch-230-g) → $1.511
+- Lider: [Ramitas Queso, 330 g](https://super.lider.cl/ip/snacks-y-picoteo/00780200001730) → $1.254 (normal $1.791)
+- Lider: [Ramitas Saladas, 330 g](https://super.lider.cl/ip/snacks-y-picoteo/00780200001729) → $1.254 (normal $1.791)
+- Lider: [Ramitas Queso, 160 g](https://super.lider.cl/ip/snacks-y-picoteo/00780200002005) → $1.471
+- Lider: [Snack Ramitas Evercrisp Sabor A Crema Y Cebolla, 160 g](https://super.lider.cl/ip/snacks-y-picoteo/00780200002091) → $1.563
 
 ## Suflitos `suflitos` · por bolsa
-**$1.130 · $1.150 · $1.490** (mín · media · máx, 5 precios)
+**$870 · $980 · $1.420** (mín · media · máx, 10 precios)
+- Tottus: [Snack Crunchis Suflés Papa Marco Polo 200 g](https://www.tottus.cl/tottus-cl/articulo/139401142/crunchis-papa-marco-polo-200g) → $1.118 (normal $1.418)
+- Lider: [Suflés Crunchis Queso, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242001035) → $971 (normal $1.343)
+- Lider: [Suflés Crunchis Maní, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242001032) → $971 (normal $1.388)
+- Lider: [Suflés Crunchis Pop Tuttifrutti, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242001037) → $921 (normal $1.418)
+- Lider: [Suflés Crunchis Tubos Queso, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242000811) → $872 (normal $1.343)
+- Lider: [Suflés Crunchis Papa, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242001034) → $940 (normal $1.343)
 - Unimarc: [Chanfle sufles Fruna sabor queso 350 gr](https://www.unimarc.cl/chanfle-sufles-queso-fruna-350-gr/p) → $1.153
 - Unimarc: [Chanfle sufles Fruna sabor papa 350 gr](https://www.unimarc.cl/mega-chanfle-sufles-papa-fruna-350-gr/p) → $1.153
-- Unimarc: [Crunchis sufles de queso Marco Polo 200 g](https://www.unimarc.cl/crunchis-sufles-queso-marco-polo-200gr/p) → $1.125 (normal $1.493)
-- Unimarc: [Crunchis sufles de papa Marco Polo 200 g](https://www.unimarc.cl/crunchis-sufle-de-papa-marco-polo-200-gr/p) → $1.125 (normal $1.493)
-- Tottus: [Snack Crunchis Suflés Papa Marco Polo 200 g](https://www.tottus.cl/tottus-cl/articulo/139401142/crunchis-papa-marco-polo-200g) → $1.163 (normal $1.417)
+- Unimarc: [Crunchis sufles de queso Marco Polo 200 g](https://www.unimarc.cl/crunchis-sufles-queso-marco-polo-200gr/p) → $992 (normal $1.418)
+- Unimarc: [Crunchis sufles de papa Marco Polo 200 g](https://www.unimarc.cl/crunchis-sufle-de-papa-marco-polo-200-gr/p) → $992 (normal $1.418)
 
 ## Nachos (tortilla chips) `nachos` · por bolsa
-**$1.620 · $3.890 · $5.780** (mín · media · máx, 9 precios)
-- Unimarc: [Tortilla de maíz enrollada Takis intense nacho queso 190 g](https://www.unimarc.cl/tortillas-intense-nacho-queso-takis-190g/p) → $2.829
-- Tottus: [Tortilla Mediana](https://www.tottus.cl/tottus-cl/articulo/110624661/pack-tortillas-3x2) → $1.621
+**$1.510 · $2.830 · $5.780** (mín · media · máx, 9 precios)
 - Tottus: [Nachos Totopos Tía Rosa 130 g](https://www.tottus.cl/tottus-cl/articulo/151019999/totopos-tia-rosa-130gr) → $2.404
+- Tottus: [Tortilla Mediana](https://www.tottus.cl/tottus-cl/articulo/110624661/pack-tortillas-3x2) → $829 (normal $1.621)
+- Tottus: [Tortilla Tamaño Pequeño](https://www.tottus.cl/tottus-cl/articulo/110621927/tortilla-tia-rosa-pack-fiesta-600-gr) → $1.621
 - Tottus: [TORTILLA GRANDE OLD EL PASO 311 GR](https://www.tottus.cl/tottus-cl/articulo/115848110/tortilla-grande-old-el-paso-311-gr) → $4.011
-- Tottus: [Chips de Tortilla de Maiz Sanissimo 160 g](https://www.tottus.cl/tottus-cl/articulo/129053689/CHIP%20TORTILLA%20ORIGINAL%20SANISSIMO%20160%20GR) → $4.141
-- Tottus: [Tortilla de Trigo Tamaño XL](https://www.tottus.cl/tottus-cl/articulo/110624429/tortilla-burrera-tia-rosa-400-gr) → $1.656
-- Tottus: [NACHOS HERRS 255 GR](https://www.tottus.cl/tottus-cl/articulo/125893656/nachos-herrs-255-gr) → $5.677 (normal $5.775)
 - Tottus: [Chips de Tortilla Linaza y Chía Sanissimo 160 g](https://www.tottus.cl/tottus-cl/articulo/152244964/tortilla-linaza-chia-sanissimo-160-g) → $3.891
-- Tottus: [Chips de Tortilla Clásicas Sanissimo 160 g](https://www.tottus.cl/tottus-cl/articulo/152244930/tortilla-clasica-sanissimo-160-g) → $3.891
+- Tottus: [Tortilla de Trigo Tamaño Extra Grande](https://www.tottus.cl/tottus-cl/articulo/110621910/tortilla-grandota-8p-620grs) → $1.512
+- Tottus: [Chips de Tortilla de Maiz Sanissimo 160 g](https://www.tottus.cl/tottus-cl/articulo/129053689/CHIP%20TORTILLA%20ORIGINAL%20SANISSIMO%20160%20GR) → $4.141
+- Tottus: [NACHOS HERRS 255 GR](https://www.tottus.cl/tottus-cl/articulo/125893656/nachos-herrs-255-gr) → $5.677 (normal $5.775)
+- Lider: [Tortilla Maíz Intense Nacho, 190 g](https://super.lider.cl/ip/snacks-y-picoteo/00780340300388) → $2.566
+- Unimarc: [Tortilla de maíz enrollada Takis intense nacho queso 190 g](https://www.unimarc.cl/tortillas-intense-nacho-queso-takis-190g/p) → $2.829
 
 ## Cabritas `cabritas` · por bolsa
-**$740 · $1.130 · $1.920** (mín · media · máx, 20 precios)
-- Unimarc: [Popcorn Marco Polo caramelo doy pack 250 g](https://www.unimarc.cl/popcorn-caramelo-marco-polo-250gr/p) → $800 (normal $1.060)
-- Unimarc: [Popcorn Pops Costa amberries 220 g](https://www.unimarc.cl/popcorn-costa-220-gr-amberries/p) → $814 (normal $950)
-- Unimarc: [Popcorn Pops Costa frugelé 220 g](https://www.unimarc.cl/popcorn-costa-220-gr-frugele/p) → $814 (normal $950)
-- Unimarc: [Cabritas Evercrisp con caramelo bolsa 250 g](https://www.unimarc.cl/cabritas-s-caramelo-evercrisp-250-gr/p) → $1.260
-- Unimarc: [Cabritas Tento endulzadas 91 g](https://www.unimarc.cl/cabritas-endulzados-tento-91-gr/p) → $1.528
-- Unimarc: [Popcorn Act II cinema dulce sobre 91 g](https://www.unimarc.cl/palomitas-de-maiz-dulce-act-ii-91-gr/p) → $1.923
-- Tottus: [Cabritas Listas Caramelo](https://www.tottus.cl/tottus-cl/articulo/110612247/cabritas-listas-tottus-caramelo-250gr) → $740
+**$650 · $1.130 · $2.790** (mín · media · máx, 25 precios)
+- Tottus: [Cabritas Listas Caramelo](https://www.tottus.cl/tottus-cl/articulo/110612247/cabritas-listas-tottus-caramelo-250gr) → $876
 - Tottus: [Cabritas Microondas Dulce](https://www.tottus.cl/tottus-cl/articulo/110609625/cabritas-microondas-tottus-dulce-91gr) → $1.418
 - Tottus: [Cabritas Microondas Mantequilla](https://www.tottus.cl/tottus-cl/articulo/113570730/popcorn-microondas-mantequilla-tot-91-g) → $1.418
 - Tottus: [Cabritas Listas Caramelo](https://www.tottus.cl/tottus-cl/articulo/110611189/cabritas-listas-caramelo-tottus-140-gr) → $1.036
-- Tottus: [Cabritas Listas Chocolate](https://www.tottus.cl/tottus-cl/articulo/110612019/cabritas-listas-chocolate-tottus-250-gr) → $740
 - Tottus: [Cabritas Microondas Natural](https://www.tottus.cl/tottus-cl/articulo/113571505/popcorn-microondas-natural-tottus-91-g) → $1.418
+- Tottus: [Cabritas Listas Chocolate](https://www.tottus.cl/tottus-cl/articulo/110612019/cabritas-listas-chocolate-tottus-250-gr) → $740
+- Tottus: [Cabritas Con Caramelo](https://www.tottus.cl/tottus-cl/articulo/110620202/cabritas-caramelo-evercrisp-250-grs) → $1.116
+- Tottus: [Cabritas Microondas Super Sweet](https://www.tottus.cl/tottus-cl/articulo/113570866/popcorn-microondas-super-sweet-tt-91-g) → $1.418
+- Lider: [Cabritas para microondas Light, 85 GR](https://super.lider.cl/ip/snacks-y-picoteo/00007615020219) → $1.753
+- Lider: [Cabritas para microondas Caramelo, 160 g](https://super.lider.cl/ip/snacks-y-picoteo/00007615023038) → $1.513
+- Lider: [Cabritas para microondas Mantequilla, 91 g](https://super.lider.cl/ip/snacks-y-picoteo/00780461112040) → $1.418
+- Lider: [Cabritas Oliva Sal de Mar, 100 g](https://super.lider.cl/ip/snacks-y-picoteo/00780466062006) → $2.790
 
 ## Maní salado `mani` · por bolsa
-**$2.370 · $2.900 · $5.180** (mín · media · máx, 15 precios)
-- Unimarc: [Mani salado Marco Polo 380 g](https://www.unimarc.cl/mani-salado-marco-polo-380-gr/p) → $2.937
-- Unimarc: [Maní salado Millantú doy pack 200 g](https://www.unimarc.cl/mani-salado-millantu-200-gr/p) → $2.980
-- Unimarc: [Maní salado Tento 380 gr](https://www.unimarc.cl/mani-salado-tento-380-gr/p) → $2.516
-- Tottus: [Maní con Sal Evercrips 350 g](https://www.tottus.cl/tottus-cl/articulo/124377382/mani-sal-evercrisp-380-und) → $3.143
-- Tottus: [Maní Salado Marco Polo 380 g](https://www.tottus.cl/tottus-cl/articulo/139401180/mani-salado-marco-polo-380-gr) → $2.895
+**$1.780 · $2.370 · $5.180** (mín · media · máx, 23 precios)
+- Tottus: [Maní con Sal Evercrips 350 g](https://www.tottus.cl/tottus-cl/articulo/124377382/mani-sal-evercrisp-380-und) → $1.932 (normal $3.143)
 - Tottus: [Mix Maní Dulce y Salada con Arándanos Tottus 200 g](https://www.tottus.cl/tottus-cl/articulo/110611154/mani-dulce-y-salado-arand-tottus-200-gr) → $5.180
+- Tottus: [Maní Salado Marco Polo 380 g](https://www.tottus.cl/tottus-cl/articulo/139401180/mani-salado-marco-polo-380-gr) → $1.779 (normal $2.894)
+- Tottus: [Maní Sin Sal Evercrips 380 g](https://www.tottus.cl/tottus-cl/articulo/124377520/mani-sin-sal-evercrisp-380-und) → $1.779 (normal $2.894)
 - Tottus: [Maní con Sal Evercrisp 160 gr](https://www.tottus.cl/tottus-cl/articulo/155082619/mani-sal-evercrisp-160-g) → $3.725
-- Jumbo: [Maní Salado Evercrisp 350 g](https://www.jumbo.cl/mani-salado-everc-2086731/p) → $2.846
-- Jumbo: [Maní Salado Evercrisp 350 g](https://www.jumbo.cl/mani-salado-everc-2086731/p) → $2.846
-- Jumbo: [Maní Salado Marco Polo 380 g](https://www.jumbo.cl/mani-salado-marco-polo-380gr-2000507/p) → $2.368
-- Jumbo: [Maní Salado Marco Polo 380 g](https://www.jumbo.cl/mani-salado-marco-polo-380gr-2000507/p) → $2.368 (normal $3.116)
-- Jumbo: [Maní Salado Evercrisp 160 g](https://www.jumbo.cl/mani-salado-2084732/p) → $3.225
+- Lider: [Maní Salado con Miel, 350 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242000399) → $2.116 (normal $3.188)
+- Lider: [Mix Maní Salado con Pasas, 200 g](https://super.lider.cl/ip/snacks-y-picoteo/00780462717111) → $2.300
+- Lider: [Maní Tostado Salado Y Sazonado, 454 g](https://super.lider.cl/ip/snacks-y-picoteo/00007874208318) → $3.515
+- Lider: [Maní Tostado Salado, 400 g](https://super.lider.cl/ip/snacks-y-picoteo/00780461222158) → $2.409
+- Lider: [Maní Tostado Salado, 700 g](https://super.lider.cl/ip/snacks-y-picoteo/00780462717288) → $1.880
+- Lider: [Maní Salado, 380 g](https://super.lider.cl/ip/snacks-y-picoteo/00780242000953) → $2.368 (normal $2.832)
+- Jumbo: [Maní Salado Marco Polo 380 g](https://www.jumbo.cl/mani-salado-marco-polo-380gr-2000507/p) → $2.181
 
 ## Mix de frutos secos `frutos_secos` · por bolsa
-**$2.570 · $4.670 · $11.990** (mín · media · máx, 15 precios)
-- Unimarc: [Mix oriental Frutos del Maipo 350 g](https://www.unimarc.cl/mix-oriental-frutos-del-maipo-350-gr/p) → $2.846
-- Unimarc: [Mix frutas Frutos Maipo frutimix 400 g](https://www.unimarc.cl/mix-frutas-frutos-maipo-400g-frutimix/p) → $4.350
-- Unimarc: [Mix frutos del bosque Tribu 700 g](https://www.unimarc.cl/mix-frutos-del-bosque-tribu-700-gr/p) → $4.943
-- Unimarc: [Mix frutos secos con pistacho Imperial Nuts 340 gr](https://www.unimarc.cl/mix-frutos-sec-c-pistacho-imp-nuts-340gr/p) → $11.988
-- Tottus: [Nut Mix 2](https://www.tottus.cl/tottus-cl/articulo/112781732/nut-mix-2-marco-polo-grs-g-350-grs) → $4.674
-- Tottus: [Mix de Frutos Secos Nut Mix 2 Marco Polo 700 g](https://www.tottus.cl/tottus-cl/articulo/149137403/mix-marco-polo-700gr) → $5.137
-- Tottus: [Nut Mix](https://www.tottus.cl/tottus-cl/articulo/112781706/nut-mix-marco-polo-350g) → $4.674
-- Tottus: [Mix de Frutos Secos Nut Mix Marco Polo 700 g](https://www.tottus.cl/tottus-cl/articulo/149137387/mix-marco-polo-700gr) → $2.568 (normal $5.137)
-- Tottus: [Mix Frutos Secos Nut Mix Castañas de Cajú, Maní y Almendras Sembrasol 700 g](https://www.tottus.cl/tottus-cl/articulo/140882535/mix-nuts-sembrasol-700-gr) → $4.200
-- Jumbo: [Mix Frutos Secos 700 g](https://www.jumbo.cl/mix-frutos-secos-700-gr-c-and-co-1897109/p) → $5.709
-- Jumbo: [Mix Frutos Secos 700 g](https://www.jumbo.cl/mix-frutos-secos-700-gr-c-and-co-1897109/p) → $5.708
-- Jumbo: [Mix Frutos Secos y Semillas 700 g](https://www.jumbo.cl/mix-frutos-secos-y-semillas-700-gr-c-and-co-1897112/p) → $3.994
+**$2.690 · $4.100 · $12.030** (mín · media · máx, 20 precios)
+- Tottus: [Mix Frutos Secos Maíz Tasty Frutisa 180 g](https://www.tottus.cl/tottus-cl/articulo/148351748/mix-maiz-tasty-frutisa-180-gr) → $4.422 (normal $6.867)
+- Tottus: [Mix Frutos Secos Maíz Spicy Frutisa 180 g](https://www.tottus.cl/tottus-cl/articulo/148351740/mix-maiz-spicy-frutisa-180-gr) → $4.422 (normal $6.867)
+- Tottus: [Nut Mix 2](https://www.tottus.cl/tottus-cl/articulo/112781732/nut-mix-2-marco-polo-grs-g-350-grs) → $2.960 (normal $4.674)
+- Tottus: [Mix de Frutos Secos Nut Mix 2 Marco Polo 700 g](https://www.tottus.cl/tottus-cl/articulo/149137403/mix-marco-polo-700gr) → $2.828 (normal $5.137)
+- Tottus: [Nut Mix](https://www.tottus.cl/tottus-cl/articulo/112781706/nut-mix-marco-polo-350g) → $2.686 (normal $4.674)
+- Tottus: [Mix de Frutos Secos Nut Mix Marco Polo 700 g](https://www.tottus.cl/tottus-cl/articulo/149137387/mix-marco-polo-700gr) → $2.966 (normal $5.137)
+- Lider: [Mix Frutos Secos maní estilo cajú con palitos de sésamo, palitos de maíz con sabor a salsa, trocitos de ají, semillas de calabaza tostadas y saladas y almendras tostadas y saladas., 624 g](https://super.lider.cl/ip/snacks-y-picoteo/00007874222143) → $5.122
+- Lider: [Mix Frutos Secos Mix de almendras, pasas rubias y maní tostado, sin sal, 700 g](https://super.lider.cl/ip/snacks-y-picoteo/00040005028376) → $3.937
+- Lider: [Mix Frutos Secos Salado, 300 g](https://super.lider.cl/ip/frutos-secos/00780406800174) → $4.253
+- Lider: [Mix Frutos Secos Mix de maní tostado, pasas morenas, almendras, cranberry y goji, sin sal, 700 g](https://super.lider.cl/ip/frutos-secos/00780466054150) → $4.566
+- Lider: [Mix Frutos Secos Mix de maní tostado, almendras, nueces, castañas de cajú y pasas rubias, sin sal, 700 g](https://super.lider.cl/ip/frutos-secos/00780466054149) → $5.994
+- Lider: [Mix Frutos Secos Mix de maní tostado, nueces, semillas de zapallo y de maravilla, sin sal, 700 g](https://super.lider.cl/ip/frutos-secos/00780466054152) → $4.452
 
 ## Galletas saladas `galletas_saladas` · por paquete
-**$730 · $1.260 · $1.740** (mín · media · máx, 23 precios)
-- Unimarc: [Galletas de soda Fruna 190 gr](https://www.unimarc.cl/galletas-soda-fruna-190-gr/p) → $726
-- Unimarc: [Galletas de agua Fruna 165 gr](https://www.unimarc.cl/galletas-de-agua-fruna-165-gr/p) → $836
-- Unimarc: [Galleta de soda costa 160g](https://www.unimarc.cl/galleta-de-soda-costa-160-gr/p) → $1.163 (normal $1.238)
-- Unimarc: [Galletas de soda McKay light 180 g](https://www.unimarc.cl/galleta-soda-light-mckay-180-gr/p) → $1.500
-- Unimarc: [Galleta de soda costa line 160g](https://www.unimarc.cl/galleta-de-soda-line-costa-160-gr/p) → $1.163 (normal $1.238)
-- Unimarc: [Galletas de agua Costa line 175 g](https://www.unimarc.cl/galleta-agua-light-costa-210-gr/p) → $1.086 (normal $1.429)
-- Unimarc: [Galletas de agua Costa 175 g](https://www.unimarc.cl/galleta-agua-costa-210-gr/p) → $1.086 (normal $1.429)
-- Unimarc: [Galletas de soda McKay clásica 180 g](https://www.unimarc.cl/galleta-soda-familiar-mckay-180-gr/p) → $1.500
+**$730 · $1.250 · $1.430** (mín · media · máx, 23 precios)
 - Tottus: [Galleta de Soda Costa 160 g](https://www.tottus.cl/tottus-cl/articulo/124784576/galleta-soda-costa-0-16-kl) → $1.238
 - Tottus: [Galleta de Soda Line Costa 160 g](https://www.tottus.cl/tottus-cl/articulo/124779899/galleta-soda-line-costa-0-16-kl) → $1.238
+- Tottus: [Galletas Soda Light](https://www.tottus.cl/tottus-cl/articulo/110614621/galleta-soda-light-180-grs) → $1.344
 - Tottus: [Galletas de Agua Line](https://www.tottus.cl/tottus-cl/articulo/115808157/agua-line-costa-0g-0-175-kl) → $1.246
 - Tottus: [GALLETA SODA LIGHT TOTTUS 190 G](https://www.tottus.cl/tottus-cl/articulo/112651911/galleta-soda-light-tottus-190-g) → $937
+- Tottus: [Galleta Soda Clásica Mckay 180 g](https://www.tottus.cl/tottus-cl/articulo/110614752/galleta-soda-fam-180-grs-mckay) → $1.344
+- Lider: [Galletas Soda Light Bolsa, 180 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00761303121488) → $1.322
+- Lider: [Galletas Soda Clásica Bolsa., 180 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00780223008664) → $1.100
+- Lider: [Galletas Soda Line Bolsa, 160 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00780221550203) → $863 (normal $1.188)
+- Jumbo: [Galletas McKay Soda Clásica 180 g](https://www.jumbo.cl/galletas-soda-mckay-180-g/p) → $1.433
+- Jumbo: [Galletas McKay Soda Clásica 180 g](https://www.jumbo.cl/galletas-soda-mckay-180-g/p) → $1.433
+- Jumbo: [Galletas McKay Soda Light 180 g](https://www.jumbo.cl/galletas-soda-light-mckay-180-g/p) → $1.433
 
 ## Galletas para tabla `galletas_tabla` · por caja
-**$2.910 · $5.160 · $5.690** (mín · media · máx, 15 precios)
-- Unimarc: [Galletas Tika crackers chía caja 140 g](https://www.unimarc.cl/crackers-chia-tika-140gr/p) → $3.986
-- Unimarc: [Tostadas artesanales Nat crackers cranberry nuez 160 g](https://www.unimarc.cl/crackers-nat-160-gr-cranberry-nuez/p) → $5.613
-- Unimarc: [Tostadas artesanales Nat crackers pistacho romero 160 g](https://www.unimarc.cl/crackers-nat-160-gr-pistacho-romero/p) → $5.613
+**$2.550 · $3.980 · $5.690** (mín · media · máx, 13 precios)
+- Tottus: [Galletas Crackers Chía](https://www.tottus.cl/tottus-cl/articulo/110618580/galletas-tika-crackers-chia-140g) → $2.550 (normal $3.643)
+- Tottus: [Galletas Crackers Cúrcuma](https://www.tottus.cl/tottus-cl/articulo/111651850/galletas-tika-crackers-curcuma-140g) → $2.550 (normal $3.643)
 - Tottus: [Crackers](https://www.tottus.cl/tottus-cl/articulo/110610299/crackers-tottus-85-g) → $1.059
 - Tottus: [Crackers Tripack](https://www.tottus.cl/tottus-cl/articulo/110612269/crackers-tripack-tottus-255-g) → $933
-- Tottus: [Galletas Crackers Cúrcuma](https://www.tottus.cl/tottus-cl/articulo/111651850/galletas-tika-crackers-curcuma-140g) → $3.643
-- Tottus: [Galletas Crackers Chía](https://www.tottus.cl/tottus-cl/articulo/110618580/galletas-tika-crackers-chia-140g) → $3.643
 - Tottus: [Crackers Datil Almendras 160 gr](https://www.tottus.cl/tottus-cl/articulo/113420505/crackers-datil-alm-nat-crackers-0-16-kl) → $910
 - Tottus: [Crackers Cranberry Nuez 160 gr](https://www.tottus.cl/tottus-cl/articulo/110620174/crackers-cranb-nuez-nat-crackers-160-gr) → $5.688
-- Tottus: [Crackers Pistacho Romero 160 gr](https://www.tottus.cl/tottus-cl/articulo/110617490/crackers-pist-rom-nat-crackers-160-gr) → $5.688
 - Tottus: [Crackers Aceitunas Verdes 160 gr](https://www.tottus.cl/tottus-cl/articulo/113420474/crackers-aceit-pas-nat-crackers-0-16-kl) → $910
-- Jumbo: [Galletas Nat Crackers Cranberry Nuez 160 g](https://www.jumbo.cl/galleta-natcrackers-cranberry-nuez-160-g/p) → $5.163
+- Tottus: [Crackers Pistacho Romero 160 gr](https://www.tottus.cl/tottus-cl/articulo/110617490/crackers-pist-rom-nat-crackers-160-gr) → $5.688
+- Lider: [Pita Crackers Sal De Mar, 100 g](https://super.lider.cl/ip/panaderia-envasada/00074585385327) → $3.980
+- Lider: [Pita Crackers Ajo, 100 g](https://super.lider.cl/ip/panaderia-envasada/00074585385324) → $3.980
+- Jumbo: [Galletas Crackers Lorenz con Semillas 100 g](https://www.jumbo.cl/crackers-c-semillas-lorenz-100g-1928709/p) → $3.936
+- Jumbo: [Galletas Crackers Lorenz con Semillas 100 g](https://www.jumbo.cl/crackers-c-semillas-lorenz-100g-1928709/p) → $3.936 (normal $4.920)
 
 ## Galletas dulces `galletas_dulces` · por paquete
-**$590 · $1.040 · $1.250** (mín · media · máx, 16 precios)
-- Unimarc: [Galletas obleas Fruna sabor frutilla 110 gr](https://www.unimarc.cl/gall-obleas-sabor-frutilla-fruna-110-gr/p) → $845
-- Unimarc: [Galletas oblea Fruna sabor chirimoya 110 gr](https://www.unimarc.cl/gall-obleas-sabor-chirimoya-fruna-110-gr/p) → $845
-- Unimarc: [Galletas obleas Fruna sabor helado 110 gr](https://www.unimarc.cl/gall-obleas-sabor-helado-fruna-110-gr/p) → $845
+**$590 · $1.230 · $2.860** (mín · media · máx, 22 precios)
 - Tottus: [Galleta Niza](https://www.tottus.cl/tottus-cl/articulo/113571445/galleta-niza-clasica-150-grs) → $980
 - Tottus: [Galleta Dulce Choco Chips](https://www.tottus.cl/tottus-cl/articulo/110618158/galleta-dulce-choco-chips-tottus-192-g) → $695
-- Tottus: [Galleta Dulce Sabor Mantequilla](https://www.tottus.cl/tottus-cl/articulo/112651910/galleta-dulce-sabor-mantequilla-tt-200-g) → $668
 - Tottus: [Galleta Dulce Tipo María](https://www.tottus.cl/tottus-cl/articulo/110619328/galleta-dulce-tipo-maria-tottus-165-g) → $591
+- Tottus: [Galleta Dulce Sabor Mantequilla](https://www.tottus.cl/tottus-cl/articulo/112651910/galleta-dulce-sabor-mantequilla-tt-200-g) → $668
 - Tottus: [Galleta Dulce Sabor Coco](https://www.tottus.cl/tottus-cl/articulo/112462306/galleta-dulce-sabor-coco-tottus-200-g) → $668
-- Jumbo: [Galletas Nik Bocado 71 g](https://www.jumbo.cl/galletas-dulces-costa-71-g-bocado-nik/p) → $1.225
-- Jumbo: [Galletas Nik Bocado 71 g](https://www.jumbo.cl/galletas-dulces-costa-71-g-bocado-nik/p) → $1.225
-- Jumbo: [Galletas Oreo Rollo Sabor Original 108 g](https://www.jumbo.cl/galleta-oreo-regular-108-gr-1932773/p) → $1.250
-- Jumbo: [Galletas Oreo Rollo Sabor Original 108 g](https://www.jumbo.cl/galleta-oreo-regular-108-gr-1932773/p) → $1.250
+- Lider: [Galleta bañada en chocolate, 105,6 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00762221078820) → $2.857
+- Lider: [Galleta Oblea Alteza Helado, 140 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00780223008253) → $1.661
+- Lider: [Galletas Chip Chipers, 190 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00761303489173) → $1.618
+- Lider: [Galletas Triton Vainilla, 116 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00844529171684) → $1.012
+- Lider: [Galletas Obsesión Clásica Chocolate, 85 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00780221550502) → $1.544 (normal $2.206)
+- Lider: [Galletas Cacao Underfive, 150 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00780467687028) → $3.890
+- Lider: [Galleta dulce oreo sabor a frutilla, 108 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00762220280916) → $1.181
 
 ## Chocolates `chocolates` · por barra
-**$1.920 · $3.530 · $5.010** (mín · media · máx, 11 precios)
-- Unimarc: [Chocolate Costa Rama de leche 100 g](https://www.unimarc.cl/chocolate-leche-rama-costa-100-gr/p) → $3.000 (normal $3.735)
-- Unimarc: [Chocolate de leche Bon o Bon 210 g](https://www.unimarc.cl/chocolate-leche-ventana-bon-o-bon-210gr/p) → $1.922 (normal $2.564)
-- Unimarc: [Chocolate Trencito Nestlé de leche 150 g](https://www.unimarc.cl/chocolate-trencito-nestle-150-g/p) → $3.690
-- Tottus: [Pack Leche Chocolate 4 Ingredientes Soprole 6 x 200 ml](https://www.tottus.cl/tottus-cl/articulo/152244929/leche-chocolate-4-ingr-soprole-6x200ml) → $399 (normal $449)
-- Jumbo: [Chocolate de Leche Trencito 150 g](https://www.jumbo.cl/chocolate-trencito-150-g-barra/p) → $3.530
-- Jumbo: [Chocolate de Leche Trencito 150 g](https://www.jumbo.cl/chocolate-trencito-150-g-barra/p) → $3.530
-- Jumbo: [Chocolate de Leche Hershey 92 g](https://www.jumbo.cl/chocolate-hershey-s-leche-92-g/p) → $3.098
-- Jumbo: [Chocolate de Leche Hershey 92 g](https://www.jumbo.cl/chocolate-hershey-s-leche-92-g/p) → $3.476
-- Jumbo: [Chocolate de Leche Trencito Aireado 105 g](https://www.jumbo.cl/chocolate-trencito-nestle-air-leche-105-g/p) → $4.900
-- Jumbo: [Chocolate de Leche Trencito Aireado 105 g](https://www.jumbo.cl/chocolate-trencito-nestle-air-leche-105-g/p) → $4.900
-- Jumbo: [Chocolate de Leche Trencito Aireado Dúo 105 g](https://www.jumbo.cl/chocolate-trencito-nestle-air-duo-105-g/p) → $5.014
-- Jumbo: [Chocolate de Leche Trencito Aireado Dúo 105 g](https://www.jumbo.cl/chocolate-trencito-nestle-air-duo-105-g/p) → $5.014
+**$1.640 · $3.530 · $6.040** (mín · media · máx, 16 precios)
+- Tottus: [Chocobiscuit Chocolate Leche](https://www.tottus.cl/tottus-cl/articulo/112817065/chocobiscuit-chocolate-leche-36-g) → $6.042
+- Tottus: [Leche Semidescremada Sabor Chocolate Loncoleche 115 ml](https://www.tottus.cl/tottus-cl/articulo/142489856/leche-chocolate-loncoleche-115-gr) → $522
+- Lider: [Chocolate Rolls Crocante, 150 g](https://super.lider.cl/ip/variedad/00780221512125) → $1.642 (normal $2.190)
+- Lider: [Chocolate de Leche Barra, 150 g](https://super.lider.cl/ip/variedad/00780223007002) → $2.201 (normal $3.390)
+- Lider: [Chocolate con Almendras Barra., 250 g](https://super.lider.cl/ip/tipos/00780223007022) → $4.074
+- Lider: [Chocolate de Leche Tiny, 200 g](https://super.lider.cl/ip/tipos/00762230086584) → $5.168
+- Lider: [Chocolate con Leche, 6 Un](https://super.lider.cl/ip/variedad/00780460687157) → $3.953
+- Lider: [Chocolate Con Leche y Maní (6Un), 296 g](https://super.lider.cl/ip/variedad/00780460687091) → $3.846
+- Jumbo: [Chocolate de Leche Cachet 300 g](https://www.jumbo.cl/chocolate-de-leche-cachet-300g/p) → $3.087
+- Jumbo: [Chocolate de Leche Cachet 300 g](https://www.jumbo.cl/chocolate-de-leche-cachet-300g/p) → $3.087 (normal $4.115)
+- Jumbo: [Chocolate de Leche Costa Milk Sin Azúcar 80 g](https://www.jumbo.cl/chocolate-excellence-leche-costa-80-g-2/p) → $4.056
+- Jumbo: [Chocolate de Leche Costa Milk Sin Azúcar 80 g](https://www.jumbo.cl/chocolate-excellence-leche-costa-80-g-2/p) → $4.056 (normal $5.794)
 
 ## Gomitas `gomitas` · por bolsa
-**$1.160 · $1.760 · $2.910** (mín · media · máx, 23 precios)
-- Unimarc: [Gomitas menthol Fruna eucaliptus 500 gr](https://www.unimarc.cl/gomitas-menthol-eucaliptus-fruna-500-gr/p) → $1.156
-- Unimarc: [Gomitas Fruna sabores frutales 430 gr](https://www.unimarc.cl/gomitas-de-gelatina-frutales-fruna-430gr/p) → $1.205
-- Unimarc: [Gomitas Fruna forma de pizza bolsa 360 gr](https://www.unimarc.cl/delic-gomitas-forma-de-pizza-fruna-360gr/p) → $2.050
-- Unimarc: [Gomitas frugelé Ambrosoli 380 g](https://www.unimarc.cl/gomitas-frugele-ambrosoli-380-gr/p) → $1.442 (normal $1.711)
-- Unimarc: [Gomitas flipy sabor frutal Ambrosoli 90 g](https://www.unimarc.cl/gomitas-sab-frutal-flipy-ambrosoli-90-gr/p) → $1.578 (normal $1.889)
-- Unimarc: [Gomitas ácidas loop Ambrosoli 90 g](https://www.unimarc.cl/gomitas-acidas-loop-ambrosoli-90-gr/p) → $1.578 (normal $1.889)
-- Unimarc: [Gomitas ositos Tento sabor frutal 80 g](https://www.unimarc.cl/gomitas-ositos-sabor-frutal-tento-80g/p) → $1.725
-- Unimarc: [Gomitas acidas Tento aros sabores frutales 80 g](https://www.unimarc.cl/gomitas-aro-acidas-sab-frutal-tento-80g/p) → $1.725
-- Tottus: [Gomitas Sandia Ambrosoli 90 g](https://www.tottus.cl/tottus-cl/articulo/120718183/sandia-ambrosoli-90gr) → $2.378
+**$880 · $1.700 · $3.230** (mín · media · máx, 25 precios)
+- Tottus: [Gomitas Ambrosito Ambrosoli 90 g](https://www.tottus.cl/tottus-cl/articulo/120955897/ambrosito-ambrosoli-90gr) → $1.756 (normal $2.378)
+- Tottus: [Gomitas Ambrosoli Frugele XL](https://www.tottus.cl/tottus-cl/articulo/110620854/gomitas-frugele-xl-ambrosoli-360-gr) → $883 (normal $1.495)
+- Tottus: [Gomitas Flipy Ambrosoli 90 g](https://www.tottus.cl/tottus-cl/articulo/120717958/flipy-ambrosoli-90gr) → $1.978 (normal $2.378)
+- Tottus: [Gomitas Frugelé 380 gr](https://www.tottus.cl/tottus-cl/articulo/119788746/frugele-0-0-38-kl) → $9.421 (normal $16.263)
+- Tottus: [Gomitas Sandia Ambrosoli 90 g](https://www.tottus.cl/tottus-cl/articulo/120718183/sandia-ambrosoli-90gr) → $1.756 (normal $2.378)
 - Tottus: [Gomitas Gusanos](https://www.tottus.cl/tottus-cl/articulo/115921122/gomitas-gusanos-tottus-100-gr) → $1.640
 - Tottus: [Gomitas Gusanos Acido](https://www.tottus.cl/tottus-cl/articulo/111652215/gomitas-gusanos-acid-fini-90g-surt-singl) → $2.222 (normal $2.911)
-- Tottus: [Gomitas Flipy Ambrosoli 90 g](https://www.tottus.cl/tottus-cl/articulo/120717958/flipy-ambrosoli-90gr) → $2.378
+- Tottus: [Gomitas Fiesta Mix Fini 150 g](https://www.tottus.cl/tottus-cl/articulo/124377367/gomitas-mix-sin-gluten-fini-nog-caja) → $2.733
+- Lider: [Gomitas Gumis Piña, 4 Un](https://super.lider.cl/ip/alimentacion-y-lactancia/00079396900250) → $15.594
+- Lider: [Gomitas Gumis Durazno, 4 Un](https://super.lider.cl/ip/alimentacion-y-lactancia/00079396900251) → $15.594
+- Lider: [Gomitas Aros Fini, 80 g](https://super.lider.cl/ip/chocolates-y-candy/00790822880750) → $3.225
+- Lider: [Gomitas culebre fluoirecente, 80 g](https://super.lider.cl/ip/chocolates-y-candy/00843655639603) → $2.975
 
 ## Alfajores `alfajores` · por caja
-**$1.990 · $2.750 · $4.890** (mín · media · máx, 22 precios)
-- Unimarc: [Alfajor Calaf premium 4 un de 60 g](https://www.unimarc.cl/alfajor-premium-mp-calaf-240-gr/p) → $3.290 (normal $3.890)
-- Unimarc: [Alfajor Calaf classic 6 un de 35 g](https://www.unimarc.cl/alfajor-classic-mp-calaf-210-gr/p) → $2.890 (normal $3.250)
-- Unimarc: [Alfajor Laguito 8 un 280 gr](https://www.unimarc.cl/alfajor-laguito-8p-lagos-del-sur-280-gr/p) → $2.590
-- Unimarc: [Alfajor mini Alfi Marinela 10 un 200 gr](https://www.unimarc.cl/alfi-10p-marinela-200-gr/p) → $2.090
-- Unimarc: [Alfajor de arroz Tucapel cubierta chocolate 6 un de 22 gr](https://www.unimarc.cl/alfajor-arroz-cob-choco-tucapel-22-gr/p) → $4.090
-- Unimarc: [Alfajor de arroz Veryfood crema de maní 6 un de 28 g](https://www.unimarc.cl/alfajor-arroz-crema-mani-veryfood-6x28gr/p) → $4.790
-- Unimarc: [Alfajor Havanna 70% cacao puro 324 g](https://www.unimarc.cl/alfajor-choco-70-cacao-havanna-324-gr/p) → $12.150
-- Unimarc: [Alfajor de maicena Pulmahue bandeja 5 un de 40 g](https://www.unimarc.cl/alfajor-maicena-pulmahue-200gr/p) → $3.090
+**$1.050 · $3.090 · $4.990** (mín · media · máx, 31 precios)
 - Tottus: [Alfajor Clásico Relleno Manjar](https://www.tottus.cl/tottus-cl/articulo/111865280/alfajor-clasico-4-unidades-180gr-lds) → $2.539
 - Tottus: [Alfajor de Maicena Blister Dolce Tentazione 355 g](https://www.tottus.cl/tottus-cl/articulo/128289120/alfajor-maicena-blister-4-un-355gr) → $3.390
 - Tottus: [Alfajor Premium Calaf 4 x 60 g](https://www.tottus.cl/tottus-cl/articulo/126321394/bandeja-alfajor-premium-4-uni-240-gr) → $3.690
 - Tottus: [Alfajor Brandy](https://www.tottus.cl/tottus-cl/articulo/111865564/alfajor-brandy-4-unidades-180gr-lds) → $2.539
+- Tottus: [Pack Alfajor Chileno](https://www.tottus.cl/tottus-cl/articulo/115828929/pack-alfajor-chileno-4uni-180gr) → $2.290
+- Tottus: [Alfajor Classic Calaf 6 x 35 g](https://www.tottus.cl/tottus-cl/articulo/126321357/bandeja-alfajor-classic-6-uni-210-gr) → $3.090
+- Tottus: [Pack Alfajor Relleno de Frambuesa Entrelagos 4 Un x 40 g](https://www.tottus.cl/tottus-cl/articulo/133847411/display-4-alfajores-frambuesa-blanc-160g) → $3.990
+- Tottus: [Alfajor Laguito](https://www.tottus.cl/tottus-cl/articulo/110623316/alfajor-laguito-doypack-8-un) → $2.590
+- Lider: [Pack Alfajor Frambuesa, 5 Un](https://super.lider.cl/ip/galletas-y-snack-colacion/00780350000075) → $4.290
+- Lider: [Alfajor Bon o Bon, 40 g](https://super.lider.cl/ip/galletas-y-colaciones-dulces/00779004061370) → $1.050
+- Lider: [Pack Alfajor Manjar, 5 Un](https://super.lider.cl/ip/galletas-y-snack-colacion/00780350000074) → $4.290
+- Lider: [Chocolate Alfajor Premium  4 Un, 240 g](https://super.lider.cl/ip/galletas-y-snack-colacion/00780221514308) → $3.000 (normal $3.690)
 
 ## Empanaditas de queso (congeladas) `empanaditas` · por caja
-**$3.490 · $4.320 · $6.690** (mín · media · máx, 22 precios)
-- Unimarc: [Empanada queso Satira hoja 2 un](https://www.unimarc.cl/empanada-queso-hoja-satira-2-un/p) → $5.790
-- Unimarc: [Empanadas con queso congeladas como en casa 24u](https://www.unimarc.cl/empanadas-c-queso-cong-como-en-casa-24un/p) → $3.590
-- Unimarc: [Empanadas hojaldre Degustar queso 10 un](https://www.unimarc.cl/empanada-hojaldre-queso-degustar-10un/p) → $3.790 (normal $4.250)
-- Unimarc: [Empanadas hojaldre Degustar jamón queso 10 un](https://www.unimarc.cl/empanada-hoja-jamon-queso-degustar-10un/p) → $3.790 (normal $4.250)
-- Unimarc: [Empanadas Como en Casa mechada queso 10 un caja 300 g](https://www.unimarc.cl/empanada-como-en-casa-10u-mechada-queso/p) → $4.350
-- Unimarc: [Empanadas Como en Casa aceituna queso 10 un caja 300 g](https://www.unimarc.cl/empanada-como-en-casa-10-aceituna-queso/p) → $4.350
-- Tottus: [Empanadas Cóctel Espinaca Queso Degustar 10 un](https://www.tottus.cl/tottus-cl/articulo/154979248/empanada-cockt-espinaca-degustar-300-g) → $5.290
+**$3.000 · $4.240 · $6.690** (mín · media · máx, 30 precios)
 - Tottus: [Empanada Cocktail Queso Aceituna](https://www.tottus.cl/tottus-cl/articulo/110623216/empanada-cocktail-queso-aceituna-12-und-tottus) → $5.590
-- Tottus: [Empanada Cocktail Queso Camarón](https://www.tottus.cl/tottus-cl/articulo/110624085/empanada-cocktail-queso-camaron-12-und-tottus) → $6.690
 - Tottus: [Empanadas Cocktail Hojaldre de Queso Degustar 10 Un](https://www.tottus.cl/tottus-cl/articulo/129917879/emp-hojaldre-queso-10-unid-degustar) → $3.990
-- Tottus: [Empanadas Cocktail Hojaldre de Queso Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/145434858/pack-empanadas-queso-hojaldre-cocktail-x-12-un-cp) → $3.490
+- Tottus: [Empanada Cocktail Queso Camarón](https://www.tottus.cl/tottus-cl/articulo/110624085/empanada-cocktail-queso-camaron-12-und-tottus) → $6.690
+- Tottus: [Empanadas Cóctel Espinaca Queso Degustar 10 un](https://www.tottus.cl/tottus-cl/articulo/154979248/empanada-cockt-espinaca-degustar-300-g) → $5.290
 - Tottus: [Empanadas Cocktail de Queso Congeladas Degustar 10 Un](https://www.tottus.cl/tottus-cl/articulo/146643098/empanda-cocktail-queso-degustar-10-un) → $5.290
+- Tottus: [Empanadas Cocktail Hojaldre de Queso Tottus 12 Un](https://www.tottus.cl/tottus-cl/articulo/145434858/pack-empanadas-queso-hojaldre-cocktail-x-12-un-cp) → $3.490
+- Tottus: [Empanadas de Cóctel Queso Congelada Tottus 12 un](https://www.tottus.cl/tottus-cl/articulo/153852572/empananda-queso-12-und-cong) → $3.490
+- Tottus: [Empanadas Cocktail Hojaldre de Jamón y Queso Degustar 10 Un](https://www.tottus.cl/tottus-cl/articulo/129917875/emp-hojaldre-j-q-10-unid-degustar) → $3.990
+- Lider: [Empanada Cocktail Queso Degustar 10 Un, 300 g](https://super.lider.cl/ip/panaderia-envasada/00780340800086) → $5.290
+- Lider: [Empanada Coctel Camarón Queso Refrigerada 10 Un, 240 g](https://super.lider.cl/ip/comidas-congeladas/00780340800079) → $5.190
+- Lider: [Empanada Coctel Espinaca Queso Refrigerada 10 Un, 300 g](https://super.lider.cl/ip/coctel/00780340800078) → $3.990
+- Lider: [Empanada Cóctel de Queso para freír congeladas 24 Un, 504 g](https://super.lider.cl/ip/coctel/00780390500593) → $3.450
 
 ## Pizza congelada `mini_pizzas` · por pizza
-**$2.890 · $5.490 · $9.990** (mín · media · máx, 22 precios)
-- Unimarc: [Pizza PF Listo jamón queso congelada caja 465 g](https://www.unimarc.cl/pizza-jamon-queso-pf-listo-465-g/p) → $4.115 (normal $5.750)
-- Unimarc: [Pizza PF Listo congelada jamón queso 250 g](https://www.unimarc.cl/pizza-jamon-queso-cong-pf-listo-250-gr/p) → $2.950
-- Unimarc: [Pizza PF listo pepperoni congelada 430 g](https://www.unimarc.cl/pizza-cong-pf-listo-430-gr-pepperoni/p) → $5.350 (normal $5.750)
-- Unimarc: [Pizza PF Listo congelada pepperoni 230 g](https://www.unimarc.cl/pizza-pepperoni-cong-pf-listo-230-gr/p) → $2.950
-- Unimarc: [Pizza pera prosciutto Stefano Nardini congelada 600 gr](https://www.unimarc.cl/pizza-pera-prosciutto-snardini-600g/p) → $9.990
-- Unimarc: [Pizza margherita Stefano nardini congelada 550 gr](https://www.unimarc.cl/pizza-margherita-snardini-550g/p) → $9.990
+**$2.000 · $5.450 · $11.790** (mín · media · máx, 30 precios)
+- Tottus: [Pizza Chorizo Congelada](https://www.tottus.cl/tottus-cl/articulo/116504808/pizza-calabresa-460-grs) → $3.190 (normal $4.990)
+- Tottus: [Pizza Mix Quesos Congelada](https://www.tottus.cl/tottus-cl/articulo/116504869/pizza-cuatro-quesos-460-grs) → $3.190 (normal $4.990)
+- Tottus: [Pizza Pollo BBQ  Congelada](https://www.tottus.cl/tottus-cl/articulo/115807650/pizza-pollo-bbq-cong-590-grs-rda) → $5.490 (normal $6.150)
 - Tottus: [Pizza Jamón y Queso Congelada PF Listo 250 g](https://www.tottus.cl/tottus-cl/articulo/130123753/pizza-jamon-queso-cong-pf-listo-250-gr) → $2.890 (normal $2.950)
 - Tottus: [Pizza Cuatro Quesos Congelada](https://www.tottus.cl/tottus-cl/articulo/119824096/pizza-4-quesos-r-d-abuelo-560-gr) → $5.490 (normal $6.150)
 - Tottus: [Pizza Pepperoni Congelada PF Listo 230 g](https://www.tottus.cl/tottus-cl/articulo/130123741/pizza-pepperoni-cong-pf-listo-230-gr) → $2.890 (normal $2.950)
 - Tottus: [Pizza Española](https://www.tottus.cl/tottus-cl/articulo/110622628/pizzas-espanola-cong-pf-listo-465-grs) → $4.990
-- Tottus: [Pizza Mix Quesos Congelada](https://www.tottus.cl/tottus-cl/articulo/116504869/pizza-cuatro-quesos-460-grs) → $3.090 (normal $4.990)
 - Tottus: [Pizza Supreme Congelada](https://www.tottus.cl/tottus-cl/articulo/115845150/pizza-supreme-cong-rda-0-62-kg) → $5.490 (normal $6.150)
+- Lider: [Pizza Congelada Salami, 410 g](https://super.lider.cl/ip/platos-listos-familiar/00801567303122) → $7.290
+- Lider: [Pizza Congelada Jamón Champiñones, 410 g](https://super.lider.cl/ip/platos-listos-familiar/00801567302992) → $7.290
+- Lider: [Pizza Pepperoni Congelada, 430 g](https://super.lider.cl/ip/platos-listos-familiar/00780193001324) → $5.150
+- Lider: [Pizza Jamón Queso Congelada, 465 g](https://super.lider.cl/ip/platos-listos-familiar/00780193001326) → $5.150
 
 ## Papas prefritas congeladas `papas_congeladas` · por bolsa
-**$2.990 · $4.360 · $7.130** (mín · media · máx, 19 precios)
-- Unimarc: [Papas prefritas Frutos Del Maipo bolsa 1 Kg](https://www.unimarc.cl/papas-prefritas-frutos-del-maipo-bolsa-1-kg/p) → $4.450 (normal $5.150)
-- Unimarc: [Papas prefritas Como en Casa bolsa 1 Kg](https://www.unimarc.cl/papas-pre-fritas-como-en-casa-1-kg/p) → $3.690 (normal $4.090)
-- Unimarc: [Papas prefritas Minuto Verde bolsa 1 Kg](https://www.unimarc.cl/papas-prefritas-minuto-verde-7-8-porc-1kg/p) → $5.190
-- Unimarc: [Papas prefritas finas Minuto Verde 800 g](https://www.unimarc.cl/papa-fina-prefrita-minuto-verde-800-gr/p) → $5.688
-- Unimarc: [Papas prefritas smile Frutos del Maipo 600 gr](https://www.unimarc.cl/papas-fritas-smile-fdm-600g/p) → $6.417
-- Tottus: [Papas Prefritas Congeladas Minuto Verde 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622759/papas-prefrita-minuto-verde-1-kg) → $3.990 (normal $4.850)
-- Tottus: [Papas Prefritas Fina Congeladas Minuto Verde 800 g](https://www.tottus.cl/tottus-cl/articulo/132845816/papa-pre-frita-fina-minuto-verder-800-gr) → $4.363 (normal $5.313)
+**$2.290 · $3.890 · $7.130** (mín · media · máx, 24 precios)
+- Tottus: [Papas Prefritas Congeladas Minuto Verde 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622759/papas-prefrita-minuto-verde-1-kg) → $3.590 (normal $4.850)
+- Tottus: [Papas Prefritas Fina Congeladas Minuto Verde 800 g](https://www.tottus.cl/tottus-cl/articulo/132845816/papa-pre-frita-fina-minuto-verder-800-gr) → $3.738 (normal $5.313)
 - Tottus: [Papas Prefritas Congeladas Frutos de Maipo 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110623183/papa-prefrita-f-maipo-1-kg) → $3.990 (normal $4.850)
-- Tottus: [Papas Prefritas Corte Recto Congeladas Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110621849/papas-prefrita-recta-tottus-1-kg) → $2.990 (normal $3.490)
-- Tottus: [Papas Prefritas Duquesas Congeladas Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622053/papas-prefrita-duquesa-tottus-1-kg) → $2.990 (normal $4.190)
+- Tottus: [Papas Prefritas Duquesas Congeladas Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622053/papas-prefrita-duquesa-tottus-1-kg) → $2.490 (normal $4.190)
+- Tottus: [Papas Prefritas Corte Recto Congeladas Tottus 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110621849/papas-prefrita-recta-tottus-1-kg) → $2.290 (normal $3.490)
 - Tottus: [Papas Pre Fritas Smile Frutos del Maipo 600 gr](https://www.tottus.cl/tottus-cl/articulo/150889322/papa-frita-smile-frutos-del-maipo-600-g) → $5.983
-- Jumbo: [Papas Pre Fritas Cuisine & Co 1 kg](https://www.jumbo.cl/papas-pre-fritas-1-kg-cuisine-and-co-1861054/p) → $3.890
+- Lider: [Papas Fritas Congeladas Wedget Seasoned, 907 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00040000703640) → $3.297
+- Lider: [Papas Fritas Congeladas Waffle Cut, 680 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00040000703639) → $4.103
+- Lider: [Papas Fritas Congeladas Crinkle Cut, 907 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00040000703641) → $3.297
+- Lider: [Papas Pre Fritas Sazonadas, 907 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00040000703642) → $3.297
+- Lider: [Papas Pre Fritas Cubo, 750 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780130050642) → $6.653
+- Jumbo: [Papas Pre Fritas Minuto Verde 1 kg](https://www.jumbo.cl/papas-prefritas-minuto-verde-1-kg/p) → $3.490
 
 ## Helado `helado` · por L
-**$1.690 · $3.090 · $7.990** (mín · media · máx, 24 precios)
-- Unimarc: [Helado Fruna sabor piña 1 L](https://www.unimarc.cl/helado-pina-fruna-1-lt/p) → $1.690
-- Unimarc: [Helado Savory piña cassata 1 L](https://www.unimarc.cl/helado-savory-pina-1-l/p) → $2.950 (normal $3.790)
-- Unimarc: [Helado Savory cassata brick 1 L](https://www.unimarc.cl/helado-savory-casata-brick-trisabor-1-l/p) → $2.950 (normal $3.790)
-- Unimarc: [Helado Savory chocolate suizo cassata 1 L](https://www.unimarc.cl/helado-savory-especial-chocolate-suizo/p) → $2.950 (normal $3.790)
-- Unimarc: [Helado Savory chocolate suizo y frutos del bosque 1 L](https://www.unimarc.cl/helado-savory-1-lt-frutos-choco-suizo/p) → $2.950 (normal $3.790)
-- Unimarc: [Helado Savory chirimoya alegre cassata 1 L](https://www.unimarc.cl/helado-savory-especial-chirimoya-alegre/p) → $2.950 (normal $3.790)
-- Unimarc: [Helado Savory vainilla 1 L](https://www.unimarc.cl/helado-savory-vainilla-1-l/p) → $2.950 (normal $3.790)
-- Unimarc: [Helado Savory pasas al ron cassata 1 L](https://www.unimarc.cl/helado-savory-especial-1-lt-pasas-ron/p) → $2.950 (normal $3.790)
-- Tottus: [Helado Sabor Vainilla Savory 1 lt](https://www.tottus.cl/tottus-cl/articulo/110621772/helado-vainilla-1-lt) → $3.790
+**$1.690 · $3.990 · $7.990** (mín · media · máx, 24 precios)
+- Tottus: [Helado Sabor Vainilla Savory 1 lt](https://www.tottus.cl/tottus-cl/articulo/110621772/helado-vainilla-1-lt) → $2.690 (normal $3.650)
+- Tottus: [HELADO FRUTILLA AGUA 1 LT.](https://www.tottus.cl/tottus-cl/articulo/116266290/helado-frutilla-agua-1-lt) → $3.190
 - Tottus: [HELADO FRUTILLA 1 LT.](https://www.tottus.cl/tottus-cl/articulo/116266696/helado-frutilla-1-lt) → $3.790
 - Tottus: [HELADO FRAMBUESA CREMA 1 LT..](https://www.tottus.cl/tottus-cl/articulo/110622802/helado-frambuesa-crema-1-lt) → $7.250
-- Tottus: [HELADO TRES LECHES 1 LT..](https://www.tottus.cl/tottus-cl/articulo/110622498/helado-tres-leches-1-lt) → $7.250
+- Tottus: [HELADO DULCE DE LECHE LA CREMERIA 1 LT](https://www.tottus.cl/tottus-cl/articulo/126542514/helado-dulce-de-leche-la-cremeria-1-lt) → $4.990 (normal $6.350)
+- Tottus: [HELADO PASSN FRT y MNGO LA CREMERIA 1LT](https://www.tottus.cl/tottus-cl/articulo/116175986/helado-passn-frt-mngo-la-cremeria-1lt) → $4.990 (normal $6.350)
+- Tottus: [HELADO COOKIES y CREAM LA CREMERIA 1LT](https://www.tottus.cl/tottus-cl/articulo/117135984/helado-cookies-cream-la-cremeria-1lt) → $5.490 (normal $6.350)
+- Tottus: [HELADO SALTED CARAMEL LA CREMERIA 1LT](https://www.tottus.cl/tottus-cl/articulo/116175974/helado-salted-caramel-la-cremeria-1lt) → $5.490 (normal $6.350)
+- Jumbo: [Helado San Francisco Suspiro Limeño 1 L](https://www.jumbo.cl/postre-helado-san-francisco-de-loncomilla-1-l-suspiro-limeno/p) → $7.990
+- Jumbo: [Helado San Francisco Suspiro Limeño 1 L](https://www.jumbo.cl/postre-helado-san-francisco-de-loncomilla-1-l-suspiro-limeno/p) → $7.990
+- Jumbo: [Helado Cassata Savory Pasas Al Ron 1 L](https://www.jumbo.cl/helado-savory-1-l-pasas-al-ron/p) → $3.990
+- Jumbo: [Helado Cassata Savory Pasas Al Ron 1 L](https://www.jumbo.cl/helado-savory-1-l-pasas-al-ron/p) → $3.990
 
 ## Tomate `tomate` · por kg
-**$1.650 · $1.990 · $4.980** (mín · media · máx, 15 precios)
-- Unimarc: [Tomate malla 1 Kg](https://www.unimarc.cl/tomate-malla-1-kg/p) → $1.990
-- Unimarc: [Tomate larga vida granel 500 g](https://www.unimarc.cl/tomate-1-kg-5-u-aprox/p) → $1.990
-- Unimarc: [Tomate Triple Tasty pack 500 g](https://www.unimarc.cl/tomate-triple-tasty-3-variedades-500-g/p) → $9.180
-- Tottus: [Tomate Larga Vida a Granel](https://www.tottus.cl/tottus-cl/articulo/116165192/tomate-larga-vida-xl) → $1.990
+**$1.490 · $1.990 · $4.980** (mín · media · máx, 18 precios)
+- Tottus: [Tomate Larga Vida a Granel](https://www.tottus.cl/tottus-cl/articulo/116165192/tomate-larga-vida-xl) → $1.690 (normal $1.990)
 - Tottus: [Tomate en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115917125/tomate-1kg) → $1.990
 - Tottus: [Tomate Hidropónico Racimo a Granel](https://www.tottus.cl/tottus-cl/articulo/115917099/tomate-racimo-hidroponico) → $2.490
 - Tottus: [Tomate Beef a Granel](https://www.tottus.cl/tottus-cl/articulo/116165816/tomate-beef-kg) → $2.490
@@ -2554,27 +2626,32 @@ _Referencial_: se mantiene $180 · $290 · $450 (1 precio encontrado)
 - Tottus: [Tomate Acostillado a Granel](https://www.tottus.cl/tottus-cl/articulo/116165609/tomate-acostillado) → $2.490
 - Tottus: [Tomate Pera a Granel](https://www.tottus.cl/tottus-cl/articulo/116163345/tomate-pera) → $4.980
 - Tottus: [Tomate en Malla 500 g](https://www.tottus.cl/tottus-cl/articulo/130690512/tomate-malla-400-g) → $2.475 (normal $3.475)
-- Jumbo: [Tomate Larga Vida Granel (1 a 2 un. Aprox)](https://www.jumbo.cl/tomate-larga-vida-granel/p) → $1.990
+- Lider: [Tomate Larga Vida Malla, 1 Kg](https://super.lider.cl/ip/verduras/00780465037000) → $1.990
+- Lider: [Tomate Larga Vida Granel](https://super.lider.cl/ip/verduras/00200001000000) → $1.990
+- Lider: [Tomate Racimo Granel.](https://super.lider.cl/ip/verduras/00200026000000) → $2.490
+- Lider: [Tomate San Marzano Granel](https://super.lider.cl/ip/verduras/00200017000000) → $2.490
 
 ## Tomate cherry `tomate_cherry` · por bandeja
 _Referencial_: se mantiene $1.290 · $1.790 · $2.490 (0 precios encontrados)
 
 ## Cebolla `cebolla` · por kg
-**$1.690 · $1.770 · $1.870** (mín · media · máx, 7 precios)
-- Unimarc: [Cebolla malla 1 Kg](https://www.unimarc.cl/cebolla-malla-1-kilo/p) → $1.850
-- Tottus: [Cebolla en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622688/cebolla-malla-1kg) → $1.690
-- Tottus: [Cebolla a Granel](https://www.tottus.cl/tottus-cl/articulo/116163638/cebolla-granel) → $1.690
+**$1.390 · $1.690 · $1.870** (mín · media · máx, 9 precios)
+- Tottus: [Cebolla en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622688/cebolla-malla-1kg) → $1.390 (normal $1.690)
+- Tottus: [Cebolla a Granel](https://www.tottus.cl/tottus-cl/articulo/116163638/cebolla-granel) → $1.390 (normal $1.690)
 - Tottus: [Cebolla Blanca en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116162466/cebolla-blanca-malla-1kg) → $1.690
+- Lider: [Cebolla Malla, 1 Kg](https://super.lider.cl/ip/verduras/00780460020020) → $1.690
+- Lider: [Cebolla Granel.](https://super.lider.cl/ip/verduras/00200004000000) → $1.550
 - Jumbo: [Cebolla Granel (1 a 2 un. Aprox)](https://www.jumbo.cl/cebolla-granel/p) → $1.770
 - Jumbo: [Cebolla Malla 1 kg](https://www.jumbo.cl/cebolla-feria-jumbo-malla-1-kg-8-unidad-aprox/p) → $1.870
 - Jumbo: [Cebolla Malla 1 kg](https://www.jumbo.cl/cebolla-feria-jumbo-malla-1-kg-8-unidad-aprox/p) → $1.870
+- Unimarc: [Cebolla malla 1 Kg](https://www.unimarc.cl/cebolla-malla-1-kilo/p) → $1.390 (normal $1.790)
 
 ## Cebolla morada `cebolla_morada` · por kg
-**$1.990 · $1.990 · $5.930** (mín · media · máx, 9 precios)
-- Unimarc: [Cebolla morada malla 1 Kg](https://www.unimarc.cl/cebolla-morada-4-a-5-u-malla-1-k/p) → $1.990
-- Unimarc: [Cebolla morada granel 500 g](https://www.unimarc.cl/cebolla-morada-granel-kilo/p) → $1.990
-- Tottus: [Cebolla Morada en Malla 1 kg](https://www.tottus.cl/tottus-cl/articulo/110624497/cebolla-morada-envasada-1kg) → $1.990
+**$1.690 · $1.990 · $5.930** (mín · media · máx, 11 precios)
+- Tottus: [Cebolla Morada en Malla 1 kg](https://www.tottus.cl/tottus-cl/articulo/110624497/cebolla-morada-envasada-1kg) → $1.690 (normal $1.990)
 - Tottus: [Cebolla Morada a Granel](https://www.tottus.cl/tottus-cl/articulo/116162809/cebolla-morada) → $1.990
+- Lider: [Cebolla Morada Granel](https://super.lider.cl/ip/verduras/00200069000000) → $1.850
+- Lider: [Cebolla Morada Malla, 1 Kg](https://super.lider.cl/ip/verduras/00780460020017) → $1.990
 - Jumbo: [Cebolla Morada Granel](https://www.jumbo.cl/cebolla-morada-jumbo-granel/p) → $1.990
 - Jumbo: [Cebolla Morada 1 kg](https://www.jumbo.cl/cebolla-morada-jumbo-malla-1-kg-8-unidad-aprox/p) → $1.990
 - Jumbo: [Cebolla Morada 1 kg](https://www.jumbo.cl/cebolla-morada-jumbo-malla-1-kg-8-unidad-aprox/p) → $1.990
@@ -2582,98 +2659,105 @@ _Referencial_: se mantiene $1.290 · $1.790 · $2.490 (0 precios encontrados)
 - Jumbo: [Cebolla Morada En Pluma Frutos del Maipo 150 g](https://www.jumbo.cl/cebolla-morada-fdm-150-gr-1990499/p) → $5.933
 - Jumbo: [Cebolla Morada By María 400 g](https://www.jumbo.cl/cebolla-by-maria-400-gr/p) → $14.900
 - Jumbo: [Cebolla Morada By María 400 g](https://www.jumbo.cl/cebolla-by-maria-400-gr/p) → $14.900
+- Unimarc: [Cebolla morada malla 1 Kg](https://www.unimarc.cl/cebolla-morada-4-a-5-u-malla-1-k/p) → $1.990
 
 ## Ajo `ajo` · por cabeza
-**$400 · $520 · $1.200** (mín · media · máx, 12 precios)
-- Unimarc: [Ajo malla 3 un](https://www.unimarc.cl/ajo-malla-3-unidades/p) → $397
-- Unimarc: [Ajo granulado Gourmet frasco 31 g](https://www.unimarc.cl/ajo-granulado-gourmet-31-gr/p) → $2.890
-- Unimarc: [Ajo negro Agrouno 2 un](https://www.unimarc.cl/ajo-negro-2-un/p) → $2.095
+**$360 · $500 · $1.200** (mín · media · máx, 13 precios)
 - Tottus: [Ajo en Malla 2 Un](https://www.tottus.cl/tottus-cl/articulo/110621675/ajo-malla-2-un) → $495
 - Tottus: [Ajo Chilote Mediano en Malla 5 Un](https://www.tottus.cl/tottus-cl/articulo/116160177/ajo-chilote-malla-5-und-mediano) → $398
 - Tottus: [Ajo](https://www.tottus.cl/tottus-cl/articulo/110623643/ajo-unidad) → $490
-- Tottus: [Ajo Chilote en Malla 2 Un](https://www.tottus.cl/tottus-cl/articulo/116163664/ajo-chilote-malla-2un-extra) → $1.195
 - Tottus: [Ajo Negro en Caja 2 Un](https://www.tottus.cl/tottus-cl/articulo/110623329/ajo-negro-caja-2-und) → $2.145
+- Tottus: [Ajo Chilote en Malla 2 Un](https://www.tottus.cl/tottus-cl/articulo/116163664/ajo-chilote-malla-2un-extra) → $1.195
 - Tottus: [Ajo Chilote Grande en Malla 3 Un](https://www.tottus.cl/tottus-cl/articulo/116166562/ajo-chilote-malla-3-un-grande) → $797
+- Lider: [Ajo en Malla, 3 Un](https://super.lider.cl/ip/verduras/00780460020008) → $363
+- Lider: [Ajo negro pote, 80 g](https://super.lider.cl/ip/verduras/00780468652000) → $6.490
 - Jumbo: [Ajo 3 un.](https://www.jumbo.cl/ajo-jumbo-3-unid/p) → $397
 - Jumbo: [Ajo 3 un.](https://www.jumbo.cl/ajo-jumbo-3-unid/p) → $397
 - Jumbo: [Ajo 2 un.](https://www.jumbo.cl/ajo-2-unid/p) → $545
+- Jumbo: [Ajo 2 un.](https://www.jumbo.cl/ajo-2-unid/p) → $545
 
 ## Cilantro `cilantro` · por atado
-**$950 · $950 · $990** (mín · media · máx, 5 precios)
-- Unimarc: [Cilantro 1 un](https://www.unimarc.cl/cilantro-1-un/p) → $990
-- Tottus: [Cilantro](https://www.tottus.cl/tottus-cl/articulo/110623207/cilantro) → $950
+**$790 · $950 · $990** (mín · media · máx, 6 precios)
+- Tottus: [Cilantro](https://www.tottus.cl/tottus-cl/articulo/110623207/cilantro) → $790 (normal $950)
 - Tottus: [Cilantro en Bolsa 120 g](https://www.tottus.cl/tottus-cl/articulo/115809536/cilantro-120-gr) → $950
+- Lider: [Cilantro Bolsa, 120 g](https://super.lider.cl/ip/verduras/00780394600113) → $950
+- Lider: [Cilantro Orgánico, 1 Un](https://super.lider.cl/ip/verduras/00061414332126) → $2.890
 - Jumbo: [Cilantro Paquete 120 g](https://www.jumbo.cl/cilantro-120-g/p) → $950
 - Jumbo: [Cilantro Paquete 120 g](https://www.jumbo.cl/cilantro-120-g/p) → $950
+- Unimarc: [Cilantro 1 un](https://www.unimarc.cl/cilantro-1-un/p) → $990
 
 ## Perejil `perejil` · por atado
-**$550 · $680 · $990** (mín · media · máx, 7 precios)
-- Unimarc: [Perejil atado 120 g](https://www.unimarc.cl/perejil-und/p) → $680
+**$550 · $680 · $990** (mín · media · máx, 9 precios)
 - Tottus: [Perejil](https://www.tottus.cl/tottus-cl/articulo/110622125/perejil) → $650
 - Tottus: [Perejil](https://www.tottus.cl/tottus-cl/articulo/110611758/perejil-tottus-15-g) → $550
+- Lider: [Perejil Bolsa, 120 g](https://super.lider.cl/ip/verduras/00780394600119) → $630
+- Lider: [Perejil Crespo Bolsa, 30 gr](https://super.lider.cl/ip/verduras/00340323253000) → $990
 - Jumbo: [Perejil 1 un.](https://www.jumbo.cl/perejil-bolsa-1-unidad-2/p) → $680
 - Jumbo: [Perejil 1 un.](https://www.jumbo.cl/perejil-bolsa-1-unidad-2/p) → $680
 - Jumbo: [Perejil Crespo Bandeja 30 g](https://www.jumbo.cl/perejil-crespo-30-g/p) → $990
 - Jumbo: [Perejil Crespo Bandeja 30 g](https://www.jumbo.cl/perejil-crespo-30-g/p) → $990
 - Jumbo: [Perejil Badia Spices 85 g](https://www.jumbo.cl/perejil-badia-spic-2061574/p) → $10.290
 - Jumbo: [Perejil Badia Spices 85 g](https://www.jumbo.cl/perejil-badia-spic-2061574/p) → $10.290
+- Unimarc: [Perejil atado 120 g](https://www.unimarc.cl/perejil-und/p) → $680
 
 ## Lechuga `lechuga` · por lechuga
-**$990 · $1.670 · $3.490** (mín · media · máx, 24 precios)
-- Unimarc: [Lechuga costina nacional 1 un](https://www.unimarc.cl/lechuga-costina-nacional-1-un/p) → $1.390
-- Unimarc: [Lechuga Española hidropónica 1 un](https://www.unimarc.cl/lechuga-espanola-1-u/p) → $1.750
-- Unimarc: [Lechuga hidropónica lollo bionda Cuatro Estaciones 1 un](https://www.unimarc.cl/lechuga-hidro-lollo-bionda-cuatro-est-un/p) → $1.790
-- Unimarc: [Lechuga costina Dole 2 un](https://www.unimarc.cl/lechuga-costina-dole-2-und/p) → $2.750
-- Unimarc: [Lechuga costina corazón 3 un](https://www.unimarc.cl/lechuga-costina-corazon-3-u/p) → $3.490
-- Unimarc: [Lechuga roble verde Punto azul 1 un](https://www.unimarc.cl/lechuga-pura-hja-d-roble-vrde-punto-azul/p) → $1.790
-- Unimarc: [Lechuga roble verde Freshcut bandeja 150 g](https://www.unimarc.cl/lechuga-roble-verde-150-gr-valle-c/p) → $2.350
-- Unimarc: [Lechuga Freshcut lollo rosa 150 g](https://www.unimarc.cl/lechuga-lollo-rosa-freshcut-150-gr/p) → $2.190
-- Tottus: [Lechuga Escarola](https://www.tottus.cl/tottus-cl/articulo/110622049/lechuga-escarola-un) → $1.390
-- Tottus: [Lechuga Costina](https://www.tottus.cl/tottus-cl/articulo/110622618/lechuga-costina) → $1.390
+**$990 · $1.590 · $3.490** (mín · media · máx, 32 precios)
+- Tottus: [Lechuga Costina](https://www.tottus.cl/tottus-cl/articulo/110622618/lechuga-costina) → $990 (normal $1.390)
+- Tottus: [Lechuga Escarola](https://www.tottus.cl/tottus-cl/articulo/110622049/lechuga-escarola-un) → $1.090 (normal $1.390)
 - Tottus: [Lechuga Hidropónica Española](https://www.tottus.cl/tottus-cl/articulo/110622302/lechuga-hidrop-espanola-extra) → $1.690
 - Tottus: [Lechuga Hidropónica Llollo Bionda](https://www.tottus.cl/tottus-cl/articulo/110623931/lechuga-hidrop-llollo-bionda-extra) → $1.690
+- Tottus: [Lechuga Roble](https://www.tottus.cl/tottus-cl/articulo/110624137/lechuga-roble-verde-extra) → $1.690
+- Tottus: [Lechuga Francesa](https://www.tottus.cl/tottus-cl/articulo/110622876/lechuga-francesa-un) → $1.390
+- Tottus: [Lechuga Hidropónica Verde](https://www.tottus.cl/tottus-cl/articulo/116161895/lechuga-hidroponica-verde-zona) → $990 (normal $1.650)
+- Tottus: [Lechuga Hidropónica Llollo Rosa](https://www.tottus.cl/tottus-cl/articulo/110622242/lechuga-hidrop-llollo-rosa-extra) → $1.650
+- Lider: [Lechuga Escarola Bolsa, 1 Un](https://super.lider.cl/ip/verduras/00780464080001) → $1.390
+- Lider: [Lechuga Costina Bolsa, 1 Un](https://super.lider.cl/ip/verduras/00780461085020) → $1.390
+- Lider: [Lechuga Española Bolsa, 1 Un](https://super.lider.cl/ip/verduras/00780408600012) → $1.390
+- Lider: [Lechuga Española Hidropónica Bolsa, 1 Un](https://super.lider.cl/ip/verduras/00780461085080) → $1.690
 
 ## Repollo `repollo` · por repollo
-**$890 · $1.790 · $3.190** (mín · media · máx, 11 precios)
-- Unimarc: [Repollo crespo envasado 1 un](https://www.unimarc.cl/repollo-crespo-envasado-1-unidad/p) → $1.790
-- Unimarc: [Repollo liso envasado](https://www.unimarc.cl/repollo-liso-envasado-un/p) → $1.850
-- Tottus: [Repollo Crespo](https://www.tottus.cl/tottus-cl/articulo/110622332/repollo-crespo-cf) → $1.690
+**$890 · $1.770 · $3.190** (mín · media · máx, 17 precios)
+- Tottus: [Repollo Crespo](https://www.tottus.cl/tottus-cl/articulo/110622332/repollo-crespo-cf) → $1.290 (normal $1.690)
 - Tottus: [Repollo Liso Film](https://www.tottus.cl/tottus-cl/articulo/116163242/repollo-liso-film-zona) → $890
 - Tottus: [Repollo Puntiagudo Punto Azul](https://www.tottus.cl/tottus-cl/articulo/146718533/repollo-puntiagudo) → $1.190
+- Lider: [Repollo Puntiagudo, 1 Un](https://super.lider.cl/ip/verduras/00780461085391) → $990
+- Lider: [Repollo Morado, 1 Un](https://super.lider.cl/ip/verduras/00780466889006) → $1.750
+- Lider: [Repollo Crespo, 1 Un](https://super.lider.cl/ip/verduras/00780466889005) → $1.750
+- Lider: [Repollo morado, 300 g](https://super.lider.cl/ip/verduras/00780467694060) → $1.225 (normal $1.790)
+- Jumbo: [Repollo Crespo 1 un.](https://www.jumbo.cl/repollo-crespo-feria-un/p) → $1.770
+- Jumbo: [Repollo Crespo 1 un.](https://www.jumbo.cl/repollo-crespo-feria-un/p) → $1.770
 - Jumbo: [Repollo 1 un.](https://www.jumbo.cl/repollo-unid/p) → $1.770
 - Jumbo: [Repollo 1 un.](https://www.jumbo.cl/repollo-unid/p) → $1.770
 - Jumbo: [Repollo Blanco Dole 300 g](https://www.jumbo.cl/repollo-blanco-dole-bolsa-300-g/p) → $1.990
-- Jumbo: [Repollo Blanco Dole 300 g](https://www.jumbo.cl/repollo-blanco-dole-bolsa-300-g/p) → $1.990
-- Jumbo: [Repollo Blanco Dole 600 g](https://www.jumbo.cl/repollo-blanco-dole-bolsa-600-g/p) → $3.190
-- Jumbo: [Repollo Blanco Dole 600 g](https://www.jumbo.cl/repollo-blanco-dole-bolsa-600-g/p) → $3.190
 
 ## Zanahoria `zanahoria` · por kg
-**$1.190 · $1.440 · $1.490** (mín · media · máx, 6 precios)
-- Unimarc: [Zanahoria bolsa 1 Kg](https://www.unimarc.cl/zanahoria-bolsa-1-kg-2/p) → $1.490
+**$1.190 · $1.450 · $1.490** (mín · media · máx, 7 precios)
 - Tottus: [Zanahoria en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110623577/zanahoria-bolsa-1kg) → $1.390
 - Tottus: [Zanahoria a Granel](https://www.tottus.cl/tottus-cl/articulo/116160232/zanahoria-granel) → $1.190
+- Lider: [Zanahoria Bolsa, 1 Kg](https://super.lider.cl/ip/verduras/00780461085032) → $1.450
 - Jumbo: [Zanahoria Bolsa 1 kg](https://www.jumbo.cl/zanahoria-jumbo-1-kg/p) → $1.490
 - Jumbo: [Zanahoria Bolsa 1 kg](https://www.jumbo.cl/zanahoria-jumbo-1-kg/p) → $1.490
 - Jumbo: [Zanahoria Granel (3 a 4 un. Aprox)](https://www.jumbo.cl/zanahoria-jumbo-granel/p) → $1.190
+- Unimarc: [Zanahoria bolsa 1 Kg](https://www.unimarc.cl/zanahoria-bolsa-1-kg-2/p) → $1.490
 
 ## Apio `apio` · por unidad
-**$990 · $2.740 · $3.290** (mín · media · máx, 16 precios)
-- Unimarc: [Apio mata 1 un](https://www.unimarc.cl/apio-mata-1-u/p) → $1.490
-- Unimarc: [Apio corazón Dole 2 un](https://www.unimarc.cl/apio-corazon-dole-2-un/p) → $3.290
-- Unimarc: [Apio media luna Genial 500 g](https://www.unimarc.cl/apio-media-luna-genial-500-gr/p) → $2.890
-- Unimarc: [Apio juliana Genial 300 g](https://www.unimarc.cl/apio-juliana-genial-300-gr/p) → $2.890
-- Unimarc: [Apio en varas Genial 600 g](https://www.unimarc.cl/apio-varas-apostoles-600-gr/p) → $2.890
-- Tottus: [Apio Mata](https://www.tottus.cl/tottus-cl/articulo/110621705/apio-mata) → $1.390
+**$990 · $2.490 · $3.290** (mín · media · máx, 22 precios)
+- Tottus: [Apio Mata](https://www.tottus.cl/tottus-cl/articulo/110621705/apio-mata) → $1.190 (normal $1.390)
 - Tottus: [Apio Bastón Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/116165519/apio-baston-envasado-200-gr) → $1.090
 - Tottus: [Apio Corte Fresco](https://www.tottus.cl/tottus-cl/articulo/118346664/apio-corte-fresco-estuche) → $990
-- Jumbo: [Apio Mata 1 un.](https://www.jumbo.cl/apio-jumbo-unid/p) → $1.490
-- Jumbo: [Apio Mata 1 un.](https://www.jumbo.cl/apio-jumbo-unid/p) → $1.490
+- Lider: [Apio Mata Bolsa, 1 Un](https://super.lider.cl/ip/verduras/00780461085022) → $1.390
+- Lider: [Apio Bastones Bolsa, 500 g](https://super.lider.cl/ip/verduras/00780461085144) → $1.990
+- Lider: [Apio Zanahoria Bolsa, 300 g](https://super.lider.cl/ip/verduras/00780409700266) → $2.590
+- Lider: [Apio Corazones Bolsa, 1 Un](https://super.lider.cl/ip/verduras/00780461085145) → $2.990
+- Lider: [Apio Media Luna Bolsa, 600 g](https://super.lider.cl/ip/verduras/00780461085326) → $1.533 (normal $2.190)
+- Lider: [Apio juliana bolsa, 300 g](https://super.lider.cl/ip/verduras/00780467694071) → $1.690
 - Jumbo: [Apio Bastón Dole 500 g](https://www.jumbo.cl/apio-baston-dole-500-g/p) → $2.590
 - Jumbo: [Apio Bastón Dole 500 g](https://www.jumbo.cl/apio-baston-dole-500-g/p) → $2.590
+- Jumbo: [Apio Corte Media Luna 500 g](https://www.jumbo.cl/apio-corte-media-luna-genial-500-g/p) → $2.890
 
 ## Pimentón `pimenton` · por kg
 _Referencial_: se mantiene $1.490 · $2.290 · $3.490 (1 precio encontrado)
-- Tottus: [Pimentón Amarillo](https://www.tottus.cl/tottus-cl/articulo/110622236/pimiento-amarillo) → $1.690
+- Tottus: [Pimentón Amarillo](https://www.tottus.cl/tottus-cl/articulo/110622236/pimiento-amarillo) → $1.390 (normal $1.690)
 
 ## Berenjena `berenjena` · por kg
 _Referencial_: se mantiene $1.290 · $1.990 · $2.790 (0 precios encontrados)
@@ -2683,133 +2767,137 @@ _Referencial_: se mantiene $1.290 · $1.890 · $2.690 (1 precio encontrado)
 - Tottus: [Zapallo Italiano Árabe Bandeja Hidro Huerta 240 g](https://www.tottus.cl/tottus-cl/articulo/140882643/zapallo-italiano-arabe-240-grs) → $6.625
 
 ## Champiñones `champinones` · por bandeja
-**$1.310 · $2.360 · $2.490** (mín · media · máx, 17 precios)
-- Unimarc: [Champiñón bandeja 200 g](https://www.unimarc.cl/champinon-bandeja-nacional-200-g/p) → $1.988
-- Unimarc: [Champiñones Laminados Bandeja 200 G.](https://www.unimarc.cl/champinones-laminados-bandeja-200-g/p) → $2.488
-- Unimarc: [Champiñon Portobello 200 Gr](https://www.unimarc.cl/champinon-portobello-200-gr/p) → $2.488
-- Unimarc: [Champiñones Ostra bandeja 200 g.](https://www.unimarc.cl/champi-ones-ostra-bandeja-200-g/p) → $2.438
-- Unimarc: [Champiñón Portobello bandeja 400 g](https://www.unimarc.cl/champinon-portobello-400-gr/p) → $2.494
-- Tottus: [Champiñón Blanco Entero Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/110622684/champinon-blanco-200g) → $1.988
+**$1.060 · $2.360 · $2.750** (mín · media · máx, 24 precios)
+- Tottus: [Champiñón Blanco Entero Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/110622684/champinon-blanco-200g) → $1.488 (normal $1.987)
 - Tottus: [Champiñón Blanco Entero Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/116163945/champinon-laminado-200-grs) → $1.563
-- Tottus: [Champiñón Laminado Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/110623133/champinon-laminado-200-grs) → $2.488
+- Tottus: [Champiñón Laminado Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/110623133/champinon-laminado-200-grs) → $1.488 (normal $2.488)
+- Tottus: [Champiñón Ostra Funghi Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/110622796/champinon-ostra-funghi-200-grs) → $2.313
 - Tottus: [Champiñón Portobello Royal Envasado 400 g](https://www.tottus.cl/tottus-cl/articulo/116166612/champinon-portobello-royal-400g) → $2.494
 - Tottus: [Champiñón Portobello Envasado 200 g](https://www.tottus.cl/tottus-cl/articulo/110622505/champinon-portobello-200g) → $2.363
-- Tottus: [Champiñón Blanco Entero Envasado 400 g](https://www.tottus.cl/tottus-cl/articulo/116160450/champinon-entero-400-grs) → $1.306
-- Jumbo: [Champiñón Bandeja 200 g](https://www.jumbo.cl/champinon-200g/p) → $1.988
+- Lider: [Champiñones Blanco Bandeja, 200 g](https://super.lider.cl/ip/verduras/00780134000014) → $1.238 (normal $1.987)
+- Lider: [Champiñones Blancos Laminados Bandeja, 200 g](https://super.lider.cl/ip/verduras/00780954240020) → $2.488
+- Lider: [Champiñones Portobello Bandeja, 200 g](https://super.lider.cl/ip/verduras/00780954240016) → $2.363
+- Lider: [Champiñones Ostra Bandeja, 200 g](https://super.lider.cl/ip/verduras/00344618003000) → $1.613 (normal $2.238)
+- Lider: [Champiñones Portobello Laminados Bandeja, 200 g](https://super.lider.cl/ip/verduras/00780954240019) → $2.488
+- Lider: [Champiñones Portobello Pote, 400 g](https://super.lider.cl/ip/verduras/00780954240033) → $2.431
 
 ## Choclo `choclo` · por choclo
-**$750 · $1.890 · $3.790** (mín · media · máx, 13 precios)
-- Unimarc: [Choclo bandeja 2 un](https://www.unimarc.cl/choclo-bandeja-2-und/p) → $1.275
-- Unimarc: [Choclo peruano Minuto Verde 400 g](https://www.unimarc.cl/choclo-peruano-minuto-verde-400-gr/p) → $3.790
+**$750 · $1.890 · $3.790** (mín · media · máx, 17 precios)
 - Tottus: [Choclo Peruano](https://www.tottus.cl/tottus-cl/articulo/110624105/choclo-peruano-minuto-verde-400-gr) → $3.750
 - Tottus: [Choclo Dulce Gran Selección Minuto Verde 400 gr](https://www.tottus.cl/tottus-cl/articulo/153794447/choclo-dulce-premium-400-grs) → $1.890 (normal $2.450)
 - Tottus: [Choclo Americano Envasado](https://www.tottus.cl/tottus-cl/articulo/110624855/choclo-americano-env) → $1.345
-- Tottus: [Choclo en Bandeja](https://www.tottus.cl/tottus-cl/articulo/116163480/choclo-bandeja-4-un-zona) → $2.500
 - Tottus: [Choclo Pastelero](https://www.tottus.cl/tottus-cl/articulo/110702349/choclo-pastelero) → $890
+- Tottus: [Choclo en Bandeja](https://www.tottus.cl/tottus-cl/articulo/116163480/choclo-bandeja-4-un-zona) → $2.500
 - Tottus: [Choclo Americano](https://www.tottus.cl/tottus-cl/articulo/116160674/choclo-americano) → $750
 - Tottus: [Choclo Peruano Farema 400 g](https://www.tottus.cl/tottus-cl/articulo/124540239/choclo-peruano-400-g) → $2.290
-- Jumbo: [Choclo Peruano Minuto Verde 400 g](https://www.jumbo.cl/choclo-peruano-minuto-verde-400g/p) → $3.590
-- Jumbo: [Choclo Peruano Minuto Verde 400 g](https://www.jumbo.cl/choclo-peruano-minuto-verde-400g/p) → $3.590
-- Jumbo: [Choclo Wasil 190 g drenado](https://www.jumbo.cl/choclo-wasil-caja-340-g-listo-para-consumir-2/p) → $1.690
+- Lider: [Choclo Dulce Bandeja 4Un, 1 Un](https://super.lider.cl/ip/verduras/00780461085014) → $925
+- Lider: [Choclo Dulce, 400 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780122000591) → $1.890
+- Lider: [Choclo en Trozos, 350 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780130050251) → $2.650
+- Lider: [Choclo Peruano, 400 gr](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780122000459) → $3.390
+- Jumbo: [Choclo Wasil 190 g drenado](https://www.jumbo.cl/choclo-wasil-caja-340-g-listo-para-consumir-2/p) → $1.500
 
 ## Papas `papa` · por kg
-**$1.440 · $1.770 · $4.290** (mín · media · máx, 22 precios)
-- Unimarc: [Papas malla 2 Kg](https://www.unimarc.cl/papas-malla-2-kg/p) → $1.825
-- Unimarc: [Papas granel 500 g](https://www.unimarc.cl/papa-granel-kg/p) → $1.890
-- Unimarc: [Papas pequeñas malla 2 Kg](https://www.unimarc.cl/papas-semillon-malla-2-kg/p) → $1.445
-- Unimarc: [Papas malla 5 Kg](https://www.unimarc.cl/papas-malla-5-kg/p) → $1.578
-- Unimarc: [Papas baby Huerto del Ranco bolsa 1 K](https://www.unimarc.cl/papa-baby-bolsa-1kg/p) → $2.790
-- Unimarc: [Papa soufflé cocida Punto Azul 500 gr](https://www.unimarc.cl/papa-souflle-cocida-punto-azul-500-gr/p) → $3.780
-- Unimarc: [Papas duquesas Como en Casa bolsa 1 Kg](https://www.unimarc.cl/papas-duquesas-como-en-casa-1-kg-2/p) → $4.290
-- Unimarc: [Papas rellenas Frutos del Maipo champiñón cebolla 220 g](https://www.unimarc.cl/papa-rellena-fr-d-maipo-220g-cham-cebol/p) → $17.227
+**$1.000 · $1.940 · $6.440** (mín · media · máx, 30 precios)
 - Tottus: [Papa en Malla 2 Kg](https://www.tottus.cl/tottus-cl/articulo/110624221/papa-malla-2kg) → $1.725
 - Tottus: [Papa a Granel](https://www.tottus.cl/tottus-cl/articulo/116165190/papa-granel) → $1.790
 - Tottus: [Papa en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116162717/papa-malla-1kg) → $1.790
 - Tottus: [Papa Baby Premium 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116163486/papa-baby-1kg-premium) → $2.990
+- Tottus: [Papa OX Malla 1.5 Kg](https://www.tottus.cl/tottus-cl/articulo/116162608/papa-ox) → $2.060
+- Tottus: [Papa Souffle en Malla 2 Kg](https://www.tottus.cl/tottus-cl/articulo/110621679/papa-souffle-malla-2-kg) → $2.690
+- Tottus: [Papa en Malla 5 Kg](https://www.tottus.cl/tottus-cl/articulo/111865790/papa-malla-5-kg) → $1.438
+- Tottus: [Papa en Malla 2 Kg](https://www.tottus.cl/tottus-cl/articulo/116164057/papa-malla-2-kg-zona) → $1.475
+- Lider: [Papa Malla, 2 Kg](https://super.lider.cl/ip/verduras/00780390400001) → $1.625
+- Lider: [Papas mini bolsa, 650 g](https://super.lider.cl/ip/verduras/00780464799038) → $3.308
+- Lider: [Papas Granel](https://super.lider.cl/ip/verduras/00200005000000) → $1.890
+- Lider: [Papa cocida bolsa, 500 g](https://super.lider.cl/ip/verduras/00780461085432) → $3.180
 
 ## Palta `palta` · por kg
-**$2.890 · $4.490 · $6.490** (mín · media · máx, 18 precios)
-- Unimarc: [Palta hass malla 1 Kg](https://www.unimarc.cl/palta-hass-malla-1-kg/p) → $3.290 (normal $4.990)
-- Unimarc: [Palta hass malla 700 g](https://www.unimarc.cl/palta-hass-malla-700-g/p) → $3.414 (normal $5.071)
-- Unimarc: [Palta hass granel 500 g](https://www.unimarc.cl/palta-hass-1-kg-6-u-aprox/p) → $6.490
+**$2.490 · $4.490 · $6.490** (mín · media · máx, 22 precios)
+- Tottus: [Palta Hass en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116166786/palta-hass-malla-1-kg) → $3.990
+- Tottus: [Palta Hass en Malla 700 g](https://www.tottus.cl/tottus-cl/articulo/110622586/palta-hass-malla-700-gr) → $3.129 (normal $4.272)
 - Tottus: [Palta Hass Premium en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116163056/palta-hass-malla-1-kg-organica) → $5.490
 - Tottus: [Palta Hass a Granel](https://www.tottus.cl/tottus-cl/articulo/115877369/palta-hass) → $5.990
-- Tottus: [Palta Hass en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116166786/palta-hass-malla-1-kg) → $3.990
 - Tottus: [Palta Hass Chilena a Granel](https://www.tottus.cl/tottus-cl/articulo/132556339/palta-hass-chilena) → $6.290
-- Tottus: [Palta Hass en Malla 700 g](https://www.tottus.cl/tottus-cl/articulo/110622586/palta-hass-malla-700-gr) → $4.271
-- Tottus: [Palta Edranol en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116160239/palta-edranol-malla-1-kg) → $4.590
 - Tottus: [Palta Fuerte en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/118346315/palta-fuerte-malla-1-kg) → $3.590
 - Tottus: [Palta Edranol a Granel](https://www.tottus.cl/tottus-cl/articulo/157017310/palta-edranol) → $5.988
-- Jumbo: [Palta Hass Extra Chilena (2 un. Aprox)](https://www.jumbo.cl/palta-hass-jumbo-granel/p) → $6.490
+- Tottus: [Palta Edranol en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/116160239/palta-edranol-malla-1-kg) → $4.590
+- Lider: [Palta Hass Chilena Lista](https://super.lider.cl/ip/frutas/00200065000000) → $4.990
+- Lider: [Palta hass granel](https://super.lider.cl/ip/frutas/00203030000000) → $6.290
+- Lider: [Palta Hass Chilena Malla, 1 kg](https://super.lider.cl/ip/frutas/00780953490002) → $4.990
+- Lider: [Palta Hass Malla., 700 g](https://super.lider.cl/ip/frutas/00780953490126) → $4.271 (normal $5.129)
 
 ## Limón `limon` · por kg
-**$1.490 · $2.020 · $4.380** (mín · media · máx, 14 precios)
-- Unimarc: [Limón malla 1 Kg](https://www.unimarc.cl/limon-malla-11-unid-aprox/p) → $1.490 (normal $1.990)
-- Unimarc: [Limón granel 500 g](https://www.unimarc.cl/limon-granel-1-kg/p) → $1.490 (normal $2.150)
-- Unimarc: [Limón sutil 500 g](https://www.unimarc.cl/limon-sutil-500-gr/p) → $4.380
-- Tottus: [Limón en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622417/limon-malla-1-kg) → $1.550
-- Tottus: [Limón a Granel](https://www.tottus.cl/tottus-cl/articulo/116162900/limon-granel) → $1.590
+**$860 · $1.990 · $4.500** (mín · media · máx, 22 precios)
+- Tottus: [Limón en Malla 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622417/limon-malla-1-kg) → $1.050 (normal $1.550)
+- Tottus: [Limón a Granel](https://www.tottus.cl/tottus-cl/articulo/116162900/limon-granel) → $1.090 (normal $1.590)
 - Tottus: [Limón Sutil en Malla 500 g](https://www.tottus.cl/tottus-cl/articulo/110621785/limon-sutil-malla-500-gr) → $3.780
 - Tottus: [Limón Fox en Bolsa Sofruco 1 Kg](https://www.tottus.cl/tottus-cl/articulo/139606964/limon-bolsa-fox-1-kg) → $2.050
 - Tottus: [Limón Sutil a Granel](https://www.tottus.cl/tottus-cl/articulo/116161886/limon-sutil-granel) → $3.690
-- Jumbo: [Limón Malla 1 kg](https://www.jumbo.cl/limon-jumbo-malla-1-kg/p) → $1.590
-- Jumbo: [Limón Malla 1 kg](https://www.jumbo.cl/limon-jumbo-malla-1-kg/p) → $1.590
-- Jumbo: [Limón Sutil Granel](https://www.jumbo.cl/limon-sutil-granel/p) → $3.690
-- Jumbo: [Limón Granel (1 a 2 un. Aprox)](https://www.jumbo.cl/limon-jumbo-granel/p) → $1.990
+- Lider: [Limón Malla, 1 kg](https://super.lider.cl/ip/frutas/00780465943000) → $1.590
+- Lider: [Limón Sutil Malla, 1 kg](https://super.lider.cl/ip/frutas/00780463169005) → $3.650
+- Lider: [Limón Granel](https://super.lider.cl/ip/frutas/00202105000000) → $1.950
+- Lider: [Limón Sin Semillas Malla, 900 g](https://super.lider.cl/ip/frutas/00780460592054) → $2.211
+- Lider: [Limón Malla Sustentable, 1 kg](https://super.lider.cl/ip/frutas/00780466238136) → $1.990
+- Lider: [Limón Malla Imperfecto, 1 kg](https://super.lider.cl/ip/frutas/00040005051008) → $1.290
+- Lider: [Limón Gourmet Malla, 500 g](https://super.lider.cl/ip/frutas/00775914300004) → $4.380
 
 ## Frutillas `frutillas` · por bandeja
-**$2.330 · $4.650 · $6.700** (mín · media · máx, 12 precios)
-- Unimarc: [Frutillas pote 300 g](https://www.unimarc.cl/frutillas-pote-300-gr/p) → $5.317
-- Unimarc: [Frutillas Minuto Verde congeladas 500 g](https://www.unimarc.cl/frutilla-minuto-verde-500-gr/p) → $3.990
+**$1.990 · $4.490 · $7.970** (mín · media · máx, 19 precios)
 - Tottus: [FRUTILLA POTE 300 GRS](https://www.tottus.cl/tottus-cl/articulo/110622474/frutilla-pote-300-grs) → $4.817
-- Tottus: [Frutillas Enteras Wasil](https://www.tottus.cl/tottus-cl/articulo/125797069/frutillas-enteras-wasil-500-gr) → $6.697
 - Tottus: [Frutilla en Trozos Congeladas Tottus 500 g](https://www.tottus.cl/tottus-cl/articulo/126374965/frutilla-trozo-congelada-tottus-500-gr) → $3.390
+- Tottus: [Frutillas Enteras Wasil](https://www.tottus.cl/tottus-cl/articulo/125797069/frutillas-enteras-wasil-500-gr) → $4.911 (normal $6.696)
 - Tottus: [Frutillas Enteras](https://www.tottus.cl/tottus-cl/articulo/110615957/frutillas-enteras-aconcagua-570-gr) → $6.475
-- Jumbo: [Frutilla Pote 300 g](https://www.jumbo.cl/frutilla-hortifrut-pote-300-g-2/p) → $4.983
-- Jumbo: [Frutilla Pote 300 g](https://www.jumbo.cl/frutilla-hortifrut-pote-300-g-2/p) → $4.984
-- Jumbo: [Frutillas Enteras Wasil 500 g](https://www.jumbo.cl/frutillas-enteras-wasil-500-gr-1982475/p) → $2.330
-- Jumbo: [Frutillas Enteras Wasil 500 g](https://www.jumbo.cl/frutillas-enteras-wasil-500-gr-1982475/p) → $2.330
-- Jumbo: [Frutilla 500 g](https://www.jumbo.cl/frutilla-500-gr-hfrut/p) → $4.490
-- Jumbo: [Frutilla 500 g](https://www.jumbo.cl/frutilla-500-gr-hfrut/p) → $4.490
+- Lider: [Frutillas Pote, 300 g](https://super.lider.cl/ip/frutas/00340028479000) → $4.817
+- Lider: [Frutillas Congeladas Enteras, 454 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00007874242977) → $3.403
+- Lider: [Frutillas Congeladas, 500 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780122010003) → $2.767 (normal $3.690)
+- Lider: [Frutillas Congeladas, 450 g](https://super.lider.cl/ip/verduras-y-frutas-congeladas/00780130000019) → $4.100
+- Lider: [Frutillas en Almíbar Tarro, Drenado 200 g - Neto 580 g](https://super.lider.cl/ip/conservas/00780180010211) → $5.725
+- Lider: [Frutillas Enteras, Drenado 168 g - Neto 500 g](https://super.lider.cl/ip/conservas/00780130500556) → $6.518
+- Lider: [Frutillas Enteras, Drenado 160 g - Neto 410 g](https://super.lider.cl/ip/conservas/00780242000716) → $7.969
+- Jumbo: [Frutilla Pote 300 g](https://www.jumbo.cl/frutilla-hortifrut-pote-300-g-2/p) → $3.983
 
 ## Plátano `platano` · por kg
-**$1.450 · $1.590 · $1.990** (mín · media · máx, 5 precios)
-- Unimarc: [Plátano granel 500 g](https://www.unimarc.cl/platano-kg/p) → $1.490
-- Unimarc: [Plátano barraganete granel 500 g](https://www.unimarc.cl/platano-barraganete-kg/p) → $1.990
-- Tottus: [Plátano Extra a Granel](https://www.tottus.cl/tottus-cl/articulo/115828809/platano-extra) → $1.450
+**$990 · $1.700 · $2.490** (mín · media · máx, 8 precios)
+- Tottus: [Plátano Extra a Granel](https://www.tottus.cl/tottus-cl/articulo/115828809/platano-extra) → $1.190 (normal $1.450)
 - Tottus: [Plátano Cake](https://www.tottus.cl/tottus-cl/articulo/117545459/platano-cake-cp-962-gr) → $7.206
-- Jumbo: [Plátano Extra Granel (1 a 2 un. Aprox)](https://www.jumbo.cl/platano-granel/p) → $1.590
+- Lider: [Plátano Granel](https://super.lider.cl/ip/frutas/00200014000000) → $1.450
+- Lider: [Plátano Baby Orito Granel](https://super.lider.cl/ip/frutas/00200040000000) → $2.490
+- Lider: [Plátano Barraganete Granel](https://super.lider.cl/ip/frutas/00200208000000) → $1.950
+- Jumbo: [Plátano Extra Granel (1 a 2 un. Aprox)](https://www.jumbo.cl/platano-granel/p) → $990 (normal $1.590)
 - Jumbo: [Plátano Barraganette Granel](https://www.jumbo.cl/platano-barraganette-jumbo-1-kg-6-unidades-aprox-granel/p) → $1.990
 - Jumbo: [Plátano Liofilizado Atama Rodaja 20 g](https://www.jumbo.cl/platano-liofilizada-rodaja-atama-15gr-2023908/p) → $79.950
 - Jumbo: [Plátano Liofilizado Atama Rodaja 20 g](https://www.jumbo.cl/platano-liofilizada-rodaja-atama-15gr-2023908/p) → $79.950
+- Unimarc: [Plátano granel 500 g](https://www.unimarc.cl/platano-kg/p) → $990 (normal $1.490)
+- Unimarc: [Plátano barraganete granel 500 g](https://www.unimarc.cl/platano-barraganete-kg/p) → $1.990
 
 ## Manzana `manzana` · por kg
-**$1.890 · $2.490 · $2.890** (mín · media · máx, 20 precios)
-- Unimarc: [Manzana verde granel 500 g](https://www.unimarc.cl/manzana-verde-kg/p) → $2.550
-- Unimarc: [Manzana royal gala granel 500 g](https://www.unimarc.cl/manzana-royal-gala-kg-2/p) → $2.550
-- Unimarc: [Manzana pink lady granel 500 g](https://www.unimarc.cl/manzana-pink-lady-kg/p) → $2.550
-- Unimarc: [Manzana Jazz bolsa 1 Kg](https://www.unimarc.cl/manzana-jazz-bolsa-1-kg/p) → $1.990 (normal $2.650)
-- Unimarc: [Manzana fuji granel 500 g](https://www.unimarc.cl/manzana-golden-kg/p) → $2.550
-- Unimarc: [Manzana verde granel 500 g](https://www.unimarc.cl/manzana-verde-granel-1-kg-6-u-aprox/p) → $2.590
-- Unimarc: [Manzana pink lady Guardian 1Kg](https://www.unimarc.cl/manzana-pink-lady-bolsa-1k/p) → $2.450
-- Unimarc: [Manzana fuji granel 500 g](https://www.unimarc.cl/manzana-fuji-granel/p) → $2.590
-- Tottus: [Manzana Fuji en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622456/bolsa-manzana-fuji-1kg) → $1.890
-- Tottus: [Manzana Verde en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622122/manzana-verde-bolsa-1-kg) → $1.890
-- Tottus: [Manzana Roja en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115902922/bolsa-manzana-roja-1-kg) → $1.890
-- Tottus: [Manzana Royal Gala en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622171/manzana-gala-bolsa-1-kg) → $1.890
+**$1.390 · $2.490 · $2.890** (mín · media · máx, 28 precios)
+- Tottus: [Manzana Fuji en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622456/bolsa-manzana-fuji-1kg) → $1.490 (normal $1.890)
+- Tottus: [Manzana Verde en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622122/manzana-verde-bolsa-1-kg) → $1.490 (normal $1.890)
+- Tottus: [Manzana Roja en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/115902922/bolsa-manzana-roja-1-kg) → $1.390 (normal $1.890)
+- Tottus: [Manzana Royal Gala en Bolsa 1 Kg](https://www.tottus.cl/tottus-cl/articulo/110622171/manzana-gala-bolsa-1-kg) → $1.390 (normal $1.890)
+- Tottus: [Manzana Pink Lady a Granel](https://www.tottus.cl/tottus-cl/articulo/116162854/manzana-pink-lady) → $2.490
+- Tottus: [Manzana Fuji Exportación a Granel](https://www.tottus.cl/tottus-cl/articulo/129741095/manzana-fuji-exportacion) → $2.488
+- Tottus: [MANZANA FUJI](https://www.tottus.cl/tottus-cl/articulo/119020281/manzana-fuji) → $2.488
+- Tottus: [MANZANA VERDE](https://www.tottus.cl/tottus-cl/articulo/115917105/manzana-verde) → $2.490
+- Lider: [Manzana Royal Bolsa, 1 kg](https://super.lider.cl/ip/frutas/00346448981000) → $1.890
+- Lider: [Manzana Cosmic Granel](https://super.lider.cl/ip/frutas/00200045000000) → $2.490
+- Lider: [Manzana Fuji Granel.](https://super.lider.cl/ip/frutas/00200274000000) → $2.490
+- Lider: [Manzana Verde Granel.](https://super.lider.cl/ip/frutas/00203010000000) → $2.490
 
 ## Uvas `uvas` · por kg
-**$3.190 · $7.990 · $10.790** (mín · media · máx, 9 precios)
-- Unimarc: [Uva sugraone importada granel 500 g](https://www.unimarc.cl/uva-sugraone-importada-kg/p) → $5.990 (normal $7.990)
+**$3.190 · $7.990 · $10.790** (mín · media · máx, 10 precios)
 - Tottus: [Uva Rosada en Pote 500 g](https://www.tottus.cl/tottus-cl/articulo/111866038/uva-rosada-pote-500-grs) → $8.380
-- Tottus: [Uva Verde a Granel](https://www.tottus.cl/tottus-cl/articulo/116166376/uva-verde) → $7.990
 - Tottus: [Uva Rosada a Granel](https://www.tottus.cl/tottus-cl/articulo/116164897/uva-rosada) → $7.990
+- Tottus: [Uva Verde a Granel](https://www.tottus.cl/tottus-cl/articulo/116166376/uva-verde) → $7.990
 - Tottus: [Uva Verde en Pote 900 g](https://www.tottus.cl/tottus-cl/articulo/120221175/uva-verde-1lb) → $5.767
 - Tottus: [Uva Rosada Candy Hearts en Pote 454 g](https://www.tottus.cl/tottus-cl/articulo/119837399/uva-candy-hearts-pote) → $10.793
 - Tottus: [Uva Bicolor en Pote 1.3 Kg](https://www.tottus.cl/tottus-cl/articulo/116167896/uva-pote-bicolor-1-3) → $3.190
 - Tottus: [Uva Bicolor en Pote 2 Kg](https://www.tottus.cl/tottus-cl/articulo/116165316/uva-bicolor-pote-2-kg) → $795
 - Tottus: [Uva Verde en Pote 500 g](https://www.tottus.cl/tottus-cl/articulo/111865658/uva-verde-pote-500-grs) → $8.380
+- Lider: [Uva Blanca Pote, 900 g](https://super.lider.cl/ip/frutas/00347357193000) → $7.767
 - Jumbo: [Uva Verde Granel](https://www.jumbo.cl/uva-verde/p) → $7.990
+- Unimarc: [Uva sugraone importada granel 500 g](https://www.unimarc.cl/uva-sugraone-importada-kg/p) → $5.990 (normal $7.990)
 
 ## Sandía `sandia` · por sandía
 **$4.990 · $5.490 · $6.790** (mín · media · máx, 2 precios)
@@ -2822,5 +2910,5 @@ _Referencial_: se mantiene $1.290 · $1.890 · $2.690 (1 precio encontrado)
 - Tottus: [Melón Jucar](https://www.tottus.cl/tottus-cl/articulo/128798942/sandia-tigrino) → $2.490
 - Tottus: [Melón Natal](https://www.tottus.cl/tottus-cl/articulo/128798944/melon-canario) → $2.390
 - Tottus: [Melón Calameño](https://www.tottus.cl/tottus-cl/articulo/110622640/melon-calameno-cal6) → $2.990
-- Tottus: [Melón Amarillo](https://www.tottus.cl/tottus-cl/articulo/118260342/sandia-yellow-gold) → $2.990
 - Tottus: [Melón Calameño](https://www.tottus.cl/tottus-cl/articulo/110622513/melon-calameno) → $2.990
+- Tottus: [Melón Amarillo](https://www.tottus.cl/tottus-cl/articulo/118260342/sandia-yellow-gold) → $2.990
